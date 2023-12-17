@@ -25,6 +25,7 @@ class GithubMetaScanner(Scanner):
         temp_dir = tempfile.TemporaryDirectory()
 
         name = args.name
+        desc = args.desc
         url = args.urls[0]
 
         print("github_meta: cloning " + args.name + "...")
@@ -40,7 +41,7 @@ class GithubMetaScanner(Scanner):
         return_code = result.returncode
 
         if return_code == 0:
-            app.append(App(name, [url], type(self)))
+            app.append(App(name, desc, [url], type(self)))
 
         temp_dir.cleanup()
         return app
@@ -55,12 +56,12 @@ class GithubMetaScanner(Scanner):
         full_results = []
         for repo in tqdm(range(0, results.totalCount)):
             try:
-                full_results.append(App(results[repo].name, [results[repo].html_url], type(self)))
+                full_results.append(App(results[repo].name, results[repo].description, [results[repo].html_url], type(self)))
                 time.sleep(0.1)
             except RateLimitExceededException:
                 print("github_meta: rate limit exceeded")
                 time.sleep(60)
-                full_results.append(App(results[repo].name, [results[repo].html_url], type(self)))
+                full_results.append(App(results[repo].name, results[repo].description, [results[repo].html_url], type(self)))
 
         filtered_results = util.filter_known_apps(self.readme_paths, full_results, self.exclude)
 

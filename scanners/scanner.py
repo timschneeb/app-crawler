@@ -2,10 +2,11 @@ from abc import ABC, abstractmethod
 
 
 class App:
-    def __init__(self, name, urls, scannerType):
+    def __init__(self, name, desc, urls, scanner_type):
         self.name = name
+        self.desc = desc
         self.urls = urls
-        self.scanner = scannerType.__name__
+        self.scanner = scanner_type.__name__
 
     def __hash__(self):
         return hash(self.name)

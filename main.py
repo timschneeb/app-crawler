@@ -31,9 +31,9 @@ def write_report(report_path, apps):
 
         for app in apps:
             if len(app.urls) > 0:
-                report += f" * [{app.name}]({app.urls[0]})\n"
+                report += f" * [{app.name}]({app.urls[0]}) - {app.desc}\n"
             else:
-                report += f" * {app.name}\n"
+                report += f" * {app.name} - {app.desc}\n"
 
         f.write(report)
         print(app.scanner + ": " + app.name + " " + str(app.urls))

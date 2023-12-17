@@ -49,7 +49,7 @@ def main():
         print("error: GITHUB_AUTH env variable not set; skipping GitHub scanners")
 
     path = args.targetPath
-    readme_paths = glob.glob(path + '/*.md')
+    readme_paths = glob.glob(path + '/*.md') + glob.glob(path + '/pages/*.md')
     report_path = os.getcwd() + "/SUMMARY.md"
     name_ignore_list_path = os.path.dirname(os.path.realpath(__file__)) + "/ignore_list.lst"
 

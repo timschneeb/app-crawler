@@ -1,0 +1,45 @@
+name: Run scanner
+
+on:
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+  repository_dispatch:
+  schedule:
+    - cron: '0 17 * * *'
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        repository: thepbone/app-crawler
+
+    - uses: actions/checkout@v3
+      with:
+        repository: thepbone/awesome-shizuku
+        path: './list'
+    
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v3
+      with:
+        python-version: "3.9"
+        
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+    
+    - name: Run crawler
+      env: 
+        GITHUB_AUTH: ${{ secrets.GH_PAT }}
+      run: |
+        python main.py ./list
+        cat SUMMARY.md >> $GITHUB_STEP_SUMMARY
+    

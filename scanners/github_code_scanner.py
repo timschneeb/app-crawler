@@ -15,9 +15,9 @@ from git import Repo
 
 
 class GithubCodeScanner(Scanner):
-    def __init__(self, auth_token, readme_path, exclude, process_count=1):
+    def __init__(self, auth_token, readme_paths, exclude, process_count=1):
         self.auth = Github(auth=Auth.Token(auth_token))
-        self.readme_path = readme_path
+        self.readme_paths = readme_paths
         self.exclude = exclude
         self.process_count = process_count
 
@@ -38,4 +38,4 @@ class GithubCodeScanner(Scanner):
                 time.sleep(1)
                 full_results.append(App(results[repo].repository.name, [results[repo].repository.html_url], type(self)))
 
-        return util.filter_known_apps(self.readme_path, full_results, self.exclude)
+        return util.filter_known_apps(self.readme_paths, full_results, self.exclude)

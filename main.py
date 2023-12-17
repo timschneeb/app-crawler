@@ -1,4 +1,5 @@
 import argparse
+import glob
 import os
 import time
 from operator import attrgetter
@@ -9,13 +10,13 @@ from scanners.github_meta_scanner import GithubMetaScanner
 from scanners.github_code_scanner import GithubCodeScanner
 
 
-def scan_apps(readme_path, github_auth):
+def scan_apps(readme_paths, github_auth):
     apps = []
     apps.extend(FDroidScanner("https://f-droid.org/repo/index.xml").find_matching_apps())
     apps.extend(FDroidScanner("https://apt.izzysoft.de/fdroid/repo/index.xml").find_matching_apps())
     if len(github_auth) > 0:
-        apps.extend(GithubCodeScanner(github_auth, readme_path, exclude=apps, process_count=2).find_matching_apps())
-        apps.extend(GithubMetaScanner(github_auth, readme_path, exclude=apps, process_count=2).find_matching_apps())
+        apps.extend(GithubCodeScanner(github_auth, readme_paths, exclude=apps, process_count=2).find_matching_apps())
+        apps.extend(GithubMetaScanner(github_auth, readme_paths, exclude=apps, process_count=2).find_matching_apps())
     return sorted(set(apps), key=attrgetter('name'))
 
 
@@ -37,6 +38,7 @@ def write_report(report_path, apps):
         f.write(report)
         print(app.scanner + ": " + app.name + " " + str(app.urls))
 
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("targetPath")
@@ -47,7 +49,7 @@ def main():
         print("error: GITHUB_AUTH env variable not set; skipping GitHub scanners")
 
     path = args.targetPath
-    readme_path = path + "/README.md"
+    readme_paths = glob.glob(path + '/*.md')
     report_path = os.getcwd() + "/SUMMARY.md"
     name_ignore_list_path = os.path.dirname(os.path.realpath(__file__)) + "/ignore_list.lst"
 
@@ -58,7 +60,7 @@ def main():
     def remove_ignored_entries(a):
         return not (a.name in ignore_list or any(url in ignore_list for url in a.urls))
 
-    apps = util.filter_known_apps(readme_path, scan_apps(readme_path, github_auth))
+    apps = util.filter_known_apps(readme_paths, scan_apps(readme_paths, github_auth))
     apps = filter(remove_ignored_entries, apps)
 
     write_report(report_path, apps)

@@ -21,7 +21,7 @@ def scan_apps(readme_paths, github_auth):
 
 
 def write_report(report_path, apps):
-    with open(report_path, 'w') as f:
+    with (open(report_path, 'w') as f):
         report = ("## Crawl summary\n"
                   "This document tracks all GitHub repos and F-Droid apps that may make use of Shizuku but are not yet "
                   "listed in the awesome-shizuku list.\n"
@@ -31,9 +31,13 @@ def write_report(report_path, apps):
 
         for app in apps:
             if len(app.urls) > 0:
-                report += f" * [{app.name}]({app.urls[0]}) - {app.desc}\n"
+                report += f" * [{app.name}]({app.urls[0]})"
             else:
-                report += f" * {app.name} - {app.desc}\n"
+                report += f" * {app.name}"
+
+            if app.desc is not None:
+                report += f" - {app.desc}"
+            report += "\n"
 
         f.write(report)
         print(app.scanner + ": " + app.name + " " + str(app.urls))

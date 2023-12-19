@@ -3,12 +3,12 @@ name: Run scanner
 on:
   push:
     branches: [ "master" ]
-  repository_dispatch:
+  workflow_dispatch:
   schedule:
     - cron: '0 17 * * *'
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   build:

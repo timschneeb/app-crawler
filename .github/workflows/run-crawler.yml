@@ -3,8 +3,6 @@ name: Run scanner
 on:
   push:
     branches: [ "master" ]
-  pull_request:
-    branches: [ "master" ]
   repository_dispatch:
   schedule:
     - cron: '0 17 * * *'
@@ -42,4 +40,16 @@ jobs:
       run: |
         python main.py ./list
         cat SUMMARY.md >> $GITHUB_STEP_SUMMARY
+
+    - name: Commit summary
+      env: 
+        CI_COMMIT_MESSAGE: Update SUMMARY.md
+        CI_COMMIT_AUTHOR: thepbone
+      run: |
+        git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
+        git config --global user.email "38386967+ThePBone@users.noreply.github.com"
+        git add SUMMARY.md
+        git commit -m "${{ env.CI_COMMIT_MESSAGE }}"
+        git push
     
+        

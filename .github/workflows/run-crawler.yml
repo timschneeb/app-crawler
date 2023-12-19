@@ -41,21 +41,10 @@ jobs:
         python main.py ./list
         cat SUMMARY.md >> $GITHUB_STEP_SUMMARY
 
-    - uses: EndBug/add-and-commit@v9 # You can change this to use a specific version.
+    - name: Publish summary changes
+      uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        # The arguments for the `git add` command (see the paragraph below for more info)
-        # Default: '.'
-        add: 'SUMMARY.md'
-       
-        # Determines the way the action fills missing author name and email. Three options are available:
-        # - github_actor -> UserName <UserName@users.noreply.github.com>
-        # - user_info -> Your Display Name <your-actual@email.com>
-        # - github_actions -> github-actions <email associated with the github logo>
-        # Default: github_actor
-        default_author: github_actor
-    
-        # The message for the commit.
-        # Default: 'Commit from GitHub Actions (name of the workflow)'
-        message: 'Update SUMMARY.md'
+        commit_message: Update SUMMARY.md
+        file_pattern: ./SUMMARY.md
 
         

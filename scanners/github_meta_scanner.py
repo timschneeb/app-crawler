@@ -47,8 +47,8 @@ class GithubMetaScanner(Scanner):
         return app
 
     def find_matching_apps(self):
-        results = self.auth.search_repositories('(shizuku AND NOT RepainterServicePriv) in:readme in:topics in:description' # language:Kotlin language:Java language:Dart '
-                                                , 'stars', 'desc')
+        results = self.auth.search_repositories('(shizuku AND NOT RepainterServicePriv) in:readme in:topics in:description language:Dart '
+                                                'language:Kotlin language:Java', 'stars', 'desc')
 
         # print results
         print(f'github_meta: found {results.totalCount} repos')

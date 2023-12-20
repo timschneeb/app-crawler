@@ -11,11 +11,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [HoleConsoleApp](https://github.com/zmide/HoleConsoleApp) - Hole Console App
  * [ShizuTools](https://github.com/legendsayantan/ShizuTools) - Tools to modify android system via shizuku.
  * [ShizukuActivityManager](https://github.com/kzaemrio/ShizukuActivityManager) - execute forceStopPackage and clearApplicationUserData by Shizuku and AndroidHiddenApiBypass
- * [Taskbar](https://github.com/farmerbb/Taskbar) - Use a start menu to access apps
- * [android_airplane_mode](https://github.com/lalakii/android_airplane_mode) - android switch airplane mode by reflection, need shizuku permission.
  * [cjluFree](https://github.com/zxy19/cjluFree) - [XPOSED]量大自由-疫情防控页面快捷方式自动化程序
- * [freeform_update](https://github.com/eswd04/freeform_update) - eswd custom Mi-freeform update
- * [mufanc.tools.applock](https://github.com/Xposed-Modules-Repo/mufanc.tools.applock) - 【MIUI 12】防止应用被侧滑杀死或一键清理
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [uninstallBlackForUserApps](https://github.com/sbmatch/uninstallBlackForUserApps)
- * [xperia-camera-button](https://github.com/aaronkh/xperia-camera-button)

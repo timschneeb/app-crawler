@@ -55,9 +55,14 @@ def main():
     if github_auth is None or len(github_auth) < 1:
         print("error: GITHUB_AUTH env variable not set; skipping GitHub scanners")
 
+    summary_file = os.getenv("SUMMARY_FILE")
+    if summary_file is None or len(summary_file) < 1:
+        summary_file = "SUMMARY.md"
+
+
     path = args.targetPath
     readme_paths = glob.glob(path + '/*.md') + glob.glob(path + '/pages/*.md')
-    report_path = os.getcwd() + "/SUMMARY.md"
+    report_path = os.getcwd() + "/" + summary_file
     name_ignore_list_path = os.path.dirname(os.path.realpath(__file__)) + "/ignore_list.lst"
 
     ignore_list_file = open(name_ignore_list_path, 'r')

@@ -87,6 +87,8 @@ def main():
 
     apps.extend(cached_apps)
     apps = sorted(set(apps), key=attrgetter('name'))
+    apps = util.filter_known_apps(readme_paths, apps)
+    apps = list(filter(remove_ignored_entries, apps))
 
     write_report(report_path, apps)
 

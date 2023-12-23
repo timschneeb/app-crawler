@@ -1,12 +1,13 @@
 from abc import ABC, abstractmethod
+from typing import List
 
 
 class App:
-    def __init__(self, name, desc, urls, scanner_type):
+    def __init__(self, name: str, desc: str, urls: List[str], scanner: str):
         self.name = name
         self.desc = desc
         self.urls = urls
-        self.scanner = scanner_type.__name__
+        self.scanner = scanner
 
     def __hash__(self):
         return hash(self.name)
@@ -16,6 +17,11 @@ class App:
 
     def __repr__(self):
         return str(self.name)
+
+
+class Apps:
+    def __init__(self, apps: List):
+        self.apps = apps
 
 
 class Scanner(ABC):

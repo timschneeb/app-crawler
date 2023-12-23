@@ -1,23 +1,27 @@
 import argparse
 import glob
+import json
 import os
 import time
 from operator import attrgetter
 
 import util
+from cache import Cache
 from scanners.fdroid_scanner import FDroidScanner
 from scanners.github_meta_scanner import GithubMetaScanner
 from scanners.github_code_scanner import GithubCodeScanner
+from scanners.scanner import Apps, App
 
 
 def scan_apps(readme_paths, github_auth):
     apps = []
     apps.extend(FDroidScanner("https://f-droid.org/repo/index.xml").find_matching_apps())
     apps.extend(FDroidScanner("https://apt.izzysoft.de/fdroid/repo/index.xml").find_matching_apps())
-    if len(github_auth) > 0:
-        apps.extend(GithubCodeScanner(github_auth, readme_paths, exclude=apps, process_count=2).find_matching_apps())
-        apps.extend(GithubMetaScanner(github_auth, readme_paths, exclude=apps, process_count=2).find_matching_apps())
+    #if len(github_auth) > 0:
+        #apps.extend(GithubCodeScanner(github_auth, readme_paths, exclude=apps, process_count=2).find_matching_apps())
+        #apps.extend(GithubMetaScanner(github_auth, readme_paths, exclude=apps, process_count=2).find_matching_apps())
     return sorted(set(apps), key=attrgetter('name'))
+
 
 
 def write_report(report_path, apps):
@@ -59,7 +63,6 @@ def main():
     if summary_file is None or len(summary_file) < 1:
         summary_file = "SUMMARY.md"
 
-
     path = args.targetPath
     readme_paths = glob.glob(path + '/*.md') + glob.glob(path + '/pages/*.md')
     report_path = os.getcwd() + "/" + summary_file
@@ -69,13 +72,22 @@ def main():
     ignore_list = ignore_list_file.read().splitlines(keepends=False)
     ignore_list_file.close()
 
+    cache = Cache(os.getcwd())
+    cached_apps = cache.load_all()
+
     def remove_ignored_entries(a):
         return not (a.name in ignore_list or any(url in ignore_list for url in a.urls))
 
     apps = util.filter_known_apps(readme_paths, scan_apps(readme_paths, github_auth))
-    apps = filter(remove_ignored_entries, apps)
+    apps = list(filter(remove_ignored_entries, apps))
+    cache.save_current_run(apps)
+
+    apps.extend(cached_apps)
+    apps = set(apps)
 
     write_report(report_path, apps)
+
+
 
     # Print to console
     print()

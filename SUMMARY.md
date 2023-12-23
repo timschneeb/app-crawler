@@ -6,5 +6,5 @@ This document tracks all GitHub repos and F-Droid apps that make use of Shizuku 
 
 Typically, these apps will be added to the list as soon as possible; however, unfinished apps are usually left in this document until they reach a usable state.
 
- * [Taskbar](https://github.com/farmerbb/Taskbar) - Use a start menu to access apps
- * [WADBS](https://github.com/Smooth-E/wireless-adb-switch) - Switch Android's Wireless Debugging feature on and off quickly
+ * [ShizukuSamples](https://github.com/LinerSRT/ShizukuSamples)
+ * [TermPlux-App](https://github.com/TermPlux/TermPlux-App) - TermPlux致力于让Termux更加好用、易用，提高移动设备生产力。

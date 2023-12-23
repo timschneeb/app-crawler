@@ -85,16 +85,14 @@ def main():
     apps = util.filter_known_apps(readme_paths, scan_apps(readme_paths, github_auth))
     apps = list(filter(remove_ignored_entries, apps))
     cache.save_current_run(apps)
+    print()
 
     apps.extend(cached_apps)
     apps = set(apps)
 
     write_report(report_path, apps)
 
-
-
     # Print to console
-    print()
     for app in apps:
         print(app.scanner + ": " + app.name + " " + str(app.urls))
     time.sleep(0.5)

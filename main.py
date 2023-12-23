@@ -23,7 +23,6 @@ def scan_apps(readme_paths, github_auth):
     return sorted(set(apps), key=attrgetter('name'))
 
 
-
 def write_report(report_path, apps):
     with (open(report_path, 'w') as f):
         report = ("## Scan results\n"
@@ -47,7 +46,6 @@ def write_report(report_path, apps):
             report += "\n"
 
         f.write(report)
-        print(app.scanner + ": " + app.name + " " + str(app.urls))
 
 
 def main():

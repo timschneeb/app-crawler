@@ -7,7 +7,7 @@ from scanners.scanner import Apps, App
 class Cache:
     def __init__(self, cache_directory):
         self.cache_directory = cache_directory
-        self.cache_parts = 3
+        self.cache_parts = 10
         pass
 
     def load_all(self):

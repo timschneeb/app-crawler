@@ -72,7 +72,11 @@ def main():
     ignore_list = ignore_list_file.read().splitlines(keepends=False)
     ignore_list_file.close()
 
-    cache = Cache(os.getcwd())
+    cache_dir = os.getcwd() + "/cache"
+    if not os.path.exists(cache_dir):
+        os.mkdir(cache_dir)
+
+    cache = Cache(cache_dir)
     cached_apps = cache.load_all()
 
     def remove_ignored_entries(a):

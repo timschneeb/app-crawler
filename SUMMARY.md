@@ -6,38 +6,3 @@ This document tracks all GitHub repos and F-Droid apps that make use of Shizuku 
 
 Typically, these apps will be added to the list as soon as possible; however, unfinished apps are usually left in this document until they reach a usable state.
 
- * [ADBMultiApp](https://github.com/Mobsama/ADBMultiApp) - Realme基于shizuku双开工具
- * [Android-Gyroscope-MC](https://github.com/WuDi-ZhanShen/Android-Gyroscope-MC) - 用陀螺仪玩安卓MC！Play Android MC with your phone's Gyro !
- * [Android-Screener](https://github.com/jiesou/Android-Screener) - A Shizuku/ROOT tool for easily adjusting screen resolution and frame rate
- * [ApkInstaller](https://github.com/Tokyonth/ApkInstaller) - 安卓APK安装软件
- * [AutoJs6](https://github.com/SuperMonster003/AutoJs6) - 安卓平台 JavaScript 自动化工具 (Auto.js 二次开发项目)
- * [AutoTask](https://github.com/xjunz/AutoTask) - An automation assistant app supporting both Shizuku and AccessibilityService.
- * [CokoTools](https://github.com/Yorick-Ryu/CokoTools) - 一个支持vivo/iqoo的小工具箱
- * [Dawn-Desktop-Addons](https://github.com/Dawncraft/Dawn-Desktop-Addons) - Some Android app widgets and live wallpapers. 包括新冠肺炎和一言桌面微件, 勿扰模式锁屏快捷开关, live2d动态壁纸(WIP)
- * [DroidCloudSms](https://github.com/xfl12345/DroidCloudSms) - 这是一个可以拿自己手机做云短信服务器的 Android APP
- * [FxxkMIUIAd](https://github.com/qhy040404/FxxkMIUIAd) - Turn off MIUI ads with minimal cost
- * [HoleConsoleApp](https://github.com/zmide/HoleConsoleApp) - Hole Console App
- * [HyLi-Connect](https://github.com/A-JiuA/HyLi-Connect)
- * [NaiveproxyForAndroid](https://github.com/Dobiec/NaiveproxyForAndroid) - A Simple Application to Run Naiveproxy on Android.
- * [NoJump](https://github.com/Mufanc/NoJump)
- * [OriginPlan](https://github.com/ItosEO/OriginPlan)
- * [PI](https://github.com/SanmerApps/PI) - PackageInstaller
- * [PowerKeyAction](https://github.com/ryuunoakaihitomi/PowerKeyAction)
- * [PrivateDNSAndroid](https://github.com/karasevm/PrivateDNSAndroid) - Quick settings tile to switch active private DNS server
- * [ShizuTools](https://github.com/legendsayantan/ShizuTools) - Tools to modify android system via shizuku.
- * [ShizukuActivityManager](https://github.com/kzaemrio/ShizukuActivityManager) - execute forceStopPackage and clearApplicationUserData by Shizuku and AndroidHiddenApiBypass
- * [ShizukuSamples](https://github.com/LinerSRT/ShizukuSamples)
- * [Taskbar](https://github.com/farmerbb/Taskbar) - Use a start menu to access apps
- * [TermPlux-App](https://github.com/TermPlux/TermPlux-App) - TermPlux致力于让Termux更加好用、易用，提高移动设备生产力。
- * [ThirdpartyPhysicalChannelConfig](https://github.com/takusan23/ThirdpartyPhysicalChannelConfig)
- * [WADBS](https://github.com/Smooth-E/wireless-adb-switch) - Switch Android's Wireless Debugging feature on and off quickly
- * [android_airplane_mode](https://github.com/lalakii/android_airplane_mode) - android switch airplane mode by reflection, need shizuku permission.
- * [cjluFree](https://github.com/zxy19/cjluFree) - [XPOSED]量大自由-疫情防控页面快捷方式自动化程序
- * [fps_switcher](https://github.com/AlphaBoom/fps_switcher) - MIUI切换刷新率快捷开关
- * [freeform_update](https://github.com/eswd04/freeform_update) - eswd custom Mi-freeform update
- * [greentooth](https://github.com/qwerty12/greentooth) - Shizuku-using fork of https://gitlab.com/nbergman/greentooth
- * [majora-adr](https://github.com/yint-tech/majora-adr) - majora android端源码
- * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
- * [uninstallBlackForUserApps](https://github.com/sbmatch/uninstallBlackForUserApps)
- * [wireless-adb-switch](https://github.com/Smooth-E/wireless-adb-switch) - An app that allows you to switch Android's Wireless Debugging feature on and off quickly. It provides several widgets and a quick settings tile to do this.
- * [xperia-camera-button](https://github.com/aaronkh/xperia-camera-button)

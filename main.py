@@ -88,7 +88,7 @@ def main():
     print()
 
     apps.extend(cached_apps)
-    apps = set(apps)
+    apps = sorted(set(apps), key=attrgetter('name'))
 
     write_report(report_path, apps)
 

@@ -62,7 +62,7 @@ def main():
         summary_file = "SUMMARY.md"
 
     path = args.targetPath
-    readme_paths = glob.glob(path + '/*.md') + glob.glob(path + '/pages/*.md')
+    readme_paths = glob.glob(path + '/*.md') + glob.glob(path + '/pages/UNLISTED.md')
     report_path = os.getcwd() + "/" + summary_file
     name_ignore_list_path = os.path.dirname(os.path.realpath(__file__)) + "/ignore_list.lst"
 

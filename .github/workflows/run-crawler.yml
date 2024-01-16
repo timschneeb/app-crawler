@@ -9,11 +9,14 @@ on:
 
 permissions:
   contents: write
-
+  actions: write
+  
 jobs:
   build:
-
     runs-on: ubuntu-latest
+    
+    env:
+      cache-key: crawler-cache
 
     steps:
     - uses: actions/checkout@v3
@@ -33,6 +36,13 @@ jobs:
     - name: Install dependencies
       run: |
         pip install -r requirements.txt
+
+    - name: Restore cache
+      id: cache-restore
+      uses: actions/cache/restore@v3
+      with:
+        path: cache/
+        key: ${{ env.cache-key }}
     
     - name: Run crawler
       env: 
@@ -40,6 +50,21 @@ jobs:
       run: |
         python main.py ./list
         cat SUMMARY.md >> $GITHUB_STEP_SUMMARY
+
+    - name: Delete previous cache
+      if: ${{ steps.cache-restore.outputs.cache-hit }}
+      continue-on-error: true
+      run: |
+          gh extension install actions/gh-actions-cache
+          gh actions-cache delete "${{ env.cache-key }}" --confirm
+      env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Save cache
+      uses: actions/cache/save@v3
+      with:
+        path: cache/
+        key: ${{ env.cache-key }}
 
     - name: Publish summary changes
       uses: stefanzweifel/git-auto-commit-action@v4

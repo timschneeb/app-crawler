@@ -1,13 +1,16 @@
 import argparse
 import glob
+import json
 import os
 import time
 from operator import attrgetter
 
 import util
+from cache import Cache
 from scanners.fdroid_scanner import FDroidScanner
 from scanners.github_meta_scanner import GithubMetaScanner
 from scanners.github_code_scanner import GithubCodeScanner
+from scanners.scanner import Apps, App
 
 
 def scan_apps(readme_paths, github_auth):
@@ -43,7 +46,6 @@ def write_report(report_path, apps):
             report += "\n"
 
         f.write(report)
-        print(app.scanner + ": " + app.name + " " + str(app.urls))
 
 
 def main():
@@ -59,9 +61,8 @@ def main():
     if summary_file is None or len(summary_file) < 1:
         summary_file = "SUMMARY.md"
 
-
     path = args.targetPath
-    readme_paths = glob.glob(path + '/*.md') + glob.glob(path + '/pages/*.md')
+    readme_paths = glob.glob(path + '/*.md') + glob.glob(path + '/pages/UNLISTED.md')
     report_path = os.getcwd() + "/" + summary_file
     name_ignore_list_path = os.path.dirname(os.path.realpath(__file__)) + "/ignore_list.lst"
 
@@ -69,16 +70,29 @@ def main():
     ignore_list = ignore_list_file.read().splitlines(keepends=False)
     ignore_list_file.close()
 
+    cache_dir = os.getcwd() + "/cache"
+    if not os.path.exists(cache_dir):
+        os.mkdir(cache_dir)
+
+    cache = Cache(cache_dir)
+    cached_apps = cache.load_all()
+
     def remove_ignored_entries(a):
         return not (a.name in ignore_list or any(url in ignore_list for url in a.urls))
 
     apps = util.filter_known_apps(readme_paths, scan_apps(readme_paths, github_auth))
-    apps = filter(remove_ignored_entries, apps)
+    apps = list(filter(remove_ignored_entries, apps))
+    cache.save_current_run(apps)
+    print()
+
+    apps.extend(cached_apps)
+    apps = sorted(set(apps), key=attrgetter('name'))
+    apps = util.filter_known_apps(readme_paths, apps)
+    apps = list(filter(remove_ignored_entries, apps))
 
     write_report(report_path, apps)
 
     # Print to console
-    print()
     for app in apps:
         print(app.scanner + ": " + app.name + " " + str(app.urls))
     time.sleep(0.5)

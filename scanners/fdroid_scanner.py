@@ -34,7 +34,7 @@ class FDroidScanner(Scanner):
 
                         apps.append(App(element.getElementsByTagName("name")[0].firstChild.nodeValue,
                                         element.getElementsByTagName("summary")[0].firstChild.nodeValue,
-                                        urls, type(self)))
+                                        urls, type(self).__name__))
                         break
 
         print("fdroid: found " + str(len(apps)) + " apps")

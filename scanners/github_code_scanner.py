@@ -31,11 +31,11 @@ class GithubCodeScanner(Scanner):
         full_results = []
         for repo in tqdm(range(0, results.totalCount)):
             try:
-                full_results.append(App(results[repo].repository.name, results[repo].repository.description, [results[repo].repository.html_url], type(self)))
+                full_results.append(App(results[repo].repository.name, results[repo].repository.description, [results[repo].repository.html_url], type(self).__name__))
                 time.sleep(0.1)
             except RateLimitExceededException:
                 print("github_code: rate limit exceeded")
                 time.sleep(1)
-                full_results.append(App(results[repo].repository.name, results[repo].repository.description, [results[repo].repository.html_url], type(self)))
+                full_results.append(App(results[repo].repository.name, results[repo].repository.description, [results[repo].repository.html_url], type(self).__name__))
 
         return util.filter_known_apps(self.readme_paths, full_results, self.exclude)

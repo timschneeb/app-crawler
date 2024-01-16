@@ -29,7 +29,7 @@ class GithubCodeScanner(Scanner):
         print(f'github_code: found {results.totalCount} repos')
 
         full_results = []
-        for repo in tqdm(range(0, results.totalCount)):
+        for repo in tqdm(range(0, results.totalCount - 1)):
             try:
                 full_results.append(App(results[repo].repository.name, results[repo].repository.description, [results[repo].repository.html_url], type(self).__name__))
                 time.sleep(0.1)

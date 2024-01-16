@@ -6,19 +6,46 @@ This document tracks all GitHub repos and F-Droid apps that make use of Shizuku 
 
 Typically, these apps will be added to the list as soon as possible; however, unfinished apps are usually left in this document until they reach a usable state.
 
- * [ADBMultiApp](https://github.com/Mobsama/ADBMultiApp) - Realme基于shizuku双开工具
- * [AURORA_Store](https://github.com/elonmasai7/AURORA_Store) - Aurora store clone yopu can use it without signing in. It works perfectly well in android 7 to android 12
- * [HyLi-Connect](https://github.com/A-JiuA/HyLi-Connect)
- * [NPatch](https://github.com/vaginessa/NPatch)
- * [NoJump](https://github.com/Mufanc/NoJump)
- * [OriginPlan](https://github.com/ItosEO/OriginPlan)
- * [ShizuTools](https://github.com/legendsayantan/ShizuTools) - Tools to modify android system via shizuku.
- * [ShizukuSamples](https://github.com/LinerSRT/ShizukuSamples)
- * [TachiyomiSY-Fork](https://github.com/Hero-Over/TachiyomiSY-Fork) - just
- * [TermPlux-App](https://github.com/TermPlux/TermPlux-App) - TermPlux致力于让Termux更加好用、易用，提高移动设备生产力。
- * [TouchToolPro](https://github.com/mr-bogey/TouchToolPro)
- * [VendettaManager](https://github.com/vendetta-mod/VendettaManager) - Easily install Vendetta on Android
- * [dualapp-mediastore-compatibility](https://github.com/kaedea/dualapp-mediastore-compatibility) - 安卓双开/分身 MediaStore 兼容性测试。Tuning of Android MediaStore & File IO compatibility issues between HostProfile App and WorkProfile/DualApp/MultiApp.
- * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
- * [potential-octo-system](https://github.com/Asilkan5807/potential-octo-system)
- * [uninstallBlackForUserApps](https://github.com/sbmatch/uninstallBlackForUserApps)
+ * [Amarok](https://github.com/deltazefiro/Amarok-Hider) - Hide your private Files and APPs with a single click.
+ * [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod) - Port of Now Playing from Pixels to other Android devices
+ * [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) - An unofficial FOSS client to Google Play with an elegant design and privacy
+ * [AutoDND](https://github.com/dic1911/android_AutoDND) - A simple tool to toggle DND automatically when using specified apps.
+ * [AutoDark](https://github.com/0ranko0P/AutoDark) - Utility to schedule system dark mode.
+ * [Batt](https://gitlab.com/narektor/batt) - shows battery status information
+ * [Better Internet Tiles](https://github.com/CasperVerswijvelt/Better-Internet-Tiles) - Bring back Wi-Fi and mobile data tiles on Android 12 or higher
+ * [Canta](https://github.com/samolego/Canta) - Uninstall any app without root!
+ * [Cosmic IDE](https://github.com/Cosmic-Ide/Cosmic-IDE) - A full fledged Java and Kotlin IDE for Android devices.
+ * [DSU Sideloader](https://github.com/VegaBobo/DSU-Sideloader) - Easily install GSIs using Android's DSU feature
+ * [DarQ](https://github.com/KieronQuinn/DarQ) - Per-app selectable force dark option for Android 10+
+ * [Droid-ify](https://github.com/Droid-ify/client) - Material-ify with Droid-ify.
+ * [FFUpdater](https://github.com/Tobi823/ffupdater) - Updater for privacy friendly browsers
+ * [FreezeYou!](https://github.com/FreezeYou/FreezeYou) - Light weight app freezer without ROOT
+ * [Hail](https://github.com/aistra0528/Hail) - Freeze Android apps
+ * [Insular](https://gitlab.com/secure-system/Insular) - Isolate your Big Brother apps
+ * [Inure App Manager (Trial)](https://github.com/Hamza417/Inure) - An elegant multi-purpose app manager for all rooted and non-rooted devices.
+ * [IzzyOnDroid](https://gitlab.com/sunilpaulmathew/izzyondroid) - An unofficial client for IzzyOnDroid F-Droid Repository!
+ * [Key Mapper](https://github.com/keymapperorg/KeyMapper) - Unleash your keys! Open source!
+ * [LSPatch](https://github.com/LSPosed/LSPatch) - a non-root Xposed framework extending from LSPosed
+ * [Language Selector](https://github.com/VegaBobo/Language-Selector) - select individual app languages
+ * [Lemmy Redirect](https://github.com/zacharee/MastodonRedirect) - Deep linking proxy for Lemmy, to launch your selected client automatically
+ * [LibChecker](https://github.com/LibChecker/LibChecker) - View the third-party libraries used by applications
+ * [LogFox](https://github.com/F0x1d/LogFox) - Yet another LogCat reader for Android
+ * [Mastodon Redirect](https://github.com/zacharee/MastodonRedirect) - Deep linking proxy for Mastodon, to launch your selected client automatically
+ * [Obtainium](https://github.com/ImranR98/Obtainium) - Get Android App Updates Directly From the Source.
+ * [PI](https://github.com/SanmerApps/PI) - a package installer
+ * [Package Manager](https://github.com/SmartPack/PackageManager) - A powerful application to manage your apps!
+ * [PeerTube Redirect](https://github.com/zacharee/MastodonRedirect) - Deep linking proxy for PeerTube, to launch your selected client automatically
+ * [PhoneProfilesPlus](https://github.com/henrichg/PhoneProfilesPlus) - Automatically configure the device for life situations.
+ * [RootlessJamesDSP](https://github.com/ThePBone/RootlessJamesDSP) - System-wide JamesDSP implementation for non-rooted devices
+ * [SAI](https://github.com/Aefyr/SAI) - SAI lets you install and export split APKs
+ * [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) - A trusted assistant for your Android, to keep it clean and tidy.
+ * [SecondScreen](https://github.com/farmerbb/SecondScreen) - Better screen mirroring
+ * [SkyDroid](https://github.com/redsolver/skydroid) - a decentralized domain-based App Store
+ * [SystemUI Tuner](https://github.com/zacharee/Tweaker) - view and modify hidden settings on Android devices
+ * [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Manga reader
+ * [Tap, Tap](https://github.com/KieronQuinn/TapTap) - double tap on back of device
+ * [Taskbar](https://github.com/farmerbb/Taskbar) - Use a start menu to access apps
+ * [UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll) - Check updates for Android apps, Magisk modules and more!
+ * [WADBS](https://github.com/Smooth-E/wireless-adb-switch) - Switch Android's Wireless Debugging feature on and off quickly
+ * [aShell](https://gitlab.com/sunilpaulmathew/ashell) - aShell: A local ADB shell for Shizuku powered android devices
+ * [blocker](https://github.com/lihenggui/blocker) - A component controller for Android applications

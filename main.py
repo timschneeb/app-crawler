@@ -14,7 +14,7 @@ def scan_apps(readme_paths, github_auth):
     apps = []
     apps.extend(FDroidScanner("https://f-droid.org/repo/index.xml").find_matching_apps())
     apps.extend(FDroidScanner("https://apt.izzysoft.de/fdroid/repo/index.xml").find_matching_apps())
-    if len(github_auth) > 0:
+    if github_auth is not None and len(github_auth) > 0:
         apps.extend(GithubCodeScanner(github_auth, readme_paths, exclude=apps, process_count=2).find_matching_apps())
         apps.extend(GithubMetaScanner(github_auth, readme_paths, exclude=apps, process_count=2).find_matching_apps())
     return sorted(set(apps), key=attrgetter('name'))

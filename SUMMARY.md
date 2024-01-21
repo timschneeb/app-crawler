@@ -8,6 +8,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
 
  * [ADBMultiApp](https://github.com/Mobsama/ADBMultiApp) - Realme基于shizuku双开工具
  * [AuroraStore4](https://github.com/Kobold831/AuroraStore4)
+ * [CPadCustomizeTool](https://github.com/Kobold831/CPadCustomizeTool)
  * [HyLi-Connect](https://github.com/Lyxot/HyLi-Connect)
  * [InstallWithOptions](https://github.com/zacharee/InstallWithOptions) - Simple-ish app using Shizuku to install APKs on-device with advanced options
  * [NoJump](https://github.com/Mufanc/NoJump)
@@ -19,6 +20,8 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [TouchToolPro](https://github.com/mr-bogey/TouchToolPro)
  * [VendettaManager](https://github.com/vendetta-mod/VendettaManager) - Easily install Vendetta on Android
  * [dualapp-mediastore-compatibility](https://github.com/kaedea/dualapp-mediastore-compatibility) - 安卓双开/分身 MediaStore 兼容性测试。Tuning of Android MediaStore & File IO compatibility issues between HostProfile App and WorkProfile/DualApp/MultiApp.
+ * [ecosed_kit](https://github.com/libecosed/ecosed_kit) - EcosedKit
+ * [get_event](https://github.com/lalakii/get_event) - read /dev/input/event*
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
  * [uninstallBlackForUserApps](https://github.com/sbmatch/uninstallBlackForUserApps)

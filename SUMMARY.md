@@ -7,6 +7,7 @@ This document tracks all GitHub repos and F-Droid apps that make use of Shizuku 
 Typically, these apps will be added to the list as soon as possible; however, unfinished apps are usually left in this document until they reach a usable state.
 
  * [ADBMultiApp](https://github.com/Mobsama/ADBMultiApp) - Realme基于shizuku双开工具
+ * [Android-Show-Taps](https://github.com/k3x1n/Android-Show-Taps) - Show customized taps upon touches. Shizuku required.
  * [Aurora-Store](https://github.com/Katya-Incorporated/Aurora-Store) - About Aurora Store 📺 focused on security, minimalism and usability. Our app store is currently being used to distribute our own apps and the Google Play mirror for isolated download functionality of all apps that are available on the Google Play Market. In the future, it will be used for the possible distribution of builds of Katya ® 👽 Mobile OS.
  * [CPadCustomizeTool](https://github.com/Kobold831/CPadCustomizeTool)
  * [HyLi-Connect](https://github.com/Lyxot/HyLi-Connect)
@@ -20,7 +21,9 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [TermPlux-App](https://github.com/TermPlux/TermPlux-App) - TermPlux致力于让Termux更加好用、易用，提高移动设备生产力。
  * [TouchToolPro](https://github.com/mr-bogey/TouchToolPro)
  * [Voyage](https://github.com/MiChongs/Voyage)
- * [flutter_ecosed](https://github.com/libecosed/flutter_ecosed) - A relatively abstract Flutter Plugin
+ * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
+ * [aShellYou](https://github.com/DP-Hridayan/aShellYou) - Material You Redesign of aShell app.
+ * [flutter_ecosed](https://github.com/libecosed/flutter_ecosed) - FlutterEcosed is a Flutter plugin and an advanced Flutter development framework that provides Android platform debugging, plugin development and dashboard functions.
  * [lspatch_android](https://github.com/Prasads13/lspatch_android)
  * [mfmh](https://github.com/sanwan1314/mfmh) - gh repo clone tachiyomiorg/tachiyomi
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.

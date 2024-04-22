@@ -19,8 +19,10 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [DiscordModManager](https://github.com/SelfMadeSystem/DiscordModManager) - Easily install discord mods on Android
  * [DyImage](https://github.com/huaweikai/DyImage) - 用于扫描抖音的沙盒目录，读取表情包信息，并用在其他app
  * [FunLogCatcher](https://github.com/Hicores/FunLogCatcher) - Logcat日志记录工具,需要shizuku
+ * [Hs](https://github.com/keluokeda/Hs)
  * [HyLi-Connect](https://github.com/Lyxot/HyLi-Connect)
  * [Kapy2003-aniyomi-fork](https://github.com/Kapy2003/Kapy2003-aniyomi-fork)
+ * [LSPatch-mod](https://github.com/huajiworld/LSPatch-mod) - LSPatchMod
  * [MultiLocale](https://github.com/Nightdavisao/MultiLocale) - A simple app that allows you to select multiple languages in your Android device, if the OEM (ahem Xiaomi) doesn't let you.
  * [NoJump](https://github.com/Mufanc/NoJump)
  * [OriginPlan](https://github.com/ItosEO/OriginPlan)
@@ -31,7 +33,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [SmartspacerPlugins](https://github.com/KieronQuinn/SmartspacerPlugins) - A collection of plugins for Smartspacer
  * [SuperToolBox](https://github.com/dudu-Dev0/SuperToolBox)
  * [TachiyomiS](https://github.com/Hero-Over/TachiyomiS)
- * [TouchToolPro](https://github.com/mr-bogey/TouchToolPro)
  * [Voyage](https://github.com/MiChongs/Voyage)
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [XPlanForHyper](https://github.com/ItosEO/XPlanForHyper)

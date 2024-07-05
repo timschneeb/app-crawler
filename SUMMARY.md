@@ -29,6 +29,8 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [ServiceManagerCompat](https://github.com/SanmerApps/ServiceManagerCompat)
  * [ShizukuSamples](https://github.com/LinerSRT/ShizukuSamples)
  * [SuperToolBox](https://github.com/dudu-Dev0/SuperToolBox)
+ * [VendettaManager](https://github.com/vendetta-mod/VendettaManager) - Easily install Vendetta on Android
+ * [Voyage](https://github.com/rgsngdha/Voyage)
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [XPlanForHyper](https://github.com/ItosEO/XPlanForHyper)
  * [bili-down-out](https://github.com/10miaomiao/bili-down-out) - 哔哩哔哩缓存导出工具
@@ -40,6 +42,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [paskoocheh-android](https://github.com/ASL-19/paskoocheh-android)
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
  * [shizuku-example](https://github.com/aquilesTrindade/shizuku-example)
- * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3
+ * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]
  * [tachiyomiJ2K](https://github.com/cuong-tran/tachiyomiJ2K)
  * [uninstallBlackForUserApps](https://github.com/sbmatch/uninstallBlackForUserApps)

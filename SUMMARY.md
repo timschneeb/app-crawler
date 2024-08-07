@@ -8,7 +8,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
 
  * [ADBMultiApp](https://github.com/Mobsama/ADBMultiApp) - Realme基于shizuku双开工具
  * [AIDE-Plus](https://github.com/ZeroAicy/AIDE-Plus) - AIDE+
- * [AdbShellUtils](https://github.com/xxinPro/AdbShellUtils) - Shizuku开发演示项目，通过Shizuku使app拥有shell权限
+ * [AdbShellUtils](https://github.com/xxinPro/AdbShellUtils) - Shizuku开发演示项目，通过Shizuku使app执行shell命令
  * [Always On Display Toggle](https://github.com/Alberto97/AlwaysOnDisplayToggle) - Toggle Always on Display from the quick settings panel
  * [AlwaysOnDisplayToggle](https://github.com/Alberto97/AlwaysOnDisplayToggle) - An Android quick setting to toggle Always on Display
  * [Android-FileExplorerDemo](https://github.com/MagicianGuo/Android-FileExplorerDemo) - 能够访问Android/data(obb)目录，已适配Android 5.0 ~ 14。安卓高版本可以使用Shizuku授权。

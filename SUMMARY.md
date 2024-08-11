@@ -37,6 +37,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [SagerNet](https://github.com/maskedeken/SagerNet)
  * [ServiceManagerCompat](https://github.com/SanmerApps/ServiceManagerCompat) - ServiceManager (LibSu/Shizuku)
  * [ShizukuSamples](https://github.com/LinerSRT/ShizukuSamples)
+ * [SimpleVirtualDisplay](https://github.com/kangrio/SimpleVirtualDisplay) - open any apps in virtual display require shizuku
  * [SuperToolBox](https://github.com/dudu-Dev0/SuperToolBox)
  * [Voyage](https://github.com/rgsngdha/Voyage)
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案

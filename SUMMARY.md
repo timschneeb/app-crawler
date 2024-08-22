@@ -28,6 +28,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [Hostman](https://github.com/LinZong/Hostman) - A simple Android app that can preview/edit /etc/hosts file in a GUI manner. Shizuku required.
  * [Hs](https://github.com/keluokeda/Hs)
  * [HyLi-Connect](https://github.com/Lyxot/HyLi-Connect)
+ * [LSPatch2](https://github.com/TeamConceptKR/LSPatch2)
  * [LogPounce](https://github.com/KaranveerB/LogPounce)
  * [MahjongClubBooster](https://github.com/OlegPV2/MahjongClubBooster) - One button only
  * [Manager](https://github.com/Felocord/Manager)

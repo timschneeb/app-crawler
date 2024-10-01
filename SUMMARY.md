@@ -8,7 +8,6 @@ Please note that many of these apps are often incomplete or sometimes even false
 
 Typically, these apps will be added to the list as soon as possible; however, unfinished apps are usually left in this document until they reach a usable state.
 
- * [ADBMultiApp](https://github.com/Mobsama/ADBMultiApp) - Realme基于shizuku双开工具
  * [AIDE-Plus](https://github.com/AndroidIDE-CN/AIDE-Plus) - AIDE+版本源码
  * [AIDEPlus](https://github.com/AndroidIDE-CN/AIDEPlus) - AIDE+版本源码
  * [Android-SettingTools](https://github.com/MagicianGuo/Android-SettingTools) - 通过Shizuku授权，实现修改部分系统设置项。

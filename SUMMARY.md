@@ -4,6 +4,8 @@
 
 This document tracks all GitHub repos and F-Droid apps that make use of Shizuku in some way but are not yet listed in the awesome-shizuku list.
 
+Please note that many of these apps are often incomplete or sometimes even false positives.
+
 Typically, these apps will be added to the list as soon as possible; however, unfinished apps are usually left in this document until they reach a usable state.
 
  * [ADBMultiApp](https://github.com/Mobsama/ADBMultiApp) - Realme基于shizuku双开工具

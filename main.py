@@ -32,6 +32,8 @@ def write_report(report_path, apps):
                   "This document tracks all GitHub repos and F-Droid apps that make use of Shizuku in some way but are not yet "
                   "listed in the awesome-shizuku list.\n"
                   "\n"
+                  "Please note that many of these apps are often incomplete or sometimes even false positives.\n"
+                  "\n"
                   "Typically, these apps will be added to the list as soon as possible; however, unfinished apps are usually left in this document until they reach a usable state.\n"
                   "\n")
 

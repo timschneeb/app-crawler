@@ -9,7 +9,7 @@ Please note that many of these apps are often incomplete or sometimes even false
 Typically, these apps will be added to the list as soon as possible; however, unfinished apps are usually left in this document until they reach a usable state.
 
  * [AIDE-Plus-Private](https://github.com/ZeroAicy/AIDE-Plus-Private) - AIDE+个人备份仓库
- * [AIDEPlus](https://github.com/AndroidIDE-CN/AIDEPlus) - AIDE+版本源码
+ * [Amazon_spinner](https://github.com/alexandrampolta/Amazon_spinner) - An Android app that can change your IP (using shizuku ADB ) and visit sponsored products on Amazon.es.
  * [GameBot](https://github.com/tkkcc/GameBot)
  * [MahjongClubBooster](https://github.com/OlegPV2/MahjongClubBooster) - One button only
  * [MyAOD](https://github.com/Uvneshkumar/MyAOD) - A mimic of AOSP AOD

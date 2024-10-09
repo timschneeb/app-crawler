@@ -11,6 +11,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [AIDE-Plus-Private](https://github.com/ZeroAicy/AIDE-Plus-Private) - AIDE+个人备份仓库
  * [Amazon_spinner](https://github.com/alexandrampolta/Amazon_spinner) - An Android app that can change your IP (using shizuku ADB ) and visit sponsored products on Amazon.es.
  * [GameBot](https://github.com/tkkcc/GameBot)
+ * [GrooveLauncher](https://github.com/groovelauncher/GrooveLauncher) - A groovy personalized home screen experience for Android
  * [MahjongClubBooster](https://github.com/OlegPV2/MahjongClubBooster) - One button only
  * [MyAOD](https://github.com/Uvneshkumar/MyAOD) - A mimic of AOSP AOD
  * [Nh](https://github.com/Huffmybird/Nh)

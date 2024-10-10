@@ -17,6 +17,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [Nh](https://github.com/Huffmybird/Nh)
  * [OriginPlan](https://github.com/ItosEO/OriginPlan)
  * [ProberAssistant](https://github.com/ZhuRuoLing/ProberAssistant)
+ * [RotaenoUploader](https://github.com/milkycandy/RotaenoUploader) - Rotaeno存档上传器
  * [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Simple module to change country for tiktok to Belarus(for russian)
  * [TaskManager](https://github.com/java30433/TaskManager) - A simple Task Manager for some special Android devices like WearOS 2.
  * [Tiny-Installer](https://github.com/trindadedev13/Tiny-Installer) - A Package Installer with MD3 UI.

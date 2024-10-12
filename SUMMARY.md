@@ -18,13 +18,15 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [OriginPlan](https://github.com/ItosEO/OriginPlan)
  * [ProberAssistant](https://github.com/ZhuRuoLing/ProberAssistant)
  * [RotaenoUploader](https://github.com/milkycandy/RotaenoUploader) - Rotaeno存档上传器
+ * [SBatteryTweaks](https://github.com/pascua28/SBatteryTweaks) - A simple app to enable or disable fast charging mode on Samsung device when battery temperature reaches a certain point
  * [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Simple module to change country for tiktok to Belarus(for russian)
  * [TaskManager](https://github.com/java30433/TaskManager) - A simple Task Manager for some special Android devices like WearOS 2.
  * [Tiny-Installer](https://github.com/trindadedev13/Tiny-Installer) - A Package Installer with MD3 UI.
  * [VRPquest](https://github.com/metalex201/VRPquest) - A quest standalone version of the VRP Rookie sideloader.  !WIP!
  * [VivoTools](https://github.com/ItosEO/VivoTools) - 蓝厂工具盒,用于降级GW和电源信息
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
- * [com.klqmz.test](https://github.com/kuaileqimingzi/com.klqmz.test) - 安卓开发测试
+ * [com.klqmz.test](https://github.com/lovelmxa/com.klqmz.test) - 安卓开发测试
+ * [mewtachibackup](https://github.com/bigbabyboost/mewtachibackup)
  * [my-scrcpy](https://github.com/5ec1cff/my-scrcpy) - scrcpy app (based on 1.18)
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices

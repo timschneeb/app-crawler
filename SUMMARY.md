@@ -25,9 +25,11 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Simple module to change country for tiktok to Belarus(for russian)
  * [StarryStore](https://github.com/lingyicute/StarryStore) - The official store for lingyicute's FOSS Apps.
  * [SysProxy](https://github.com/Kr328/SysProxy) - A tiny app to set system proxy on Android. (Root required)
+ * [Tarnhelm](https://github.com/lz233/Tarnhelm) - The magic to clean sharing links up.
  * [TaskManager](https://github.com/java30433/TaskManager) - A simple Task Manager for some special Android devices like WearOS 2.
  * [Tiny-Installer](https://github.com/scto/Tiny-Installer) - A Package Installer with MD3 UI.
  * [VeryDark](https://github.com/wkbin/VeryDark) - 极暗模式
+ * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [XSamsung](https://github.com/ItosEO/XSamsung) - X计划 for 三星
  * [android-settings-scheduler](https://github.com/Turtlepaw/android-settings-scheduler) - Schedule any settings that are in the Android Settings app to be changed
  * [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust

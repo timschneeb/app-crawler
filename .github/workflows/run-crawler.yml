@@ -4,6 +4,7 @@ on:
   push:
     branches: [ "master" ]
   workflow_dispatch:
+    types: [trigger-workflow]
   schedule:
     - cron: '0 17 * * *'
 

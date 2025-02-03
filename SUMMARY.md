@@ -21,10 +21,8 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [ManageSensors](https://github.com/Carry-rrk/ManageSensors) - use appops and shizuku manage sensor
  * [Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
  * [RotaenoUploader](https://github.com/milkycandy/RotaenoUploader) - Rotaeno存档上传器
- * [Shizuku-Plugin](https://github.com/santhosh-D-subramani/Shizuku-Plugin) - A flutter Plugin that gives access to shizuku api
  * [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Simple module to change country for tiktok to Belarus(for russian)
  * [SysProxy](https://github.com/Kr328/SysProxy) - A tiny app to set system proxy on Android. (Root required)
- * [Tarnhelm](https://github.com/lz233/Tarnhelm) - The magic to clean sharing links up
  * [TaskManager](https://github.com/java30433/TaskManager) - A simple Task Manager for some special Android devices like WearOS 2.
  * [Tiny-Installer](https://github.com/scto/Tiny-Installer) - A Package Installer with MD3 UI.
  * [VRPquest](https://github.com/metalex201/VRPquest) - A quest standalone version of the VRP Rookie sideloader.  !WIP!

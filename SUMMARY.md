@@ -15,6 +15,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [CBJQ_HugFenny](https://github.com/LiuJiewenTT/CBJQ_HugFenny)
  * [ControllerMapper](https://github.com/anhquan7826/ControllerMapper)
  * [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新
+ * [DroneHub](https://github.com/alexis-/DroneHub)
  * [Genshin-Lyre-midi-player-server](https://github.com/byzp/Genshin-Lyre-midi-player-server)
  * [IgniteX.Cheats](https://github.com/dev-swarup/IgniteX.Cheats)
  * [MahjongClubBooster](https://github.com/OlegPV2/MahjongClubBooster) - One button only

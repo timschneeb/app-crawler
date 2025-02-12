@@ -36,7 +36,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
  * [noname-shijian-android](https://github.com/nonameShijian/noname-shijian-android) - 无名杀安卓诗笺版仓库
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
- * [phi_attacker](https://github.com/Shua-github/phi_attacker) - phigros的神奇项目
+ * [phi_attacker](https://github.com/Shua-github/phi_attacker) - Phigros的神奇项目
  * [reactmap-android](https://github.com/Mygod/reactmap-android) - Android WebView app for ReactMap with added goodies
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
  * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]

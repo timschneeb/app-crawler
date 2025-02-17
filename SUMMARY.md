@@ -34,7 +34,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [XSamsung](https://github.com/ItosEO/XSamsung) - X计划 for 三星
  * [android-settings-scheduler](https://github.com/Turtlepaw/android-settings-scheduler) - Schedule any settings that are in the Android Settings app to be changed
- * [app-store](https://github.com/awfixer-org/app-store)
+ * [app-store](https://github.com/awfixer-industries/app-store)
  * [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
  * [majora-adr](https://github.com/printf172/majora-adr) - majora android端源码
  * [noname-shijian-android](https://github.com/nonameShijian/noname-shijian-android) - 无名杀安卓诗笺版仓库

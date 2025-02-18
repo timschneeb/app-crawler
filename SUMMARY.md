@@ -17,6 +17,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新
  * [DroneHub](https://github.com/alexis-/DroneHub)
  * [Genshin-Lyre-midi-player-server](https://github.com/byzp/Genshin-Lyre-midi-player-server)
+ * [Grayscaler](https://github.com/C10udburst/Grayscaler) - Keep your phone mostly monochrome, but allow apps like camera to be in color.
  * [IgniteX.Cheats](https://github.com/dev-swarup/IgniteX.Cheats)
  * [MahjongClubBooster](https://github.com/OlegPV2/MahjongClubBooster) - One button only
  * [ManageSensors](https://github.com/Carry-rrk/ManageSensors) - use appops and shizuku manage sensor
@@ -32,6 +33,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [VeryDark](https://github.com/wkbin/VeryDark) - 极暗模式
  * [VivoTools](https://github.com/ItosEO/VivoTools) - 蓝厂工具盒,用于降级GW和电源信息
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
+ * [Widget](https://github.com/preethamkmr3/Widget)
  * [XSamsung](https://github.com/ItosEO/XSamsung) - X计划 for 三星
  * [android-settings-scheduler](https://github.com/Turtlepaw/android-settings-scheduler) - Schedule any settings that are in the Android Settings app to be changed
  * [app-store](https://github.com/awfixer-industries/app-store)

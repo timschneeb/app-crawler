@@ -21,17 +21,17 @@ jobs:
       cache-key: crawler-cache
 
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
       with:
         repository: thepbone/app-crawler
 
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
       with:
         repository: thepbone/awesome-shizuku
         path: './list'
     
     - name: Set up Python 3.12
-      uses: actions/setup-python@v3
+      uses: actions/setup-python@v5
       with:
         python-version: "3.12"
         
@@ -41,7 +41,7 @@ jobs:
 
     - name: Restore cache
       id: cache-restore
-      uses: actions/cache/restore@v3
+      uses: actions/cache/restore@v4
       with:
         path: cache/
         key: ${{ env.cache-key }}
@@ -63,13 +63,13 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Save cache
-      uses: actions/cache/save@v3
+      uses: actions/cache/save@v4
       with:
         path: cache/
         key: ${{ env.cache-key }}
 
     - name: Publish summary changes
-      uses: stefanzweifel/git-auto-commit-action@v4
+      uses: stefanzweifel/git-auto-commit-action@v5
       with:
         commit_message: Update SUMMARY.md
         file_pattern: ./SUMMARY.md

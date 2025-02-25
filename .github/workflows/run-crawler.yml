@@ -73,5 +73,6 @@ jobs:
       with:
         commit_message: Update SUMMARY.md
         file_pattern: ./SUMMARY.md
+        commit_author: "Tim Schneeberger <38386967+timschneeb@users.noreply.github.com>"
 
         

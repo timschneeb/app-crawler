@@ -21,11 +21,11 @@ jobs:
       cache-key: crawler-cache
 
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
       with:
         repository: thepbone/app-crawler
 
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
       with:
         repository: thepbone/awesome-shizuku
         path: './list'

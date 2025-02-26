@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     
     env:
-      cache-key: crawler-cache
+      cache-key: crawler-cache-new
 
     steps:
     - uses: actions/checkout@v4

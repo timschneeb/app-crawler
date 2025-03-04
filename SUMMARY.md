@@ -33,6 +33,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [VeryDark](https://github.com/wkbin/VeryDark) - 极暗模式
  * [VivoTools](https://github.com/ItosEO/VivoTools) - 蓝厂工具盒,用于降级GW和电源信息
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
+ * [WidgetsPro](https://github.com/preethamkmr3/WidgetsPro)
  * [XSamsung](https://github.com/ItosEO/XSamsung) - X计划 for 三星
  * [android-settings-scheduler](https://github.com/Turtlepaw/android-settings-scheduler) - Schedule any settings that are in the Android Settings app to be changed
  * [app-store](https://github.com/awfixer-industries/app-store)

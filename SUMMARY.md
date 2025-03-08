@@ -33,6 +33,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [VRPquest](https://github.com/metalex201/VRPquest) - A quest standalone version of the VRP Rookie sideloader.  !WIP!
  * [VeryDark](https://github.com/wkbin/VeryDark) - 极暗模式
  * [VivoTools](https://github.com/ItosEO/VivoTools) - 蓝厂工具盒,用于降级GW和电源信息
+ * [VolumeManager](https://github.com/yume-chan/VolumeManager) - Control each app's volume independently.
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [WidgetsPro](https://github.com/preethamkmr3/WidgetsPro)
  * [XSamsung](https://github.com/ItosEO/XSamsung) - X计划 for 三星

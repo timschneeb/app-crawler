@@ -12,6 +12,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [AIDE-Plus-Private](https://github.com/ZeroAicy/AIDE-Plus-Private) - AIDE+个人备份仓库
  * [AdvancedReboot](https://github.com/EX3124/AdvancedReboot)
  * [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
+ * [BAJPDownloader](https://github.com/asfu222/BAJPDownloader)
  * [CBJQ_HugFenny](https://github.com/LiuJiewenTT/CBJQ_HugFenny)
  * [ControllerMapper](https://github.com/anhquan7826/ControllerMapper)
  * [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新

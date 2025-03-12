@@ -18,7 +18,9 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新
  * [DeviceOptimizeHelper](https://github.com/sbmatch/DeviceOptimizeHelper)
  * [DroneHub](https://github.com/alexis-/DroneHub)
+ * [FuckColorApp](https://github.com/Connorxxx/FuckColorApp) - 使用 Shizuku 提权，一键禁用ColorOS自带的无用Apps，并带有卸载、冻结和解冻的App功能
  * [Genshin-Lyre-midi-player-server](https://github.com/byzp/Genshin-Lyre-midi-player-server)
+ * [HesleyTools](https://github.com/ldh-star/HesleyTools) - 自用工具/模块
  * [HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！
  * [MahjongClubBooster](https://github.com/OlegPV2/MahjongClubBooster) - One button only
  * [MndroLua](https://github.com/Crescent-of-Maya/MndroLua) - A modern fork of AndroLua+ / 更加现代的 AndroLua+ 魔改版
@@ -29,7 +31,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Module to change country for tiktok to Belarus(for russian)
  * [SuperWindow](https://github.com/eiyooooo/SuperWindow) - 超级视窗 | Enhance multi-task experience for large-screen Android devices
  * [SysProxy](https://github.com/Kr328/SysProxy) - A tiny app to set system proxy on Android. (Root required)
- * [TaskManager](https://github.com/java30433/TaskManager) - A simple Task Manager for some special Android devices like WearOS 2.
+ * [TaskManager](https://github.com/RohitKushvaha01/TaskManager) - A Task Manager for android
  * [Tiny-Installer](https://github.com/scto/Tiny-Installer) - A Package Installer with MD3 UI.
  * [Tweak-Android](https://github.com/lumkit/Tweak-Android) - 多功能安卓手机玩机工具箱
  * [VRPquest](https://github.com/metalex201/VRPquest) - A quest standalone version of the VRP Rookie sideloader.  !WIP!
@@ -41,6 +43,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [XSamsung](https://github.com/ItosEO/XSamsung) - X计划 for 三星
  * [android-settings-scheduler](https://github.com/Turtlepaw/android-settings-scheduler) - Schedule any settings that are in the Android Settings app to be changed
  * [app-store](https://github.com/awfixer-industries/app-store)
+ * [com.app.catsmoker](https://github.com/catsmoker/com.app.catsmoker) - Catsmoker app
  * [dex2oat64](https://github.com/boxiaolanya2008/dex2oat64) - dex2oat64
  * [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
  * [majora-adr](https://github.com/printf172/majora-adr) - majora android端源码

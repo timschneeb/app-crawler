@@ -14,6 +14,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
  * [BAJPDownloader](https://github.com/asfu222/BAJPDownloader)
  * [CBJQ_HugFenny](https://github.com/LiuJiewenTT/CBJQ_HugFenny)
+ * [CPadCustomizeTool](https://github.com/Kobold831/CPadCustomizeTool) - このアプリケーションはチャレンジパッドの設定を変更することができます。学習兼用環境での改造サポートを提供します。
  * [ControllerMapper](https://github.com/anhquan7826/ControllerMapper)
  * [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新
  * [DeviceOptimizeHelper](https://github.com/sbmatch/DeviceOptimizeHelper)
@@ -31,7 +32,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Module to change country for tiktok to Belarus(for russian)
  * [SuperWindow](https://github.com/eiyooooo/SuperWindow) - 超级视窗 | Enhance multi-task experience for large-screen Android devices
  * [SysProxy](https://github.com/Kr328/SysProxy) - A tiny app to set system proxy on Android. (Root required)
- * [TaskManager](https://github.com/RohitKushvaha01/TaskManager) - A Task Manager for android
+ * [TaskManager](https://github.com/java30433/TaskManager) - A simple Task Manager for some special Android devices like WearOS 2.
  * [Tiny-Installer](https://github.com/scto/Tiny-Installer) - A Package Installer with MD3 UI.
  * [Tweak-Android](https://github.com/lumkit/Tweak-Android) - 多功能安卓手机玩机工具箱
  * [VRPquest](https://github.com/metalex201/VRPquest) - A quest standalone version of the VRP Rookie sideloader.  !WIP!
@@ -48,7 +49,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [dex2oat64](https://github.com/boxiaolanya2008/dex2oat64) - dex2oat64
  * [flutter_ecosed](https://github.com/gmh5225/flutter_ecosed) - FlutterEcosed is a Flutter plugin and an advanced Flutter development framework that provides Android platform debugging, plugin development and dashboard functions.
  * [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
- * [keysync](https://github.com/aka-munan/keysync) - Play games using mouse and keyboard and mouse on Android device
+ * [keysync](https://github.com/aka-munan/keysync) - Play games using mouse and keyboard on Android device
  * [majora-adr](https://github.com/printf172/majora-adr) - majora android端源码
  * [noname-shijian-android](https://github.com/nonameShijian/noname-shijian-android) - 无名杀安卓诗笺版仓库
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.

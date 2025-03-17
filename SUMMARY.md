@@ -13,6 +13,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [AdvancedReboot](https://github.com/EX3124/AdvancedReboot)
  * [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
  * [BAJPDownloader](https://github.com/asfu222/BAJPDownloader)
+ * [Battery](https://github.com/iAtifSyed/Battery)
  * [CBJQ_HugFenny](https://github.com/LiuJiewenTT/CBJQ_HugFenny)
  * [CPadCustomizeTool](https://github.com/Kobold831/CPadCustomizeTool) - このアプリケーションはチャレンジパッドの設定を変更することができます。学習兼用環境での改造サポートを提供します。
  * [ControllerMapper](https://github.com/anhquan7826/ControllerMapper)
@@ -35,7 +36,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [TaskManager](https://github.com/java30433/TaskManager) - A simple Task Manager for some special Android devices like WearOS 2.
  * [Tiny-Installer](https://github.com/scto/Tiny-Installer) - A Package Installer with MD3 UI.
  * [Tweak-Android](https://github.com/lumkit/Tweak-Android) - 多功能安卓手机玩机工具箱
- * [VRPquest](https://github.com/metalex201/VRPquest) - A quest standalone version of the VRP Rookie sideloader.  !WIP!
  * [VeryDark](https://github.com/wkbin/VeryDark) - 极暗模式
  * [VivoTools](https://github.com/ItosEO/VivoTools) - 蓝厂工具盒,用于降级GW和电源信息
  * [VolumeManager](https://github.com/yume-chan/VolumeManager) - Control each app's volume independently.
@@ -43,6 +43,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [WidgetsPro](https://github.com/preethamkmr3/WidgetsPro)
  * [XSamsung](https://github.com/ItosEO/XSamsung) - X计划 for 三星
  * [android-settings-scheduler](https://github.com/Turtlepaw/android-settings-scheduler) - Schedule any settings that are in the Android Settings app to be changed
+ * [anikku](https://github.com/komikku-app/anikku)
  * [app-store](https://github.com/awfixer-industries/app-store)
  * [chibiko](https://github.com/bluesky139/chibiko)
  * [com.app.catsmoker](https://github.com/catsmoker/com.app.catsmoker) - Catsmoker app - Game FPS Unlocker
@@ -56,4 +57,5 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [phi_attacker](https://github.com/Shua-github/phi_attacker) - Phigros的神奇项目
  * [reactmap-android](https://github.com/Mygod/reactmap-android) - Android WebView app for ReactMap with added goodies
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
+ * [shizuku-shell](https://github.com/JoaoTrog1/shizuku-shell)
  * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]

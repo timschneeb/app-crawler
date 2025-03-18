@@ -14,6 +14,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
  * [BAJPDownloader](https://github.com/asfu222/BAJPDownloader)
  * [Battery](https://github.com/iAtifSyed/Battery)
+ * [BatteryStatsReset](https://github.com/Reborn0Holly/BatteryStatsReset)
  * [CBJQ_HugFenny](https://github.com/LiuJiewenTT/CBJQ_HugFenny)
  * [CPadCustomizeTool](https://github.com/Kobold831/CPadCustomizeTool) - このアプリケーションはチャレンジパッドの設定を変更することができます。学習兼用環境での改造サポートを提供します。
  * [ControllerMapper](https://github.com/anhquan7826/ControllerMapper)

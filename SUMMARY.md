@@ -15,6 +15,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [BAJPDownloader](https://github.com/asfu222/BAJPDownloader)
  * [Battery](https://github.com/iAtifSyed/Battery)
  * [BatteryStatsReset](https://github.com/Reborn0Holly/BatteryStatsReset)
+ * [C9](https://github.com/austinauyeung/C9) - Efficient grid-based cursor provided alongside a traditional cursor with Android 8.0+ support.
  * [CBJQ_HugFenny](https://github.com/LiuJiewenTT/CBJQ_HugFenny)
  * [CPadCustomizeTool](https://github.com/Kobold831/CPadCustomizeTool) - このアプリケーションはチャレンジパッドの設定を変更することができます。学習兼用環境での改造サポートを提供します。
  * [ControllerMapper](https://github.com/anhquan7826/ControllerMapper)

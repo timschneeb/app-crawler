@@ -29,7 +29,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [MahjongClubBooster](https://github.com/OlegPV2/MahjongClubBooster) - One button only
  * [MndroLua](https://github.com/Crescent-of-Maya/MndroLua) - A modern fork of AndroLua+ / 更加现代的 AndroLua+ 魔改版
  * [Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
- * [PentestApp](https://github.com/wyatt727/PentestApp)
  * [RotaenoUploader](https://github.com/milkycandy/RotaenoUploader) - Rotaeno存档上传器
  * [ShizukuWrapper](https://github.com/lucid-lynxz/ShizukuWrapper)
  * [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Module to change country for tiktok to Belarus(for russian)
@@ -47,6 +46,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [XSamsung](https://github.com/ItosEO/XSamsung) - X计划 for 三星
  * [android-settings-scheduler](https://github.com/Turtlepaw/android-settings-scheduler) - Schedule any settings that are in the Android Settings app to be changed
  * [anikku](https://github.com/komikku-app/anikku)
+ * [ankihelper-plus](https://github.com/1509098778/ankihelper-plus)
  * [app-store](https://github.com/awfixer-industries/app-store)
  * [chibiko](https://github.com/bluesky139/chibiko)
  * [com.app.catsmoker](https://github.com/catsmoker/com.app.catsmoker) - Catsmoker app - Game FPS Unlocker

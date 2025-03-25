@@ -34,7 +34,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Module to change country for tiktok to Belarus(for russian)
  * [SuperWindow](https://github.com/eiyooooo/SuperWindow) - 超级视窗 | Enhance multi-task experience for large-screen Android devices
  * [SysProxy](https://github.com/Kr328/SysProxy) - A tiny app to set system proxy on Android. (Root required)
- * [TaskManager](https://github.com/RohitKushvaha01/TaskManager) - A Task Manager for android
+ * [TaskManager](https://github.com/java30433/TaskManager) - A simple Task Manager for some special Android devices like WearOS 2.
  * [TimerAndroid](https://github.com/HNIdesu/TimerAndroid) - 定时关闭指定的应用，支持Magisk和Shizuku。
  * [Tiny-Installer](https://github.com/scto/Tiny-Installer) - A Package Installer with MD3 UI.
  * [Tweak-Android](https://github.com/lumkit/Tweak-Android) - 多功能安卓手机玩机工具箱
@@ -42,7 +42,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [VivoTools](https://github.com/ItosEO/VivoTools) - 蓝厂工具盒,用于降级GW和电源信息
  * [VolumeManager](https://github.com/yume-chan/VolumeManager) - Control each app's volume independently.
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
- * [WidgetsPro](https://github.com/preethamkmr3/WidgetsPro)
  * [XSamsung](https://github.com/ItosEO/XSamsung) - X计划 for 三星
  * [android-settings-scheduler](https://github.com/Turtlepaw/android-settings-scheduler) - Schedule any settings that are in the Android Settings app to be changed
  * [anikku](https://github.com/komikku-app/anikku)
@@ -53,6 +52,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [dex2oat64](https://github.com/boxiaolanya2008/dex2oat64) - dex2oat64
  * [flutter_ecosed](https://github.com/gmh5225/flutter_ecosed) - FlutterEcosed is a Flutter plugin and an advanced Flutter development framework that provides Android platform debugging, plugin development and dashboard functions.
  * [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
+ * [instafel_release_arm64-v8a](https://github.com/mamiiblt/instafel_release_arm64-v8a) - Source Code of Instafel
  * [keysync](https://github.com/aka-munan/keysync) - Play games using mouse and keyboard on Android device
  * [majora-adr](https://github.com/printf172/majora-adr) - majora android端源码
  * [noname-shijian-android](https://github.com/nonameShijian/noname-shijian-android) - 无名杀安卓诗笺版仓库

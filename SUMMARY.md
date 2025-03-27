@@ -12,7 +12,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [AIDE-Plus-Private](https://github.com/ZeroAicy/AIDE-Plus-Private) - AIDE+个人备份仓库
  * [AdvancedReboot](https://github.com/EX3124/AdvancedReboot)
  * [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
- * [BAJPDownloader](https://github.com/asfu222/BAJPDownloader)
+ * [BAJPDownloader](https://github.com/asfu222/BAJPDownloader) - Android async download client for Blue Archive JP game resources
  * [Battery](https://github.com/iAtifSyed/Battery)
  * [BatteryStatsReset](https://github.com/Reborn0Holly/BatteryStatsReset)
  * [CBJQ_HugFenny](https://github.com/LiuJiewenTT/CBJQ_HugFenny)
@@ -49,6 +49,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [app-store](https://github.com/awfixer-industries/app-store)
  * [chibiko](https://github.com/bluesky139/chibiko)
  * [com.app.catsmoker](https://github.com/catsmoker/com.app.catsmoker) - Catsmoker app - Game FPS Unlocker
+ * [com.catsmoker.app](https://github.com/catsmoker/com.catsmoker.app) - Catsmoker app - Game FPS Unlocker
  * [dex2oat64](https://github.com/boxiaolanya2008/dex2oat64) - dex2oat64
  * [flutter_ecosed](https://github.com/gmh5225/flutter_ecosed) - FlutterEcosed is a Flutter plugin and an advanced Flutter development framework that provides Android platform debugging, plugin development and dashboard functions.
  * [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust

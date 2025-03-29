@@ -16,7 +16,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [Battery](https://github.com/iAtifSyed/Battery)
  * [BatteryStatsReset](https://github.com/Reborn0Holly/BatteryStatsReset)
  * [CBJQ_HugFenny](https://github.com/LiuJiewenTT/CBJQ_HugFenny)
- * [CPadCustomizeTool](https://github.com/Kobold831/CPadCustomizeTool) - このアプリケーションはチャレンジパッドの設定を変更することができます。学習兼用環境での改造サポートを提供します。
  * [ControllerMapper](https://github.com/anhquan7826/ControllerMapper)
  * [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新
  * [DeviceOptimizeHelper](https://github.com/sbmatch/DeviceOptimizeHelper)
@@ -29,6 +28,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [MahjongClubBooster](https://github.com/OlegPV2/MahjongClubBooster) - One button only
  * [MndroLua](https://github.com/Crescent-of-Maya/MndroLua) - A modern fork of AndroLua+ / 更加现代的 AndroLua+ 魔改版
  * [Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
+ * [PentestApp-fixed](https://github.com/Drustil/PentestApp-fixed) - Pentestapp w/ fix
  * [RotaenoUploader](https://github.com/milkycandy/RotaenoUploader) - Rotaeno存档上传器
  * [ShizukuWrapper](https://github.com/lucid-lynxz/ShizukuWrapper)
  * [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Module to change country for tiktok to Belarus(for russian)
@@ -58,6 +58,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [noname-shijian-android](https://github.com/nonameShijian/noname-shijian-android) - 无名杀安卓诗笺版仓库
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [phi_attacker](https://github.com/Shua-github/phi_attacker) - Phigros的神奇项目
+ * [phone-bot](https://github.com/denclint86/phone-bot) - let llm control your android phone.
  * [reactmap-android](https://github.com/Mygod/reactmap-android) - Android WebView app for ReactMap with added goodies
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
  * [shizuku-shell](https://github.com/JoaoTrog1/shizuku-shell)

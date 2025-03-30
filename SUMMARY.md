@@ -51,6 +51,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [com.app.catsmoker](https://github.com/catsmoker/com.app.catsmoker) - Catsmoker app - Game FPS Unlocker
  * [com.catsmoker.app](https://github.com/catsmoker/com.catsmoker.app) - Catsmoker app - Game FPS Unlocker
  * [dex2oat64](https://github.com/boxiaolanya2008/dex2oat64) - dex2oat64
+ * [dumpsys-battery-manager](https://github.com/superisuer/dumpsys-battery-manager) - Change the battery values via dumpsys with the interface. Available to change battery meter, percent, temperature and charging status.
  * [flutter_ecosed](https://github.com/gmh5225/flutter_ecosed) - FlutterEcosed is a Flutter plugin and an advanced Flutter development framework that provides Android platform debugging, plugin development and dashboard functions.
  * [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
  * [instafel_release_arm64-v8a](https://github.com/mamiiblt/instafel_release_arm64-v8a) - Source Code of Instafel

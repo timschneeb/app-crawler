@@ -11,6 +11,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [AIDE-Plus-AS](https://github.com/Familyye/AIDE-Plus-AS)
  * [AIDE-Plus-Private](https://github.com/ZeroAicy/AIDE-Plus-Private) - AIDE+个人备份仓库
  * [AdvancedReboot](https://github.com/EX3124/AdvancedReboot)
+ * [AppCompat](https://github.com/MakeKittyC/AppCompat) - Main learning and development
  * [AudioControlApp](https://github.com/SwastikChamp2/AudioControlApp)
  * [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
  * [BAJPDownloader](https://github.com/asfu222/BAJPDownloader) - Android async download client for Blue Archive JP game resources
@@ -31,11 +32,12 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
  * [PentestApp-fixed](https://github.com/Drustil/PentestApp-fixed) - Pentestapp w/ fix
  * [RotaenoUploader](https://github.com/milkycandy/RotaenoUploader) - Rotaeno存档上传器
+ * [ShizukuUesrService](https://github.com/MakeKittyC/ShizukuUesrService) - Shizuku UserService
  * [ShizukuWrapper](https://github.com/lucid-lynxz/ShizukuWrapper)
  * [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Module to change country for tiktok to Belarus(for russian)
  * [SuperWindow](https://github.com/eiyooooo/SuperWindow) - 超级视窗 | Enhance multi-task experience for large-screen Android devices
  * [SysProxy](https://github.com/Kr328/SysProxy) - A tiny app to set system proxy on Android. (Root required)
- * [TaskManager](https://github.com/RohitKushvaha01/TaskManager) - A Task Manager for android
+ * [TaskManager](https://github.com/java30433/TaskManager) - A simple Task Manager for some special Android devices like WearOS 2.
  * [TimerAndroid](https://github.com/HNIdesu/TimerAndroid) - 定时关闭指定的应用，支持Magisk和Shizuku。
  * [Tiny-Installer](https://github.com/scto/Tiny-Installer) - A Package Installer with MD3 UI.
  * [Tweak-Android](https://github.com/lumkit/Tweak-Android) - 多功能安卓手机玩机工具箱
@@ -48,8 +50,8 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [anikku](https://github.com/komikku-app/anikku)
  * [ankihelper-plus](https://github.com/huhuswei/ankihelper-plus)
  * [app-store](https://github.com/awfixer-industries/app-store)
+ * [appespejo](https://github.com/morocoeltopo/appespejo)
  * [chibiko](https://github.com/bluesky139/chibiko)
- * [com.app.catsmoker](https://github.com/catsmoker/com.app.catsmoker) - Catsmoker app - Game FPS Unlocker
  * [com.catsmoker.app](https://github.com/catsmoker/com.catsmoker.app) - Catsmoker app - Game FPS Unlocker
  * [dex2oat64](https://github.com/boxiaolanya2008/dex2oat64) - dex2oat64
  * [dumpsys-battery-manager](https://github.com/superisuer/dumpsys-battery-manager) - Change the battery values via dumpsys with the interface. Available to change battery meter, percent, temperature and charging status.

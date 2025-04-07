@@ -59,7 +59,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [flutter_ecosed](https://github.com/gmh5225/flutter_ecosed) - FlutterEcosed is a Flutter plugin and an advanced Flutter development framework that provides Android platform debugging, plugin development and dashboard functions.
  * [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
  * [hayai](https://github.com/ig4e/hayai)
- * [instafel_release_arm64-v8a](https://github.com/mamiiblt/instafel_release_arm64-v8a) - Source Code of Instafel
+ * [instafel_release_arm64-v8a](https://github.com/mamiiblt/instafel_release_arm64-v8a) - Source Code of Instafel Project
  * [kuukiyomi1.0](https://github.com/darkfireeee/kuukiyomi1.0)
  * [majora-adr](https://github.com/printf172/majora-adr) - majora android端源码
  * [noname-shijian-android](https://github.com/nonameShijian/noname-shijian-android) - 无名杀安卓诗笺版仓库

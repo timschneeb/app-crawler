@@ -13,6 +13,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [AdvancedReboot](https://github.com/EX3124/AdvancedReboot)
  * [AppCompat](https://github.com/MakeKittyC/AppCompat) - Main learning and development
  * [AudioControlApp](https://github.com/SwastikChamp2/AudioControlApp)
+ * [AutoRotate](https://github.com/eiyooooo/AutoRotate) - 自动旋转 | Manage automatic rotation of different screens on Android phones
  * [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
  * [BAJPDownloader](https://github.com/asfu222/BAJPDownloader) - Android async download client for Blue Archive JP game resources
  * [Battery](https://github.com/iAtifSyed/Battery)
@@ -57,7 +58,9 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [dumpsys-battery-manager](https://github.com/superisuer/dumpsys-battery-manager) - Change the battery values via dumpsys with the interface. Available to change battery meter, percent, temperature and charging status.
  * [flutter_ecosed](https://github.com/gmh5225/flutter_ecosed) - FlutterEcosed is a Flutter plugin and an advanced Flutter development framework that provides Android platform debugging, plugin development and dashboard functions.
  * [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
+ * [hayai](https://github.com/ig4e/hayai)
  * [instafel_release_arm64-v8a](https://github.com/mamiiblt/instafel_release_arm64-v8a) - Source Code of Instafel
+ * [kuukiyomi1.0](https://github.com/darkfireeee/kuukiyomi1.0)
  * [majora-adr](https://github.com/printf172/majora-adr) - majora android端源码
  * [noname-shijian-android](https://github.com/nonameShijian/noname-shijian-android) - 无名杀安卓诗笺版仓库
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
@@ -68,3 +71,4 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
  * [shizuku-shell](https://github.com/JoaoTrog1/shizuku-shell)
  * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]
+ * [tachiyomi2.0](https://github.com/darkfireeee/tachiyomi2.0)

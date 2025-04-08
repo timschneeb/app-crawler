@@ -22,7 +22,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [ControllerMapper](https://github.com/anhquan7826/ControllerMapper)
  * [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新
  * [DeviceOptimizeHelper](https://github.com/sbmatch/DeviceOptimizeHelper)
- * [DroneHub](https://github.com/alexis-/DroneHub)
  * [FuckColorApp](https://github.com/Connorxxx/FuckColorApp) - 使用 Shizuku 提权，一键禁用ColorOS自带的无用Apps，并带有卸载、冻结和解冻的App功能
  * [Genshin-Lyre-midi-player-server](https://github.com/byzp/Genshin-Lyre-midi-player-server)
  * [HesleyTools](https://github.com/ldh-star/HesleyTools) - 自用工具/模块

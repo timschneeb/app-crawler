@@ -30,7 +30,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [RotaenoUploader](https://github.com/milkycandy/RotaenoUploader) - Rotaeno存档上传器
  * [SuperWindow](https://github.com/eiyooooo/SuperWindow) - 超级视窗 | Enhance multi-task experience for large-screen Android devices
  * [SysProxy](https://github.com/Kr328/SysProxy) - A tiny app to set system proxy on Android. (Root required)
- * [TaskManager](https://github.com/RohitKushvaha01/TaskManager) - A Task Manager for android
+ * [TaskManager](https://github.com/java30433/TaskManager) - A simple Task Manager for some special Android devices like WearOS 2.
  * [TimerAndroid](https://github.com/HNIdesu/TimerAndroid) - 定时关闭指定的应用，支持Magisk和Shizuku。
  * [Tiny-Installer](https://github.com/scto/Tiny-Installer) - A Package Installer with MD3 UI.
  * [Tweak-Android](https://github.com/lumkit/Tweak-Android) - 多功能安卓手机玩机工具箱
@@ -42,7 +42,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [ankihelper-plus](https://github.com/huhuswei/ankihelper-plus)
  * [chibiko](https://github.com/bluesky139/chibiko)
  * [com.catsmoker.app](https://github.com/catsmoker/com.catsmoker.app) - Catsmoker app - Game FPS Unlocker
- * [dex2oat64](https://github.com/boxiaolanya2008/dex2oat64) - dex2oat64
  * [dumpsys-battery-manager](https://github.com/superisuer/dumpsys-battery-manager) - Change the battery values via dumpsys with the interface. Available to change battery meter, percent, temperature and charging status.
  * [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
  * [instafel_release_arm64-v8a](https://github.com/mamiiblt/instafel_release_arm64-v8a) - Source Code of Instafel Project

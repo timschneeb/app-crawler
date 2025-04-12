@@ -11,19 +11,15 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [AIDE-Plus-AS](https://github.com/Familyye/AIDE-Plus-AS)
  * [AIDE-Plus-Private](https://github.com/ZeroAicy/AIDE-Plus-Private) - AIDE+个人备份仓库
  * [AdvancedReboot](https://github.com/EX3124/AdvancedReboot)
- * [AppCompat](https://github.com/MakeKittyC/AppCompat) - Main learning and development
  * [AudioControlApp](https://github.com/SwastikChamp2/AudioControlApp)
  * [AutoRotate](https://github.com/eiyooooo/AutoRotate) - 自动旋转 | Manage automatic rotation of different screens on Android phones
  * [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
  * [BAJPDownloader](https://github.com/asfu222/BAJPDownloader) - Android async download client for Blue Archive JP game resources
- * [Battery](https://github.com/iAtifSyed/Battery)
  * [BatteryStatsReset](https://github.com/Reborn0Holly/BatteryStatsReset)
  * [CBJQ_HugFenny](https://github.com/LiuJiewenTT/CBJQ_HugFenny)
  * [ControllerMapper](https://github.com/anhquan7826/ControllerMapper)
  * [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新
  * [DeviceOptimizeHelper](https://github.com/sbmatch/DeviceOptimizeHelper)
- * [FuckColorApp](https://github.com/Connorxxx/FuckColorApp) - 使用 Shizuku 提权，一键禁用ColorOS自带的无用Apps，并带有卸载、冻结和解冻的App功能
- * [Genshin-Lyre-midi-player-server](https://github.com/byzp/Genshin-Lyre-midi-player-server)
  * [HesleyTools](https://github.com/ldh-star/HesleyTools) - 自用工具/模块
  * [HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！
  * [JumpReplay](https://github.com/FourTwooo/JumpReplay) - Xposed Hook Android Intent/Scheme
@@ -31,13 +27,10 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [MndroLua](https://github.com/Crescent-of-Maya/MndroLua) - A modern fork of AndroLua+ / 更加现代的 AndroLua+ 魔改版
  * [Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
  * [Operit](https://github.com/AAswordman/Operit) - An android AI agent can automatically operate your mobile phone
- * [PentestApp-fixed](https://github.com/Drustil/PentestApp-fixed) - Pentestapp w/ fix
  * [RotaenoUploader](https://github.com/milkycandy/RotaenoUploader) - Rotaeno存档上传器
- * [ShizukuUesrService](https://github.com/MakeKittyC/ShizukuUesrService) - Shizuku UserService
- * [ShizukuWrapper](https://github.com/lucid-lynxz/ShizukuWrapper)
  * [SuperWindow](https://github.com/eiyooooo/SuperWindow) - 超级视窗 | Enhance multi-task experience for large-screen Android devices
  * [SysProxy](https://github.com/Kr328/SysProxy) - A tiny app to set system proxy on Android. (Root required)
- * [TaskManager](https://github.com/java30433/TaskManager) - A simple Task Manager for some special Android devices like WearOS 2.
+ * [TaskManager](https://github.com/RohitKushvaha01/TaskManager) - A Task Manager for android
  * [TimerAndroid](https://github.com/HNIdesu/TimerAndroid) - 定时关闭指定的应用，支持Magisk和Shizuku。
  * [Tiny-Installer](https://github.com/scto/Tiny-Installer) - A Package Installer with MD3 UI.
  * [Tweak-Android](https://github.com/lumkit/Tweak-Android) - 多功能安卓手机玩机工具箱
@@ -45,29 +38,17 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [VivoTools](https://github.com/ItosEO/VivoTools) - 蓝厂工具盒,用于降级GW和电源信息
  * [VolumeManager](https://github.com/yume-chan/VolumeManager) - Control each app's volume independently.
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
- * [XSamsung](https://github.com/ItosEO/XSamsung) - X计划 for 三星
  * [android-settings-scheduler](https://github.com/Turtlepaw/android-settings-scheduler) - Schedule any settings that are in the Android Settings app to be changed
- * [anikku](https://github.com/komikku-app/anikku)
  * [ankihelper-plus](https://github.com/huhuswei/ankihelper-plus)
- * [app-store](https://github.com/awfixer-industries/app-store)
- * [appespejo](https://github.com/morocoeltopo/appespejo)
  * [chibiko](https://github.com/bluesky139/chibiko)
  * [com.catsmoker.app](https://github.com/catsmoker/com.catsmoker.app) - Catsmoker app - Game FPS Unlocker
  * [dex2oat64](https://github.com/boxiaolanya2008/dex2oat64) - dex2oat64
  * [dumpsys-battery-manager](https://github.com/superisuer/dumpsys-battery-manager) - Change the battery values via dumpsys with the interface. Available to change battery meter, percent, temperature and charging status.
- * [flutter_ecosed](https://github.com/gmh5225/flutter_ecosed) - FlutterEcosed is a Flutter plugin and an advanced Flutter development framework that provides Android platform debugging, plugin development and dashboard functions.
  * [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
- * [hayai](https://github.com/ig4e/hayai)
  * [instafel_release_arm64-v8a](https://github.com/mamiiblt/instafel_release_arm64-v8a) - Source Code of Instafel Project
- * [kuukiyomi1.0](https://github.com/darkfireeee/kuukiyomi1.0)
- * [majora-adr](https://github.com/printf172/majora-adr) - majora android端源码
- * [noname-shijian-android](https://github.com/nonameShijian/noname-shijian-android) - 无名杀安卓诗笺版仓库
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
- * [phi_attacker](https://github.com/Shua-github/phi_attacker) - Phigros的神奇项目
  * [phone-bot](https://github.com/denclint86/phone-bot) - let llm control your android phone.
- * [pixel-volte-patch-2](https://github.com/TheGamerKing561/pixel-volte-patch-2)
  * [reactmap-android](https://github.com/Mygod/reactmap-android) - Android WebView app for ReactMap with added goodies
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
- * [shizuku-shell](https://github.com/JoaoTrog1/shizuku-shell)
  * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]
  * [tachiyomi2.0](https://github.com/darkfireeee/tachiyomi2.0)

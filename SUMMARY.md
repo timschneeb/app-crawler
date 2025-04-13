@@ -13,7 +13,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [AdvancedReboot](https://github.com/EX3124/AdvancedReboot)
  * [AudioControlApp](https://github.com/SwastikChamp2/AudioControlApp)
  * [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
- * [BAJPDownloader](https://github.com/asfu222/BAJPDownloader) - Android async download client for Blue Archive JP game resources
  * [BatteryStatsReset](https://github.com/Reborn0Holly/BatteryStatsReset)
  * [CBJQ_HugFenny](https://github.com/LiuJiewenTT/CBJQ_HugFenny)
  * [ControllerMapper](https://github.com/anhquan7826/ControllerMapper)

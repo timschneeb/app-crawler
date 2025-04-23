@@ -17,6 +17,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [BatteryStatsReset](https://github.com/Reborn0Holly/BatteryStatsReset)
  * [CBJQ_HugFenny](https://github.com/LiuJiewenTT/CBJQ_HugFenny)
  * [ClipShare](https://github.com/aa2013/ClipShare) - 一个支持跨平台（目前为Android和Windows）的剪贴板历史记录与同步软件，支持Android10以上版本后台同步，支持文本、图片、文件、短信的复制和同步
+ * [ClipboardListener](https://github.com/aa2013/ClipboardListener) - Flutter-ClipboardListener-Clipshare
  * [ControllerMapper](https://github.com/anhquan7826/ControllerMapper)
  * [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新
  * [DeviceOptimizeHelper](https://github.com/sbmatch/DeviceOptimizeHelper)

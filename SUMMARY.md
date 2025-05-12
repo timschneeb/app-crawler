@@ -24,6 +24,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [HesleyTools](https://github.com/ldh-star/HesleyTools) - 自用工具/模块
  * [HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！
  * [JumpReplay](https://github.com/FourTwooo/JumpReplay) - Xposed Hook Android Intent/Scheme
+ * [Kahon](https://github.com/AmanoTeam/Kahon) - A fork of Mihon with some annoying restrictions removed
  * [LauncherChanger](https://github.com/Samuel095383/LauncherChanger)
  * [MahjongClubBooster](https://github.com/OlegPV2/MahjongClubBooster) - One button only
  * [MndroLua](https://github.com/Crescent-of-Maya/MndroLua) - A modern fork of AndroLua+ / 更加现代的 AndroLua+ 魔改版
@@ -53,6 +54,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [muxueanzhuangqi](https://github.com/yzd1234/muxueanzhuangqi)
  * [open-automate](https://github.com/woliver99/open-automate)
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
+ * [private-dns-qs](https://github.com/flashsphere/private-dns-qs) - A simple app that adds a quick tile to toggle the Private DNS setting on Android 9.0+
  * [reactmap-android](https://github.com/Mygod/reactmap-android) - Android WebView app for ReactMap with added goodies
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
  * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]

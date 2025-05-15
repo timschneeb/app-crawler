@@ -21,6 +21,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [ControllerMapper](https://github.com/anhquan7826/ControllerMapper)
  * [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新
  * [DeviceOptimizeHelper](https://github.com/sbmatch/DeviceOptimizeHelper)
+ * [Find My Device (FMD)](https://gitlab.com/fmd-foss/fmd-android) - Locate and control your device remotely
  * [HesleyTools](https://github.com/ldh-star/HesleyTools) - 自用工具/模块
  * [HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！
  * [JumpReplay](https://github.com/FourTwooo/JumpReplay) - Xposed Hook Android Intent/Scheme
@@ -32,6 +33,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [Operit](https://github.com/AAswordman/Operit) - An android AI agent can automatically operate your mobile phone
  * [RotaenoUploader](https://github.com/milkycandy/RotaenoUploader) - Rotaeno存档上传器
  * [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Module to change country for tiktok to Belarus(for russian)
+ * [Slacking](https://github.com/Skyghost090/Slacking) - App for change gaming configuration per app
  * [SuperWindow](https://github.com/eiyooooo/SuperWindow) - 超级视窗 | Enhance multi-task experience for large-screen Android devices
  * [SysProxy](https://github.com/Kr328/SysProxy) - A tiny app to set system proxy on Android. (Root required)
  * [TimerAndroid](https://github.com/HNIdesu/TimerAndroid) - 定时关闭指定的应用，支持Magisk和Shizuku。

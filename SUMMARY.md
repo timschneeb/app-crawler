@@ -61,6 +61,8 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [private-dns-qs](https://github.com/flashsphere/private-dns-qs) - A simple app that adds a quick tile to toggle the Private DNS setting on Android 9.0+
  * [reactmap-android](https://github.com/Mygod/reactmap-android) - Android WebView app for ReactMap with added goodies
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
+ * [shappky](https://github.com/YasserNull/shappky) - A simple app to boost performance by stopping background apps, relying on Shizuku permissions.
  * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]
  * [tachiyomi2.0](https://github.com/darkfireeee/tachiyomi2.0)
+ * [test](https://github.com/wangke69/test) - order多语言配置
  * [ziptie](https://github.com/MercuryWorkshop/ziptie) - Manage portable linux containers on your android from another device

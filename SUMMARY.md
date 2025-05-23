@@ -31,10 +31,12 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [JumpReplay](https://github.com/FourTwooo/JumpReplay) - Xposed Hook Android Intent/Scheme
  * [Kahon](https://github.com/AmanoTeam/Kahon) - A fork of Mihon with some annoying restrictions removed
  * [LauncherChanger](https://github.com/Samuel095383/LauncherChanger)
+ * [LogCollector](https://github.com/thekosa/LogCollector) - Android application designed to collect and manage Android system logs
  * [MahjongClubBooster](https://github.com/OlegPV2/MahjongClubBooster) - One button only
  * [MndroLua](https://github.com/Crescent-of-Maya/MndroLua) - A modern fork of AndroLua+ / 更加现代的 AndroLua+ 魔改版
  * [Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
  * [Operit](https://github.com/AAswordman/Operit) - An android AI agent can automatically operate your mobile phone
+ * [PupuManager](https://github.com/C0C0B01/PupuManager) - literally just so people can easily transition to Kettu
  * [RotaenoUploader](https://github.com/milkycandy/RotaenoUploader) - Rotaeno存档上传器
  * [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Module to change country for tiktok to Belarus(for russian)
  * [Slacking](https://github.com/Skyghost090/Slacking) - App for change gaming configuration per app
@@ -55,11 +57,12 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [ankihelper-plus](https://github.com/huhuswei/ankihelper-plus)
  * [autodaily](https://github.com/ParadiseZ/autodaily)
  * [chibiko](https://github.com/bluesky139/chibiko)
+ * [cmd-android](https://github.com/denclint86/cmd-android) - 基于 Kotlin 协程的 Android Shell 命令执行框架，支持 User、Shizuku 和 Root 三种权限的命令行调用，提供统一易用的挂起式 API
  * [com.catsmoker.app](https://github.com/catsmoker/com.catsmoker.app) - Catsmoker app - Game FPS Unlocker
  * [fakelauncher](https://github.com/ZH-XiJun/fakelauncher) - I swear, it is really just a feature phone, not a smart phone!
  * [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
- * [gemini-android](https://github.com/denclint86/gemini-android) - gemini-android
- * [muxueanzhuangqi](https://github.com/yzd1234/muxueanzhuangqi)
+ * [gemini-android](https://github.com/denclint86/gemini-android) - 通过FunctionCalling让Gemini操控安卓手机
+ * [muxueanzhuangqi](https://github.com/yuan-shiguang/muxueanzhuangqi)
  * [open-automate](https://github.com/woliver99/open-automate)
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [private-dns-qs](https://github.com/flashsphere/private-dns-qs) - A simple app that adds a quick tile to toggle the Private DNS setting on Android 9.0+

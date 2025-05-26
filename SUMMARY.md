@@ -60,11 +60,11 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [ankihelper-plus](https://github.com/huhuswei/ankihelper-plus)
  * [autodaily](https://github.com/ParadiseZ/autodaily)
  * [chibiko](https://github.com/bluesky139/chibiko)
- * [cmd-android](https://github.com/denclint86/cmd-android) - 基于 Kotlin 协程的 Android Shell 命令执行框架，支持 User、Shizuku 和 Root 三种权限的命令行调用，提供统一易用的挂起式 API
+ * [cmd-android](https://github.com/niki914/cmd-android) - 基于 Kotlin 协程的 Android Shell 命令执行框架，支持 User、Shizuku 和 Root 三种权限的命令行调用，提供统一易用的挂起式 API
  * [com.catsmoker.app](https://github.com/catsmoker/com.catsmoker.app) - Catsmoker app - Game FPS Unlocker
  * [fakelauncher](https://github.com/ZH-XiJun/fakelauncher) - I swear, it is really just a feature phone, not a smart phone!
  * [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
- * [gemini-android](https://github.com/denclint86/gemini-android) - 通过FunctionCalling让Gemini操控安卓手机
+ * [gemini-android](https://github.com/niki914/gemini-android) - 通过FunctionCalling让Gemini操控安卓手机
  * [muxueanzhuangqi](https://github.com/yuan-shiguang/muxueanzhuangqi)
  * [open-automate](https://github.com/woliver99/open-automate)
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.

@@ -74,5 +74,4 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [secure-sense](https://github.com/Icetok/secure-sense) - Privacy monitoring app for Android
  * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]
  * [tachiyomi2.0](https://github.com/darkfireeee/tachiyomi2.0)
- * [test](https://github.com/wangke69/test) - order多语言配置
  * [ziptie](https://github.com/MercuryWorkshop/ziptie) - Manage portable linux containers on your android from another device

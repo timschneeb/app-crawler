@@ -32,6 +32,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [Kahon](https://github.com/AmanoTeam/Kahon) - A fork of Mihon with some annoying restrictions removed
  * [LauncherChanger](https://github.com/Samuel095383/LauncherChanger)
  * [LogCollector](https://github.com/thekosa/LogCollector) - Android application designed to collect and manage Android system logs
+ * [LumiManager](https://github.com/C0C0B01/LumiManager)
  * [MahjongClubBooster](https://github.com/OlegPV2/MahjongClubBooster) - One button only
  * [MndroLua](https://github.com/Crescent-of-Maya/MndroLua) - A modern fork of AndroLua+ / 更加现代的 AndroLua+ 魔改版
  * [Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制

@@ -32,6 +32,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [Kahon](https://github.com/AmanoTeam/Kahon) - A fork of Mihon with some annoying restrictions removed
  * [LauncherChanger](https://github.com/Samuel095383/LauncherChanger)
  * [LogCollector](https://github.com/thekosa/LogCollector) - Android application designed to collect and manage Android system logs
+ * [LuaHook](https://github.com/KuLiPai/LuaHook) - A module for writing Xposed scripts via Lua
  * [LumiManager](https://github.com/C0C0B01/LumiManager)
  * [MahjongClubBooster](https://github.com/OlegPV2/MahjongClubBooster) - One button only
  * [MndroLua](https://github.com/Crescent-of-Maya/MndroLua) - A modern fork of AndroLua+ / 更加现代的 AndroLua+ 魔改版

@@ -37,6 +37,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [LuaHook](https://github.com/KuLiPai/LuaHook) - A module for writing Xposed scripts via Lua
  * [LumiManager](https://github.com/C0C0B01/LumiManager)
  * [MahjongClubBooster](https://github.com/OlegPV2/MahjongClubBooster) - One button only
+ * [Mihon-Test](https://github.com/kevin930321/Mihon-Test)
  * [MndroLua](https://github.com/Crescent-of-Maya/MndroLua) - A modern fork of AndroLua+ / 更加现代的 AndroLua+ 魔改版
  * [Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
  * [Operit](https://github.com/AAswordman/Operit) - An android AI agent can automatically operate your mobile phone
@@ -67,6 +68,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [fakelauncher](https://github.com/ZH-XiJun/fakelauncher) - I swear, it is really just a feature phone, not a smart phone!
  * [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
  * [gemini-android](https://github.com/niki914/gemini-android) - 通过FunctionCalling让Gemini操控安卓手机
+ * [kdeconnect-android-shizuku](https://github.com/Shoukaku39/kdeconnect-android-shizuku) - Forked from KDE Connect Android. Adds Shizuku support to bypass clipboard access restrictions on Android 10+ without using READ_LOGS or manual ADB shell. 基于 KDE Connect Android 的分支，添加对 Shizuku 的支持，在无需请求 READ_LOGS 或手动 ADB 授权的情况下，绕过 Android 10+ 剪贴板访问限制。
  * [muxueanzhuangqi](https://github.com/yuan-shiguang/muxueanzhuangqi)
  * [open-automate](https://github.com/woliver99/open-automate)
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.

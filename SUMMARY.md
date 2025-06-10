@@ -16,6 +16,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [AudioControlApp](https://github.com/SwastikChamp2/AudioControlApp)
  * [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
  * [BatteryStatsReset](https://github.com/Reborn0Holly/BatteryStatsReset)
+ * [BatteryStatsReset1.2.5](https://github.com/Reborn0Holly/BatteryStatsReset1.2.5)
  * [CBJQ_HugFenny](https://github.com/LiuJiewenTT/CBJQ_HugFenny)
  * [ChatBot](https://github.com/wayuto/ChatBot) - A Flutter App
  * [ClipShare](https://github.com/aa2013/ClipShare) - 一个支持跨平台（目前为Android和Windows）的剪贴板历史记录与同步软件，支持Android10以上版本后台同步，支持文本、图片、文件、短信的复制和同步
@@ -71,6 +72,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
  * [gemini-android](https://github.com/niki914/gemini-android) - 通过FunctionCalling让Gemini操控安卓手机
  * [kdeconnect-android-shizuku](https://github.com/Shoukaku39/kdeconnect-android-shizuku) - Forked from KDE Connect Android. Adds Shizuku support to bypass clipboard access restrictions on Android 10+ without using READ_LOGS or manual ADB shell. 基于 KDE Connect Android 的分支，添加对 Shizuku 的支持，在无需请求 READ_LOGS 或手动 ADB 授权的情况下，绕过 Android 10+ 剪贴板访问限制。
+ * [li](https://github.com/lousli/li) - 安卓去广告
  * [muxueanzhuangqi](https://github.com/yuan-shiguang/muxueanzhuangqi)
  * [open-automate](https://github.com/woliver99/open-automate)
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.

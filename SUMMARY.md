@@ -13,6 +13,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [Accessibility-](https://github.com/nai559/Accessibility-)
  * [Android-AccessibilityGrant](https://github.com/MagicianGuo/Android-AccessibilityGrant) - 能够一键为应用授予辅助功能（无障碍）权限，需要Shizuku
  * [Android-FPS-Watcher](https://github.com/WuDi-ZhanShen/Android-FPS-Watcher) - Monitor RealTime FPS. Suppports Android 13+. Pure Java.
+ * [Android_KMP_Compilation](https://github.com/hojat72elect/Android_KMP_Compilation) - A collection of Android and Kotlin-Multiplatform apps
  * [AudioControlApp](https://github.com/SwastikChamp2/AudioControlApp)
  * [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
  * [BatteryStatsReset](https://github.com/Reborn0Holly/BatteryStatsReset)

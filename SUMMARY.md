@@ -19,14 +19,11 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [BatteryStatsReset](https://github.com/Reborn0Holly/BatteryStatsReset)
  * [BatteryStatsReset1.2.5](https://github.com/Reborn0Holly/BatteryStatsReset1.2.5)
  * [CBJQ_HugFenny](https://github.com/LiuJiewenTT/CBJQ_HugFenny)
- * [ChatBot](https://github.com/wayuto/ChatBot) - A Flutter App
  * [ClipShare](https://github.com/aa2013/ClipShare) - 一个支持跨平台（目前为Android和Windows）的剪贴板历史记录与同步软件，支持Android10以上版本后台同步，支持文本、图片、文件、短信的复制和同步
  * [ClipboardListener](https://github.com/aa2013/ClipboardListener) - Flutter-ClipboardListener-Clipshare
  * [ControllerMapper](https://github.com/anhquan7826/ControllerMapper)
- * [CyanChanges-Sui](https://github.com/stefa9nosa/CyanChanges-Sui) - ...
  * [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新
  * [DeviceOptimizeHelper](https://github.com/sbmatch/DeviceOptimizeHelper)
- * [Find My Device (FMD)](https://gitlab.com/fmd-foss/fmd-android) - Locate and control your device remotely
  * [FlymeFrameTools](https://github.com/Ruyue-Kinsenka/FlymeFrameTools) - 利用shuzuki无root管理flyme插帧超分的app名单
  * [FreezeApp](https://github.com/JuneLeo/FreezeApp)
  * [HesleyTools](https://github.com/ldh-star/HesleyTools) - 自用工具/模块
@@ -34,13 +31,11 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [Hz-Changer](https://github.com/MARCOS-S-S/Hz-Changer) - Under development! Simple, light, free and functional hz changer app.
  * [InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) - InstallerX的fork版本，周末有空就维护，编程菜鸡，有问题尽力修！
  * [JumpReplay](https://github.com/FourTwooo/JumpReplay) - Xposed Hook Android Intent/Scheme
- * [Kahon](https://github.com/AmanoTeam/Kahon) - A fork of Mihon with some annoying restrictions removed
  * [LauncherChanger](https://github.com/Samuel095383/LauncherChanger)
  * [LogCollector](https://github.com/thekosa/LogCollector) - Android application designed to collect and manage Android system logs
  * [LuaHook](https://github.com/KuLiPai/LuaHook) - A module for writing Xposed scripts via Lua
  * [LumiManager](https://github.com/C0C0B01/LumiManager)
  * [MahjongClubBooster](https://github.com/OlegPV2/MahjongClubBooster) - One button only
- * [Mihon-Test](https://github.com/kevin930321/Mihon-Test)
  * [MndroLua](https://github.com/Crescent-of-Maya/MndroLua) - A modern fork of AndroLua+ / 更加现代的 AndroLua+ 魔改版
  * [Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
  * [Operit](https://github.com/AAswordman/Operit) - An android AI agent can automatically operate your mobile phone

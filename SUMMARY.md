@@ -72,7 +72,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [muxueanzhuangqi](https://github.com/yuan-shiguang/muxueanzhuangqi)
  * [open-automate](https://github.com/woliver99/open-automate)
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
- * [private-dns-qs](https://github.com/flashsphere/private-dns-qs) - A simple app that adds a quick tile to toggle the Private DNS setting on Android 9.0+
+ * [private-dns-qs](https://github.com/flashsphere/private-dns-qs) - Android app that adds a quick setting tile to toggle the Private DNS setting on Android 9.0+
  * [reactmap-android](https://github.com/Mygod/reactmap-android) - Android WebView app for ReactMap with added goodies
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
  * [secure-sense](https://github.com/Icetok/secure-sense) - Privacy monitoring app for Android

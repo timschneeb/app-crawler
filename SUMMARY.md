@@ -16,7 +16,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [Android_KMP_Compilation](https://github.com/hojat72elect/Android_KMP_Compilation) - A collection of Android and Kotlin-Multiplatform apps
  * [AudioControlApp](https://github.com/SwastikChamp2/AudioControlApp)
  * [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
- * [BatteryStatsReset](https://github.com/Reborn0Holly/BatteryStatsReset)
  * [BatteryStatsReset1.2.5](https://github.com/Reborn0Holly/BatteryStatsReset1.2.5)
  * [CBJQ_HugFenny](https://github.com/LiuJiewenTT/CBJQ_HugFenny)
  * [ClipShare](https://github.com/aa2013/ClipShare) - 一个支持跨平台（目前为Android和Windows）的剪贴板历史记录与同步软件，支持Android10以上版本后台同步，支持文本、图片、文件、短信的复制和同步
@@ -26,6 +25,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [DeviceOptimizeHelper](https://github.com/sbmatch/DeviceOptimizeHelper)
  * [FlymeFrameTools](https://github.com/Ruyue-Kinsenka/FlymeFrameTools) - 利用shuzuki无root管理flyme插帧超分的app名单
  * [FreezeApp](https://github.com/JuneLeo/FreezeApp)
+ * [Geek](https://github.com/Linuxscript-svg/Geek) - Geek工具箱
  * [HesleyTools](https://github.com/ldh-star/HesleyTools) - 自用工具/模块
  * [HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！
  * [Hz-Changer](https://github.com/MARCOS-S-S/Hz-Changer) - Under development! Simple, light, free and functional hz changer app.

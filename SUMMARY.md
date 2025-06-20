@@ -42,6 +42,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [QuickTile Settings](https://github.com/RBN-Apps/Quick-Tile-Settings) - Manage Private DNS & USB Debugging via Quick Tile Settings tiles & Auto-revert.
  * [RotaenoUploader](https://github.com/milkycandy/RotaenoUploader) - Rotaeno存档上传器
  * [RunnerStub](https://github.com/yangFenTuoZi/RunnerStub)
+ * [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Module to change country for tiktok to Belarus(for russian)
  * [SuperWindow](https://github.com/eiyooooo/SuperWindow) - 超级视窗 | Enhance multi-task experience for large-screen Android devices
  * [SysProxy](https://github.com/Kr328/SysProxy) - A tiny app to set system proxy on Android. (Root required)
  * [Task-manager-app](https://github.com/Swayam7Garg/Task-manager-app)

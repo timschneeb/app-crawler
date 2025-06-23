@@ -28,7 +28,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [HesleyTools](https://github.com/ldh-star/HesleyTools) - 自用工具/模块
  * [HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！
  * [Hz-Changer](https://github.com/MARCOS-S-S/Hz-Changer) - Under development! Simple, light, free and functional hz changer app.
- * [InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) - InstallerX的fork版本，周末有空就维护，编程菜鸡，有问题尽力修！
+ * [InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) - InstallerX的分支版本，有空就维护，安卓开发学习中
  * [JumpReplay](https://github.com/FourTwooo/JumpReplay) - Xposed Hook Android Intent/Scheme
  * [LauncherChanger](https://github.com/Samuel095383/LauncherChanger)
  * [LogCollector](https://github.com/thekosa/LogCollector) - Android application designed to collect and manage Android system logs
@@ -75,6 +75,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [reactmap-android](https://github.com/Mygod/reactmap-android) - Android WebView app for ReactMap with added goodies
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
  * [secure-sense](https://github.com/Icetok/secure-sense) - Privacy monitoring app for Android
+ * [shizuku-decompiled](https://github.com/deepakrakshit/shizuku-decompiled)
  * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]
  * [stalker](https://github.com/onerdna/stalker) - An android application for viewing and modifying save files of Shadow FIght 2 game.
  * [tachiyomi2.0](https://github.com/darkfireeee/tachiyomi2.0)

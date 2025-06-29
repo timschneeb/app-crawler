@@ -71,6 +71,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [li](https://github.com/lousli/li) - 安卓去广告
  * [manga](https://github.com/Chirantan-Dey/manga)
  * [material-file-manager](https://github.com/abusaeed-shuvo/material-file-manager)
+ * [mewtachi](https://github.com/xaolanx/mewtachi)
  * [modtoon_module](https://github.com/Inhaleoxygen/modtoon_module)
  * [muxueanzhuangqi](https://github.com/yuan-shiguang/muxueanzhuangqi)
  * [open-automate](https://github.com/woliver99/open-automate)

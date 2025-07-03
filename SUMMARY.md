@@ -25,10 +25,10 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [DeviceOptimizeHelper](https://github.com/sbmatch/DeviceOptimizeHelper)
  * [FlymeFrameTools](https://github.com/Ruyue-Kinsenka/FlymeFrameTools) - 利用shuzuki无root管理flyme插帧超分的app名单
  * [FreezeApp](https://github.com/JuneLeo/FreezeApp)
- * [GOD-level](https://github.com/DivyanshNagda/GOD-level) - A simple app to enjoy heavier games on a lower end device.
  * [HesleyTools](https://github.com/ldh-star/HesleyTools) - 自用工具/模块
  * [HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！
  * [Hz-Changer](https://github.com/MARCOS-S-S/Hz-Changer) - Under development! Simple, light, free and functional hz changer app.
+ * [IDE-for-everyone](https://github.com/Slinky-86/IDE-for-everyone) - Created with StackBlitz ⚡️
  * [InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) - InstallerX的分支版本，有空就维护，安卓开发学习中
  * [JumpReplay](https://github.com/FourTwooo/JumpReplay) - Xposed Hook Android Intent/Scheme
  * [LauncherChanger](https://github.com/Samuel095383/LauncherChanger)
@@ -67,6 +67,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [chibiko](https://github.com/bluesky139/chibiko)
  * [cmd-android](https://github.com/niki914/cmd-android) - 基于 Kotlin 协程的 Android Shell 命令执行框架，支持 User、Shizuku 和 Root 三种权限的命令行调用，提供统一易用的挂起式 API
  * [com.catsmoker.app](https://github.com/catsmoker/com.catsmoker.app) - Catsmoker app - Game FPS Unlocker
+ * [everyones-APPS](https://github.com/Slinky-86/everyones-APPS) - Created with StackBlitz ⚡️
  * [fakelauncher](https://github.com/ZH-XiJun/fakelauncher) - I swear, it is really just a feature phone, not a smart phone!
  * [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
  * [gemini-android](https://github.com/niki914/gemini-android) - Let gemini control your Android phone through function calling. 通过FunctionCalling让Gemini操控安卓手机。

@@ -23,6 +23,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [ControllerMapper](https://github.com/anhquan7826/ControllerMapper)
  * [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新
  * [DeviceOptimizeHelper](https://github.com/sbmatch/DeviceOptimizeHelper)
+ * [Elite-G](https://github.com/DivyanshNagda/Elite-G) - 🚀 EliteG - Boost Android gaming performance by up to 80%! Optimize FPS, reduce lag, and save battery. Works with/without root. Based on Mathias Boulay's Android-Game-Booster with enhanced features. #Android #Gaming #Performance
  * [FlymeFrameTools](https://github.com/Ruyue-Kinsenka/FlymeFrameTools) - 利用shuzuki无root管理flyme插帧超分的app名单
  * [FreezeApp](https://github.com/JuneLeo/FreezeApp)
  * [HesleyTools](https://github.com/ldh-star/HesleyTools) - 自用工具/模块
@@ -73,6 +74,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [gemini-android](https://github.com/niki914/gemini-android) - Let gemini control your Android phone through function calling. 通过FunctionCalling让Gemini操控安卓手机。
  * [kdeconnect-android-shizuku](https://github.com/Shoukaku39/kdeconnect-android-shizuku) - Forked from KDE Connect Android. Adds Shizuku support to bypass clipboard access restrictions on Android 10+ without using READ_LOGS or manual ADB shell. 基于 KDE Connect Android 的分支，添加对 Shizuku 的支持，在无需请求 READ_LOGS 或手动 ADB 授权的情况下，绕过 Android 10+ 剪贴板访问限制。
  * [li](https://github.com/lousli/li) - 安卓去广告
+ * [linkura-localify](https://github.com/ChocoLZS/linkura-localify)
  * [manga](https://github.com/Chirantan-Dey/manga)
  * [material-file-manager](https://github.com/abusaeed-shuvo/material-file-manager)
  * [mewtachi](https://github.com/xaolanx/mewtachi)
@@ -86,7 +88,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
  * [secure-sense](https://github.com/Icetok/secure-sense) - Privacy monitoring app for Android
  * [setbox](https://github.com/YasserNull/setbox)
- * [shizuku-decompiled](https://github.com/deepakrakshit/shizuku-decompiled)
  * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]
  * [stalker](https://github.com/onerdna/stalker) - An android application for viewing and modifying save files of Shadow FIght 2 game.
  * [tachiyomi2.0](https://github.com/darkfireeee/tachiyomi2.0)

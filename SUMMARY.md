@@ -10,6 +10,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
 
  * [AIDE-Plus-AS](https://github.com/Familyye/AIDE-Plus-AS)
  * [AIDE-Plus-Private](https://github.com/ZeroAicy/AIDE-Plus-Private) - AIDE+个人备份仓库
+ * [AOD_Charging](https://github.com/SthrNilshaaa/AOD_Charging) - System Aod controller with quick tile as well as devices charging conditions,this will automatic the aod on the system
  * [Accessibility-](https://github.com/nai559/Accessibility-)
  * [Android-AccessibilityGrant](https://github.com/MagicianGuo/Android-AccessibilityGrant) - 能够一键为应用授予辅助功能（无障碍）权限，需要Shizuku
  * [Android-FPS-Watcher](https://github.com/WuDi-ZhanShen/Android-FPS-Watcher) - Monitor RealTime FPS. Suppports Android 13+. Pure Java.
@@ -91,4 +92,5 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]
  * [stalker](https://github.com/onerdna/stalker) - An android application for viewing and modifying save files of Shadow FIght 2 game.
  * [tachiyomi2.0](https://github.com/darkfireeee/tachiyomi2.0)
+ * [wgtunnel](https://github.com/wgtunnel/wgtunnel) - A FOSS Android client for WireGuard and AmneziaWG with auto-tunneling.
  * [ziptie](https://github.com/MercuryWorkshop/ziptie) - Manage portable linux containers on your android from another device

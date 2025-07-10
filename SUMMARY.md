@@ -68,6 +68,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [ankihelper-plus](https://github.com/huhuswei/ankihelper-plus)
  * [anyones-IDE-everyomes-IDE](https://github.com/Slinky-86/anyones-IDE-everyomes-IDE) - Created with StackBlitz ⚡️
  * [autodaily](https://github.com/ParadiseZ/autodaily)
+ * [cafetone](https://github.com/evinjohnn/cafetone)
  * [chibiko](https://github.com/bluesky139/chibiko)
  * [cmd-android](https://github.com/niki914/cmd-android) - 基于 Kotlin 协程的 Android Shell 命令执行框架，支持 User、Shizuku 和 Root 三种权限的命令行调用，提供统一易用的挂起式 API
  * [com.catsmoker.app](https://github.com/catsmoker/com.catsmoker.app) - Catsmoker app - Game FPS Unlocker

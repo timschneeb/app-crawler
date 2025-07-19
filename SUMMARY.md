@@ -63,6 +63,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [VivoTools](https://github.com/ItosEO/VivoTools) - 蓝厂工具盒,用于降级GW和电源信息
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [X-Shizuku](https://github.com/Mbilse/X-Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
+ * [XMeizu](https://github.com/ItosEO/XMeizu)
  * [XPlan](https://github.com/ItosEO/XPlan) - X计划，合并版
  * [adhell3](https://github.com/pascua28/adhell3)
  * [android-settings-scheduler](https://github.com/Turtlepaw/android-settings-scheduler) - Schedule any settings that are in the Android Settings app to be changed

@@ -70,6 +70,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [android_airplane_mode](https://github.com/lalakii/android_airplane_mode) - android switch airplane mode by reflection, need shizuku permission.
  * [ankihelper-plus](https://github.com/huhuswei/ankihelper-plus)
  * [anyones-IDE-everyomes-IDE](https://github.com/Slinky-86/anyones-IDE-everyomes-IDE) - Created with StackBlitz ⚡️
+ * [appflutter](https://github.com/iFor-Lux/appflutter)
  * [autodaily](https://github.com/ParadiseZ/autodaily)
  * [cafetone](https://github.com/evinjohnn/cafetone)
  * [chibiko](https://github.com/bluesky139/chibiko)

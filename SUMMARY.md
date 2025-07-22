@@ -15,6 +15,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [Android-AccessibilityGrant](https://github.com/MagicianGuo/Android-AccessibilityGrant) - 能够一键为应用授予辅助功能（无障碍）权限，需要Shizuku
  * [Android-FPS-Watcher](https://github.com/WuDi-ZhanShen/Android-FPS-Watcher) - Monitor RealTime FPS. Suppports Android 13+. Pure Java.
  * [Android_KMP_Compilation](https://github.com/hojat72elect/Android_KMP_Compilation) - A collection of Android and Kotlin-Multiplatform apps
+ * [ApkPatch](https://github.com/Party233/ApkPatch) - 免root框架
  * [App Lock](https://github.com/PranavPurwar/AppLock) - Secure your sensitive apps with powerful biometric protection using AppLock!
  * [AttackerAppJava](https://github.com/it4ch1-007/AttackerAppJava)
  * [AudioControlApp](https://github.com/SwastikChamp2/AudioControlApp)
@@ -45,6 +46,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
  * [Operit](https://github.com/AAswordman/Operit) - An android AI agent can automatically operate your mobile phone
  * [Private DNS Quick Setting](https://github.com/flashsphere/private-dns-qs) - Toggle Private DNS from Quick Settings
+ * [Project-Anti](https://github.com/HeartlessVeteran2/Project-Anti)
  * [Quick-Tile-Settings](https://github.com/RBN-Apps/Quick-Tile-Settings) - An Android app that supplies Quick Settings tiles for toggling system preferences. It currently offers Private DNS (Off/Auto/Different Hostnames) and USB Debugging (On/Off) with optional auto-revert.
  * [QuickTile Settings](https://github.com/RBN-Apps/Quick-Tile-Settings) - Manage Private DNS & USB Debugging via Quick Tile Settings tiles & Auto-revert.
  * [RotaenoUploader](https://github.com/milkycandy/RotaenoUploader) - Rotaeno存档上传器
@@ -66,6 +68,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [X-Shizuku](https://github.com/Mbilse/X-Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
  * [XMeizu](https://github.com/ItosEO/XMeizu)
  * [XPlan](https://github.com/ItosEO/XPlan) - X计划，合并版
+ * [Zxcvcx-](https://github.com/eden-ana/Zxcvcx-)
  * [adhell3](https://github.com/pascua28/adhell3)
  * [android-settings-scheduler](https://github.com/Turtlepaw/android-settings-scheduler) - Schedule any settings that are in the Android Settings app to be changed
  * [android_airplane_mode](https://github.com/lalakii/android_airplane_mode) - android switch airplane mode by reflection, need shizuku permission.
@@ -81,6 +84,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [fakelauncher](https://github.com/ZH-XiJun/fakelauncher) - I swear, it is really just a feature phone, not a smart phone!
  * [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
  * [gemini-android](https://github.com/niki914/gemini-android) - Let gemini control your Android phone through function calling. 通过FunctionCalling让Gemini操控安卓手机。
+ * [iQooTool](https://github.com/shivammanav22/iQooTool) - Compact allrounder tool for most android devices 
  * [kdeconnect-android-shizuku](https://github.com/Shoukaku39/kdeconnect-android-shizuku) - Forked from KDE Connect Android. Adds Shizuku support to bypass clipboard access restrictions on Android 10+ without using READ_LOGS or manual ADB shell. 基于 KDE Connect Android 的分支，添加对 Shizuku 的支持，在无需请求 READ_LOGS 或手动 ADB 授权的情况下，绕过 Android 10+ 剪贴板访问限制。
  * [li](https://github.com/lousli/li) - 安卓去广告
  * [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ
@@ -99,5 +103,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]
  * [stalker](https://github.com/onerdna/stalker) - An android application for viewing and modifying save files of Shadow FIght 2 game.
  * [tachiyomi2.0](https://github.com/darkfireeee/tachiyomi2.0)
+ * [underclocker](https://github.com/pascua28/underclocker)
  * [wgtunnel](https://github.com/wgtunnel/wgtunnel) - A FOSS Android client for WireGuard and AmneziaWG with auto-tunneling.
  * [ziptie](https://github.com/MercuryWorkshop/ziptie) - Manage portable linux containers on your android from another device

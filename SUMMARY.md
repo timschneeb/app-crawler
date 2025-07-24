@@ -80,6 +80,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [chibiko](https://github.com/bluesky139/chibiko)
  * [cmd-android](https://github.com/niki914/cmd-android) - 基于 Kotlin 协程的 Android Shell 命令执行框架，支持 User、Shizuku 和 Root 三种权限的命令行调用，提供统一易用的挂起式 API
  * [com.catsmoker.app](https://github.com/catsmoker/com.catsmoker.app) - Catsmoker app - Game FPS Unlocker
+ * [dev-archive](https://github.com/moruklabs/dev-archive)
  * [everyones-APPS](https://github.com/Slinky-86/everyones-APPS) - Created with StackBlitz ⚡️
  * [fakelauncher](https://github.com/ZH-XiJun/fakelauncher) - I swear, it is really just a feature phone, not a smart phone!
  * [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust

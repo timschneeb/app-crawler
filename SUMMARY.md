@@ -27,6 +27,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [ControllerMapper](https://github.com/anhquan7826/ControllerMapper)
  * [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新（2025.7.14：太史山了，最近在kmp上重写了一个，这一坨就当黑历史了，等kmp重写完再放上来）
  * [DeviceOptimizeHelper](https://github.com/sbmatch/DeviceOptimizeHelper)
+ * [Elite-G](https://github.com/DivyanshNagda/Elite-G) - 🚀 EliteG - Boost Android gaming performance by up to 80%! Optimize FPS, reduce lag, and save battery. Works with/without root. Based on Mathias Boulay's Android-Game-Booster with enhanced features. #Android #Gaming #Performance
  * [EliteGaming](https://github.com/DivyanshNagda/EliteGaming) - 🚀 EliteG - Boost Android gaming performance by up to 80%! Optimize FPS, reduce lag, and save battery. Works with/without root. Based on Mathias Boulay's Android-Game-Booster with enhanced features. #Android #Gaming #Performance
  * [FlymeFrameTools](https://github.com/Ruyue-Kinsenka/FlymeFrameTools) - 利用shuzuki无root管理flyme插帧超分的app名单
  * [FreezeApp](https://github.com/JuneLeo/FreezeApp)
@@ -49,6 +50,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [Project-Anti](https://github.com/HeartlessVeteran2/Project-Anti)
  * [Quick-Tile-Settings](https://github.com/RBN-Apps/Quick-Tile-Settings) - An Android app that supplies Quick Settings tiles for toggling system preferences. It currently offers Private DNS (Off/Auto/Different Hostnames) and USB Debugging (On/Off) with optional auto-revert.
  * [QuickTile Settings](https://github.com/RBN-Apps/Quick-Tile-Settings) - Manage Private DNS & USB Debugging via Quick Tile Settings tiles & Auto-revert.
+ * [RebootNya](https://github.com/daisukiKaffuChino/RebootNya)
  * [RotaenoUploader](https://github.com/milkycandy/RotaenoUploader) - Rotaeno存档上传器
  * [RunnerStub](https://github.com/yangFenTuoZi/RunnerStub)
  * [SFS-CustomTranslations-Installer](https://github.com/youfeng11/SFS-CustomTranslations-Installer)
@@ -75,7 +77,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [android_airplane_mode](https://github.com/lalakii/android_airplane_mode) - android switch airplane mode by reflection, need shizuku permission.
  * [ankihelper-plus](https://github.com/huhuswei/ankihelper-plus)
  * [anyones-IDE-everyomes-IDE](https://github.com/Slinky-86/anyones-IDE-everyomes-IDE) - Created with StackBlitz ⚡️
- * [appflutter](https://github.com/iFor-Lux/appflutter)
  * [autodaily](https://github.com/ParadiseZ/autodaily)
  * [cafetone](https://github.com/evinjohnn/cafetone)
  * [chibiko](https://github.com/bluesky139/chibiko)
@@ -107,5 +108,4 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [stalker](https://github.com/onerdna/stalker) - An android application for viewing and modifying save files of Shadow FIght 2 game.
  * [tachiyomi2.0](https://github.com/darkfireeee/tachiyomi2.0)
  * [underclocker](https://github.com/pascua28/underclocker)
- * [wgtunnel](https://github.com/wgtunnel/wgtunnel) - A FOSS Android client for WireGuard and AmneziaWG with auto-tunneling.
  * [ziptie](https://github.com/MercuryWorkshop/ziptie) - Manage portable linux containers on your android from another device

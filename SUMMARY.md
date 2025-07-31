@@ -50,7 +50,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [Project-Anti](https://github.com/HeartlessVeteran2/Project-Anti)
  * [Quick-Tile-Settings](https://github.com/RBN-Apps/Quick-Tile-Settings) - An Android app that supplies Quick Settings tiles for toggling system preferences. It currently offers Private DNS (Off/Auto/Different Hostnames) and USB Debugging (On/Off) with optional auto-revert.
  * [QuickTile Settings](https://github.com/RBN-Apps/Quick-Tile-Settings) - Manage Private DNS & USB Debugging via Quick Tile Settings tiles & Auto-revert.
- * [RebootNya](https://github.com/daisukiKaffuChino/RebootNya)
+ * [RebootNya](https://github.com/daisukiKaffuChino/RebootNya) - RebootNya is a simple yet advanced reboot application that supports both Root and Shizuku modes!
  * [RotaenoUploader](https://github.com/milkycandy/RotaenoUploader) - Rotaeno存档上传器
  * [RunnerStub](https://github.com/yangFenTuoZi/RunnerStub)
  * [SFS-CustomTranslations-Installer](https://github.com/youfeng11/SFS-CustomTranslations-Installer)
@@ -88,6 +88,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [freefire-aimbot-android](https://github.com/nildo157/freefire-aimbot-android)
  * [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
  * [gemini-android](https://github.com/niki914/gemini-android) - Let gemini control your Android phone through function calling. 通过FunctionCalling让Gemini操控安卓手机。
+ * [haval-app-tool-multimidia](https://github.com/bobaoapae/haval-app-tool-multimidia)
  * [iQooTool](https://github.com/shivammanav22/iQooTool) - Compact allrounder tool for most android devices 
  * [kdeconnect-android-shizuku](https://github.com/Shoukaku39/kdeconnect-android-shizuku) - Forked from KDE Connect Android. Adds Shizuku support to bypass clipboard access restrictions on Android 10+ without using READ_LOGS or manual ADB shell. 基于 KDE Connect Android 的分支，添加对 Shizuku 的支持，在无需请求 READ_LOGS 或手动 ADB 授权的情况下，绕过 Android 10+ 剪贴板访问限制。
  * [li](https://github.com/lousli/li) - 安卓去广告
@@ -105,7 +106,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [secure-sense](https://github.com/Icetok/secure-sense) - Privacy monitoring app for Android
  * [setbox](https://github.com/YasserNull/setbox)
  * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]
- * [stalker](https://github.com/onerdna/stalker) - An android application for viewing and modifying save files of Shadow FIght 2 game.
  * [tachiyomi2.0](https://github.com/darkfireeee/tachiyomi2.0)
  * [underclocker](https://github.com/pascua28/underclocker)
  * [ziptie](https://github.com/MercuryWorkshop/ziptie) - Manage portable linux containers on your android from another device

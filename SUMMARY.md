@@ -40,7 +40,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [LogCollector](https://github.com/thekosa/LogCollector) - Android application designed to collect and manage Android system logs
  * [Loki](https://github.com/trinadhthatakula/Loki) - Android App logger
  * [LuaHook](https://github.com/KuLiPai/LuaHook) - A module for writing Xposed scripts via Lua
- * [LumiManager](https://github.com/C0C0B01/LumiManager)
  * [MahjongClubBooster](https://github.com/OlegPV2/MahjongClubBooster) - One button only
  * [MndroLua](https://github.com/Crescent-of-Maya/MndroLua) - A modern fork of AndroLua+ / 更加现代的 AndroLua+ 魔改版
  * [Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
@@ -88,7 +87,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [freefire-aimbot-android](https://github.com/nildo157/freefire-aimbot-android)
  * [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
  * [gemini-android](https://github.com/niki914/gemini-android) - Let gemini control your Android phone through function calling. 通过FunctionCalling让Gemini操控安卓手机。
- * [haval-app-tool-multimidia](https://github.com/bobaoapae/haval-app-tool-multimidia)
+ * [haval-app-tool-multimidia](https://github.com/bobaoapae/haval-app-tool-multimidia) - Ferramenta Android experimental para estender e aprimorar o sistema multimídia do Haval H6 GT (GWM) via engenharia reversa e Shizuku
  * [iQooTool](https://github.com/shivammanav22/iQooTool) - Compact allrounder tool for most android devices 
  * [kdeconnect-android-shizuku](https://github.com/Shoukaku39/kdeconnect-android-shizuku) - Forked from KDE Connect Android. Adds Shizuku support to bypass clipboard access restrictions on Android 10+ without using READ_LOGS or manual ADB shell. 基于 KDE Connect Android 的分支，添加对 Shizuku 的支持，在无需请求 READ_LOGS 或手动 ADB 授权的情况下，绕过 Android 10+ 剪贴板访问限制。
  * [li](https://github.com/lousli/li) - 安卓去广告

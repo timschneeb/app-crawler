@@ -16,7 +16,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [Android-FPS-Watcher](https://github.com/WuDi-ZhanShen/Android-FPS-Watcher) - Monitor RealTime FPS. Suppports Android 13+. Pure Java.
  * [Android_KMP_Compilation](https://github.com/hojat72elect/Android_KMP_Compilation) - A collection of Android and Kotlin-Multiplatform apps
  * [ApkPatch](https://github.com/Party233/ApkPatch) - 免root框架
- * [App Lock](https://github.com/PranavPurwar/AppLock) - Secure your sensitive apps with powerful biometric protection using AppLock!
  * [AttackerAppJava](https://github.com/it4ch1-007/AttackerAppJava)
  * [AudioControlApp](https://github.com/SwastikChamp2/AudioControlApp)
  * [AutoRestart](https://github.com/madkarmaa/AutoRestart) - Restart your device on a specific day and time, with the help of Shizuku
@@ -43,12 +42,8 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [MndroLua](https://github.com/Crescent-of-Maya/MndroLua) - A modern fork of AndroLua+ / 更加现代的 AndroLua+ 魔改版
  * [Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
  * [Operit](https://github.com/AAswordman/Operit) - An android AI agent can automatically operate your mobile phone
- * [PackageInstaller](https://github.com/vvb2060/PackageInstaller) - A lightweight yet powerful package installer for Android.
  * [Private DNS Quick Setting](https://github.com/flashsphere/private-dns-qs) - Toggle Private DNS from Quick Settings
  * [Project-Anti](https://github.com/HeartlessVeteran2/Project-Anti)
- * [Quick-Tile-Settings](https://github.com/RBN-Apps/Quick-Tile-Settings) - An Android app that supplies Quick Settings tiles for toggling system preferences. It currently offers Private DNS (Off/Auto/Different Hostnames) and USB Debugging (On/Off) with optional auto-revert.
- * [QuickTile Settings](https://github.com/RBN-Apps/Quick-Tile-Settings) - Manage Private DNS & USB Debugging via Quick Tile Settings tiles & Auto-revert.
- * [RebootNya](https://github.com/daisukiKaffuChino/RebootNya) - RebootNya is a simple yet advanced reboot application that supports both Root and Shizuku modes!
  * [RotaenoUploader](https://github.com/milkycandy/RotaenoUploader) - Rotaeno存档上传器
  * [RunnerStub](https://github.com/yangFenTuoZi/RunnerStub)
  * [SFS-CustomTranslations-Installer](https://github.com/youfeng11/SFS-CustomTranslations-Installer)
@@ -99,7 +94,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [reactmap-android](https://github.com/Mygod/reactmap-android) - Android WebView app for ReactMap with added goodies
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
  * [secure-sense](https://github.com/Icetok/secure-sense) - Privacy monitoring app for Android
- * [setbox](https://github.com/YasserNull/setbox)
  * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]
  * [stalker](https://github.com/onerdna/stalker) - An android application for viewing and modifying save files of Shadow FIght 2 game.
  * [tachiyomi2.0](https://github.com/darkfireeee/tachiyomi2.0)

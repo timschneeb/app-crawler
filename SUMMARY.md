@@ -56,7 +56,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [Sui-Fold6](https://github.com/kevins-gitu/Sui-Fold6)
  * [SuperWindow](https://github.com/eiyooooo/SuperWindow) - 超级视窗 | Enhance multi-task experience for large-screen Android devices
  * [SysProxy](https://github.com/Kr328/SysProxy) - A tiny app to set system proxy on Android. (Root required)
- * [SystemInsight](https://github.com/dgomon/SystemInsight)
  * [Task-manager-app](https://github.com/Swayam7Garg/Task-manager-app)
  * [TimerAndroid](https://github.com/HNIdesu/TimerAndroid) - 定时关闭指定的应用，支持Magisk和Shizuku。
  * [Tiny-Installer](https://github.com/scto/Tiny-Installer) - A Package Installer with MD3 UI.

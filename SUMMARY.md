@@ -15,7 +15,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [Android-AccessibilityGrant](https://github.com/MagicianGuo/Android-AccessibilityGrant) - 能够一键为应用授予辅助功能（无障碍）权限，需要Shizuku
  * [Android-FPS-Watcher](https://github.com/WuDi-ZhanShen/Android-FPS-Watcher) - Monitor RealTime FPS. Suppports Android 13+. Pure Java.
  * [Android_KMP_Compilation](https://github.com/hojat72elect/Android_KMP_Compilation) - A collection of Android and Kotlin-Multiplatform apps
- * [ApkPatch](https://github.com/Party233/ApkPatch) - 免root框架
  * [AttackerAppJava](https://github.com/it4ch1-007/AttackerAppJava)
  * [AudioControlApp](https://github.com/SwastikChamp2/AudioControlApp)
  * [AutoRestart](https://github.com/madkarmaa/AutoRestart) - Restart your device on a specific day and time, with the help of Shizuku

@@ -64,6 +64,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [XMeizu](https://github.com/ItosEO/XMeizu)
  * [XPlan](https://github.com/ItosEO/XPlan) - X计划，合并版
  * [Zxcvcx-](https://github.com/eden-ana/Zxcvcx-)
+ * [adhell3](https://github.com/pascua28/adhell3)
  * [android-settings-scheduler](https://github.com/Turtlepaw/android-settings-scheduler) - Schedule any settings that are in the Android Settings app to be changed
  * [android_airplane_mode](https://github.com/lalakii/android_airplane_mode) - android switch airplane mode by reflection, need shizuku permission.
  * [ankihelper-plus](https://github.com/huhuswei/ankihelper-plus)

@@ -30,6 +30,8 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [EliteGaming](https://github.com/DivyanshNagda/EliteGaming) - 🚀 EliteG - Boost Android gaming performance by up to 80%! Optimize FPS, reduce lag, and save battery. Works with/without root. Based on Mathias Boulay's Android-Game-Booster with enhanced features. #Android #Gaming #Performance
  * [FlymeFrameTools](https://github.com/Ruyue-Kinsenka/FlymeFrameTools) - 利用shuzuki无root管理flyme插帧超分的app名单
  * [FreezeApp](https://github.com/JuneLeo/FreezeApp)
+ * [GGG](https://github.com/libea18/GGG)
+ * [GitHubTrendingRSS](https://github.com/mzy-ly/GitHubTrendingRSS) - GitHub热门项目的非官方RSS源生成器 Unofficial RSS feed generator for GitHub Trending
  * [HesleyTools](https://github.com/ldh-star/HesleyTools) - 自用工具/模块
  * [HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！
  * [Hz-Changer](https://github.com/MARCOS-S-S/Hz-Changer) - Under development! Simple, light, free and functional hz changer app.
@@ -86,6 +88,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
  * [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ
  * [mewtachi](https://github.com/xaolanx/mewtachi)
  * [modtoon_module](https://github.com/Inhaleoxygen/modtoon_module)
+ * [mountain](https://github.com/lisproj/mountain)
  * [muxueanzhuangqi](https://github.com/yuan-shiguang/muxueanzhuangqi)
  * [open-automate](https://github.com/woliver99/open-automate)
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.

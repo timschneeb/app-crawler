@@ -5,7 +5,10 @@ import time
 import multiprocessing as mp
 import tempfile
 
+from github.Repository import Repository
+
 import util
+from score import calc_github_score
 from .scanner import Scanner, App
 
 from github import Github, Auth
@@ -21,7 +24,7 @@ class GithubMetaScanner(Scanner):
         self.exclude = exclude
         self.process_count = process_count
 
-    def check_repo(self, args):
+    def check_repo(self, args: App):
         temp_dir = tempfile.TemporaryDirectory()
 
         name = args.name
@@ -41,7 +44,7 @@ class GithubMetaScanner(Scanner):
         return_code = result.returncode
 
         if return_code == 0:
-            app.append(App(name, desc, [url], type(self).__name__))
+            app.append(App(name, desc, [url], type(self).__name__, args.score))
 
         temp_dir.cleanup()
         return app
@@ -54,14 +57,17 @@ class GithubMetaScanner(Scanner):
         print(f'github_meta: found {results.totalCount} repos')
 
         full_results = []
-        for repo in tqdm(range(0, results.totalCount)):
+        for repo_idx in tqdm(range(0, results.totalCount)):
+            repo: Repository = results[repo_idx]
+            
+            
             try:
-                full_results.append(App(results[repo].name, results[repo].description, [results[repo].html_url], type(self).__name__))
+                full_results.append(App(repo.name, repo.description, [repo.html_url], type(self).__name__, calc_github_score(repo)))
                 time.sleep(0.1)
             except RateLimitExceededException:
                 print("github_meta: rate limit exceeded")
                 time.sleep(60)
-                full_results.append(App(results[repo].name, results[repo].description, [results[repo].html_url], type(self).__name__))
+                full_results.append(App(repo.name, repo.description, [repo.html_url], type(self).__name__, calc_github_score(repo)))
 
         filtered_results = util.filter_known_apps(self.readme_paths, full_results, self.exclude)
 

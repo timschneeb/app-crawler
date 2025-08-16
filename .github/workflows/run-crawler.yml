@@ -21,11 +21,11 @@ jobs:
       cache-key: crawler-cache-new
 
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v5
       with:
         repository: thepbone/app-crawler
 
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v5
       with:
         repository: thepbone/awesome-shizuku
         path: './list'
@@ -52,6 +52,7 @@ jobs:
       run: |
         python main.py ./list
         cat SUMMARY.md >> $GITHUB_STEP_SUMMARY
+        cat SUMMARY_RANKED.md >> $GITHUB_STEP_SUMMARY
 
     - name: Delete previous cache
       if: ${{ steps.cache-restore.outputs.cache-hit }}
@@ -69,10 +70,10 @@ jobs:
         key: ${{ env.cache-key }}
 
     - name: Publish summary changes
-      uses: stefanzweifel/git-auto-commit-action@v5
+      uses: stefanzweifel/git-auto-commit-action@v6
       with:
-        commit_message: Update SUMMARY.md
-        file_pattern: ./SUMMARY.md
+        commit_message: Update SUMMARY*.md
+        file_pattern: ./SUMMARY*.md
         commit_author: "Tim Schneeberger <38386967+timschneeb@users.noreply.github.com>"
 
         

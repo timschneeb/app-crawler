@@ -17,8 +17,8 @@ def calc_github_score(repo: Repository, trace: bool = False) -> float:
         
         weights = {
             "active": 30,
-            "description": 10,
-            "readme": 20,
+            "description": 20,
+            "readme": 25,
             "release_download": 40,
             "english_desc": 25,
             "stars": 30  # stars will be scaled

@@ -6,9 +6,10 @@ import multiprocessing as mp
 import tempfile
 
 import util
+from score import calc_github_score
 from .scanner import Scanner, App
 
-from github import Github, Auth
+from github import Github, Auth, ContentFile
 from github.GithubException import RateLimitExceededException
 from tqdm import tqdm
 from git import Repo
@@ -30,13 +31,16 @@ class GithubCodeScanner(Scanner):
 
         full_results = []
         for repo in tqdm(range(0, results.totalCount - 1)):
+            file: ContentFile = results[repo]
             try:
-                full_results.append(App(results[repo].repository.name, results[repo].repository.description, [results[repo].repository.html_url], type(self).__name__))
+                score = calc_github_score(file.repository)
+                full_results.append(App(file.repository.name, file.repository.description, [file.repository.html_url], type(self).__name__, score))
                 time.sleep(0.1)
             except RateLimitExceededException:
                 print("github_code: rate limit exceeded")
                 time.sleep(1)
-                full_results.append(App(results[repo].repository.name, results[repo].repository.description, [results[repo].repository.html_url], type(self).__name__))
+                score = calc_github_score(file.repository)
+                full_results.append(App(file.repository.name, file.repository.description, [file.repository.html_url], type(self).__name__, score))
             except IndexError as e:
                 print(f'github_code: index error: {e}')
                 continue

@@ -5,6 +5,8 @@ import time
 import multiprocessing as mp
 import tempfile
 
+from github.Repository import Repository
+
 import util
 from .scanner import Scanner, App
 
@@ -54,14 +56,17 @@ class GithubMetaScanner(Scanner):
         print(f'github_meta: found {results.totalCount} repos')
 
         full_results = []
-        for repo in tqdm(range(0, results.totalCount)):
+        for repo_idx in tqdm(range(0, results.totalCount)):
+            repo: Repository = results[repo_idx]
+            
+            
             try:
-                full_results.append(App(results[repo].name, results[repo].description, [results[repo].html_url], type(self).__name__))
+                full_results.append(App(repo.name, repo.description, [repo.html_url], type(self).__name__))
                 time.sleep(0.1)
             except RateLimitExceededException:
                 print("github_meta: rate limit exceeded")
                 time.sleep(60)
-                full_results.append(App(results[repo].name, results[repo].description, [results[repo].html_url], type(self).__name__))
+                full_results.append(App(repo.name, repo.description, [repo.html_url], type(self).__name__))
 
         filtered_results = util.filter_known_apps(self.readme_paths, full_results, self.exclude)
 

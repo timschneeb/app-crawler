@@ -23,7 +23,7 @@ def scan_apps(readme_paths, github_auth):
     return sorted(set(apps), key=attrgetter('name'))
 
 
-def write_report(report_path, apps):
+def write_report(report_path, apps, ranked):
     with (open(report_path, 'w') as f):
         report = ("## Scan results\n"
                   "> [!IMPORTANT]\n"
@@ -37,17 +37,24 @@ def write_report(report_path, apps):
                   "Typically, these apps will be added to the list as soon as possible; however, unfinished apps are usually left in this document until they reach a usable state.\n"
                   "\n")
 
-        for app in apps:
+        if not ranked:
+            report += "Sort by: [name] | [score](SUMMARY_RANKED.md)\n\n"
+        else:
+            report += "Sort by: [name](SUMMARY.md) | [score]\n\n"
+            report += "Entries are sorted by a score that is calculated based on quality of the linked repository (readme, downloads, stars, etc.).\n\n"
+
+        for app in sorted(apps, key=lambda x: x.score, reverse=True):
             if len(app.urls) > 0:
-                report += f" * [{app.name}]({app.urls[0]})"
+                report += f" * [{app.score}] [{app.name}]({app.urls[0]})"
             else:
-                report += f" * {app.name}"
+                report += f" * [{app.score}] {app.name}"
 
             if app.desc is not None:
                 report += f" - {app.desc}"
             report += "\n"
 
         f.write(report)
+            
 
 
 def main():
@@ -66,6 +73,7 @@ def main():
     path = args.targetPath
     readme_paths = glob.glob(path + '/*.md') + glob.glob(path + '/pages/UNLISTED.md')
     report_path = os.getcwd() + "/" + summary_file
+    report_ranked_path = os.getcwd() + summary_file.replace(".md", "") + "_RANKED.md"
     name_ignore_list_path = os.path.dirname(os.path.realpath(__file__)) + "/ignore_list.lst"
 
     ignore_list_file = open(name_ignore_list_path, 'r')
@@ -92,7 +100,8 @@ def main():
     apps = util.filter_known_apps(readme_paths, apps)
     apps = list(filter(remove_ignored_entries, apps))
 
-    write_report(report_path, apps)
+    write_report(report_path, apps, ranked=False)
+    write_report(report_ranked_path, apps, ranked=True)
 
     # Print to console
     for app in apps:

@@ -3,11 +3,13 @@ from typing import List
 
 
 class App:
-    def __init__(self, name: str, desc: str, urls: List[str], scanner: str):
+    def __init__(self, name: str, desc: str, urls: List[str], scanner: str, score: float = 0):
+        assert 0 <= score <= 100, "Score must be between 0 and 100"
         self.name = name
         self.desc = desc
         self.urls = urls
         self.scanner = scanner
+        self.score = score
 
     def __hash__(self):
         return hash(self.name)

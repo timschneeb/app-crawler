@@ -46,9 +46,11 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [68.32] [SysProxy](https://github.com/Kr328/SysProxy) - A tiny app to set system proxy on Android. (Root required)
  * [68.00] [Tiny-Installer](https://github.com/scto/Tiny-Installer) - A Package Installer with MD3 UI.
  * [68.00] [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
+ * [68.00] [com.catsmoker.app](https://github.com/catsmoker/com.catsmoker.app) - Catsmoker app - Game FPS Unlocker
  * [67.96] [HesleyTools](https://github.com/ldh-star/HesleyTools) - 自用工具/模块
  * [67.96] [cmd-android](https://github.com/niki914/cmd-android) - 基于 Kotlin 协程的 Android Shell 命令执行框架，支持 User、Shizuku 和 Root 三种权限的命令行调用，提供统一易用的挂起式 API
  * [67.82] [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新（2025.7.14：太史山了，最近在kmp上重写了一个，这一坨就当黑历史了，等kmp重写完再放上来）
+ * [67.79] [Loki](https://github.com/trinadhthatakula/Loki) - Android App logger
  * [67.79] [haval-app-tool-multimidia](https://github.com/bobaoapae/haval-app-tool-multimidia) - Ferramenta Android experimental para estender e aprimorar o sistema multimídia do Haval H6 GT (GWM) via engenharia reversa e Shizuku
  * [67.72] [Android_KMP_Compilation](https://github.com/hojat72elect/Android_KMP_Compilation) - A collection of Android and Kotlin-Multiplatform apps
  * [67.72] [AutoRestart](https://github.com/madkarmaa/AutoRestart) - Restart your device on a specific day and time, with the help of Shizuku
@@ -101,9 +103,7 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [23.56] [ControllerMapper](https://github.com/anhquan7826/ControllerMapper)
  * [0.00] [AssistApp](https://github.com/Error404rt/AssistApp) - AssistApp The assistant app speeds up interaction with the game Shizuku permission is required to launch the app
  * [0.00] [KeyboardSwitcher](https://github.com/SgLy/KeyboardSwitcher) - Adds a quick setting tile for quickly switching keyboard (input method)
- * [0.00] [Loki](https://github.com/trinadhthatakula/Loki) - Android App logger
  * [0.00] [Project-Anti](https://github.com/HeartlessVeteran2/Project-Anti)
  * [0.00] [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Module to change country for tiktok to Belarus(for russian)
  * [0.00] [Tweak-Android](https://github.com/lumkit/Tweak-Android) - 多功能安卓手机玩机工具箱
- * [0.00] [com.catsmoker.app](https://github.com/catsmoker/com.catsmoker.app) - Catsmoker app - Game FPS Unlocker
  * [0.00] [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.

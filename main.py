@@ -44,7 +44,7 @@ def write_report(report_path, apps, ranked):
             report += "Entries are sorted by a score that is calculated based on quality of the linked repository (readme, downloads, stars, etc.).\n\n"
 
         for app in sorted(apps, key=lambda x: x.score, reverse=True):
-            score_str = f"[{app.score}] " if ranked else ""    
+            score_str = f"[{"{:.2f}".format(app.score)}] " if ranked else ""    
             
             if len(app.urls) > 0:
                 report += f" * {score_str}[{app.name}]({app.urls[0]})"

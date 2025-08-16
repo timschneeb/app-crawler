@@ -40,7 +40,7 @@ def write_report(report_path, apps, ranked):
         if not ranked:
             report += "Sort by: [name] | [score](SUMMARY_RANKED.md)\n\n"
         else:
-            sorted(apps, key=lambda x: x.score, reverse=True)
+            apps = sorted(apps, key=lambda x: x.score, reverse=True)
             report += "Sort by: [name](SUMMARY.md) | [score]\n\n"
             report += "Entries are sorted by a score that is calculated based on quality of the linked repository (readme, downloads, stars, etc.).\n\n"
 

@@ -40,10 +40,11 @@ def write_report(report_path, apps, ranked):
         if not ranked:
             report += "Sort by: [name] | [score](SUMMARY_RANKED.md)\n\n"
         else:
+            sorted(apps, key=lambda x: x.score, reverse=True)
             report += "Sort by: [name](SUMMARY.md) | [score]\n\n"
             report += "Entries are sorted by a score that is calculated based on quality of the linked repository (readme, downloads, stars, etc.).\n\n"
 
-        for app in sorted(apps, key=lambda x: x.score, reverse=True):
+        for app in apps:
             score_str = f"[{"{:.2f}".format(app.score)}] " if ranked else ""    
             
             if len(app.urls) > 0:
@@ -75,7 +76,7 @@ def main():
     path = args.targetPath
     readme_paths = glob.glob(path + '/*.md') + glob.glob(path + '/pages/UNLISTED.md')
     report_path = os.getcwd() + "/" + summary_file
-    report_ranked_path = os.getcwd() + summary_file.replace(".md", "") + "_RANKED.md"
+    report_ranked_path = os.getcwd() + "/" + summary_file.replace(".md", "") + "_RANKED.md"
     name_ignore_list_path = os.path.dirname(os.path.realpath(__file__)) + "/ignore_list.lst"
 
     ignore_list_file = open(name_ignore_list_path, 'r')

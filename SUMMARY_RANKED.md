@@ -20,7 +20,7 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [85.18] [LuaHook](https://github.com/KuLiPai/LuaHook) - A module for writing Xposed scripts via Lua
  * [84.08] [private-dns-qs](https://github.com/flashsphere/private-dns-qs) - Android app that adds a quick setting tile to toggle the Private DNS setting on Android 9.0+
  * [83.16] [fakelauncher](https://github.com/ZH-XiJun/fakelauncher) - I swear, it is really just a feature phone, not a smart phone!
- * [83.02] [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ
+ * [83.06] [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ
  * [82.88] [kdeconnect-android-shizuku](https://github.com/Shoukaku39/kdeconnect-android-shizuku) - Forked from KDE Connect Android. Adds Shizuku support to bypass clipboard access restrictions on Android 10+ without using READ_LOGS or manual ADB shell. 基于 KDE Connect Android 的分支，添加对 Shizuku 的支持，在无需请求 READ_LOGS 或手动 ADB 授权的情况下，绕过 Android 10+ 剪贴板访问限制。
  * [82.85] [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]
  * [82.74] [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
@@ -29,8 +29,8 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [82.64] [reactmap-android](https://github.com/Mygod/reactmap-android) - Android WebView app for ReactMap with added goodies
  * [82.60] [ziptie](https://github.com/MercuryWorkshop/ziptie) - Manage portable linux containers on your android from another device
  * [82.56] [SuperWindow](https://github.com/eiyooooo/SuperWindow) - 超级视窗 | Enhance multi-task experience for large-screen Android devices
+ * [82.53] [X-Shizuku](https://github.com/Mbilse/X-Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
  * [82.53] [gemini-android](https://github.com/niki914/gemini-android) - Let gemini control your Android phone through function calling. 通过FunctionCalling让Gemini操控安卓手机。
- * [82.49] [X-Shizuku](https://github.com/Mbilse/X-Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
  * [82.46] [Android-FPS-Watcher](https://github.com/WuDi-ZhanShen/Android-FPS-Watcher) - Monitor RealTime FPS. Suppports Android 13+. Pure Java.
  * [82.46] [android-settings-scheduler](https://github.com/Turtlepaw/android-settings-scheduler) - Schedule any settings that are in the Android Settings app to be changed
  * [82.46] [stalker](https://github.com/onerdna/stalker) - An android application for viewing and modifying save files of Shadow FIght 2 game.
@@ -46,8 +46,8 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [68.32] [SysProxy](https://github.com/Kr328/SysProxy) - A tiny app to set system proxy on Android. (Root required)
  * [68.00] [Tiny-Installer](https://github.com/scto/Tiny-Installer) - A Package Installer with MD3 UI.
  * [68.00] [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
+ * [67.96] [HesleyTools](https://github.com/ldh-star/HesleyTools) - 自用工具/模块
  * [67.96] [cmd-android](https://github.com/niki914/cmd-android) - 基于 Kotlin 协程的 Android Shell 命令执行框架，支持 User、Shizuku 和 Root 三种权限的命令行调用，提供统一易用的挂起式 API
- * [67.93] [HesleyTools](https://github.com/ldh-star/HesleyTools) - 自用工具/模块
  * [67.82] [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新（2025.7.14：太史山了，最近在kmp上重写了一个，这一坨就当黑历史了，等kmp重写完再放上来）
  * [67.79] [haval-app-tool-multimidia](https://github.com/bobaoapae/haval-app-tool-multimidia) - Ferramenta Android experimental para estender e aprimorar o sistema multimídia do Haval H6 GT (GWM) via engenharia reversa e Shizuku
  * [67.72] [Android_KMP_Compilation](https://github.com/hojat72elect/Android_KMP_Compilation) - A collection of Android and Kotlin-Multiplatform apps
@@ -61,7 +61,7 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [67.65] [li](https://github.com/lousli/li) - 安卓去广告
  * [64.74] [MndroLua](https://github.com/Crescent-of-Maya/MndroLua) - A modern fork of AndroLua+ / 更加现代的 AndroLua+ 魔改版
  * [58.71] [DeviceOptimizeHelper](https://github.com/sbmatch/DeviceOptimizeHelper)
- * [56.02] [AIDE-Plus-AS](https://github.com/Familyye/AIDE-Plus-AS)
+ * [56.06] [AIDE-Plus-AS](https://github.com/Familyye/AIDE-Plus-AS)
  * [56.02] [SFS-CustomTranslations-Installer](https://github.com/youfeng11/SFS-CustomTranslations-Installer)
  * [56.02] [adhell3](https://github.com/pascua28/adhell3)
  * [56.02] [ankihelper-plus](https://github.com/huhuswei/ankihelper-plus)

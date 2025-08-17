@@ -13,7 +13,7 @@ Sort by: [name](SUMMARY.md) | [score]
 Entries are sorted by a score that is calculated based on quality of the linked repository (readme, downloads, stars, etc.).
 
  * [100.00] [Operit](https://github.com/AAswordman/Operit) - An android AI agent can automatically operate your mobile phone
- * [85.60] [JumpReplay](https://github.com/FourTwooo/JumpReplay) - Xposed Hook Android Intent/Scheme
+ * [85.64] [JumpReplay](https://github.com/FourTwooo/JumpReplay) - Xposed Hook Android Intent/Scheme
  * [85.29] [HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！
  * [85.29] [Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
  * [85.18] [LuaHook](https://github.com/KuLiPai/LuaHook) - A module for writing Xposed scripts via Lua
@@ -25,7 +25,7 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [82.74] [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
  * [82.64] [android_airplane_mode](https://github.com/lalakii/android_airplane_mode) - android switch airplane mode by reflection, need shizuku permission.
  * [82.64] [reactmap-android](https://github.com/Mygod/reactmap-android) - Android WebView app for ReactMap with added goodies
- * [82.60] [ziptie](https://github.com/MercuryWorkshop/ziptie) - Manage portable linux containers on your android from another device
+ * [82.64] [ziptie](https://github.com/MercuryWorkshop/ziptie) - Manage portable linux containers on your android from another device
  * [82.56] [SuperWindow](https://github.com/eiyooooo/SuperWindow) - 超级视窗 | Enhance multi-task experience for large-screen Android devices
  * [82.53] [X-Shizuku](https://github.com/Mbilse/X-Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
  * [82.53] [gemini-android](https://github.com/niki914/gemini-android) - Let gemini control your Android phone through function calling. 通过FunctionCalling让Gemini操控安卓手机。
@@ -46,6 +46,7 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [68.00] [com.catsmoker.app](https://github.com/catsmoker/com.catsmoker.app) - Catsmoker app - Game FPS Unlocker
  * [67.96] [HesleyTools](https://github.com/ldh-star/HesleyTools) - 自用工具/模块
  * [67.96] [cmd-android](https://github.com/niki914/cmd-android) - 基于 Kotlin 协程的 Android Shell 命令执行框架，支持 User、Shizuku 和 Root 三种权限的命令行调用，提供统一易用的挂起式 API
+ * [67.96] [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [67.82] [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新（2025.7.14：太史山了，最近在kmp上重写了一个，这一坨就当黑历史了，等kmp重写完再放上来）
  * [67.79] [Loki](https://github.com/trinadhthatakula/Loki) - Android App logger
  * [67.79] [haval-app-tool-multimidia](https://github.com/bobaoapae/haval-app-tool-multimidia) - Ferramenta Android experimental para estender e aprimorar o sistema multimídia do Haval H6 GT (GWM) via engenharia reversa e Shizuku
@@ -57,10 +58,11 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [67.65] [AIDE-Plus-Private](https://github.com/Familyye/AIDE-Plus-Private) - AIDE+个人备份仓库
  * [67.65] [ClipboardListener](https://github.com/aa2013/ClipboardListener) - Flutter-ClipboardListener-Clipshare
  * [67.65] [Hz-Changer](https://github.com/MARCOS-S-S/Hz-Changer) - Under development! Simple, light, free and functional hz changer app.
+ * [67.65] [KeyboardSwitcher](https://github.com/SgLy/KeyboardSwitcher) - Adds a quick setting tile for quickly switching keyboard (input method)
  * [67.65] [li](https://github.com/lousli/li) - 安卓去广告
  * [64.74] [MndroLua](https://github.com/Crescent-of-Maya/MndroLua) - A modern fork of AndroLua+ / 更加现代的 AndroLua+ 魔改版
  * [58.71] [DeviceOptimizeHelper](https://github.com/sbmatch/DeviceOptimizeHelper)
- * [56.06] [AIDE-Plus-AS](https://github.com/Familyye/AIDE-Plus-AS)
+ * [56.09] [AIDE-Plus-AS](https://github.com/Familyye/AIDE-Plus-AS)
  * [56.02] [SFS-CustomTranslations-Installer](https://github.com/youfeng11/SFS-CustomTranslations-Installer)
  * [56.02] [adhell3](https://github.com/pascua28/adhell3)
  * [56.02] [ankihelper-plus](https://github.com/huhuswei/ankihelper-plus)
@@ -82,7 +84,7 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [53.05] [TimerAndroid](https://github.com/HNIdesu/TimerAndroid) - 定时关闭指定的应用，支持Magisk和Shizuku。
  * [53.01] [XPlan](https://github.com/ItosEO/XPlan) - X计划，合并版
  * [50.00] [MahjongClubBooster](https://github.com/OlegPV2/MahjongClubBooster) - One button only
- * [41.64] [TouchTool](https://github.com/mr-bogey/TouchTool)
+ * [41.67] [TouchTool](https://github.com/mr-bogey/TouchTool)
  * [41.39] [XMeizu](https://github.com/ItosEO/XMeizu)
  * [41.32] [FreezeApp](https://github.com/JuneLeo/FreezeApp)
  * [41.25] [BatteryStatsReset1.2.5](https://github.com/Reborn0Holly/BatteryStatsReset1.2.5)
@@ -93,12 +95,10 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [41.18] [Accessibility-](https://github.com/nai559/Accessibility-)
  * [41.18] [AttackerAppJava](https://github.com/it4ch1-007/AttackerAppJava)
  * [41.18] [GGG](https://github.com/libea18/GGG)
+ * [41.18] [ShizukuClipboardDemo](https://github.com/lz233/ShizukuClipboardDemo)
  * [41.18] [chibiko](https://github.com/bluesky139/chibiko)
  * [41.18] [dev-archive](https://github.com/moruklabs/dev-archive)
  * [41.18] [mountain](https://github.com/lisproj/mountain)
  * [35.44] [VeryDark](https://github.com/wkbin/VeryDark) - 极暗模式
  * [23.56] [ControllerMapper](https://github.com/anhquan7826/ControllerMapper)
- * [0.00] [KeyboardSwitcher](https://github.com/SgLy/KeyboardSwitcher) - Adds a quick setting tile for quickly switching keyboard (input method)
- * [0.00] [Project-Anti](https://github.com/HeartlessVeteran2/Project-Anti)
  * [0.00] [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Module to change country for tiktok to Belarus(for russian)
- * [0.00] [Tweak-Android](https://github.com/lumkit/Tweak-Android) - 多功能安卓手机玩机工具箱

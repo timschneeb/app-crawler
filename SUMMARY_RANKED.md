@@ -102,4 +102,3 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [0.00] [Project-Anti](https://github.com/HeartlessVeteran2/Project-Anti)
  * [0.00] [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Module to change country for tiktok to Belarus(for russian)
  * [0.00] [Tweak-Android](https://github.com/lumkit/Tweak-Android) - 多功能安卓手机玩机工具箱
- * [0.00] [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.

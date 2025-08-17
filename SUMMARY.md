@@ -92,7 +92,6 @@ Sort by: [name] | [score](SUMMARY_RANKED.md)
  * [mountain](https://github.com/lisproj/mountain)
  * [muxueanzhuangqi](https://github.com/yuan-shiguang/muxueanzhuangqi)
  * [open-automate](https://github.com/woliver99/open-automate)
- * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [playkiller](https://github.com/ahnyungje/playkiller) - Shizuku 기반 Google Play Services 종료 앱
  * [reactmap-android](https://github.com/Mygod/reactmap-android) - Android WebView app for ReactMap with added goodies
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices

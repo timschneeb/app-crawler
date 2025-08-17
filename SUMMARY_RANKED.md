@@ -13,12 +13,10 @@ Sort by: [name](SUMMARY.md) | [score]
 Entries are sorted by a score that is calculated based on quality of the linked repository (readme, downloads, stars, etc.).
 
  * [100.00] [Operit](https://github.com/AAswordman/Operit) - An android AI agent can automatically operate your mobile phone
- * [100.00] [Private DNS Quick Setting](https://github.com/flashsphere/private-dns-qs) - Toggle Private DNS from Quick Settings
  * [85.60] [JumpReplay](https://github.com/FourTwooo/JumpReplay) - Xposed Hook Android Intent/Scheme
  * [85.29] [HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！
  * [85.29] [Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
  * [85.18] [LuaHook](https://github.com/KuLiPai/LuaHook) - A module for writing Xposed scripts via Lua
- * [84.08] [private-dns-qs](https://github.com/flashsphere/private-dns-qs) - Android app that adds a quick setting tile to toggle the Private DNS setting on Android 9.0+
  * [83.16] [fakelauncher](https://github.com/ZH-XiJun/fakelauncher) - I swear, it is really just a feature phone, not a smart phone!
  * [83.06] [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ
  * [82.88] [kdeconnect-android-shizuku](https://github.com/Shoukaku39/kdeconnect-android-shizuku) - Forked from KDE Connect Android. Adds Shizuku support to bypass clipboard access restrictions on Android 10+ without using READ_LOGS or manual ADB shell. 基于 KDE Connect Android 的分支，添加对 Shizuku 的支持，在无需请求 READ_LOGS 或手动 ADB 授权的情况下，绕过 Android 10+ 剪贴板访问限制。
@@ -33,7 +31,6 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [82.53] [gemini-android](https://github.com/niki914/gemini-android) - Let gemini control your Android phone through function calling. 通过FunctionCalling让Gemini操控安卓手机。
  * [82.46] [Android-FPS-Watcher](https://github.com/WuDi-ZhanShen/Android-FPS-Watcher) - Monitor RealTime FPS. Suppports Android 13+. Pure Java.
  * [82.46] [android-settings-scheduler](https://github.com/Turtlepaw/android-settings-scheduler) - Schedule any settings that are in the Android Settings app to be changed
- * [82.46] [stalker](https://github.com/onerdna/stalker) - An android application for viewing and modifying save files of Shadow FIght 2 game.
  * [82.42] [secure-sense](https://github.com/Icetok/secure-sense) - Privacy monitoring app for Android
  * [82.39] [IDE-for-everyone](https://github.com/Slinky-86/IDE-for-everyone) - Created with StackBlitz ⚡️
  * [82.39] [LogCollector](https://github.com/thekosa/LogCollector) - Android application designed to collect and manage Android system logs
@@ -101,7 +98,6 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [41.18] [mountain](https://github.com/lisproj/mountain)
  * [35.44] [VeryDark](https://github.com/wkbin/VeryDark) - 极暗模式
  * [23.56] [ControllerMapper](https://github.com/anhquan7826/ControllerMapper)
- * [0.00] [AssistApp](https://github.com/Error404rt/AssistApp) - AssistApp The assistant app speeds up interaction with the game Shizuku permission is required to launch the app
  * [0.00] [KeyboardSwitcher](https://github.com/SgLy/KeyboardSwitcher) - Adds a quick setting tile for quickly switching keyboard (input method)
  * [0.00] [Project-Anti](https://github.com/HeartlessVeteran2/Project-Anti)
  * [0.00] [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Module to change country for tiktok to Belarus(for russian)

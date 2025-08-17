@@ -17,7 +17,6 @@ Sort by: [name] | [score](SUMMARY_RANKED.md)
  * [Android-AccessibilityGrant](https://github.com/MagicianGuo/Android-AccessibilityGrant) - 能够一键为应用授予辅助功能（无障碍）权限，需要Shizuku
  * [Android-FPS-Watcher](https://github.com/WuDi-ZhanShen/Android-FPS-Watcher) - Monitor RealTime FPS. Suppports Android 13+. Pure Java.
  * [Android_KMP_Compilation](https://github.com/hojat72elect/Android_KMP_Compilation) - A collection of Android and Kotlin-Multiplatform apps
- * [AssistApp](https://github.com/Error404rt/AssistApp) - AssistApp The assistant app speeds up interaction with the game Shizuku permission is required to launch the app
  * [AttackerAppJava](https://github.com/it4ch1-007/AttackerAppJava)
  * [AudioControlApp](https://github.com/SwastikChamp2/AudioControlApp)
  * [AutoRestart](https://github.com/madkarmaa/AutoRestart) - Restart your device on a specific day and time, with the help of Shizuku
@@ -47,7 +46,6 @@ Sort by: [name] | [score](SUMMARY_RANKED.md)
  * [MndroLua](https://github.com/Crescent-of-Maya/MndroLua) - A modern fork of AndroLua+ / 更加现代的 AndroLua+ 魔改版
  * [Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
  * [Operit](https://github.com/AAswordman/Operit) - An android AI agent can automatically operate your mobile phone
- * [Private DNS Quick Setting](https://github.com/flashsphere/private-dns-qs) - Toggle Private DNS from Quick Settings
  * [Project-Anti](https://github.com/HeartlessVeteran2/Project-Anti)
  * [RotaenoUploader](https://github.com/milkycandy/RotaenoUploader) - Rotaeno存档上传器
  * [RunnerStub](https://github.com/yangFenTuoZi/RunnerStub)
@@ -96,12 +94,10 @@ Sort by: [name] | [score](SUMMARY_RANKED.md)
  * [open-automate](https://github.com/woliver99/open-automate)
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [playkiller](https://github.com/ahnyungje/playkiller) - Shizuku 기반 Google Play Services 종료 앱
- * [private-dns-qs](https://github.com/flashsphere/private-dns-qs) - Android app that adds a quick setting tile to toggle the Private DNS setting on Android 9.0+
  * [reactmap-android](https://github.com/Mygod/reactmap-android) - Android WebView app for ReactMap with added goodies
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
  * [secure-sense](https://github.com/Icetok/secure-sense) - Privacy monitoring app for Android
  * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]
- * [stalker](https://github.com/onerdna/stalker) - An android application for viewing and modifying save files of Shadow FIght 2 game.
  * [tachiyomi2.0](https://github.com/darkfireeee/tachiyomi2.0)
  * [underclocker](https://github.com/pascua28/underclocker)
  * [ziptie](https://github.com/MercuryWorkshop/ziptie) - Manage portable linux containers on your android from another device

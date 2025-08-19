@@ -92,6 +92,7 @@ Sort by: [name] | [score](SUMMARY_RANKED.md)
  * [modtoon_module](https://github.com/Inhaleoxygen/modtoon_module)
  * [mountain](https://github.com/lisproj/mountain)
  * [muxueanzhuangqi](https://github.com/yuan-shiguang/muxueanzhuangqi)
+ * [my_favorite](https://github.com/U1tData/my_favorite)
  * [open-automate](https://github.com/woliver99/open-automate)
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [playkiller](https://github.com/ahnyungje/playkiller) - Shizuku 기반 Google Play Services 종료 앱

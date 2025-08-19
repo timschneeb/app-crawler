@@ -111,10 +111,9 @@ def main():
     def remove_ignored_entries(a):
         return not (a.name in ignore_list or any(url in ignore_list for url in a.urls))
 
-    #apps = util.filter_known_apps(readme_paths, scan_apps(readme_paths, github_auth))
-    #apps = list(filter(remove_ignored_entries, apps))
-    #cache.save_current_run(apps)
-    apps = []
+    apps = util.filter_known_apps(readme_paths, scan_apps(readme_paths, github_auth))
+    apps = list(filter(remove_ignored_entries, apps))
+    cache.save_current_run(apps)
     print()
 
     apps.extend(cached_apps)

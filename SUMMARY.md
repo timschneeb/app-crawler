@@ -10,6 +10,8 @@ Typically, these apps will be added to the list as soon as possible; however, un
 
 Sort by: [name] | [score](SUMMARY_RANKED.md)
 
+Entries are sorted by name and grouped into a separate category if the attached link has no downloadable releases.
+
  * [AIDE-Plus-AS](https://github.com/Familyye/AIDE-Plus-AS)
  * [AIDE-Plus-Private](https://github.com/Familyye/AIDE-Plus-Private) - AIDE+个人备份仓库
  * [AOD_Charging](https://github.com/SthrNilshaaa/AOD_Charging) - System Aod controller with quick tile as well as devices charging conditions,this will automatic the aod on the system
@@ -103,3 +105,6 @@ Sort by: [name] | [score](SUMMARY_RANKED.md)
  * [tachiyomi2.0](https://github.com/darkfireeee/tachiyomi2.0)
  * [underclocker](https://github.com/pascua28/underclocker)
  * [ziptie](https://github.com/MercuryWorkshop/ziptie) - Manage portable linux containers on your android from another device
+
+### No downloads available
+

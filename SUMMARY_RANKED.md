@@ -10,7 +10,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
 
 Sort by: [name](SUMMARY.md) | [score]
 
-Entries are sorted by a score that is calculated based on quality of the linked repository (readme, downloads, stars, etc.).
+Entries are sorted by a score that is calculated based on quality of the linked repository (readme, has downloadable release, stars, etc.).
 
  * [100.00] [Operit](https://github.com/AAswordman/Operit) - An android AI agent can automatically operate your mobile phone
  * [85.64] [JumpReplay](https://github.com/FourTwooo/JumpReplay) - Xposed Hook Android Intent/Scheme

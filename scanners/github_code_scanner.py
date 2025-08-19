@@ -34,13 +34,13 @@ class GithubCodeScanner(Scanner):
             file: ContentFile = results[repo]
             try:
                 score = calc_github_score(file.repository)
-                full_results.append(App(file.repository.name, file.repository.description, [file.repository.html_url], type(self).__name__, score))
+                full_results.append(App(file.repository.name, file.repository.description, [file.repository.html_url], type(self).__name__, score, has_github_downloads(repo)))
                 time.sleep(0.1)
             except RateLimitExceededException:
                 print("github_code: rate limit exceeded")
                 time.sleep(1)
                 score = calc_github_score(file.repository)
-                full_results.append(App(file.repository.name, file.repository.description, [file.repository.html_url], type(self).__name__, score))
+                full_results.append(App(file.repository.name, file.repository.description, [file.repository.html_url], type(self).__name__, score, has_github_downloads(repo)))
             except IndexError as e:
                 print(f'github_code: index error: {e}')
                 continue

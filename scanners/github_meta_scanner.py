@@ -62,12 +62,12 @@ class GithubMetaScanner(Scanner):
             
             
             try:
-                full_results.append(App(repo.name, repo.description, [repo.html_url], type(self).__name__, calc_github_score(repo)))
+                full_results.append(App(repo.name, repo.description, [repo.html_url], type(self).__name__, calc_github_score(repo), has_github_downloads(repo)))
                 time.sleep(0.1)
             except RateLimitExceededException:
                 print("github_meta: rate limit exceeded")
                 time.sleep(60)
-                full_results.append(App(repo.name, repo.description, [repo.html_url], type(self).__name__, calc_github_score(repo)))
+                full_results.append(App(repo.name, repo.description, [repo.html_url], type(self).__name__, calc_github_score(repo), has_github_downloads(repo)))
 
         filtered_results = util.filter_known_apps(self.readme_paths, full_results, self.exclude)
 

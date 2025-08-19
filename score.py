@@ -4,6 +4,8 @@ import langdetect
 from github import UnknownObjectException
 from github.Repository import Repository
 
+def has_github_downloads(repo: Repository) -> bool:
+    return repo.has_downloads
 
 def calc_github_score(repo: Repository, trace: bool = False) -> float:
     """

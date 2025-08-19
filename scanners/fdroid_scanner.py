@@ -34,7 +34,7 @@ class FDroidScanner(Scanner):
 
                         apps.append(App(element.getElementsByTagName("name")[0].firstChild.nodeValue,
                                         element.getElementsByTagName("summary")[0].firstChild.nodeValue,
-                                        urls, type(self).__name__, score=100)) # Apps from f-droid repos are always preferred
+                                        urls, type(self).__name__, score=100, has_downloads=True)) # Apps from f-droid repos are always preferred
                         break
 
         print("fdroid: found " + str(len(apps)) + " apps")

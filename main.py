@@ -23,6 +23,21 @@ def scan_apps(readme_paths, github_auth):
     return sorted(set(apps), key=attrgetter('name'))
 
 
+def entry_to_string(app, ranked):
+    score_str = f"[{"{:.2f}".format(app.score)}] " if ranked else ""    
+
+    line = ""
+    if len(app.urls) > 0:
+        line += f" * {score_str}[{app.name}]({app.urls[0]})"
+    else:
+        line += f" * {score_str}{app.name}"
+
+    if app.desc is not None:
+        line += f" - {app.desc}"
+    line += "\n"
+    return line
+
+
 def write_report(report_path, apps, ranked):
     with (open(report_path, 'w') as f):
         report = ("## Scan results\n"
@@ -39,22 +54,25 @@ def write_report(report_path, apps, ranked):
 
         if not ranked:
             report += "Sort by: [name] | [score](SUMMARY_RANKED.md)\n\n"
+            report += "Entries are sorted by name and grouped into a separate category if the attached link has no downloadable releases.\n\n"
         else:
             apps = sorted(apps, key=lambda x: x.score, reverse=True)
             report += "Sort by: [name](SUMMARY.md) | [score]\n\n"
-            report += "Entries are sorted by a score that is calculated based on quality of the linked repository (readme, downloads, stars, etc.).\n\n"
+            report += "Entries are sorted by a score that is calculated based on quality of the linked repository (readme, has downloadable release, stars, etc.).\n\n"
 
-        for app in apps:
-            score_str = f"[{"{:.2f}".format(app.score)}] " if ranked else ""    
+        if ranked:
+            for app in apps:
+                report += entry_to_string(app, ranked)
+        else:
+            with_downloads = [a for a in apps if a.has_downloads]
+            no_downloads = [a for a in apps if not a.has_downloads]
+            for app in with_downloads:
+                report += entry_to_string(app, ranked)
             
-            if len(app.urls) > 0:
-                report += f" * {score_str}[{app.name}]({app.urls[0]})"
-            else:
-                report += f" * {score_str}{app.name}"
-
-            if app.desc is not None:
-                report += f" - {app.desc}"
-            report += "\n"
+            if len(with_downloads) > 0:
+                report += f"\n### No downloads available\n\n"
+                for app in no_downloads:
+                    report += entry_to_string(app, ranked)
 
         f.write(report)
             
@@ -93,9 +111,10 @@ def main():
     def remove_ignored_entries(a):
         return not (a.name in ignore_list or any(url in ignore_list for url in a.urls))
 
-    apps = util.filter_known_apps(readme_paths, scan_apps(readme_paths, github_auth))
-    apps = list(filter(remove_ignored_entries, apps))
-    cache.save_current_run(apps)
+    #apps = util.filter_known_apps(readme_paths, scan_apps(readme_paths, github_auth))
+    #apps = list(filter(remove_ignored_entries, apps))
+    #cache.save_current_run(apps)
+    apps = []
     print()
 
     apps.extend(cached_apps)

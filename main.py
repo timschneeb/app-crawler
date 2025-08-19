@@ -70,7 +70,7 @@ def write_report(report_path, apps, ranked):
                 report += entry_to_string(app, ranked)
             
             if len(no_downloads) > 0:
-                report += f"\n### No downloads available\n\n"
+                report += f"\n### Apps with no releases\n\n"
                 for app in no_downloads:
                     report += entry_to_string(app, ranked)
 

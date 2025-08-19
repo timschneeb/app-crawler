@@ -63,13 +63,13 @@ def write_report(report_path, apps, ranked):
         if ranked:
             for app in apps:
                 report += entry_to_string(app, ranked)
-        else:
+        else:   
             with_downloads = [a for a in apps if a.has_downloads]
             no_downloads = [a for a in apps if not a.has_downloads]
             for app in with_downloads:
                 report += entry_to_string(app, ranked)
             
-            if len(with_downloads) > 0:
+            if len(no_downloads) > 0:
                 report += f"\n### No downloads available\n\n"
                 for app in no_downloads:
                     report += entry_to_string(app, ranked)

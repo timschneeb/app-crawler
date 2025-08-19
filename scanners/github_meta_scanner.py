@@ -8,7 +8,7 @@ import tempfile
 from github.Repository import Repository
 
 import util
-from score import calc_github_score
+from score import calc_github_score, has_github_downloads
 from .scanner import Scanner, App
 
 from github import Github, Auth
@@ -59,7 +59,6 @@ class GithubMetaScanner(Scanner):
         full_results = []
         for repo_idx in tqdm(range(0, results.totalCount)):
             repo: Repository = results[repo_idx]
-            
             
             try:
                 full_results.append(App(repo.name, repo.description, [repo.html_url], type(self).__name__, calc_github_score(repo), has_github_downloads(repo)))

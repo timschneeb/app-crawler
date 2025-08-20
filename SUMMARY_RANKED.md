@@ -12,23 +12,38 @@ Sort by: [name](SUMMARY.md) | [score]
 
 Entries are sorted by a score that is calculated based on quality of the linked repository (readme, has downloadable release, stars, etc.).
 
+ * [100.00] [Operit](https://github.com/AAswordman/Operit) - An android AI agent can automatically operate your mobile phone
+ * [85.64] [JumpReplay](https://github.com/FourTwooo/JumpReplay) - Xposed Hook Android Intent/Scheme
+ * [85.29] [HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！
+ * [85.29] [Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
+ * [85.21] [LuaHook](https://github.com/KuLiPai/LuaHook) - A module for writing Xposed scripts via Lua
+ * [83.16] [fakelauncher](https://github.com/ZH-XiJun/fakelauncher) - I swear, it is really just a feature phone, not a smart phone!
  * [83.06] [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ
- * [76.47] [Operit](https://github.com/AAswordman/Operit) - An android AI agent can automatically operate your mobile phone
+ * [82.88] [kdeconnect-android-shizuku](https://github.com/Shoukaku39/kdeconnect-android-shizuku) - Forked from KDE Connect Android. Adds Shizuku support to bypass clipboard access restrictions on Android 10+ without using READ_LOGS or manual ADB shell. 基于 KDE Connect Android 的分支，添加对 Shizuku 的支持，在无需请求 READ_LOGS 或手动 ADB 授权的情况下，绕过 Android 10+ 剪贴板访问限制。
+ * [82.74] [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
+ * [82.64] [android_airplane_mode](https://github.com/lalakii/android_airplane_mode) - android switch airplane mode by reflection, need shizuku permission.
+ * [82.64] [reactmap-android](https://github.com/Mygod/reactmap-android) - Android WebView app for ReactMap with added goodies
+ * [82.64] [ziptie](https://github.com/MercuryWorkshop/ziptie) - Manage portable linux containers on your android from another device
+ * [82.35] [EliteGaming](https://github.com/DivyanshNagda/EliteGaming) - 🚀 EliteG - Boost Android gaming performance by up to 80%! Optimize FPS, reduce lag, and save battery. Works with/without root. Based on Mathias Boulay's Android-Game-Booster with enhanced features. #Android #Gaming #Performance
+ * [72.76] [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
+ * [68.81] [RotaenoUploader](https://github.com/milkycandy/RotaenoUploader) - Rotaeno存档上传器
+ * [68.32] [SysProxy](https://github.com/Kr328/SysProxy) - A tiny app to set system proxy on Android. (Root required)
+ * [68.00] [Tiny-Installer](https://github.com/scto/Tiny-Installer) - A Package Installer with MD3 UI.
  * [68.00] [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
+ * [68.00] [com.catsmoker.app](https://github.com/catsmoker/com.catsmoker.app) - Catsmoker app - Game FPS Unlocker
+ * [67.96] [HesleyTools](https://github.com/ldh-star/HesleyTools) - 自用工具/模块
+ * [67.96] [cmd-android](https://github.com/niki914/cmd-android) - 基于 Kotlin 协程的 Android Shell 命令执行框架，支持 User、Shizuku 和 Root 三种权限的命令行调用，提供统一易用的挂起式 API
  * [67.96] [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
+ * [67.86] [haval-app-tool-multimidia](https://github.com/bobaoapae/haval-app-tool-multimidia) - Ferramenta Android experimental para estender e aprimorar o sistema multimídia do Haval H6 GT (GWM) via engenharia reversa e Shizuku
+ * [67.82] [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新（2025.7.14：太史山了，最近在kmp上重写了一个，这一坨就当黑历史了，等kmp重写完再放上来）
+ * [67.79] [Loki](https://github.com/trinadhthatakula/Loki) - Android App logger
+ * [67.72] [FlymeFrameTools](https://github.com/Ruyue-Kinsenka/FlymeFrameTools) - 利用shuzuki无root管理flyme插帧超分的app名单
+ * [67.72] [UWS](https://github.com/UWillno/UWS) - Qt for Android的shizuku/root shell执行器
+ * [67.65] [Hz-Changer](https://github.com/MARCOS-S-S/Hz-Changer) - Under development! Simple, light, free and functional hz changer app.
  * [67.65] [KeyboardSwitcher](https://github.com/SgLy/KeyboardSwitcher) - Adds a quick setting tile for quickly switching keyboard (input method)
- * [62.11] [JumpReplay](https://github.com/FourTwooo/JumpReplay) - Xposed Hook Android Intent/Scheme
- * [61.76] [HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！
- * [61.76] [Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
- * [61.68] [LuaHook](https://github.com/KuLiPai/LuaHook) - A module for writing Xposed scripts via Lua
- * [59.64] [fakelauncher](https://github.com/ZH-XiJun/fakelauncher) - I swear, it is really just a feature phone, not a smart phone!
- * [59.35] [kdeconnect-android-shizuku](https://github.com/Shoukaku39/kdeconnect-android-shizuku) - Forked from KDE Connect Android. Adds Shizuku support to bypass clipboard access restrictions on Android 10+ without using READ_LOGS or manual ADB shell. 基于 KDE Connect Android 的分支，添加对 Shizuku 的支持，在无需请求 READ_LOGS 或手动 ADB 授权的情况下，绕过 Android 10+ 剪贴板访问限制。
+ * [64.74] [MndroLua](https://github.com/Crescent-of-Maya/MndroLua) - A modern fork of AndroLua+ / 更加现代的 AndroLua+ 魔改版
  * [59.35] [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]
- * [59.21] [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
  * [59.21] [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
- * [59.11] [android_airplane_mode](https://github.com/lalakii/android_airplane_mode) - android switch airplane mode by reflection, need shizuku permission.
- * [59.11] [reactmap-android](https://github.com/Mygod/reactmap-android) - Android WebView app for ReactMap with added goodies
- * [59.11] [ziptie](https://github.com/MercuryWorkshop/ziptie) - Manage portable linux containers on your android from another device
  * [59.04] [SuperWindow](https://github.com/eiyooooo/SuperWindow) - 超级视窗 | Enhance multi-task experience for large-screen Android devices
  * [59.00] [X-Shizuku](https://github.com/Mbilse/X-Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
  * [59.00] [gemini-android](https://github.com/niki914/gemini-android) - Let gemini control your Android phone through function calling. 通过FunctionCalling让Gemini操控安卓手机。
@@ -39,56 +54,41 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [58.86] [LogCollector](https://github.com/thekosa/LogCollector) - Android application designed to collect and manage Android system logs
  * [58.86] [anyones-IDE-everyomes-IDE](https://github.com/Slinky-86/anyones-IDE-everyomes-IDE) - Created with StackBlitz ⚡️
  * [58.82] [AOD_Charging](https://github.com/SthrNilshaaa/AOD_Charging) - System Aod controller with quick tile as well as devices charging conditions,this will automatic the aod on the system
- * [58.82] [EliteGaming](https://github.com/DivyanshNagda/EliteGaming) - 🚀 EliteG - Boost Android gaming performance by up to 80%! Optimize FPS, reduce lag, and save battery. Works with/without root. Based on Mathias Boulay's Android-Game-Booster with enhanced features. #Android #Gaming #Performance
  * [58.82] [everyones-APPS](https://github.com/Slinky-86/everyones-APPS) - Created with StackBlitz ⚡️
+ * [58.71] [DeviceOptimizeHelper](https://github.com/sbmatch/DeviceOptimizeHelper)
  * [56.02] [adhell3](https://github.com/pascua28/adhell3)
- * [49.24] [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
- * [45.28] [RotaenoUploader](https://github.com/milkycandy/RotaenoUploader) - Rotaeno存档上传器
- * [44.79] [SysProxy](https://github.com/Kr328/SysProxy) - A tiny app to set system proxy on Android. (Root required)
- * [44.47] [Tiny-Installer](https://github.com/scto/Tiny-Installer) - A Package Installer with MD3 UI.
- * [44.47] [com.catsmoker.app](https://github.com/catsmoker/com.catsmoker.app) - Catsmoker app - Game FPS Unlocker
- * [44.44] [HesleyTools](https://github.com/ldh-star/HesleyTools) - 自用工具/模块
- * [44.44] [cmd-android](https://github.com/niki914/cmd-android) - 基于 Kotlin 协程的 Android Shell 命令执行框架，支持 User、Shizuku 和 Root 三种权限的命令行调用，提供统一易用的挂起式 API
- * [44.33] [haval-app-tool-multimidia](https://github.com/bobaoapae/haval-app-tool-multimidia) - Ferramenta Android experimental para estender e aprimorar o sistema multimídia do Haval H6 GT (GWM) via engenharia reversa e Shizuku
- * [44.29] [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新（2025.7.14：太史山了，最近在kmp上重写了一个，这一坨就当黑历史了，等kmp重写完再放上来）
- * [44.26] [Loki](https://github.com/trinadhthatakula/Loki) - Android App logger
+ * [56.02] [ankihelper-plus](https://github.com/huhuswei/ankihelper-plus)
+ * [55.99] [cafetone](https://github.com/evinjohnn/cafetone)
+ * [55.95] [autodaily](https://github.com/ParadiseZ/autodaily)
+ * [55.95] [mewtachi](https://github.com/xaolanx/mewtachi)
+ * [55.95] [open-automate](https://github.com/woliver99/open-automate)
+ * [55.88] [CBJQ_HugFenny](https://github.com/LiuJiewenTT/CBJQ_HugFenny)
+ * [53.26] [VivoTools](https://github.com/ItosEO/VivoTools) - 蓝厂工具盒,用于降级GW和电源信息
+ * [53.05] [Android-AccessibilityGrant](https://github.com/MagicianGuo/Android-AccessibilityGrant) - 能够一键为应用授予辅助功能（无障碍）权限，需要Shizuku
+ * [53.05] [TimerAndroid](https://github.com/HNIdesu/TimerAndroid) - 定时关闭指定的应用，支持Magisk和Shizuku。
+ * [50.00] [MahjongClubBooster](https://github.com/OlegPV2/MahjongClubBooster) - One button only
  * [44.19] [Android_KMP_Compilation](https://github.com/hojat72elect/Android_KMP_Compilation) - A collection of Android and Kotlin-Multiplatform apps
  * [44.19] [AutoRestart](https://github.com/madkarmaa/AutoRestart) - Restart your device on a specific day and time, with the help of Shizuku
- * [44.19] [FlymeFrameTools](https://github.com/Ruyue-Kinsenka/FlymeFrameTools) - 利用shuzuki无root管理flyme插帧超分的app名单
- * [44.19] [UWS](https://github.com/UWillno/UWS) - Qt for Android的shizuku/root shell执行器
  * [44.19] [playkiller](https://github.com/ahnyungje/playkiller) - Shizuku 기반 Google Play Services 종료 앱
  * [44.12] [AIDE-Plus-Private](https://github.com/Familyye/AIDE-Plus-Private) - AIDE+个人备份仓库
  * [44.12] [ClipboardListener](https://github.com/aa2013/ClipboardListener) - Flutter-ClipboardListener-Clipshare
  * [44.12] [File-Manager](https://github.com/abusaeed-shuvo/File-Manager) - Simple file manager with shizuku in compose.
- * [44.12] [Hz-Changer](https://github.com/MARCOS-S-S/Hz-Changer) - Under development! Simple, light, free and functional hz changer app.
  * [44.12] [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Module to change country for tiktok to Belarus(for russian)
  * [44.12] [li](https://github.com/lousli/li) - 安卓去广告
  * [41.39] [XMeizu](https://github.com/ItosEO/XMeizu)
- * [41.21] [MndroLua](https://github.com/Crescent-of-Maya/MndroLua) - A modern fork of AndroLua+ / 更加现代的 AndroLua+ 魔改版
- * [35.18] [DeviceOptimizeHelper](https://github.com/sbmatch/DeviceOptimizeHelper)
  * [32.56] [AIDE-Plus-AS](https://github.com/Familyye/AIDE-Plus-AS)
  * [32.49] [SFS-CustomTranslations-Installer](https://github.com/youfeng11/SFS-CustomTranslations-Installer)
- * [32.49] [ankihelper-plus](https://github.com/huhuswei/ankihelper-plus)
  * [32.46] [Task-manager-app](https://github.com/Swayam7Garg/Task-manager-app)
- * [32.46] [cafetone](https://github.com/evinjohnn/cafetone)
  * [32.42] [AudioControlApp](https://github.com/SwastikChamp2/AudioControlApp)
- * [32.42] [autodaily](https://github.com/ParadiseZ/autodaily)
- * [32.42] [mewtachi](https://github.com/xaolanx/mewtachi)
- * [32.42] [open-automate](https://github.com/woliver99/open-automate)
  * [32.39] [Sui-Fold6](https://github.com/kevins-gitu/Sui-Fold6)
  * [32.39] [my_favorite](https://github.com/U1tData/my_favorite)
- * [32.35] [CBJQ_HugFenny](https://github.com/LiuJiewenTT/CBJQ_HugFenny)
  * [32.35] [Miohon-AT](https://github.com/Lorenzo-Guardabascio/Miohon-AT)
  * [32.35] [Zxcvcx-](https://github.com/eden-ana/Zxcvcx-)
  * [32.35] [freefire-aimbot-android](https://github.com/nildo157/freefire-aimbot-android)
  * [32.35] [modtoon_module](https://github.com/Inhaleoxygen/modtoon_module)
  * [32.35] [tachiyomi2.0](https://github.com/darkfireeee/tachiyomi2.0)
  * [29.84] [Tweak-Android](https://github.com/lumkit/Tweak-Android) - 多功能安卓手机玩机工具箱
- * [29.73] [VivoTools](https://github.com/ItosEO/VivoTools) - 蓝厂工具盒,用于降级GW和电源信息
- * [29.52] [Android-AccessibilityGrant](https://github.com/MagicianGuo/Android-AccessibilityGrant) - 能够一键为应用授予辅助功能（无障碍）权限，需要Shizuku
- * [29.52] [TimerAndroid](https://github.com/HNIdesu/TimerAndroid) - 定时关闭指定的应用，支持Magisk和Shizuku。
  * [29.48] [XPlan](https://github.com/ItosEO/XPlan) - X计划，合并版
- * [26.47] [MahjongClubBooster](https://github.com/OlegPV2/MahjongClubBooster) - One button only
  * [18.14] [TouchTool](https://github.com/mr-bogey/TouchTool)
  * [17.79] [FreezeApp](https://github.com/JuneLeo/FreezeApp)
  * [17.72] [BatteryStatsReset1.2.5](https://github.com/Reborn0Holly/BatteryStatsReset1.2.5)

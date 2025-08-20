@@ -1,4 +1,17 @@
-def filter_known_apps(readme_paths, apps, additional_excludes=None):
+import os
+
+
+def is_known_app(name, urls):
+    readme = ""
+    for path in readme_paths:
+        with open(path) as file:
+            readme += file.read().lower() + "\n"
+
+    has_url = any(url.replace("https://", "").lower() in readme for url in urls)
+    has_name = ('[' + name.lower() + ']') in readme
+    return has_url or has_name
+
+def filter_known_apps(apps, additional_excludes=None):
     if additional_excludes is None:
         additional_excludes = []
 
@@ -16,3 +29,13 @@ def filter_known_apps(readme_paths, apps, additional_excludes=None):
         return not (has_url or has_name or is_excluded)
 
     return list(filter(filter_app, apps))
+
+def is_ignored(item):
+    return item in ignore_list
+
+readme_paths = [] # Set by main.py
+
+name_ignore_list_path = os.path.dirname(os.path.realpath(__file__)) + "/ignore_list.lst"
+ignore_list_file = open(name_ignore_list_path, 'r')
+ignore_list = ignore_list_file.read().splitlines(keepends=False)
+ignore_list_file.close()

@@ -18,9 +18,8 @@ from git import Repo
 
 
 class GithubMetaScanner(Scanner):
-    def __init__(self, auth_token, readme_paths, exclude, process_count=1):
+    def __init__(self, auth_token, exclude, process_count=1):
         self.auth = Github(auth=Auth.Token(auth_token))
-        self.readme_paths = readme_paths
         self.exclude = exclude
         self.process_count = process_count
 
@@ -60,6 +59,9 @@ class GithubMetaScanner(Scanner):
         for repo_idx in tqdm(range(0, results.totalCount)):
             repo: Repository = results[repo_idx]
             
+            if util.is_known_app(repo.name, [repo.html_url]) or util.is_ignored(repo.name) or util.is_ignored(repo.html_url):
+                continue
+    
             try:
                 full_results.append(App(repo.name, repo.description, [repo.html_url], type(self).__name__, calc_github_score(repo), has_github_downloads(repo)))
                 time.sleep(0.1)
@@ -68,7 +70,7 @@ class GithubMetaScanner(Scanner):
                 time.sleep(60)
                 full_results.append(App(repo.name, repo.description, [repo.html_url], type(self).__name__, calc_github_score(repo), has_github_downloads(repo)))
 
-        filtered_results = util.filter_known_apps(self.readme_paths, full_results, self.exclude)
+        filtered_results = util.filter_known_apps(full_results, self.exclude)
 
         pool = mp.Pool(self.process_count, maxtasksperchild=1)
         apps = []

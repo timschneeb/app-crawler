@@ -13,13 +13,13 @@ from scanners.github_code_scanner import GithubCodeScanner
 from scanners.scanner import Apps, App
 
 
-def scan_apps(readme_paths, github_auth):
+def scan_apps(github_auth):
     apps = []
     apps.extend(FDroidScanner("https://f-droid.org/repo/index.xml").find_matching_apps())
     apps.extend(FDroidScanner("https://apt.izzysoft.de/fdroid/repo/index.xml").find_matching_apps())
     if github_auth is not None and len(github_auth) > 0:
-        apps.extend(GithubCodeScanner(github_auth, readme_paths, exclude=apps, process_count=2).find_matching_apps())
-        apps.extend(GithubMetaScanner(github_auth, readme_paths, exclude=apps, process_count=2).find_matching_apps())
+        apps.extend(GithubCodeScanner(github_auth, exclude=apps, process_count=2).find_matching_apps())
+        apps.extend(GithubMetaScanner(github_auth, exclude=apps, process_count=2).find_matching_apps())
     return sorted(set(apps), key=attrgetter('name'))
 
 
@@ -89,14 +89,9 @@ def main():
         summary_file = "SUMMARY.md"
 
     path = args.targetPath
-    readme_paths = glob.glob(path + '/*.md') + glob.glob(path + '/pages/UNLISTED.md')
+    util.readme_paths = glob.glob(path + '/*.md') + glob.glob(path + '/pages/UNLISTED.md')
     report_path = os.getcwd() + "/" + summary_file
     report_ranked_path = os.getcwd() + "/" + summary_file.replace(".md", "") + "_RANKED.md"
-    name_ignore_list_path = os.path.dirname(os.path.realpath(__file__)) + "/ignore_list.lst"
-
-    ignore_list_file = open(name_ignore_list_path, 'r')
-    ignore_list = ignore_list_file.read().splitlines(keepends=False)
-    ignore_list_file.close()
 
     cache_dir = os.getcwd() + "/cache"
     if not os.path.exists(cache_dir):
@@ -106,16 +101,16 @@ def main():
     cached_apps = cache.load_all()
 
     def remove_ignored_entries(a):
-        return not (a.name in ignore_list or any(url in ignore_list for url in a.urls))
+        return not (a.name in util.ignore_list or any(url in util.ignore_list for url in a.urls))
 
-    apps = util.filter_known_apps(readme_paths, scan_apps(readme_paths, github_auth))
+    apps = util.filter_known_apps(scan_apps(github_auth))
     apps = list(filter(remove_ignored_entries, apps))
     cache.save_current_run(apps)
     print()
 
     apps.extend(cached_apps)
     apps = sorted(set(apps), key=attrgetter('name'))
-    apps = util.filter_known_apps(readme_paths, apps)
+    apps = util.filter_known_apps(apps)
     apps = list(filter(remove_ignored_entries, apps))
 
     write_report(report_path, apps, ranked=False)

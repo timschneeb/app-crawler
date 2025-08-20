@@ -7,6 +7,7 @@ import tempfile
 
 import util
 from score import calc_github_score, has_github_downloads
+from util import ignore_list
 from .scanner import Scanner, App
 
 from github import Github, Auth, ContentFile
@@ -16,9 +17,8 @@ from git import Repo
 
 
 class GithubCodeScanner(Scanner):
-    def __init__(self, auth_token, readme_paths, exclude, process_count=1):
+    def __init__(self, auth_token, exclude, process_count=1):
         self.auth = Github(auth=Auth.Token(auth_token))
-        self.readme_paths = readme_paths
         self.exclude = exclude
         self.process_count = process_count
 
@@ -32,6 +32,11 @@ class GithubCodeScanner(Scanner):
         full_results = []
         for repo in tqdm(range(0, results.totalCount - 1)):
             file: ContentFile = results[repo]
+
+            if (util.is_known_app(file.repository.name, [file.repository.html_url]) or
+                    util.is_ignored(file.repository.name) or util.is_ignored(file.repository.html_url)):
+                continue
+                        
             try:
                 score = calc_github_score(file.repository)
                 full_results.append(App(file.repository.name, file.repository.description, [file.repository.html_url], type(self).__name__, score, has_github_downloads(file.repository)))
@@ -45,4 +50,4 @@ class GithubCodeScanner(Scanner):
                 print(f'github_code: index error: {e}')
                 continue
 
-        return util.filter_known_apps(self.readme_paths, full_results, self.exclude)
+        return util.filter_known_apps(full_results, self.exclude)

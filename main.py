@@ -10,7 +10,6 @@ from cache import Cache
 from scanners.fdroid_scanner import FDroidScanner
 from scanners.github_meta_scanner import GithubMetaScanner
 from scanners.github_code_scanner import GithubCodeScanner
-from scanners.scanner import Apps, App
 
 
 def scan_apps(github_auth):

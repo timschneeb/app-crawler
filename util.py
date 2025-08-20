@@ -1,5 +1,7 @@
 import os
 
+def flatten(xss):
+    return [x for xs in xss for x in xs]
 
 def is_known_app(name, urls):
     readme = ""

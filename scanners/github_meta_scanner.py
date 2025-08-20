@@ -18,7 +18,7 @@ from git import Repo
 
 
 class GithubMetaScanner(Scanner):
-    def __init__(self, auth_token, exclude, process_count=1):
+    def __init__(self, auth_token, exclude: list[App], process_count=1):
         self.auth = Github(auth=Auth.Token(auth_token))
         self.exclude = exclude
         self.process_count = process_count
@@ -59,7 +59,9 @@ class GithubMetaScanner(Scanner):
         for repo_idx in tqdm(range(0, results.totalCount)):
             repo: Repository = results[repo_idx]
             
-            if util.is_known_app(repo.name, [repo.html_url]) or util.is_ignored(repo.name) or util.is_ignored(repo.html_url):
+            if (repo.html_url in util.flatten([x.urls for x in self.exclude]) or 
+                    util.is_known_app(repo.name, [repo.html_url]) or 
+                    util.is_ignored(repo.name) or util.is_ignored(repo.html_url)):
                 continue
     
             try:

@@ -5,8 +5,10 @@ from github import UnknownObjectException
 from github.Repository import Repository
 
 def has_github_downloads(repo: Repository) -> bool:
-    print(repo.get_downloads())
-    return repo.has_downloads
+    try:
+        return repo.get_downloads().totalCount > 0
+    except UnknownObjectException:
+        return False
 
 def calc_github_score(repo: Repository, trace: bool = False) -> float:
     """
@@ -54,7 +56,7 @@ def calc_github_score(repo: Repository, trace: bool = False) -> float:
             pass
     
         # Release download links
-        if repo.has_downloads:
+        if has_github_downloads(repo):
             score += get_and_trace("release_download")
     
         # Check if the repo has been updated in the last 180 days

@@ -43,7 +43,7 @@ class GithubMetaScanner(Scanner):
         return_code = result.returncode
 
         if return_code == 0:
-            app.append(App(name, desc, [url], type(self).__name__, args.score))
+            app.append(App(name, desc, [url], type(self).__name__, args.score, args.has_downloads))
 
         temp_dir.cleanup()
         return app

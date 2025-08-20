@@ -12,12 +12,39 @@ Sort by: [name] | [score](SUMMARY_RANKED.md)
 
 Entries are sorted by name and grouped into a separate category if the attached link has no downloadable releases.
 
- * [AIDE-Plus-AS](https://github.com/Familyye/AIDE-Plus-AS)
  * [AIDE-Plus-Private](https://github.com/Familyye/AIDE-Plus-Private) - AIDE+个人备份仓库
+ * [Android-FPS-Watcher](https://github.com/WuDi-ZhanShen/Android-FPS-Watcher) - Monitor RealTime FPS. Suppports Android 13+. Pure Java.
+ * [EliteGaming](https://github.com/DivyanshNagda/EliteGaming) - 🚀 EliteG - Boost Android gaming performance by up to 80%! Optimize FPS, reduce lag, and save battery. Works with/without root. Based on Mathias Boulay's Android-Game-Booster with enhanced features. #Android #Gaming #Performance
+ * [File-Manager](https://github.com/abusaeed-shuvo/File-Manager) - Simple file manager with shizuku in compose.
+ * [FreezeApp](https://github.com/JuneLeo/FreezeApp)
+ * [IDE-for-everyone](https://github.com/Slinky-86/IDE-for-everyone) - Created with StackBlitz ⚡️
+ * [KeyboardSwitcher](https://github.com/SgLy/KeyboardSwitcher) - Adds a quick setting tile for quickly switching keyboard (input method)
+ * [RotaenoUploader](https://github.com/milkycandy/RotaenoUploader) - Rotaeno存档上传器
+ * [Sui-Fold6](https://github.com/kevins-gitu/Sui-Fold6)
+ * [Task-manager-app](https://github.com/Swayam7Garg/Task-manager-app)
+ * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
+ * [X-Shizuku](https://github.com/Mbilse/X-Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
+ * [XMeizu](https://github.com/ItosEO/XMeizu)
+ * [adhell3](https://github.com/pascua28/adhell3)
+ * [android_airplane_mode](https://github.com/lalakii/android_airplane_mode) - android switch airplane mode by reflection, need shizuku permission.
+ * [ankihelper-plus](https://github.com/huhuswei/ankihelper-plus)
+ * [everyones-APPS](https://github.com/Slinky-86/everyones-APPS) - Created with StackBlitz ⚡️
+ * [freefire-aimbot-android](https://github.com/nildo157/freefire-aimbot-android)
+ * [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ
+ * [muxueanzhuangqi](https://github.com/yuan-shiguang/muxueanzhuangqi)
+ * [my_favorite](https://github.com/U1tData/my_favorite)
+ * [open-automate](https://github.com/woliver99/open-automate)
+ * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
+ * [playkiller](https://github.com/ahnyungje/playkiller) - Shizuku 기반 Google Play Services 종료 앱
+ * [secure-sense](https://github.com/Icetok/secure-sense) - Privacy monitoring app for Android
+ * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]
+
+### Apps with no releases
+
+ * [AIDE-Plus-AS](https://github.com/Familyye/AIDE-Plus-AS)
  * [AOD_Charging](https://github.com/SthrNilshaaa/AOD_Charging) - System Aod controller with quick tile as well as devices charging conditions,this will automatic the aod on the system
  * [Accessibility-](https://github.com/nai559/Accessibility-)
  * [Android-AccessibilityGrant](https://github.com/MagicianGuo/Android-AccessibilityGrant) - 能够一键为应用授予辅助功能（无障碍）权限，需要Shizuku
- * [Android-FPS-Watcher](https://github.com/WuDi-ZhanShen/Android-FPS-Watcher) - Monitor RealTime FPS. Suppports Android 13+. Pure Java.
  * [Android_KMP_Compilation](https://github.com/hojat72elect/Android_KMP_Compilation) - A collection of Android and Kotlin-Multiplatform apps
  * [AttackerAppJava](https://github.com/it4ch1-007/AttackerAppJava)
  * [AudioControlApp](https://github.com/SwastikChamp2/AudioControlApp)
@@ -29,17 +56,12 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ControllerMapper](https://github.com/anhquan7826/ControllerMapper)
  * [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新（2025.7.14：太史山了，最近在kmp上重写了一个，这一坨就当黑历史了，等kmp重写完再放上来）
  * [DeviceOptimizeHelper](https://github.com/sbmatch/DeviceOptimizeHelper)
- * [EliteGaming](https://github.com/DivyanshNagda/EliteGaming) - 🚀 EliteG - Boost Android gaming performance by up to 80%! Optimize FPS, reduce lag, and save battery. Works with/without root. Based on Mathias Boulay's Android-Game-Booster with enhanced features. #Android #Gaming #Performance
- * [File-Manager](https://github.com/abusaeed-shuvo/File-Manager) - Simple file manager with shizuku in compose.
  * [FlymeFrameTools](https://github.com/Ruyue-Kinsenka/FlymeFrameTools) - 利用shuzuki无root管理flyme插帧超分的app名单
- * [FreezeApp](https://github.com/JuneLeo/FreezeApp)
  * [GGG](https://github.com/libea18/GGG)
  * [HesleyTools](https://github.com/ldh-star/HesleyTools) - 自用工具/模块
  * [HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！
  * [Hz-Changer](https://github.com/MARCOS-S-S/Hz-Changer) - Under development! Simple, light, free and functional hz changer app.
- * [IDE-for-everyone](https://github.com/Slinky-86/IDE-for-everyone) - Created with StackBlitz ⚡️
  * [JumpReplay](https://github.com/FourTwooo/JumpReplay) - Xposed Hook Android Intent/Scheme
- * [KeyboardSwitcher](https://github.com/SgLy/KeyboardSwitcher) - Adds a quick setting tile for quickly switching keyboard (input method)
  * [LauncherChanger](https://github.com/Samuel095383/LauncherChanger)
  * [LogCollector](https://github.com/thekosa/LogCollector) - Android application designed to collect and manage Android system logs
  * [Loki](https://github.com/trinadhthatakula/Loki) - Android App logger
@@ -49,15 +71,12 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [MndroLua](https://github.com/Crescent-of-Maya/MndroLua) - A modern fork of AndroLua+ / 更加现代的 AndroLua+ 魔改版
  * [Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
  * [Operit](https://github.com/AAswordman/Operit) - An android AI agent can automatically operate your mobile phone
- * [RotaenoUploader](https://github.com/milkycandy/RotaenoUploader) - Rotaeno存档上传器
  * [RunnerStub](https://github.com/yangFenTuoZi/RunnerStub)
  * [SFS-CustomTranslations-Installer](https://github.com/youfeng11/SFS-CustomTranslations-Installer)
  * [ShizukuClipboardDemo](https://github.com/lz233/ShizukuClipboardDemo)
  * [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Module to change country for tiktok to Belarus(for russian)
- * [Sui-Fold6](https://github.com/kevins-gitu/Sui-Fold6)
  * [SuperWindow](https://github.com/eiyooooo/SuperWindow) - 超级视窗 | Enhance multi-task experience for large-screen Android devices
  * [SysProxy](https://github.com/Kr328/SysProxy) - A tiny app to set system proxy on Android. (Root required)
- * [Task-manager-app](https://github.com/Swayam7Garg/Task-manager-app)
  * [TimerAndroid](https://github.com/HNIdesu/TimerAndroid) - 定时关闭指定的应用，支持Magisk和Shizuku。
  * [Tiny-Installer](https://github.com/scto/Tiny-Installer) - A Package Installer with MD3 UI.
  * [TouchTool](https://github.com/mr-bogey/TouchTool)
@@ -65,15 +84,9 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [UWS](https://github.com/UWillno/UWS) - Qt for Android的shizuku/root shell执行器
  * [VeryDark](https://github.com/wkbin/VeryDark) - 极暗模式
  * [VivoTools](https://github.com/ItosEO/VivoTools) - 蓝厂工具盒,用于降级GW和电源信息
- * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
- * [X-Shizuku](https://github.com/Mbilse/X-Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
- * [XMeizu](https://github.com/ItosEO/XMeizu)
  * [XPlan](https://github.com/ItosEO/XPlan) - X计划，合并版
  * [Zxcvcx-](https://github.com/eden-ana/Zxcvcx-)
- * [adhell3](https://github.com/pascua28/adhell3)
  * [android-settings-scheduler](https://github.com/Turtlepaw/android-settings-scheduler) - Schedule any settings that are in the Android Settings app to be changed
- * [android_airplane_mode](https://github.com/lalakii/android_airplane_mode) - android switch airplane mode by reflection, need shizuku permission.
- * [ankihelper-plus](https://github.com/huhuswei/ankihelper-plus)
  * [anyones-IDE-everyomes-IDE](https://github.com/Slinky-86/anyones-IDE-everyomes-IDE) - Created with StackBlitz ⚡️
  * [autodaily](https://github.com/ParadiseZ/autodaily)
  * [cafetone](https://github.com/evinjohnn/cafetone)
@@ -81,27 +94,17 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [cmd-android](https://github.com/niki914/cmd-android) - 基于 Kotlin 协程的 Android Shell 命令执行框架，支持 User、Shizuku 和 Root 三种权限的命令行调用，提供统一易用的挂起式 API
  * [com.catsmoker.app](https://github.com/catsmoker/com.catsmoker.app) - Catsmoker app - Game FPS Unlocker
  * [dev-archive](https://github.com/moruklabs/dev-archive)
- * [everyones-APPS](https://github.com/Slinky-86/everyones-APPS) - Created with StackBlitz ⚡️
  * [fakelauncher](https://github.com/ZH-XiJun/fakelauncher) - I swear, it is really just a feature phone, not a smart phone!
- * [freefire-aimbot-android](https://github.com/nildo157/freefire-aimbot-android)
  * [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
  * [gemini-android](https://github.com/niki914/gemini-android) - Let gemini control your Android phone through function calling. 通过FunctionCalling让Gemini操控安卓手机。
  * [haval-app-tool-multimidia](https://github.com/bobaoapae/haval-app-tool-multimidia) - Ferramenta Android experimental para estender e aprimorar o sistema multimídia do Haval H6 GT (GWM) via engenharia reversa e Shizuku
  * [kdeconnect-android-shizuku](https://github.com/Shoukaku39/kdeconnect-android-shizuku) - Forked from KDE Connect Android. Adds Shizuku support to bypass clipboard access restrictions on Android 10+ without using READ_LOGS or manual ADB shell. 基于 KDE Connect Android 的分支，添加对 Shizuku 的支持，在无需请求 READ_LOGS 或手动 ADB 授权的情况下，绕过 Android 10+ 剪贴板访问限制。
  * [li](https://github.com/lousli/li) - 安卓去广告
- * [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ
  * [mewtachi](https://github.com/xaolanx/mewtachi)
  * [modtoon_module](https://github.com/Inhaleoxygen/modtoon_module)
  * [mountain](https://github.com/lisproj/mountain)
- * [muxueanzhuangqi](https://github.com/yuan-shiguang/muxueanzhuangqi)
- * [my_favorite](https://github.com/U1tData/my_favorite)
- * [open-automate](https://github.com/woliver99/open-automate)
- * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
- * [playkiller](https://github.com/ahnyungje/playkiller) - Shizuku 기반 Google Play Services 종료 앱
  * [reactmap-android](https://github.com/Mygod/reactmap-android) - Android WebView app for ReactMap with added goodies
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
- * [secure-sense](https://github.com/Icetok/secure-sense) - Privacy monitoring app for Android
- * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]
  * [tachiyomi2.0](https://github.com/darkfireeee/tachiyomi2.0)
  * [underclocker](https://github.com/pascua28/underclocker)
  * [ziptie](https://github.com/MercuryWorkshop/ziptie) - Manage portable linux containers on your android from another device

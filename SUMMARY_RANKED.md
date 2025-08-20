@@ -21,7 +21,7 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [82.64] [reactmap-android](https://github.com/Mygod/reactmap-android) - Android WebView app for ReactMap with added goodies
  * [82.64] [ziptie](https://github.com/MercuryWorkshop/ziptie) - Manage portable linux containers on your android from another device
  * [82.35] [EliteGaming](https://github.com/DivyanshNagda/EliteGaming) - 🚀 EliteG - Boost Android gaming performance by up to 80%! Optimize FPS, reduce lag, and save battery. Works with/without root. Based on Mathias Boulay's Android-Game-Booster with enhanced features. #Android #Gaming #Performance
- * [72.76] [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
+ * [72.73] [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
  * [68.81] [RotaenoUploader](https://github.com/milkycandy/RotaenoUploader) - Rotaeno存档上传器
  * [68.32] [SysProxy](https://github.com/Kr328/SysProxy) - A tiny app to set system proxy on Android. (Root required)
  * [68.00] [Tiny-Installer](https://github.com/scto/Tiny-Installer) - A Package Installer with MD3 UI.
@@ -62,6 +62,7 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [53.05] [Android-AccessibilityGrant](https://github.com/MagicianGuo/Android-AccessibilityGrant) - 能够一键为应用授予辅助功能（无障碍）权限，需要Shizuku
  * [53.05] [TimerAndroid](https://github.com/HNIdesu/TimerAndroid) - 定时关闭指定的应用，支持Magisk和Shizuku。
  * [50.00] [MahjongClubBooster](https://github.com/OlegPV2/MahjongClubBooster) - One button only
+ * [44.26] [SFS-CustomTranslations-Installer](https://github.com/youfeng11/SFS-CustomTranslations-Installer) - SFS汉化安装器
  * [44.19] [Android_KMP_Compilation](https://github.com/hojat72elect/Android_KMP_Compilation) - A collection of Android and Kotlin-Multiplatform apps
  * [44.19] [AutoRestart](https://github.com/madkarmaa/AutoRestart) - Restart your device on a specific day and time, with the help of Shizuku
  * [44.19] [playkiller](https://github.com/ahnyungje/playkiller) - Shizuku 기반 Google Play Services 종료 앱
@@ -71,7 +72,6 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [44.12] [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Module to change country for tiktok to Belarus(for russian)
  * [44.12] [li](https://github.com/lousli/li) - 安卓去广告
  * [32.56] [AIDE-Plus-AS](https://github.com/Familyye/AIDE-Plus-AS)
- * [32.49] [SFS-CustomTranslations-Installer](https://github.com/youfeng11/SFS-CustomTranslations-Installer)
  * [32.46] [Task-manager-app](https://github.com/Swayam7Garg/Task-manager-app)
  * [32.42] [AudioControlApp](https://github.com/SwastikChamp2/AudioControlApp)
  * [32.39] [Sui-Fold6](https://github.com/kevins-gitu/Sui-Fold6)
@@ -91,11 +91,11 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [17.72] [LauncherChanger](https://github.com/Samuel095383/LauncherChanger)
  * [17.72] [underclocker](https://github.com/pascua28/underclocker)
  * [17.68] [RunnerStub](https://github.com/yangFenTuoZi/RunnerStub)
+ * [17.68] [ShizukuClipboardDemo](https://github.com/lz233/ShizukuClipboardDemo)
  * [17.68] [muxueanzhuangqi](https://github.com/yuan-shiguang/muxueanzhuangqi)
  * [17.65] [Accessibility-](https://github.com/nai559/Accessibility-)
  * [17.65] [AttackerAppJava](https://github.com/it4ch1-007/AttackerAppJava)
  * [17.65] [GGG](https://github.com/libea18/GGG)
- * [17.65] [ShizukuClipboardDemo](https://github.com/lz233/ShizukuClipboardDemo)
  * [17.65] [chibiko](https://github.com/bluesky139/chibiko)
  * [17.65] [dev-archive](https://github.com/moruklabs/dev-archive)
  * [17.65] [mountain](https://github.com/lisproj/mountain)

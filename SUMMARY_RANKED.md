@@ -15,6 +15,7 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [85.29] [Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
  * [85.21] [LuaHook](https://github.com/KuLiPai/LuaHook) - A module for writing Xposed scripts via Lua
  * [83.16] [fakelauncher](https://github.com/ZH-XiJun/fakelauncher) - I swear, it is really just a feature phone, not a smart phone!
+ * [83.09] [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ
  * [82.88] [kdeconnect-android-shizuku](https://github.com/Shoukaku39/kdeconnect-android-shizuku) - Forked from KDE Connect Android. Adds Shizuku support to bypass clipboard access restrictions on Android 10+ without using READ_LOGS or manual ADB shell. 基于 KDE Connect Android 的分支，添加对 Shizuku 的支持，在无需请求 READ_LOGS 或手动 ADB 授权的情况下，绕过 Android 10+ 剪贴板访问限制。
  * [82.74] [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
  * [82.64] [android_airplane_mode](https://github.com/lalakii/android_airplane_mode) - android switch airplane mode by reflection, need shizuku permission.
@@ -37,7 +38,7 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [67.65] [Hz-Changer](https://github.com/MARCOS-S-S/Hz-Changer) - Under development! Simple, light, free and functional hz changer app.
  * [67.65] [KeyboardSwitcher](https://github.com/SgLy/KeyboardSwitcher) - Adds a quick setting tile for quickly switching keyboard (input method)
  * [64.74] [MndroLua](https://github.com/Crescent-of-Maya/MndroLua) - A modern fork of AndroLua+ / 更加现代的 AndroLua+ 魔改版
- * [59.99] [NPatch](https://github.com/7723mod/NPatch) - NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+ * [60.13] [NPatch](https://github.com/7723mod/NPatch) - NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
  * [59.35] [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]
  * [59.21] [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
  * [59.04] [SuperWindow](https://github.com/eiyooooo/SuperWindow) - 超级视窗 | Enhance multi-task experience for large-screen Android devices

@@ -12,6 +12,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [AIDE-Plus-Private](https://github.com/Familyye/AIDE-Plus-Private) - AIDE+个人备份仓库
  * [Android-AccessibilityGrant](https://github.com/MagicianGuo/Android-AccessibilityGrant) - 能够一键为应用授予辅助功能（无障碍）权限，需要Shizuku
  * [Android-FPS-Watcher](https://github.com/WuDi-ZhanShen/Android-FPS-Watcher) - Monitor RealTime FPS. Suppports Android 13+. Pure Java.
+ * [AudioControlApp](https://github.com/SwastikChamp2/AudioControlApp)
  * [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
  * [CBJQ_HugFenny](https://github.com/LiuJiewenTT/CBJQ_HugFenny)
  * [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新（2025.7.14：太史山了，最近在kmp上重写了一个，这一坨就当黑历史了，等kmp重写完再放上来）
@@ -33,6 +34,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
  * [Operit](https://github.com/AAswordman/Operit) - An android AI agent can automatically operate your mobile phone
  * [RotaenoUploader](https://github.com/milkycandy/RotaenoUploader) - Rotaeno存档上传器
+ * [ShizukuHack](https://github.com/emtee40/ShizukuHack)
  * [Sui-Fold6](https://github.com/kevins-gitu/Sui-Fold6)
  * [SysProxy](https://github.com/Kr328/SysProxy) - A tiny app to set system proxy on Android. (Root required)
  * [Task-manager-app](https://github.com/Swayam7Garg/Task-manager-app)
@@ -40,10 +42,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Tiny-Installer](https://github.com/scto/Tiny-Installer) - A Package Installer with MD3 UI.
  * [UWS](https://github.com/UWillno/UWS) - Qt for Android的shizuku/root shell执行器
  * [VivoTools](https://github.com/ItosEO/VivoTools) - 蓝厂工具盒,用于降级GW和电源信息
- * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [X-Shizuku](https://github.com/Mbilse/X-Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
- * [XMeizu](https://github.com/ItosEO/XMeizu)
- * [adhell3](https://github.com/pascua28/adhell3)
  * [android_airplane_mode](https://github.com/lalakii/android_airplane_mode) - android switch airplane mode by reflection, need shizuku permission.
  * [ankihelper-plus](https://github.com/huhuswei/ankihelper-plus)
  * [autodaily](https://github.com/ParadiseZ/autodaily)
@@ -56,7 +55,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
  * [haval-app-tool-multimidia](https://github.com/bobaoapae/haval-app-tool-multimidia) - Ferramenta Android experimental para estender e aprimorar o sistema multimídia do Haval H6 GT (GWM) via engenharia reversa e Shizuku
  * [kdeconnect-android-shizuku](https://github.com/Shoukaku39/kdeconnect-android-shizuku) - Forked from KDE Connect Android. Adds Shizuku support to bypass clipboard access restrictions on Android 10+ without using READ_LOGS or manual ADB shell. 基于 KDE Connect Android 的分支，添加对 Shizuku 的支持，在无需请求 READ_LOGS 或手动 ADB 授权的情况下，绕过 Android 10+ 剪贴板访问限制。
- * [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ
  * [mewtachi](https://github.com/xaolanx/mewtachi)
  * [muxueanzhuangqi](https://github.com/yuan-shiguang/muxueanzhuangqi)
  * [my_favorite](https://github.com/U1tData/my_favorite)
@@ -64,7 +62,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [playkiller](https://github.com/ahnyungje/playkiller) - Shizuku 기반 Google Play Services 종료 앱
  * [reactmap-android](https://github.com/Mygod/reactmap-android) - Android WebView app for ReactMap with added goodies
- * [secure-sense](https://github.com/Icetok/secure-sense) - Privacy monitoring app for Android
  * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]
  * [ziptie](https://github.com/MercuryWorkshop/ziptie) - Manage portable linux containers on your android from another device
 
@@ -75,7 +72,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Accessibility-](https://github.com/nai559/Accessibility-)
  * [Android_KMP_Compilation](https://github.com/hojat72elect/Android_KMP_Compilation) - A collection of Android and Kotlin-Multiplatform apps
  * [AttackerAppJava](https://github.com/it4ch1-007/AttackerAppJava)
- * [AudioControlApp](https://github.com/SwastikChamp2/AudioControlApp)
  * [AutoRestart](https://github.com/madkarmaa/AutoRestart) - Restart your device on a specific day and time, with the help of Shizuku
  * [BatteryStatsReset1.2.5](https://github.com/Reborn0Holly/BatteryStatsReset1.2.5)
  * [ClipboardListener](https://github.com/aa2013/ClipboardListener) - Flutter-ClipboardListener-Clipshare
@@ -84,9 +80,11 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [LauncherChanger](https://github.com/Samuel095383/LauncherChanger)
  * [LogCollector](https://github.com/thekosa/LogCollector) - Android application designed to collect and manage Android system logs
  * [Miohon-AT](https://github.com/Lorenzo-Guardabascio/Miohon-AT)
+ * [NPatch](https://github.com/7723mod/NPatch) - NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
  * [RunnerStub](https://github.com/yangFenTuoZi/RunnerStub)
  * [SFS-CustomTranslations-Installer](https://github.com/youfeng11/SFS-CustomTranslations-Installer)
  * [ShizukuClipboardDemo](https://github.com/lz233/ShizukuClipboardDemo)
+ * [ShizukuHackApi](https://github.com/emtee40/ShizukuHackApi)
  * [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Module to change country for tiktok to Belarus(for russian)
  * [SuperWindow](https://github.com/eiyooooo/SuperWindow) - 超级视窗 | Enhance multi-task experience for large-screen Android devices
  * [TouchTool](https://github.com/mr-bogey/TouchTool)
@@ -103,5 +101,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [modtoon_module](https://github.com/Inhaleoxygen/modtoon_module)
  * [mountain](https://github.com/lisproj/mountain)
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
+ * [secure-sense](https://github.com/Icetok/secure-sense) - Privacy monitoring app for Android
  * [tachiyomi2.0](https://github.com/darkfireeee/tachiyomi2.0)
  * [underclocker](https://github.com/pascua28/underclocker)

@@ -15,7 +15,6 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [85.29] [Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
  * [85.21] [LuaHook](https://github.com/KuLiPai/LuaHook) - A module for writing Xposed scripts via Lua
  * [83.16] [fakelauncher](https://github.com/ZH-XiJun/fakelauncher) - I swear, it is really just a feature phone, not a smart phone!
- * [83.06] [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ
  * [82.88] [kdeconnect-android-shizuku](https://github.com/Shoukaku39/kdeconnect-android-shizuku) - Forked from KDE Connect Android. Adds Shizuku support to bypass clipboard access restrictions on Android 10+ without using READ_LOGS or manual ADB shell. 基于 KDE Connect Android 的分支，添加对 Shizuku 的支持，在无需请求 READ_LOGS 或手动 ADB 授权的情况下，绕过 Android 10+ 剪贴板访问限制。
  * [82.74] [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
  * [82.64] [android_airplane_mode](https://github.com/lalakii/android_airplane_mode) - android switch airplane mode by reflection, need shizuku permission.
@@ -26,7 +25,6 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [68.81] [RotaenoUploader](https://github.com/milkycandy/RotaenoUploader) - Rotaeno存档上传器
  * [68.32] [SysProxy](https://github.com/Kr328/SysProxy) - A tiny app to set system proxy on Android. (Root required)
  * [68.00] [Tiny-Installer](https://github.com/scto/Tiny-Installer) - A Package Installer with MD3 UI.
- * [68.00] [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [68.00] [com.catsmoker.app](https://github.com/catsmoker/com.catsmoker.app) - Catsmoker app - Game FPS Unlocker
  * [67.96] [HesleyTools](https://github.com/ldh-star/HesleyTools) - 自用工具/模块
  * [67.96] [cmd-android](https://github.com/niki914/cmd-android) - 基于 Kotlin 协程的 Android Shell 命令执行框架，支持 User、Shizuku 和 Root 三种权限的命令行调用，提供统一易用的挂起式 API
@@ -39,6 +37,7 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [67.65] [Hz-Changer](https://github.com/MARCOS-S-S/Hz-Changer) - Under development! Simple, light, free and functional hz changer app.
  * [67.65] [KeyboardSwitcher](https://github.com/SgLy/KeyboardSwitcher) - Adds a quick setting tile for quickly switching keyboard (input method)
  * [64.74] [MndroLua](https://github.com/Crescent-of-Maya/MndroLua) - A modern fork of AndroLua+ / 更加现代的 AndroLua+ 魔改版
+ * [59.99] [NPatch](https://github.com/7723mod/NPatch) - NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
  * [59.35] [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]
  * [59.21] [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
  * [59.04] [SuperWindow](https://github.com/eiyooooo/SuperWindow) - 超级视窗 | Enhance multi-task experience for large-screen Android devices
@@ -53,7 +52,6 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [58.82] [AOD_Charging](https://github.com/SthrNilshaaa/AOD_Charging) - System Aod controller with quick tile as well as devices charging conditions,this will automatic the aod on the system
  * [58.82] [everyones-APPS](https://github.com/Slinky-86/everyones-APPS) - Created with StackBlitz ⚡️
  * [58.71] [DeviceOptimizeHelper](https://github.com/sbmatch/DeviceOptimizeHelper)
- * [56.02] [adhell3](https://github.com/pascua28/adhell3)
  * [56.02] [ankihelper-plus](https://github.com/huhuswei/ankihelper-plus)
  * [55.99] [cafetone](https://github.com/evinjohnn/cafetone)
  * [55.95] [autodaily](https://github.com/ParadiseZ/autodaily)
@@ -72,7 +70,6 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [44.12] [File-Manager](https://github.com/abusaeed-shuvo/File-Manager) - Simple file manager with shizuku in compose.
  * [44.12] [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Module to change country for tiktok to Belarus(for russian)
  * [44.12] [li](https://github.com/lousli/li) - 安卓去广告
- * [41.39] [XMeizu](https://github.com/ItosEO/XMeizu)
  * [32.56] [AIDE-Plus-AS](https://github.com/Familyye/AIDE-Plus-AS)
  * [32.49] [SFS-CustomTranslations-Installer](https://github.com/youfeng11/SFS-CustomTranslations-Installer)
  * [32.46] [Task-manager-app](https://github.com/Swayam7Garg/Task-manager-app)
@@ -80,6 +77,8 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [32.39] [Sui-Fold6](https://github.com/kevins-gitu/Sui-Fold6)
  * [32.39] [my_favorite](https://github.com/U1tData/my_favorite)
  * [32.35] [Miohon-AT](https://github.com/Lorenzo-Guardabascio/Miohon-AT)
+ * [32.35] [ShizukuHack](https://github.com/emtee40/ShizukuHack)
+ * [32.35] [ShizukuHackApi](https://github.com/emtee40/ShizukuHackApi)
  * [32.35] [Zxcvcx-](https://github.com/eden-ana/Zxcvcx-)
  * [32.35] [freefire-aimbot-android](https://github.com/nildo157/freefire-aimbot-android)
  * [32.35] [modtoon_module](https://github.com/Inhaleoxygen/modtoon_module)

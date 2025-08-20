@@ -6,7 +6,7 @@ from github.Repository import Repository
 
 def has_github_downloads(repo: Repository) -> bool:
     try:
-        return repo.get_releases().totalCount > 0 and len(repo.get_releases().get_page(1)) > 0
+        return repo.get_releases().totalCount > 0 and len(repo.get_releases().get_page(0)) > 0
     except UnknownObjectException:
         return False
 

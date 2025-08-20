@@ -91,6 +91,21 @@ https://github.com/bigbabyboost/mewtachi2
 https://github.com/bigbabyboost/shiori
 https://github.com/stefa9nosa/CyanChanges-Sui
 https://github.com/kevin930321/Mihon-Test
+https://github.com/lalakii/android_airplane_mode
+https://github.com/darkfireeee/tachiyomi2.0
+https://github.com/emtee40/ShizukuHack
+https://github.com/emtee40/ShizukuHackApi
+https://github.com/Familyye/AIDE-Plus-AS
+https://github.com/Familyye/AIDE-Plus-Private
+https://github.com/SthrNilshaaa/AOD_Charging
+https://github.com/hojat72elect/Android_KMP_Compilation
+https://github.com/Reborn0Holly/BatteryStatsReset1.2.5
+https://github.com/libea18/GGG
+https://github.com/7723mod/NPatch
+https://github.com/kevins-gitu/Sui-Fold6
+https://github.com/Swayam7Garg/Task-manager-app
+https://github.com/Mbilse/X-Shizuku
+https://github.com/eden-ana/Zxcvcx-
 
 # Already in list from other source
 https://gitlab.com/fmd-foss/fmd-android
@@ -104,6 +119,7 @@ https://github.com/null2264/yokai
 https://github.com/Felocord/Manager
 https://github.com/lingyicute/StarryStore
 https://github.com/AmanoTeam/Kahon
+https://github.com/xaolanx/mewtachi
 
 # Deprecated
 https://github.com/zxy19/cjluFree
@@ -125,11 +141,15 @@ https://github.com/sbmatch/powersoundswitch
 https://github.com/Uvneshkumar/MyAOD
 https://github.com/theshoqanebi/simple-adb-wifi
 https://github.com/wayuto/ChatBot
+https://github.com/Mygod/reactmap-android
+https://github.com/pascua28/underclocker
 
 # Testing stuff / learning
 https://github.com/lovelmxa/com.klqmz.test
 https://github.com/MakeKittyC/AppCompat
 https://github.com/MakeKittyC/ShizukuUesrService
+https://github.com/it4ch1-007/AttackerAppJava
+https://github.com/lz233/ShizukuClipboardDemo
 
 # Insufficient documentation
 https://github.com/frap129/Machina
@@ -154,6 +174,9 @@ https://github.com/ItosEO/XSamsung
 https://github.com/printf172/majora-adr
 https://github.com/zmide/HoleConsoleApp
 https://github.com/MagicianGuo/Android-SettingTools
+https://github.com/OlegPV2/MahjongClubBooster
+https://github.com/Lorenzo-Guardabascio/Miohon-AT
+https://github.com/bluesky139/chibiko
 
 # Replaced by fork
 https://github.com/iamr0s/InstallerX
@@ -166,7 +189,17 @@ https://github.com/ryuunoakaihitomi/PowerKeyAction
 https://github.com/xfl12345/DroidCloudSms
 https://github.com/eswd04/freeform_update
 https://github.com/TonyJiangWJ/Auto.js
+https://github.com/DivyanshNagda/EliteGaming
+https://github.com/Kr328/SysProxy
+https://github.com/scto/Tiny-Installer
+https://github.com/lisproj/mountain
+https://github.com/yuan-shiguang/muxueanzhuangqi
 
+# Archived, Deprecated, and Requirements not met
+https://github.com/milkycandy/RotaenoUploader
+
+# Xposed stuff
+https://github.com/KuLiPai/LuaHook
 
 # Other libraries
 https://github.com/lucid-lynxz/ShizukuWrapper
@@ -182,6 +215,20 @@ https://github.com/answer2/ShizukuFileUtil
 https://github.com/LinerSRT/ShizukuSamples
 https://github.com/huaweikai/DyImage
 https://github.com/JoaoTrog1/shizuku-shell
+https://github.com/ahnyungje/playkiller
 
 # False positives
 https://github.com/mzy-ly/GitHubTrendingRSS
+https://github.com/moruklabs/dev-archive
+
+# fully AI generated & not working or not useful
+https://github.com/evinjohnn/cafetone
+https://github.com/Slinky-86/IDE-for-everyone
+https://github.com/Slinky-86/anyones-IDE-everyomes-IDE
+https://github.com/Slinky-86/everyones-APPS
+https://github.com/nildo157/freefire-aimbot-android
+https://github.com/U1tData/my_favorite
+https://github.com/Icetok/secure-sense
+
+# Imports Shizuku, but does not make use of it (Recheck later)
+https://github.com/MercuryWorkshop/ziptie

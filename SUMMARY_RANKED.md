@@ -18,10 +18,11 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [83.20] [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ
  * [82.92] [kdeconnect-android-shizuku](https://github.com/Shoukaku39/kdeconnect-android-shizuku) - Forked from KDE Connect Android. Adds Shizuku support to bypass clipboard access restrictions on Android 10+ without using READ_LOGS or manual ADB shell. 基于 KDE Connect Android 的分支，添加对 Shizuku 的支持，在无需请求 READ_LOGS 或手动 ADB 授权的情况下，绕过 Android 10+ 剪贴板访问限制。
  * [82.74] [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
+ * [82.71] [flicky](https://github.com/mlm-games/flicky) - A trial at a better TV UI for fdroid
  * [82.42] [NetworkSwitch](https://github.com/aunchagaonkar/NetworkSwitch) - One-tap network switching for Android
  * [82.35] [GlyphRecorder](https://github.com/aaa1115910/GlyphRecorder) - A glyph recognition tool.
  * [76.47] [AutoTask](https://github.com/xjunz/AutoTask) - An automation assistant app supporting both Shizuku and AccessibilityService.
- * [72.98] [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
+ * [73.01] [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
  * [68.04] [haval-app-tool-multimidia](https://github.com/bobaoapae/haval-app-tool-multimidia) - Ferramenta Android experimental para estender e aprimorar o sistema multimídia do Haval H6 GT (GWM) via engenharia reversa e Shizuku
  * [68.00] [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [67.96] [cmd-android](https://github.com/niki914/cmd-android) - 基于 Kotlin 协程的 Android Shell 命令执行框架，支持 User、Shizuku 和 Root 三种权限的命令行调用，提供统一易用的挂起式 API
@@ -53,14 +54,15 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [44.44] [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [44.26] [SFS-CustomTranslations-Installer](https://github.com/youfeng11/SFS-CustomTranslations-Installer) - SFS汉化安装器
  * [44.19] [AutoRestart](https://github.com/madkarmaa/AutoRestart) - Restart your device on a specific day and time, with the help of Shizuku
- * [44.12] [ClipboardListener](https://github.com/aa2013/ClipboardListener) - Flutter-ClipboardListener-Clipshare
+ * [44.15] [ClipboardListener](https://github.com/aa2013/ClipboardListener) - Flutter-ClipboardListener-Clipshare
  * [44.12] [File-Manager](https://github.com/abusaeed-shuvo/File-Manager) - Simple file manager with shizuku in compose.
+ * [44.12] [athena](https://github.com/IronMeerkat/athena) - my personal AI ecosystem
  * [44.12] [li](https://github.com/lousli/li) - 安卓去广告
  * [32.49] [adhell3](https://github.com/pascua28/adhell3)
  * [32.42] [AudioControlApp](https://github.com/SwastikChamp2/AudioControlApp)
  * [32.35] [Sagar-00007](https://github.com/rsagarrathva-code/Sagar-00007)
  * [32.35] [modtoon_module](https://github.com/Inhaleoxygen/modtoon_module)
- * [31.88] [XPlan](https://github.com/ItosEO/XPlan) - X计划，合并版
+ * [31.92] [XPlan](https://github.com/ItosEO/XPlan) - X计划，合并版
  * [29.84] [Tweak-Android](https://github.com/lumkit/Tweak-Android) - 多功能安卓手机玩机工具箱
  * [29.41] [SilentInstaller](https://github.com/MiyazKaori/SilentInstaller) - 使用Shizuku进行静默安装的Android library
  * [26.47] [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Module to change country for tiktok to Belarus(for russian)

@@ -65,6 +65,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ThemedManager](https://github.com/Osanosa/ThemedManager) - Themed Overlays Manager
  * [TouchTool](https://github.com/mr-bogey/TouchTool)
  * [Tweak-Android](https://github.com/lumkit/Tweak-Android) - 多功能安卓手机玩机工具箱
+ * [VRPquest](https://github.com/JarJarBlinkz/VRPquest) - A quest standalone version of the VRP Rookie sideloader.  !WIP!
  * [VeryDark](https://github.com/wkbin/VeryDark) - 极暗模式
  * [XMeizu](https://github.com/ItosEO/XMeizu)
  * [XPlan](https://github.com/ItosEO/XPlan) - X计划，合并版

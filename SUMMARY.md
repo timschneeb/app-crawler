@@ -17,6 +17,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [DeviceOptimizeHelper](https://github.com/sbmatch/DeviceOptimizeHelper)
  * [DisplayToggle](https://github.com/UlyssesZh/DisplayToggle) - Android app to toggle on and off the physical display
  * [Flicky](https://github.com/mlm-games/flicky) - Android TV Fdroid repositories client
+ * [Fluffy](https://github.com/mlm-games/Fluffy) - Archive viewer for TVs
  * [FlymeFrameTools](https://github.com/Ruyue-Kinsenka/FlymeFrameTools) - 利用shuzuki无root管理flyme插帧超分的app名单
  * [GlyphRecorder](https://github.com/aaa1115910/GlyphRecorder) - A glyph recognition tool.
  * [HesleyTools](https://github.com/ldh-star/HesleyTools) - 自用工具/模块
@@ -26,7 +27,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [KeyboardSwitcher](https://github.com/SgLy/KeyboardSwitcher) - Adds a quick setting tile for quickly switching keyboard (input method)
  * [Loki](https://github.com/trinadhthatakula/Loki) - Android App logger
  * [MndroLua](https://github.com/Crescent-of-Maya/MndroLua) - A modern fork of AndroLua+ / 更加现代的 AndroLua+ 魔改版
- * [NetworkSwitch](https://github.com/aunchagaonkar/NetworkSwitch) - One-tap network switching for Android
  * [Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
  * [Operit](https://github.com/AAswordman/Operit) - An android AI agent can automatically operate your mobile phone
  * [TimerAndroid](https://github.com/HNIdesu/TimerAndroid) - 定时关闭指定的应用，支持Magisk和Shizuku。
@@ -60,6 +60,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [LogCollector](https://github.com/thekosa/LogCollector) - Android application designed to collect and manage Android system logs
  * [SFS-CustomTranslations-Installer](https://github.com/youfeng11/SFS-CustomTranslations-Installer) - SFS汉化安装器
  * [Sagar-00007](https://github.com/rsagarrathva-code/Sagar-00007)
+ * [Shousetsu](https://github.com/TunaConnoisseur/Shousetsu) - A Mihon inspired app that allows you to read epub files
  * [SilentInstaller](https://github.com/MiyazKaori/SilentInstaller) - 使用Shizuku进行静默安装的Android library
  * [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Module to change country for tiktok to Belarus(for russian)
  * [SuperWindow](https://github.com/eiyooooo/SuperWindow) - 超级视窗 | Enhance multi-task experience for large-screen Android devices
@@ -78,6 +79,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [lanhegongjuxiang](https://github.com/miounet11/lanhegongjuxiang)
  * [li](https://github.com/lousli/li) - 安卓去广告
  * [modtoon_module](https://github.com/Inhaleoxygen/modtoon_module)
+ * [newRep660](https://github.com/azad4ever2nd-ui/newRep660)
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
  * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]

@@ -17,7 +17,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [DeviceOptimizeHelper](https://github.com/sbmatch/DeviceOptimizeHelper)
  * [DisplayToggle](https://github.com/UlyssesZh/DisplayToggle) - Android app to toggle on and off the physical display
  * [Flicky](https://github.com/mlm-games/flicky) - Android TV Fdroid repositories client
- * [Fluffy](https://github.com/mlm-games/Fluffy) - Archive viewer for TVs
+ * [Fluffy](https://github.com/mlm-games/Fluffy) - A TV friendly file manager and archive viewer
  * [FlymeFrameTools](https://github.com/Ruyue-Kinsenka/FlymeFrameTools) - 利用shuzuki无root管理flyme插帧超分的app名单
  * [GlyphRecorder](https://github.com/aaa1115910/GlyphRecorder) - A glyph recognition tool.
  * [HesleyTools](https://github.com/ldh-star/HesleyTools) - 自用工具/模块
@@ -60,6 +60,8 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [LogCollector](https://github.com/thekosa/LogCollector) - Android application designed to collect and manage Android system logs
  * [SFS-CustomTranslations-Installer](https://github.com/youfeng11/SFS-CustomTranslations-Installer) - SFS汉化安装器
  * [Sagar-00007](https://github.com/rsagarrathva-code/Sagar-00007)
+ * [Sam-zuku](https://github.com/Itsfitts/Sam-zuku)
+ * [ShizukuRefresher](https://github.com/lyr341/ShizukuRefresher)
  * [Shousetsu](https://github.com/TunaConnoisseur/Shousetsu) - A Mihon inspired app that allows you to read epub files
  * [SilentInstaller](https://github.com/MiyazKaori/SilentInstaller) - 使用Shizuku进行静默安装的Android library
  * [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Module to change country for tiktok to Belarus(for russian)

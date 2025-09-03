@@ -12,7 +12,7 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [100.00] [Flicky](https://github.com/mlm-games/flicky) - Android TV Fdroid repositories client
  * [100.00] [Fluffy](https://github.com/mlm-games/Fluffy) - A TV friendly file manager and archive viewer
  * [100.00] [Operit](https://github.com/AAswordman/Operit) - An android AI agent can automatically operate your mobile phone
- * [85.71] [JumpReplay](https://github.com/FourTwooo/JumpReplay) - Xposed Hook Android Intent/Scheme
+ * [85.74] [JumpReplay](https://github.com/FourTwooo/JumpReplay) - Xposed Hook Android Intent/Scheme
  * [85.29] [AutoSkip](https://github.com/xjunz/AutoSkip) - 基于Shizuku授权的安卓"自动跳过"工具
  * [85.29] [HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！
  * [85.29] [Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
@@ -24,7 +24,7 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [82.42] [DisplayToggle](https://github.com/UlyssesZh/DisplayToggle) - Android app to toggle on and off the physical display
  * [82.35] [GlyphRecorder](https://github.com/aaa1115910/GlyphRecorder) - A glyph recognition tool.
  * [76.47] [AutoTask](https://github.com/xjunz/AutoTask) - An automation assistant app supporting both Shizuku and AccessibilityService.
- * [73.26] [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
+ * [73.29] [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
  * [68.11] [haval-app-tool-multimidia](https://github.com/bobaoapae/haval-app-tool-multimidia) - Ferramenta Android experimental para estender e aprimorar o sistema multimídia do Haval H6 GT (GWM) via engenharia reversa e Shizuku
  * [68.00] [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [68.00] [cmd-android](https://github.com/niki914/cmd-android) - 基于 Kotlin 协程的 Android Shell 命令执行框架，支持 User、Shizuku 和 Root 三种权限的命令行调用，提供统一易用的挂起式 API
@@ -32,7 +32,7 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [67.86] [Loki](https://github.com/trinadhthatakula/Loki) - Android App logger
  * [67.82] [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新（2025.7.14：太史山了，最近在kmp上重写了一个，这一坨就当黑历史了，等kmp重写完再放上来）
  * [67.72] [FlymeFrameTools](https://github.com/Ruyue-Kinsenka/FlymeFrameTools) - 利用shuzuki无root管理flyme插帧超分的app名单
- * [67.72] [UWS](https://github.com/UWillno/UWS) - Qt for Android的shizuku/root shell执行器
+ * [67.68] [UWS](https://github.com/UWillno/UWS) - Qt for Android的shizuku/root shell执行器
  * [67.65] [Hz-Changer](https://github.com/MARCOS-S-S/Hz-Changer) - Under development! Simple, light, free and functional hz changer app.
  * [67.65] [KeyboardSwitcher](https://github.com/SgLy/KeyboardSwitcher) - Adds a quick setting tile for quickly switching keyboard (input method)
  * [64.74] [MndroLua](https://github.com/Crescent-of-Maya/MndroLua) - A modern fork of AndroLua+ / 更加现代的 AndroLua+ 魔改版
@@ -70,7 +70,7 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [32.35] [lanhegongjuxiang](https://github.com/miounet11/lanhegongjuxiang)
  * [32.35] [modtoon_module](https://github.com/Inhaleoxygen/modtoon_module)
  * [32.35] [newRep660](https://github.com/azad4ever2nd-ui/newRep660)
- * [32.20] [XPlan](https://github.com/ItosEO/XPlan) - X计划，合并版
+ * [32.24] [XPlan](https://github.com/ItosEO/XPlan) - X计划，合并版
  * [29.84] [Tweak-Android](https://github.com/lumkit/Tweak-Android) - 多功能安卓手机玩机工具箱
  * [29.48] [AIDE-Plus](https://github.com/2659170494/AIDE-Plus) - AIDE+
  * [29.41] [SilentInstaller](https://github.com/MiyazKaori/SilentInstaller) - 使用Shizuku进行静默安装的Android library

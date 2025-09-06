@@ -10,6 +10,7 @@ Sort by: [name] | [score](SUMMARY_RANKED.md)
 Entries are sorted by name and grouped into a separate category if the attached link has no downloadable releases.
 
  * [Android-AccessibilityGrant](https://github.com/MagicianGuo/Android-AccessibilityGrant) - 能够一键为应用授予辅助功能（无障碍）权限，需要Shizuku
+ * [AutoAccounting](https://github.com/AutoAccountingOrg/AutoAccounting) - 你的每一笔账单都值得记录！
  * [AutoSkip](https://github.com/xjunz/AutoSkip) - 基于Shizuku授权的安卓"自动跳过"工具
  * [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
  * [CBJQ_HugFenny](https://github.com/LiuJiewenTT/CBJQ_HugFenny)
@@ -37,7 +38,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [autodaily](https://github.com/ParadiseZ/autodaily)
  * [cmd-android](https://github.com/niki914/cmd-android) - 基于 Kotlin 协程的 Android Shell 命令执行框架，支持 User、Shizuku 和 Root 三种权限的命令行调用，提供统一易用的挂起式 API
  * [fakelauncher](https://github.com/ZH-XiJun/fakelauncher) - I swear, it is really just a feature phone, not a smart phone!
- * [flicky](https://github.com/mlm-games/flicky) - A trial at a better TV UI for fdroid
  * [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
  * [haval-app-tool-multimidia](https://github.com/bobaoapae/haval-app-tool-multimidia) - Ferramenta Android experimental para estender e aprimorar o sistema multimídia do Haval H6 GT (GWM) via engenharia reversa e Shizuku
  * [kdeconnect-android-shizuku](https://github.com/Shoukaku39/kdeconnect-android-shizuku) - Forked from KDE Connect Android. Adds Shizuku support to bypass clipboard access restrictions on Android 10+ without using READ_LOGS or manual ADB shell. 基于 KDE Connect Android 的分支，添加对 Shizuku 的支持，在无需请求 READ_LOGS 或手动 ADB 授权的情况下，绕过 Android 10+ 剪贴板访问限制。
@@ -76,7 +76,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [XPlan](https://github.com/ItosEO/XPlan) - X计划，合并版
  * [adhell3](https://github.com/pascua28/adhell3)
  * [android-settings-scheduler](https://github.com/Turtlepaw/android-settings-scheduler) - Schedule any settings that are in the Android Settings app to be changed
- * [athena](https://github.com/IronMeerkat/athena) - my personal AI ecosystem
  * [gemini-android](https://github.com/niki914/gemini-android) - Let gemini control your Android phone through function calling. 通过FunctionCalling让Gemini操控安卓手机。
  * [greentooth](https://github.com/qwerty12/greentooth) - Shizuku-using fork of https://gitlab.com/nbergman/greentooth
  * [lanhegongjuxiang](https://github.com/miounet11/lanhegongjuxiang)

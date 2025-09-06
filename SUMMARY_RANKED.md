@@ -13,6 +13,7 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [100.00] [Fluffy](https://github.com/mlm-games/Fluffy) - A TV friendly file manager and archive viewer
  * [100.00] [Operit](https://github.com/AAswordman/Operit) - An android AI agent can automatically operate your mobile phone
  * [85.78] [JumpReplay](https://github.com/FourTwooo/JumpReplay) - Xposed Hook Android Intent/Scheme
+ * [85.29] [AutoAccounting](https://github.com/AutoAccountingOrg/AutoAccounting) - 你的每一笔账单都值得记录！
  * [85.29] [AutoSkip](https://github.com/xjunz/AutoSkip) - 基于Shizuku授权的安卓"自动跳过"工具
  * [85.29] [HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！
  * [85.29] [Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
@@ -20,7 +21,6 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [83.27] [fakelauncher](https://github.com/ZH-XiJun/fakelauncher) - I swear, it is really just a feature phone, not a smart phone!
  * [82.99] [kdeconnect-android-shizuku](https://github.com/Shoukaku39/kdeconnect-android-shizuku) - Forked from KDE Connect Android. Adds Shizuku support to bypass clipboard access restrictions on Android 10+ without using READ_LOGS or manual ADB shell. 基于 KDE Connect Android 的分支，添加对 Shizuku 的支持，在无需请求 READ_LOGS 或手动 ADB 授权的情况下，绕过 Android 10+ 剪贴板访问限制。
  * [82.74] [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
- * [82.71] [flicky](https://github.com/mlm-games/flicky) - A trial at a better TV UI for fdroid
  * [82.42] [DisplayToggle](https://github.com/UlyssesZh/DisplayToggle) - Android app to toggle on and off the physical display
  * [82.35] [GlyphRecorder](https://github.com/aaa1115910/GlyphRecorder) - A glyph recognition tool.
  * [76.47] [AutoTask](https://github.com/xjunz/AutoTask) - An automation assistant app supporting both Shizuku and AccessibilityService.
@@ -61,7 +61,6 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [44.15] [ClipboardListener](https://github.com/aa2013/ClipboardListener) - Flutter-ClipboardListener-Clipshare
  * [44.12] [File-Manager](https://github.com/abusaeed-shuvo/File-Manager) - Simple file manager with shizuku in compose.
  * [44.12] [Shousetsu](https://github.com/TunaConnoisseur/Shousetsu) - A Mihon inspired app that allows you to read epub files
- * [44.12] [athena](https://github.com/IronMeerkat/athena) - my personal AI ecosystem
  * [44.12] [li](https://github.com/lousli/li) - 安卓去广告
  * [32.49] [adhell3](https://github.com/pascua28/adhell3)
  * [32.42] [AudioControlApp](https://github.com/SwastikChamp2/AudioControlApp)
@@ -70,7 +69,7 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [32.35] [lanhegongjuxiang](https://github.com/miounet11/lanhegongjuxiang)
  * [32.35] [modtoon_module](https://github.com/Inhaleoxygen/modtoon_module)
  * [32.35] [newRep660](https://github.com/azad4ever2nd-ui/newRep660)
- * [32.27] [XPlan](https://github.com/ItosEO/XPlan) - X计划，合并版
+ * [32.34] [XPlan](https://github.com/ItosEO/XPlan) - X计划，合并版
  * [29.84] [Tweak-Android](https://github.com/lumkit/Tweak-Android) - 多功能安卓手机玩机工具箱
  * [29.48] [AIDE-Plus](https://github.com/2659170494/AIDE-Plus) - AIDE+
  * [29.41] [SilentInstaller](https://github.com/MiyazKaori/SilentInstaller) - 使用Shizuku进行静默安装的Android library

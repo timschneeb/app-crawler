@@ -24,7 +24,7 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [82.42] [DisplayToggle](https://github.com/UlyssesZh/DisplayToggle) - Android app to toggle on and off the physical display
  * [82.35] [GlyphRecorder](https://github.com/aaa1115910/GlyphRecorder) - A glyph recognition tool.
  * [76.47] [AutoTask](https://github.com/xjunz/AutoTask) - An automation assistant app supporting both Shizuku and AccessibilityService.
- * [73.40] [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
+ * [73.47] [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
  * [68.14] [haval-app-tool-multimidia](https://github.com/bobaoapae/haval-app-tool-multimidia) - Ferramenta Android experimental para estender e aprimorar o sistema multimídia do Haval H6 GT (GWM) via engenharia reversa e Shizuku
  * [68.00] [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [68.00] [cmd-android](https://github.com/niki914/cmd-android) - 基于 Kotlin 协程的 Android Shell 命令执行框架，支持 User、Shizuku 和 Root 三种权限的命令行调用，提供统一易用的挂起式 API
@@ -64,22 +64,23 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [44.12] [li](https://github.com/lousli/li) - 安卓去广告
  * [32.49] [adhell3](https://github.com/pascua28/adhell3)
  * [32.42] [AudioControlApp](https://github.com/SwastikChamp2/AudioControlApp)
- * [32.38] [XPlan](https://github.com/ItosEO/XPlan) - X计划，合并版
+ * [32.41] [XPlan](https://github.com/ItosEO/XPlan) - X计划，合并版
  * [32.35] [Sagar-00007](https://github.com/rsagarrathva-code/Sagar-00007)
  * [32.35] [Sam-zuku](https://github.com/Itsfitts/Sam-zuku)
  * [32.35] [lanhegongjuxiang](https://github.com/miounet11/lanhegongjuxiang)
  * [32.35] [modtoon_module](https://github.com/Inhaleoxygen/modtoon_module)
  * [32.35] [newRep660](https://github.com/azad4ever2nd-ui/newRep660)
+ * [29.94] [TouchTool](https://github.com/mr-bogey/TouchTool) - 使用Android无障碍功能来帮助用户点击。蓝图式任务编辑
  * [29.84] [Tweak-Android](https://github.com/lumkit/Tweak-Android) - 多功能安卓手机玩机工具箱
  * [29.48] [AIDE-Plus](https://github.com/2659170494/AIDE-Plus) - AIDE+
  * [29.41] [SilentInstaller](https://github.com/MiyazKaori/SilentInstaller) - 使用Shizuku进行静默安装的Android library
  * [26.47] [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Module to change country for tiktok to Belarus(for russian)
- * [18.18] [TouchTool](https://github.com/mr-bogey/TouchTool)
  * [17.86] [XMeizu](https://github.com/ItosEO/XMeizu)
  * [17.79] [FreezeApp](https://github.com/JuneLeo/FreezeApp)
  * [17.72] [LauncherChanger](https://github.com/Samuel095383/LauncherChanger)
  * [17.72] [xperia-camera-button](https://github.com/aaronkh/xperia-camera-button)
  * [17.65] [Accessibility-](https://github.com/nai559/Accessibility-)
+ * [17.65] [LicenseStrip](https://github.com/silvzr/LicenseStrip)
  * [17.65] [ShizukuRefresher](https://github.com/lyr341/ShizukuRefresher)
  * [11.91] [VeryDark](https://github.com/wkbin/VeryDark) - 极暗模式
  * [0.04] [ControllerMapper](https://github.com/anhquan7826/ControllerMapper)

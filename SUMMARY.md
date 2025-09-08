@@ -57,6 +57,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [FreezeApp](https://github.com/JuneLeo/FreezeApp)
  * [HealthVerse](https://github.com/sm1developer/HealthVerse) - 🌍 Healthverse – Your Personal Health & Wellness Companion  Healthverse is not just another fitness or health app — it’s the gateway to your complete wellbeing, designed as part of the Appverse ecosystem. From tracking your daily health stats to connecting with your family’s wellness, It brings everything into one smart, simple, and powerful app. 
  * [LauncherChanger](https://github.com/Samuel095383/LauncherChanger)
+ * [LicenseStrip](https://github.com/silvzr/LicenseStrip)
  * [LogCollector](https://github.com/thekosa/LogCollector) - Android application designed to collect and manage Android system logs
  * [SFS-CustomTranslations-Installer](https://github.com/youfeng11/SFS-CustomTranslations-Installer) - SFS汉化安装器
  * [Sagar-00007](https://github.com/rsagarrathva-code/Sagar-00007)
@@ -68,7 +69,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [SuperWindow](https://github.com/eiyooooo/SuperWindow) - 超级视窗 | Enhance multi-task experience for large-screen Android devices
  * [Tachichi](https://github.com/TetoGami/Tachichi) - Free and open source manga reader for Android
  * [ThemedManager](https://github.com/Osanosa/ThemedManager) - Themed Overlays Manager
- * [TouchTool](https://github.com/mr-bogey/TouchTool)
+ * [TouchTool](https://github.com/mr-bogey/TouchTool) - 使用Android无障碍功能来帮助用户点击。蓝图式任务编辑
  * [Tweak-Android](https://github.com/lumkit/Tweak-Android) - 多功能安卓手机玩机工具箱
  * [VRPquest](https://github.com/JarJarBlinkz/VRPquest) - A quest standalone version of the VRP Rookie sideloader.  !WIP!
  * [VeryDark](https://github.com/wkbin/VeryDark) - 极暗模式

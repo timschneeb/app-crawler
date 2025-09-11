@@ -12,6 +12,8 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [100.00] [Flicky](https://github.com/mlm-games/flicky) - Android TV Fdroid repositories client
  * [100.00] [Fluffy](https://github.com/mlm-games/Fluffy) - A TV friendly file manager and archive viewer
  * [100.00] [Operit](https://github.com/AAswordman/Operit) - An android AI agent can automatically operate your mobile phone
+ * [96.12] [Manager](https://github.com/Aliucord/Manager) - The new way to install Aliucord – in a user-friendly way
+ * [95.73] [DetoxDroid](https://github.com/flxapps/DetoxDroid) - Use your phone rather than letting your phone use you.
  * [85.78] [JumpReplay](https://github.com/FourTwooo/JumpReplay) - Xposed Hook Android Intent/Scheme
  * [85.29] [AutoAccounting](https://github.com/AutoAccountingOrg/AutoAccounting) - 你的每一笔账单都值得记录！
  * [85.29] [AutoSkip](https://github.com/xjunz/AutoSkip) - 基于Shizuku授权的安卓"自动跳过"工具
@@ -63,8 +65,9 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [44.12] [Shousetsu](https://github.com/TunaConnoisseur/Shousetsu) - A Mihon inspired app that allows you to read epub files
  * [44.12] [li](https://github.com/lousli/li) - 安卓去广告
  * [32.49] [adhell3](https://github.com/pascua28/adhell3)
- * [32.45] [XPlan](https://github.com/ItosEO/XPlan) - X计划，合并版
+ * [32.48] [XPlan](https://github.com/ItosEO/XPlan) - X计划，合并版
  * [32.42] [AudioControlApp](https://github.com/SwastikChamp2/AudioControlApp)
+ * [32.35] [Deb-patcher-shuzuku-based-android-app](https://github.com/sayed2174/Deb-patcher-shuzuku-based-android-app)
  * [32.35] [Sagar-00007](https://github.com/rsagarrathva-code/Sagar-00007)
  * [32.35] [Sam-zuku](https://github.com/Itsfitts/Sam-zuku)
  * [32.35] [lanhegongjuxiang](https://github.com/miounet11/lanhegongjuxiang)

@@ -56,7 +56,7 @@ class GithubMetaScanner(Scanner):
         print(f'github_meta: found {results.totalCount} repos')
 
         full_results = []
-        for repo in tqdm(results):
+        for repo in tqdm(results, total: results.totalCount):
             if (repo.html_url in util.flatten([x.urls for x in self.exclude]) or 
                     util.is_known_app(repo.name, [repo.html_url]) or 
                     util.is_ignored(repo.name) or util.is_ignored(repo.html_url)):

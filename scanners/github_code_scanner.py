@@ -31,9 +31,7 @@ class GithubCodeScanner(Scanner):
 
         processed_urls = []
         full_results = []
-        for repo in tqdm(range(0, results.totalCount - 1)):
-            file: ContentFile = results[repo]
-
+        for file in tqdm(results):
             if (file.repository.html_url in util.flatten([x.urls for x in self.exclude]) or
                     file.repository.html_url in processed_urls or
                     util.is_known_app(file.repository.name, [file.repository.html_url]) or

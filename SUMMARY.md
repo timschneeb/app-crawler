@@ -21,7 +21,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Display Toggle](https://github.com/UlyssesZh/DisplayToggle) - Toggle the physical display on and off without locking the screen
  * [DisplayToggle](https://github.com/UlyssesZh/DisplayToggle) - Android app to toggle on and off the physical display
  * [Flicky](https://github.com/mlm-games/flicky) - Android TV Fdroid repositories client
- * [Fluffy](https://github.com/mlm-games/Fluffy) - A TV friendly file manager and archive viewer
+ * [Fluffy](https://github.com/mlm-games/fluffy) - A TV friendly file manager and archive viewer
  * [FlymeFrameTools](https://github.com/Ruyue-Kinsenka/FlymeFrameTools) - 利用shuzuki无root管理flyme插帧超分的app名单
  * [GlyphRecorder](https://github.com/aaa1115910/GlyphRecorder) - A glyph recognition tool.
  * [HesleyTools](https://github.com/ldh-star/HesleyTools) - 自用工具/模块

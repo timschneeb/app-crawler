@@ -68,7 +68,7 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [44.12] [File-Manager](https://github.com/abusaeed-shuvo/File-Manager) - Simple file manager with shizuku in compose.
  * [44.12] [Shousetsu](https://github.com/TunaConnoisseur/Shousetsu) - A Mihon inspired app that allows you to read epub files
  * [44.12] [li](https://github.com/lousli/li) - 安卓去广告
- * [32.69] [XPlan](https://github.com/ItosEO/XPlan) - X计划，合并版
+ * [32.73] [XPlan](https://github.com/ItosEO/XPlan) - X计划，合并版
  * [32.49] [adhell3](https://github.com/pascua28/adhell3)
  * [32.42] [AudioControlApp](https://github.com/SwastikChamp2/AudioControlApp)
  * [32.39] [lanhegongjuxiang](https://github.com/miounet11/lanhegongjuxiang)

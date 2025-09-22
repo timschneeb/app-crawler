@@ -31,13 +31,14 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [82.35] [GlyphRecorder](https://github.com/aaa1115910/GlyphRecorder) - A glyph recognition tool.
  * [76.47] [AutoTask](https://github.com/xjunz/AutoTask) - An automation assistant app supporting both Shizuku and AccessibilityService.
  * [73.79] [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
- * [70.89] [vFlow](https://github.com/ChaoMixian/vFlow) - vFlow 是一款为 Android 平台设计的、强大且高度可扩展的自动化工具。它允许你通过图形化界面，将一系列“动作模块”自由组合成强大的“工作流”，从而自动完成各种日常的、重复性的屏幕操作任务。
+ * [70.93] [vFlow](https://github.com/ChaoMixian/vFlow) - vFlow 是一款为 Android 平台设计的、强大且高度可扩展的自动化工具。它允许你通过图形化界面，将一系列“动作模块”自由组合成强大的“工作流”，从而自动完成各种日常的、重复性的屏幕操作任务。
  * [68.25] [haval-app-tool-multimidia](https://github.com/bobaoapae/haval-app-tool-multimidia) - Ferramenta Android experimental para estender e aprimorar o sistema multimídia do Haval H6 GT (GWM) via engenharia reversa e Shizuku
  * [68.04] [cmd-android](https://github.com/niki914/cmd-android) - 基于 Kotlin 协程的 Android Shell 命令执行框架，支持 User、Shizuku 和 Root 三种权限的命令行调用，提供统一易用的挂起式 API
  * [68.00] [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [67.93] [HesleyTools](https://github.com/ldh-star/HesleyTools) - 自用工具/模块
  * [67.93] [Loki](https://github.com/trinadhthatakula/Loki) - Android App logger
  * [67.82] [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新（2025.7.14：太史山了，最近在kmp上重写了一个，这一坨就当黑历史了，等kmp重写完再放上来）
+ * [67.75] [android-wifi-pojie](https://github.com/bszapp/android-wifi-pojie) - Android使用Shizuku暴力破解wifi密码工具
  * [67.72] [FlymeFrameTools](https://github.com/Ruyue-Kinsenka/FlymeFrameTools) - 利用shuzuki无root管理flyme插帧超分的app名单
  * [67.72] [UWS](https://github.com/UWillno/UWS) - Qt for Android的shizuku/root shell执行器
  * [67.65] [KeyboardSwitcher](https://github.com/SgLy/KeyboardSwitcher) - Adds a quick setting tile for quickly switching keyboard (input method)
@@ -95,7 +96,6 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [17.72] [xperia-camera-button](https://github.com/aaronkh/xperia-camera-button)
  * [17.65] [Accessibility-](https://github.com/nai559/Accessibility-)
  * [17.65] [DhupaKathi](https://github.com/chankruze/DhupaKathi)
- * [17.65] [LicenseStrip](https://github.com/silvzr/LicenseStrip)
  * [17.65] [ShizukuRefresher](https://github.com/lyr341/ShizukuRefresher)
  * [14.71] [dsu](https://github.com/tenesikorea/dsu)
  * [14.71] [hail_imp](https://github.com/oneposs/hail_imp)

@@ -39,6 +39,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [UWS](https://github.com/UWillno/UWS) - Qt for Android的shizuku/root shell执行器
  * [VivoTools](https://github.com/ItosEO/VivoTools) - 蓝厂工具盒,用于降级GW和电源信息
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
+ * [android-wifi-pojie](https://github.com/bszapp/android-wifi-pojie) - Android使用Shizuku暴力破解wifi密码工具
  * [ankihelper-plus](https://github.com/huhuswei/ankihelper-plus)
  * [autodaily](https://github.com/ParadiseZ/autodaily)
  * [cmd-android](https://github.com/niki914/cmd-android) - 基于 Kotlin 协程的 Android Shell 命令执行框架，支持 User、Shizuku 和 Root 三种权限的命令行调用，提供统一易用的挂起式 API
@@ -67,7 +68,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [FreezeApp](https://github.com/JuneLeo/FreezeApp)
  * [HealthVerse](https://github.com/sm1developer/HealthVerse) - 🌍 Healthverse – Your Personal Health & Wellness Companion  Healthverse is not just another fitness or health app — it’s the gateway to your complete wellbeing, designed as part of the Appverse ecosystem. From tracking your daily health stats to connecting with your family’s wellness, It brings everything into one smart, simple, and powerful app. 
  * [LauncherChanger](https://github.com/Samuel095383/LauncherChanger)
- * [LicenseStrip](https://github.com/silvzr/LicenseStrip)
  * [LogCollector](https://github.com/thekosa/LogCollector) - Android application designed to collect and manage Android system logs
  * [Miyad](https://github.com/skbidan22-arch/Miyad)
  * [Myapp](https://github.com/Chaiadalt/Myapp) - Peace

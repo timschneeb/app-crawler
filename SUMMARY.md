@@ -94,6 +94,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [connect-screen](https://github.com/sherylynn/connect-screen)
  * [dsu](https://github.com/tenesikorea/dsu)
  * [gemini-android](https://github.com/niki914/gemini-android) - Let gemini control your Android phone through function calling. 通过FunctionCalling让Gemini操控安卓手机。
+ * [gesture_is_back](https://github.com/amrabdelhameeed/gesture_is_back)
  * [greentooth](https://github.com/qwerty12/greentooth) - Shizuku-using fork of https://gitlab.com/nbergman/greentooth
  * [hail_imp](https://github.com/oneposs/hail_imp)
  * [lanhegongjuxiang](https://github.com/miounet11/lanhegongjuxiang)

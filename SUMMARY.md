@@ -19,7 +19,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Deb-patcher-shuzuku-based-android-app](https://github.com/sayed2174/Deb-patcher-shuzuku-based-android-app)
  * [DeviceOptimizeHelper](https://github.com/sbmatch/DeviceOptimizeHelper)
  * [Display Toggle](https://github.com/UlyssesZh/DisplayToggle) - Toggle the physical display on and off without locking the screen
- * [DisplayToggle](https://github.com/UlyssesZh/DisplayToggle) - Android app to toggle on and off the physical display
  * [Flicky](https://github.com/mlm-games/flicky) - Android TV Fdroid repositories client
  * [Fluffy](https://github.com/mlm-games/fluffy) - A TV friendly file manager and archive viewer
  * [FlymeFrameTools](https://github.com/Ruyue-Kinsenka/FlymeFrameTools) - 利用shuzuki无root管理flyme插帧超分的app名单
@@ -34,7 +33,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Manager](https://github.com/Aliucord/Manager) - The new way to install Aliucord – in a user-friendly way
  * [MndroLua](https://github.com/Crescent-of-Maya/MndroLua) - A modern fork of AndroLua+ / 更加现代的 AndroLua+ 魔改版
  * [Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
- * [Operit](https://github.com/AAswordman/Operit) - An android AI agent can automatically operate your mobile phone
+ * [Operit](https://github.com/AAswordman/Operit) - The most powerful AI agent and AI chat software on Android
  * [TimerAndroid](https://github.com/HNIdesu/TimerAndroid) - 定时关闭指定的应用，支持Magisk和Shizuku。
  * [UWS](https://github.com/UWillno/UWS) - Qt for Android的shizuku/root shell执行器
  * [VivoTools](https://github.com/ItosEO/VivoTools) - 蓝厂工具盒,用于降级GW和电源信息
@@ -46,7 +45,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [fakelauncher](https://github.com/ZH-XiJun/fakelauncher) - I swear, it is really just a feature phone, not a smart phone!
  * [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
  * [haval-app-tool-multimidia](https://github.com/bobaoapae/haval-app-tool-multimidia) - Ferramenta Android experimental para estender e aprimorar o sistema multimídia do Haval H6 GT (GWM) via engenharia reversa e Shizuku
- * [hlbmerge_flutter](https://github.com/molihuan/hlbmerge_flutter)
+ * [hlbmerge_flutter](https://github.com/molihuan/hlbmerge_flutter) - 全平台将Bilibili缓存文件合并导出为MP4，支持B站手机客户端缓存，支持B站电脑客户端缓存 Merge and export Bilibili cache files into MP4, support caching on Bilibili mobile client and Bilibili computer client
  * [kdeconnect-android-shizuku](https://github.com/Shoukaku39/kdeconnect-android-shizuku) - Forked from KDE Connect Android. Adds Shizuku support to bypass clipboard access restrictions on Android 10+ without using READ_LOGS or manual ADB shell. 基于 KDE Connect Android 的分支，添加对 Shizuku 的支持，在无需请求 READ_LOGS 或手动 ADB 授权的情况下，绕过 Android 10+ 剪贴板访问限制。
  * [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ
  * [vFlow](https://github.com/ChaoMixian/vFlow) - vFlow 是一款为 Android 平台设计的、强大且高度可扩展的自动化工具。它允许你通过图形化界面，将一系列“动作模块”自由组合成强大的“工作流”，从而自动完成各种日常的、重复性的屏幕操作任务。
@@ -67,6 +66,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ForensicEye](https://github.com/flxholle/ForensicEye)
  * [FreezeApp](https://github.com/JuneLeo/FreezeApp)
  * [HealthVerse](https://github.com/sm1developer/HealthVerse) - 🌍 Healthverse – Your Personal Health & Wellness Companion  Healthverse is not just another fitness or health app — it’s the gateway to your complete wellbeing, designed as part of the Appverse ecosystem. From tracking your daily health stats to connecting with your family’s wellness, It brings everything into one smart, simple, and powerful app. 
+ * [Installer](https://github.com/huidoudour/Installer) - This app is only available to developers
  * [LauncherChanger](https://github.com/Samuel095383/LauncherChanger)
  * [LogCollector](https://github.com/thekosa/LogCollector) - Android application designed to collect and manage Android system logs
  * [Miyad](https://github.com/skbidan22-arch/Miyad)
@@ -100,8 +100,9 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [lanhegongjuxiang](https://github.com/miounet11/lanhegongjuxiang)
  * [li](https://github.com/lousli/li) - 安卓去广告
  * [modtoon_module](https://github.com/Inhaleoxygen/modtoon_module)
- * [newRep660](https://github.com/azad4ever2nd-ui/newRep660)
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
+ * [sen](https://github.com/Fansirsqi/sen) - 一个简单的sen
  * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]
  * [xperia-camera-button](https://github.com/aaronkh/xperia-camera-button)
+ * [yomoki-autojs](https://github.com/fanyuLXZ/yomoki-autojs)

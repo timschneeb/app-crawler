@@ -71,7 +71,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [LauncherChanger](https://github.com/Samuel095383/LauncherChanger)
  * [LogCollector](https://github.com/thekosa/LogCollector) - Android application designed to collect and manage Android system logs
  * [Miyad](https://github.com/skbidan22-arch/Miyad)
- * [Myapp](https://github.com/Chaiadalt/Myapp) - Peace
  * [Roel](https://github.com/roelcamiso3-cell/Roel)
  * [SFS-CustomTranslations-Installer](https://github.com/youfeng11/SFS-CustomTranslations-Installer) - SFS汉化安装器
  * [Sagar-00007](https://github.com/rsagarrathva-code/Sagar-00007)

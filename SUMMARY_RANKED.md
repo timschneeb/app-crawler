@@ -13,7 +13,7 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [100.00] [Flicky](https://github.com/mlm-games/flicky) - Android TV Fdroid repositories client
  * [100.00] [Fluffy](https://github.com/mlm-games/fluffy) - A TV friendly file manager and archive viewer
  * [100.00] [Operit](https://github.com/AAswordman/Operit) - The most powerful AI agent and AI chat software on Android
- * [96.75] [Manager](https://github.com/Aliucord/Manager) - The new way to install Aliucord – in a user-friendly way
+ * [96.79] [Manager](https://github.com/Aliucord/Manager) - The new way to install Aliucord – in a user-friendly way
  * [85.85] [JumpReplay](https://github.com/FourTwooo/JumpReplay) - Xposed Hook Android Intent/Scheme
  * [85.29] [AutoAccounting](https://github.com/AutoAccountingOrg/AutoAccounting) - 你的每一笔账单都值得记录！
  * [85.29] [AutoSkip](https://github.com/xjunz/AutoSkip) - 基于Shizuku授权的安卓"自动跳过"工具
@@ -21,18 +21,18 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [85.29] [Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
  * [83.80] [telegram-rc](https://github.com/telegram-sms/telegram-rc) - [ROOT] A robot running on an Android device that controls your phone.
  * [83.76] [Android-AntiForensic-Tools](https://github.com/bakad3v/Android-AntiForensic-Tools) - An application designed to silently protect user data from powerful adversaries.
- * [83.41] [fakelauncher](https://github.com/ZH-XiJun/fakelauncher) - I swear, it is really just a feature phone, not a smart phone!
+ * [83.45] [fakelauncher](https://github.com/ZH-XiJun/fakelauncher) - I swear, it is really just a feature phone, not a smart phone!
  * [83.38] [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ
- * [83.09] [kdeconnect-android-shizuku](https://github.com/Shoukaku39/kdeconnect-android-shizuku) - Forked from KDE Connect Android. Adds Shizuku support to bypass clipboard access restrictions on Android 10+ without using READ_LOGS or manual ADB shell. 基于 KDE Connect Android 的分支，添加对 Shizuku 的支持，在无需请求 READ_LOGS 或手动 ADB 授权的情况下，绕过 Android 10+ 剪贴板访问限制。
+ * [83.13] [kdeconnect-android-shizuku](https://github.com/Shoukaku39/kdeconnect-android-shizuku) - Forked from KDE Connect Android. Adds Shizuku support to bypass clipboard access restrictions on Android 10+ without using READ_LOGS or manual ADB shell. 基于 KDE Connect Android 的分支，添加对 Shizuku 的支持，在无需请求 READ_LOGS 或手动 ADB 授权的情况下，绕过 Android 10+ 剪贴板访问限制。
  * [82.74] [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
  * [82.42] [MndroLua](https://github.com/Crescent-of-Maya/MndroLua) - A modern fork of AndroLua+ / 更加现代的 AndroLua+ 魔改版
  * [82.39] [Hz-Changer](https://github.com/MARCOS-S-S/Hz-Changer) - Under development! Simple, light, free and functional hz changer app.
  * [82.39] [MDPC](https://github.com/MrRare2/MDPC) - Fork of OwnDroid, a more implementation (superset) of the original repo. Only used by me :)
+ * [82.39] [gametuner](https://github.com/varunbala2237/gametuner) - A mobile tuning application for smoother gameplay experience on low/mid range devices.
  * [82.35] [GlyphRecorder](https://github.com/aaa1115910/GlyphRecorder) - A glyph recognition tool.
- * [82.35] [gametuner](https://github.com/varunbala2237/gametuner) - A mobile tuning application for smoother gameplay experience on low/mid range devices.
  * [76.47] [AutoTask](https://github.com/xjunz/AutoTask) - An automation assistant app supporting both Shizuku and AccessibilityService.
- * [73.86] [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
- * [72.09] [vFlow](https://github.com/ChaoMixian/vFlow) - vFlow 是一款为 Android 平台设计的、强大且高度可扩展的自动化工具。它允许你通过图形化界面，将一系列“动作模块”自由组合成强大的“工作流”，从而自动完成各种日常的、重复性的屏幕操作任务。
+ * [73.93] [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
+ * [72.16] [vFlow](https://github.com/ChaoMixian/vFlow) - vFlow 是一款为 Android 平台设计的、强大且高度可扩展的自动化工具。它允许你通过图形化界面，将一系列“动作模块”自由组合成强大的“工作流”，从而自动完成各种日常的、重复性的屏幕操作任务。
  * [68.28] [haval-app-tool-multimidia](https://github.com/bobaoapae/haval-app-tool-multimidia) - Ferramenta Android experimental para estender e aprimorar o sistema multimídia do Haval H6 GT (GWM) via engenharia reversa e Shizuku
  * [68.07] [cmd-android](https://github.com/niki914/cmd-android) - 基于 Kotlin 协程的 Android Shell 命令执行框架，支持 User、Shizuku 和 Root 三种权限的命令行调用，提供统一易用的挂起式 API
  * [68.00] [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
@@ -73,7 +73,7 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [44.12] [Installer](https://github.com/huidoudour/Installer) - This app is only available to developers
  * [44.12] [Shousetsu](https://github.com/TunaConnoisseur/Shousetsu) - A Mihon inspired app that allows you to read epub files
  * [44.12] [li](https://github.com/lousli/li) - 安卓去广告
- * [32.91] [XPlan](https://github.com/ItosEO/XPlan) - X计划，合并版
+ * [32.87] [XPlan](https://github.com/ItosEO/XPlan) - X计划，合并版
  * [32.49] [adhell3](https://github.com/pascua28/adhell3)
  * [32.42] [AudioControlApp](https://github.com/SwastikChamp2/AudioControlApp)
  * [32.42] [ForensicEye](https://github.com/flxholle/ForensicEye)

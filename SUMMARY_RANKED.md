@@ -40,7 +40,7 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [68.00] [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [67.96] [Loki](https://github.com/trinadhthatakula/Loki) - Android App logger
  * [67.89] [HesleyTools](https://github.com/ldh-star/HesleyTools) - 自用工具/模块
- * [67.82] [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新（2025.7.14：太史山了，最近在kmp上重写了一个，这一坨就当黑历史了，等kmp重写完再放上来）
+ * [67.82] [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新
  * [67.72] [FlymeFrameTools](https://github.com/Ruyue-Kinsenka/FlymeFrameTools) - 利用shuzuki无root管理flyme插帧超分的app名单
  * [67.72] [UWS](https://github.com/UWillno/UWS) - Qt for Android的shizuku/root shell执行器
  * [67.65] [KeyboardSwitcher](https://github.com/SgLy/KeyboardSwitcher) - Adds a quick setting tile for quickly switching keyboard (input method)
@@ -95,7 +95,6 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [29.48] [AIDE-Plus](https://github.com/2659170494/AIDE-Plus) - AIDE+
  * [29.41] [SilentInstaller](https://github.com/MiyazKaori/SilentInstaller) - 使用Shizuku进行静默安装的Android library
  * [26.47] [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Module to change country for tiktok to Belarus(for russian)
- * [17.86] [XMeizu](https://github.com/ItosEO/XMeizu)
  * [17.79] [FreezeApp](https://github.com/JuneLeo/FreezeApp)
  * [17.72] [LauncherChanger](https://github.com/Samuel095383/LauncherChanger)
  * [17.72] [xperia-camera-button](https://github.com/aaronkh/xperia-camera-button)
@@ -105,4 +104,5 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [14.71] [dsu](https://github.com/tenesikorea/dsu)
  * [14.71] [hail_imp](https://github.com/oneposs/hail_imp)
  * [11.91] [VeryDark](https://github.com/wkbin/VeryDark) - 极暗模式
+ * [0.21] [XMeizu](https://github.com/ItosEO/XMeizu)
  * [0.04] [ControllerMapper](https://github.com/anhquan7826/ControllerMapper)

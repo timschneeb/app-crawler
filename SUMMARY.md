@@ -57,6 +57,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
 
  * [A2Auth](https://github.com/tangguiyuan/A2Auth) - This repository contains the source code of A2AUTH, including the data collection app and authentication model. A2AUTH is an application-agnostic framework for continuous smartphone authentication using multimodal behavioral features and a triplet-loss network.
  * [AIDE-Plus](https://github.com/2659170494/AIDE-Plus) - AIDE+
+ * [AZ](https://github.com/awiptk/AZ)
  * [Accessibility-](https://github.com/nai559/Accessibility-)
  * [Android-FPS-Watcher](https://github.com/WuDi-ZhanShen/Android-FPS-Watcher) - Monitor RealTime FPS. Suppports Android 12+. Pure Java. Needs ADB or ROOT.
  * [AudioControlApp](https://github.com/SwastikChamp2/AudioControlApp)

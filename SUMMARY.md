@@ -19,6 +19,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Deb-patcher-shuzuku-based-android-app](https://github.com/sayed2174/Deb-patcher-shuzuku-based-android-app)
  * [DeviceOptimizeHelper](https://github.com/sbmatch/DeviceOptimizeHelper)
  * [Display Toggle](https://github.com/UlyssesZh/DisplayToggle) - Toggle the physical display on and off without locking the screen
+ * [Doubletap-to-lock](https://github.com/albertcamus344/Doubletap-to-lock) - Use the accessiblity service or shizuku to lock the screen by double tapping on a transparent widget added to the homescreen
  * [Flicky](https://github.com/mlm-games/flicky) - Android TV Fdroid repositories client
  * [Fluffy](https://github.com/mlm-games/fluffy) - A TV friendly file manager and archive viewer
  * [FlymeFrameTools](https://github.com/Ruyue-Kinsenka/FlymeFrameTools) - 利用shuzuki无root管理flyme插帧超分的app名单
@@ -74,6 +75,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [LauncherChanger](https://github.com/Samuel095383/LauncherChanger)
  * [LogCollector](https://github.com/thekosa/LogCollector) - Android application designed to collect and manage Android system logs
  * [Miyad](https://github.com/skbidan22-arch/Miyad)
+ * [NPatch](https://github.com/javaeryang/NPatch) - 学习NPatch
  * [Roel](https://github.com/roelcamiso3-cell/Roel)
  * [SFS-CustomTranslations-Installer](https://github.com/youfeng11/SFS-CustomTranslations-Installer) - SFS汉化安装器
  * [Sagar-00007](https://github.com/rsagarrathva-code/Sagar-00007)

@@ -90,6 +90,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ThemedManager](https://github.com/Osanosa/ThemedManager) - Themed Overlays Manager
  * [TouchTool](https://github.com/mr-bogey/TouchTool) - 使用Android无障碍功能来帮助用户点击。蓝图式任务编辑
  * [Tweak-Android](https://github.com/lumkit/Tweak-Android) - 多功能安卓手机玩机工具箱
+ * [UltraNetApp](https://github.com/ezequielee92-bot/UltraNetApp) - Aplicación Android con HTTP3/QUIC/ TLS, DNS manual y priorización de tráfico avanzada
  * [VRPquest](https://github.com/JarJarBlinkz/VRPquest) - A quest standalone version of the VRP Rookie sideloader.  !WIP!
  * [VeryDark](https://github.com/wkbin/VeryDark) - 极暗模式
  * [XMeizu](https://github.com/ItosEO/XMeizu)

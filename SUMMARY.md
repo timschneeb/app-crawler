@@ -14,6 +14,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [AutoAccounting](https://github.com/AutoAccountingOrg/AutoAccounting) - 你的每一笔账单都值得记录！
  * [AutoSkip](https://github.com/xjunz/AutoSkip) - 基于Shizuku授权的安卓"自动跳过"工具
  * [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
+ * [Bluesky Redirect](https://github.com/Turtlepaw/BlueskyRedirect) - Deep linking proxy for Bluesky to launch your preferred client automatically
  * [CBJQ_HugFenny](https://github.com/LiuJiewenTT/CBJQ_HugFenny)
  * [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新
  * [Deb-patcher-shuzuku-based-android-app](https://github.com/sayed2174/Deb-patcher-shuzuku-based-android-app)
@@ -21,7 +22,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Display Toggle](https://github.com/UlyssesZh/DisplayToggle) - Toggle the physical display on and off without locking the screen
  * [Doubletap-to-lock](https://github.com/albertcamus344/Doubletap-to-lock) - Use the accessiblity service or shizuku to lock the screen by double tapping on a transparent widget added to the homescreen
  * [EasySpot](https://github.com/GGORG0/EasySpot) - An Android app that allows you to turn on your hotspot remotely via Bluetooth - think Apple Continuity, but for everyone!
- * [Flicky](https://github.com/mlm-games/flicky) - Android TV Fdroid repositories client
+ * [Flicky](https://github.com/mlm-games/flicky) - Unofficial Fdroid client (for Android TV)
  * [Fluffy](https://github.com/mlm-games/fluffy) - A TV friendly file manager and archive viewer
  * [FlymeFrameTools](https://github.com/Ruyue-Kinsenka/FlymeFrameTools) - 利用shuzuki无root管理flyme插帧超分的app名单
  * [GlyphRecorder](https://github.com/aaa1115910/GlyphRecorder) - A glyph recognition tool.

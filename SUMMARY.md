@@ -77,6 +77,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [LauncherChanger](https://github.com/Samuel095383/LauncherChanger)
  * [LogCollector](https://github.com/thekosa/LogCollector) - Android application designed to collect and manage Android system logs
  * [Miyad](https://github.com/skbidan22-arch/Miyad)
+ * [Myflutter](https://github.com/dhiiizt/Myflutter) - Flutter
  * [NPatch](https://github.com/javaeryang/NPatch) - 学习NPatch
  * [Roel](https://github.com/roelcamiso3-cell/Roel)
  * [SFS-CustomTranslations-Installer](https://github.com/youfeng11/SFS-CustomTranslations-Installer) - SFS汉化安装器
@@ -110,6 +111,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [modtoon_module](https://github.com/Inhaleoxygen/modtoon_module)
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
+ * [samzuku](https://github.com/emtee40/samzuku)
  * [sen](https://github.com/Fansirsqi/sen) - 一个简单的sen
  * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]
  * [xperia-camera-button](https://github.com/aaronkh/xperia-camera-button)

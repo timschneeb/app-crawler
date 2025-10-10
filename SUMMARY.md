@@ -32,7 +32,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [JumpReplay](https://github.com/FourTwooo/JumpReplay) - Xposed Hook Android Intent/Scheme
  * [KeyboardSwitcher](https://github.com/SgLy/KeyboardSwitcher) - Adds a quick setting tile for quickly switching keyboard (input method)
  * [Loki](https://github.com/trinadhthatakula/Loki) - Android App logger
- * [MDPC](https://github.com/MrRare2/MDPC) - Fork of OwnDroid, a more implementation (superset) of the original repo. Only used by me :)
+ * [MDPC](https://github.com/MrRare2/MDPC) - Fork of OwnDroid, A Device Policy Controller (DPC) app. Only used by me :)
  * [Manager](https://github.com/Aliucord/Manager) - The new way to install Aliucord – in a user-friendly way
  * [MndroLua](https://github.com/Crescent-of-Maya/MndroLua) - A modern fork of AndroLua+ / 更加现代的 AndroLua+ 魔改版
  * [Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
@@ -72,7 +72,8 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [File-Manager](https://github.com/abusaeed-shuvo/File-Manager) - Simple file manager with shizuku in compose.
  * [ForensicEye](https://github.com/flxholle/ForensicEye)
  * [FreezeApp](https://github.com/JuneLeo/FreezeApp)
- * [HealthVerse](https://github.com/sm1developer/HealthVerse) - 🌍 Healthverse – Your Personal Health & Wellness Companion  Healthverse is not just another fitness or health app — it’s the gateway to your complete wellbeing, designed as part of the Appverse ecosystem. From tracking your daily health stats to connecting with your family’s wellness, It brings everything into one smart, simple, and powerful app. 
+ * [Hail-archive](https://github.com/thejaustin/Hail-archive)
+ * [Hail-archive-2](https://github.com/thejaustin/Hail-archive-2)
  * [Installer](https://github.com/huidoudour/Installer) - This app is only available to developers
  * [LauncherChanger](https://github.com/Samuel095383/LauncherChanger)
  * [LogCollector](https://github.com/thekosa/LogCollector) - Android application designed to collect and manage Android system logs

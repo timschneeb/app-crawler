@@ -29,14 +29,14 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [82.42] [MndroLua](https://github.com/Crescent-of-Maya/MndroLua) - A modern fork of AndroLua+ / 更加现代的 AndroLua+ 魔改版
  * [82.39] [EasySpot](https://github.com/GGORG0/EasySpot) - An Android app that allows you to turn on your hotspot remotely via Bluetooth - think Apple Continuity, but for everyone!
  * [82.39] [Hz-Changer](https://github.com/MARCOS-S-S/Hz-Changer) - Under development! Simple, light, free and functional hz changer app.
- * [82.39] [MDPC](https://github.com/MrRare2/MDPC) - Fork of OwnDroid, a more implementation (superset) of the original repo. Only used by me :)
+ * [82.39] [MDPC](https://github.com/MrRare2/MDPC) - Fork of OwnDroid, A Device Policy Controller (DPC) app. Only used by me :)
  * [82.39] [gametuner](https://github.com/varunbala2237/gametuner) - A mobile tuning application for smoother gameplay experience on low/mid range devices.
  * [82.35] [GlyphRecorder](https://github.com/aaa1115910/GlyphRecorder) - A glyph recognition tool.
  * [76.47] [AutoTask](https://github.com/xjunz/AutoTask) - An automation assistant app supporting both Shizuku and AccessibilityService.
- * [74.07] [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
- * [73.82] [vFlow](https://github.com/ChaoMixian/vFlow) - vFlow 是一款为 Android 平台设计的、强大且高度可扩展的自动化工具。它允许你通过图形化界面，将一系列“动作模块”自由组合成强大的“工作流”，从而自动完成各种日常的、重复性的屏幕操作任务。
- * [71.04] [android-wifi-pojie](https://github.com/bszapp/android-wifi-pojie) - Android使用密码本暴力破解wifi密码工具
- * [68.56] [hlbmerge_flutter](https://github.com/molihuan/hlbmerge_flutter) - 全平台将Bilibili缓存文件合并导出为MP4，支持B站手机客户端缓存，支持B站电脑客户端缓存 Merge and export Bilibili cache files into MP4, support caching on Bilibili mobile client and Bilibili computer client
+ * [74.11] [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
+ * [73.89] [vFlow](https://github.com/ChaoMixian/vFlow) - vFlow 是一款为 Android 平台设计的、强大且高度可扩展的自动化工具。它允许你通过图形化界面，将一系列“动作模块”自由组合成强大的“工作流”，从而自动完成各种日常的、重复性的屏幕操作任务。
+ * [71.18] [android-wifi-pojie](https://github.com/bszapp/android-wifi-pojie) - Android使用密码本暴力破解wifi密码工具
+ * [68.67] [hlbmerge_flutter](https://github.com/molihuan/hlbmerge_flutter) - 全平台将Bilibili缓存文件合并导出为MP4，支持B站手机客户端缓存，支持B站电脑客户端缓存 Merge and export Bilibili cache files into MP4, support caching on Bilibili mobile client and Bilibili computer client
  * [68.35] [haval-app-tool-multimidia](https://github.com/bobaoapae/haval-app-tool-multimidia) - Ferramenta Android experimental para estender e aprimorar o sistema multimídia do Haval H6 GT (GWM) via engenharia reversa e Shizuku
  * [68.04] [cmd-android](https://github.com/niki914/cmd-android) - 基于 Kotlin 协程的 Android Shell 命令执行框架，支持 User、Shizuku 和 Root 三种权限的命令行调用，提供统一易用的挂起式 API
  * [68.00] [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
@@ -48,7 +48,7 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [67.65] [Doubletap-to-lock](https://github.com/albertcamus344/Doubletap-to-lock) - Use the accessiblity service or shizuku to lock the screen by double tapping on a transparent widget added to the homescreen
  * [67.65] [KeyboardSwitcher](https://github.com/SgLy/KeyboardSwitcher) - Adds a quick setting tile for quickly switching keyboard (input method)
  * [59.78] [greentooth](https://github.com/qwerty12/greentooth) - Shizuku-using fork of https://gitlab.com/nbergman/greentooth
- * [59.32] [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]
+ * [59.35] [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]
  * [59.21] [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
  * [59.04] [SuperWindow](https://github.com/eiyooooo/SuperWindow) - 超级视窗 | Enhance multi-task experience for large-screen Android devices
  * [59.04] [gemini-android](https://github.com/niki914/gemini-android) - Let gemini control your Android phone through function calling. 通过FunctionCalling让Gemini操控安卓手机。
@@ -57,7 +57,6 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [58.86] [A2Auth](https://github.com/tangguiyuan/A2Auth) - This repository contains the source code of A2AUTH, including the data collection app and authentication model. A2AUTH is an application-agnostic framework for continuous smartphone authentication using multimodal behavioral features and a triplet-loss network.
  * [58.86] [LogCollector](https://github.com/thekosa/LogCollector) - Android application designed to collect and manage Android system logs
  * [58.86] [Tachichi](https://github.com/TetoGami/Tachichi) - Free and open source manga reader for Android
- * [58.82] [HealthVerse](https://github.com/sm1developer/HealthVerse) - 🌍 Healthverse – Your Personal Health & Wellness Companion  Healthverse is not just another fitness or health app — it’s the gateway to your complete wellbeing, designed as part of the Appverse ecosystem. From tracking your daily health stats to connecting with your family’s wellness, It brings everything into one smart, simple, and powerful app. 
  * [58.82] [NPatch](https://github.com/javaeryang/NPatch) - 学习NPatch
  * [58.67] [DeviceOptimizeHelper](https://github.com/sbmatch/DeviceOptimizeHelper)
  * [56.02] [ankihelper-plus](https://github.com/huhuswei/ankihelper-plus)
@@ -79,12 +78,14 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [44.12] [Shousetsu](https://github.com/TunaConnoisseur/Shousetsu) - A Mihon inspired app that allows you to read epub files
  * [44.12] [UltraNetApp](https://github.com/ezequielee92-bot/UltraNetApp) - Aplicación Android con HTTP3/QUIC/ TLS, DNS manual y priorización de tráfico avanzada
  * [44.12] [li](https://github.com/lousli/li) - 安卓去广告
- * [32.87] [XPlan](https://github.com/ItosEO/XPlan) - X计划，合并版
+ * [32.91] [XPlan](https://github.com/ItosEO/XPlan) - X计划，合并版
  * [32.49] [adhell3](https://github.com/pascua28/adhell3)
  * [32.42] [AudioControlApp](https://github.com/SwastikChamp2/AudioControlApp)
  * [32.42] [ForensicEye](https://github.com/flxholle/ForensicEye)
  * [32.39] [AZ](https://github.com/awiptk/AZ)
  * [32.39] [lanhegongjuxiang](https://github.com/miounet11/lanhegongjuxiang)
+ * [32.35] [Hail-archive](https://github.com/thejaustin/Hail-archive)
+ * [32.35] [Hail-archive-2](https://github.com/thejaustin/Hail-archive-2)
  * [32.35] [Miyad](https://github.com/skbidan22-arch/Miyad)
  * [32.35] [Roel](https://github.com/roelcamiso3-cell/Roel)
  * [32.35] [Sagar-00007](https://github.com/rsagarrathva-code/Sagar-00007)

@@ -64,7 +64,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Accessibility-](https://github.com/nai559/Accessibility-)
  * [Android-FPS-Watcher](https://github.com/WuDi-ZhanShen/Android-FPS-Watcher) - Monitor RealTime FPS. Suppports Android 12+. Pure Java. Needs ADB or ROOT.
  * [AudioControlApp](https://github.com/SwastikChamp2/AudioControlApp)
- * [AutoRestart](https://github.com/madkarmaa/AutoRestart) - Restart your device on a specific day and time, with the help of Shizuku
  * [AutoTask](https://github.com/xjunz/AutoTask) - An automation assistant app supporting both Shizuku and AccessibilityService.
  * [ClipboardListener](https://github.com/aa2013/ClipboardListener) - Flutter-ClipboardListener-Clipshare
  * [ControllerMapper](https://github.com/anhquan7826/ControllerMapper)

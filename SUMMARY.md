@@ -114,5 +114,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [samzuku](https://github.com/emtee40/samzuku)
  * [sen](https://github.com/Fansirsqi/sen) - 一个简单的sen
  * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]
+ * [signal-switch](https://github.com/hashim47j/signal-switch) - Quick LTE/5G network mode switcher with QS tile and widget support
  * [xperia-camera-button](https://github.com/aaronkh/xperia-camera-button)
  * [yomoki-autojs](https://github.com/fanyuLXZ/yomoki-autojs)

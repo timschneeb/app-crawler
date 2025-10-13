@@ -70,7 +70,7 @@ jobs:
         key: ${{ env.cache-key }}
 
     - name: Publish summary changes
-      uses: stefanzweifel/git-auto-commit-action@v6
+      uses: stefanzweifel/git-auto-commit-action@v7
       with:
         commit_message: Update SUMMARY*.md
         file_pattern: ./SUMMARY*.md

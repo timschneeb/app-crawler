@@ -26,6 +26,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Flicky](https://github.com/mlm-games/flicky) - Unofficial Fdroid client (for Android TV)
  * [Fluffy](https://github.com/mlm-games/fluffy) - A TV friendly file manager and archive viewer
  * [FlymeFrameTools](https://github.com/Ruyue-Kinsenka/FlymeFrameTools) - 利用shuzuki无root管理flyme插帧超分的app名单
+ * [FoldDevtools](https://github.com/achyuki/FoldDevtools) - Using chrome devtools to debug webview on Android.
  * [GlyphRecorder](https://github.com/aaa1115910/GlyphRecorder) - A glyph recognition tool.
  * [HesleyTools](https://github.com/ldh-star/HesleyTools) - 自用工具/模块
  * [HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！

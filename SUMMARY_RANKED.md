@@ -22,17 +22,18 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [83.52] [fakelauncher](https://github.com/ZH-XiJun/fakelauncher) - I swear, it is really just a feature phone, not a smart phone!
  * [83.24] [kdeconnect-android-shizuku](https://github.com/Shoukaku39/kdeconnect-android-shizuku) - Forked from KDE Connect Android. Adds Shizuku support to bypass clipboard access restrictions on Android 10+ without using READ_LOGS or manual ADB shell. 基于 KDE Connect Android 的分支，添加对 Shizuku 的支持，在无需请求 READ_LOGS 或手动 ADB 授权的情况下，绕过 Android 10+ 剪贴板访问限制。
  * [82.74] [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
- * [82.53] [FoldDevtools](https://github.com/achyuki/FoldDevtools) - Using chrome devtools to debug webview on Android.
+ * [82.56] [FoldDevtools](https://github.com/achyuki/FoldDevtools) - Using chrome devtools to debug webview on Android.
  * [82.42] [MndroLua](https://github.com/Crescent-of-Maya/MndroLua) - A modern fork of AndroLua+ / 更加现代的 AndroLua+ 魔改版
  * [82.39] [Hz-Changer](https://github.com/MARCOS-S-S/Hz-Changer) - Under development! Simple, light, free and functional hz changer app.
  * [82.39] [MDPC](https://github.com/MrRare2/MDPC) - Fork of OwnDroid, A Device Policy Controller (DPC) app. Only used by me :)
  * [82.39] [gametuner](https://github.com/varunbala2237/gametuner) - A mobile tuning application for smoother gameplay experience on low/mid range devices.
  * [82.35] [GlyphRecorder](https://github.com/aaa1115910/GlyphRecorder) - A glyph recognition tool.
  * [76.47] [AutoTask](https://github.com/xjunz/AutoTask) - An automation assistant app supporting both Shizuku and AccessibilityService.
- * [74.78] [vFlow](https://github.com/ChaoMixian/vFlow) - vFlow 是一款为 Android 平台设计的、强大且高度可扩展的自动化工具。它允许你通过图形化界面，将一系列“动作模块”自由组合成强大的“工作流”，从而自动完成各种日常的、重复性的屏幕操作任务。
- * [74.14] [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
- * [71.71] [android-wifi-pojie](https://github.com/bszapp/android-wifi-pojie) - Android使用密码本暴力破解wifi密码工具
- * [68.92] [hlbmerge_flutter](https://github.com/molihuan/hlbmerge_flutter) - 全平台将Bilibili缓存文件合并导出为MP4，支持B站手机客户端缓存，支持B站电脑客户端缓存 Merge and export Bilibili cache files into MP4, support caching on Bilibili mobile client and Bilibili computer client
+ * [74.85] [vFlow](https://github.com/ChaoMixian/vFlow) - vFlow 是一款为 Android 平台设计的、强大且高度可扩展的自动化工具。它允许你通过图形化界面，将一系列“动作模块”自由组合成强大的“工作流”，从而自动完成各种日常的、重复性的屏幕操作任务。
+ * [74.18] [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
+ * [71.85] [android-wifi-pojie](https://github.com/bszapp/android-wifi-pojie) - Android使用密码本暴力破解wifi密码工具
+ * [69.02] [hlbmerge_flutter](https://github.com/molihuan/hlbmerge_flutter) - 全平台将Bilibili缓存文件合并导出为MP4，支持B站手机客户端缓存，支持B站电脑客户端缓存 Merge and export Bilibili cache files into MP4, support caching on Bilibili mobile client and Bilibili computer client
+ * [68.99] [MiRearScreenSwitcher](https://github.com/GoldenglowSusie/MiRearScreenSwitcher) - 为小米17Pro及以上（也许及以后）机型的背屏一键切换器
  * [68.42] [haval-app-tool-multimidia](https://github.com/bobaoapae/haval-app-tool-multimidia) - Ferramenta Android experimental para estender e aprimorar o sistema multimídia do Haval H6 GT (GWM) via engenharia reversa e Shizuku
  * [68.04] [cmd-android](https://github.com/niki914/cmd-android) - 基于 Kotlin 协程的 Android Shell 命令执行框架，支持 User、Shizuku 和 Root 三种权限的命令行调用，提供统一易用的挂起式 API
  * [68.00] [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
@@ -53,18 +54,14 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [58.93] [android-settings-scheduler](https://github.com/Turtlepaw/android-settings-scheduler) - Schedule any settings that are in the Android Settings app to be changed
  * [58.86] [A2Auth](https://github.com/tangguiyuan/A2Auth) - This repository contains the source code of A2AUTH, including the data collection app and authentication model. A2AUTH is an application-agnostic framework for continuous smartphone authentication using multimodal behavioral features and a triplet-loss network.
  * [58.86] [LogCollector](https://github.com/thekosa/LogCollector) - Android application designed to collect and manage Android system logs
- * [58.86] [Tachichi](https://github.com/TetoGami/Tachichi) - Free and open source manga reader for Android
  * [58.82] [Installer](https://github.com/huidoudour/Installer) - This app is only available to developers
- * [58.82] [NPatch](https://github.com/javaeryang/NPatch) - 学习NPatch
  * [58.82] [signal-switch](https://github.com/hashim47j/signal-switch) - Quick LTE/5G network mode switcher with QS tile and widget support
  * [58.71] [DeviceOptimizeHelper](https://github.com/sbmatch/DeviceOptimizeHelper)
  * [56.02] [ankihelper-plus](https://github.com/huhuswei/ankihelper-plus)
  * [55.99] [PixelCarrierSettings](https://github.com/iKirby/PixelCarrierSettings)
  * [55.95] [carriername](https://github.com/IQUXAe/carriername)
- * [55.92] [Deb-patcher-shuzuku-based-android-app](https://github.com/sayed2174/Deb-patcher-shuzuku-based-android-app)
  * [55.92] [autodaily](https://github.com/ParadiseZ/autodaily)
  * [55.88] [CBJQ_HugFenny](https://github.com/LiuJiewenTT/CBJQ_HugFenny)
- * [53.93] [MiRearScreenSwitcher](https://github.com/GoldenglowSusie/MiRearScreenSwitcher) - 为小米17Pro及以上（也许及以后）机型的背屏一键切换器
  * [53.19] [VivoTools](https://github.com/ItosEO/VivoTools) - 蓝厂工具盒,用于降级GW和电源信息
  * [53.05] [Android-AccessibilityGrant](https://github.com/MagicianGuo/Android-AccessibilityGrant) - 能够一键为应用授予辅助功能（无障碍）权限，需要Shizuku
  * [53.01] [TimerAndroid](https://github.com/HNIdesu/TimerAndroid) - 定时关闭指定的应用，支持Magisk和Shizuku。
@@ -74,26 +71,15 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [44.22] [ClipboardListener](https://github.com/aa2013/ClipboardListener) - Flutter-ClipboardListener-Clipshare
  * [44.19] [VRPquest](https://github.com/JarJarBlinkz/VRPquest) - A quest standalone version of the VRP Rookie sideloader.  !WIP!
  * [44.12] [File-Manager](https://github.com/abusaeed-shuvo/File-Manager) - Simple file manager with shizuku in compose.
- * [44.12] [Shousetsu](https://github.com/TunaConnoisseur/Shousetsu) - A Mihon inspired app that allows you to read epub files
  * [44.12] [li](https://github.com/lousli/li) - 安卓去广告
  * [32.91] [XPlan](https://github.com/ItosEO/XPlan) - X计划，合并版
  * [32.49] [adhell3](https://github.com/pascua28/adhell3)
  * [32.42] [AudioControlApp](https://github.com/SwastikChamp2/AudioControlApp)
  * [32.42] [ForensicEye](https://github.com/flxholle/ForensicEye)
- * [32.39] [AZ](https://github.com/awiptk/AZ)
  * [32.39] [lanhegongjuxiang](https://github.com/miounet11/lanhegongjuxiang)
- * [32.35] [Hail-archive](https://github.com/thejaustin/Hail-archive)
- * [32.35] [Hail-archive-2](https://github.com/thejaustin/Hail-archive-2)
- * [32.35] [Miyad](https://github.com/skbidan22-arch/Miyad)
- * [32.35] [Roel](https://github.com/roelcamiso3-cell/Roel)
- * [32.35] [Sagar-00007](https://github.com/rsagarrathva-code/Sagar-00007)
- * [32.35] [Sam-zuku](https://github.com/Itsfitts/Sam-zuku)
- * [32.35] [ShizukuHack](https://github.com/EduardoA3677/ShizukuHack)
  * [32.35] [connect-screen](https://github.com/sherylynn/connect-screen)
  * [32.35] [gesture_is_back](https://github.com/amrabdelhameeed/gesture_is_back)
  * [32.35] [modtoon_module](https://github.com/Inhaleoxygen/modtoon_module)
- * [32.35] [samzuku](https://github.com/emtee40/samzuku)
- * [32.35] [yomoki-autojs](https://github.com/fanyuLXZ/yomoki-autojs)
  * [30.19] [TouchTool](https://github.com/mr-bogey/TouchTool) - 使用Android无障碍功能来帮助用户点击。蓝图式任务编辑
  * [29.80] [Tweak-Android](https://github.com/lumkit/Tweak-Android) - 多功能安卓手机玩机工具箱
  * [29.80] [sen](https://github.com/Fansirsqi/sen) - 一个简单的sen
@@ -104,12 +90,8 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [17.79] [FreezeApp](https://github.com/JuneLeo/FreezeApp)
  * [17.72] [LauncherChanger](https://github.com/Samuel095383/LauncherChanger)
  * [17.72] [xperia-camera-button](https://github.com/aaronkh/xperia-camera-button)
- * [17.65] [-sess_1760291856_92b0399c](https://github.com/renzhidao/-sess_1760291856_92b0399c)
  * [17.65] [Accessibility-](https://github.com/nai559/Accessibility-)
- * [17.65] [DhupaKathi](https://github.com/chankruze/DhupaKathi)
  * [17.65] [ShizukuRefresher](https://github.com/lyr341/ShizukuRefresher)
- * [14.71] [dsu](https://github.com/tenesikorea/dsu)
- * [14.71] [hail_imp](https://github.com/oneposs/hail_imp)
  * [11.91] [VeryDark](https://github.com/wkbin/VeryDark) - 极暗模式
  * [0.21] [XMeizu](https://github.com/ItosEO/XMeizu)
  * [0.04] [ControllerMapper](https://github.com/anhquan7826/ControllerMapper)

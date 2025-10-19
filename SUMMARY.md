@@ -17,7 +17,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
  * [CBJQ_HugFenny](https://github.com/LiuJiewenTT/CBJQ_HugFenny)
  * [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新
- * [Deb-patcher-shuzuku-based-android-app](https://github.com/sayed2174/Deb-patcher-shuzuku-based-android-app)
  * [DeviceOptimizeHelper](https://github.com/sbmatch/DeviceOptimizeHelper)
  * [Doubletap-to-lock](https://github.com/albertcamus344/Doubletap-to-lock) - Use the accessiblity service or shizuku to lock the screen by double tapping on a transparent widget added to the homescreen
  * [FlymeFrameTools](https://github.com/Ruyue-Kinsenka/FlymeFrameTools) - 利用shuzuki无root管理flyme插帧超分的app名单
@@ -57,39 +56,26 @@ Entries are sorted by name and grouped into a separate category if the attached 
 
 ### Apps with no releases
 
- * [-sess_1760291856_92b0399c](https://github.com/renzhidao/-sess_1760291856_92b0399c)
  * [A2Auth](https://github.com/tangguiyuan/A2Auth) - This repository contains the source code of A2AUTH, including the data collection app and authentication model. A2AUTH is an application-agnostic framework for continuous smartphone authentication using multimodal behavioral features and a triplet-loss network.
  * [AIDE-Plus](https://github.com/2659170494/AIDE-Plus) - AIDE+
- * [AZ](https://github.com/awiptk/AZ)
  * [Accessibility-](https://github.com/nai559/Accessibility-)
  * [Android-FPS-Watcher](https://github.com/WuDi-ZhanShen/Android-FPS-Watcher) - Monitor RealTime FPS. Suppports Android 12+. Pure Java. Needs ADB or ROOT.
  * [AudioControlApp](https://github.com/SwastikChamp2/AudioControlApp)
  * [AutoTask](https://github.com/xjunz/AutoTask) - An automation assistant app supporting both Shizuku and AccessibilityService.
  * [ClipboardListener](https://github.com/aa2013/ClipboardListener) - Flutter-ClipboardListener-Clipshare
  * [ControllerMapper](https://github.com/anhquan7826/ControllerMapper)
- * [DhupaKathi](https://github.com/chankruze/DhupaKathi)
  * [File-Manager](https://github.com/abusaeed-shuvo/File-Manager) - Simple file manager with shizuku in compose.
  * [ForensicEye](https://github.com/flxholle/ForensicEye)
  * [FreezeApp](https://github.com/JuneLeo/FreezeApp)
- * [Hail-archive](https://github.com/thejaustin/Hail-archive)
- * [Hail-archive-2](https://github.com/thejaustin/Hail-archive-2)
  * [Installer](https://github.com/huidoudour/Installer) - This app is only available to developers
  * [LauncherChanger](https://github.com/Samuel095383/LauncherChanger)
  * [LogCollector](https://github.com/thekosa/LogCollector) - Android application designed to collect and manage Android system logs
- * [Miyad](https://github.com/skbidan22-arch/Miyad)
  * [Myflutter](https://github.com/dhiiizt/Myflutter) - Flutter
- * [NPatch](https://github.com/javaeryang/NPatch) - 学习NPatch
- * [Roel](https://github.com/roelcamiso3-cell/Roel)
  * [SFS-CustomTranslations-Installer](https://github.com/youfeng11/SFS-CustomTranslations-Installer) - SFS汉化安装器
- * [Sagar-00007](https://github.com/rsagarrathva-code/Sagar-00007)
- * [Sam-zuku](https://github.com/Itsfitts/Sam-zuku)
- * [ShizukuHack](https://github.com/EduardoA3677/ShizukuHack)
  * [ShizukuRefresher](https://github.com/lyr341/ShizukuRefresher)
- * [Shousetsu](https://github.com/TunaConnoisseur/Shousetsu) - A Mihon inspired app that allows you to read epub files
  * [SilentInstaller](https://github.com/MiyazKaori/SilentInstaller) - 使用Shizuku进行静默安装的Android library
  * [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Module to change country for tiktok to Belarus(for russian)
  * [SuperWindow](https://github.com/eiyooooo/SuperWindow) - 超级视窗 | Enhance multi-task experience for large-screen Android devices
- * [Tachichi](https://github.com/TetoGami/Tachichi) - Free and open source manga reader for Android
  * [ThemedManager](https://github.com/Osanosa/ThemedManager) - Themed Overlays Manager
  * [TouchTool](https://github.com/mr-bogey/TouchTool) - 使用Android无障碍功能来帮助用户点击。蓝图式任务编辑
  * [Tweak-Android](https://github.com/lumkit/Tweak-Android) - 多功能安卓手机玩机工具箱
@@ -100,19 +86,15 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [adhell3](https://github.com/pascua28/adhell3)
  * [android-settings-scheduler](https://github.com/Turtlepaw/android-settings-scheduler) - Schedule any settings that are in the Android Settings app to be changed
  * [connect-screen](https://github.com/sherylynn/connect-screen)
- * [dsu](https://github.com/tenesikorea/dsu)
  * [gemini-android](https://github.com/niki914/gemini-android) - Let gemini control your Android phone through function calling. 通过FunctionCalling让Gemini操控安卓手机。
  * [gesture_is_back](https://github.com/amrabdelhameeed/gesture_is_back)
  * [greentooth](https://github.com/qwerty12/greentooth) - Shizuku-using fork of https://gitlab.com/nbergman/greentooth
- * [hail_imp](https://github.com/oneposs/hail_imp)
  * [lanhegongjuxiang](https://github.com/miounet11/lanhegongjuxiang)
  * [li](https://github.com/lousli/li) - 安卓去广告
  * [modtoon_module](https://github.com/Inhaleoxygen/modtoon_module)
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
- * [samzuku](https://github.com/emtee40/samzuku)
  * [sen](https://github.com/Fansirsqi/sen) - 一个简单的sen
  * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]
  * [signal-switch](https://github.com/hashim47j/signal-switch) - Quick LTE/5G network mode switcher with QS tile and widget support
  * [xperia-camera-button](https://github.com/aaronkh/xperia-camera-button)
- * [yomoki-autojs](https://github.com/fanyuLXZ/yomoki-autojs)

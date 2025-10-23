@@ -60,6 +60,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
 
 ### Apps with no releases
 
+ * [196](https://github.com/starkjack1970/196)
  * [A2Auth](https://github.com/tangguiyuan/A2Auth) - This repository contains the source code of A2AUTH, including the data collection app and authentication model. A2AUTH is an application-agnostic framework for continuous smartphone authentication using multimodal behavioral features and a triplet-loss network.
  * [AIDE-Plus](https://github.com/2659170494/AIDE-Plus) - AIDE+
  * [Accessibility-](https://github.com/nai559/Accessibility-)

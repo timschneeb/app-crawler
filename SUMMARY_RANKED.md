@@ -10,10 +10,13 @@ Sort by: [name](SUMMARY.md) | [score]
 Entries are sorted by a score that is calculated based on quality of the linked repository (readme, has downloadable release, stars, etc.).
 
  * [100.00] [AppVaultX](https://github.com/sunilpaulmathew/AppVaultX) - App Control Made Easy
+ * [100.00] [Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
  * [100.00] [Operit](https://github.com/AAswordman/Operit) - The most powerful AI agent and AI chat software on Android
- * [97.49] [Manager](https://github.com/Aliucord/Manager) - The new way to install Aliucord – in a user-friendly way
+ * [100.00] [PrivacyFlip](https://github.com/dorumrr/privacyFlip) - Manage your device privacy based on lock/unlock state
+ * [97.53] [Manager](https://github.com/Aliucord/Manager) - The new way to install Aliucord – in a user-friendly way
  * [96.05] [Athena](https://github.com/Kin69/Athena) - Athena is a Material You (Material 3) firewall and ad blocker that works seamlessly on both rooted and non-rooted devices.
  * [85.92] [JumpReplay](https://github.com/FourTwooo/JumpReplay) - Xposed Hook Android Intent/Scheme
+ * [85.67] [AxManager](https://github.com/fahrez182/AxManager) - AxManager is an Android application designed to provide deeper control over apps and the system.
  * [85.29] [AutoAccounting](https://github.com/AutoAccountingOrg/AutoAccounting) - 你的每一笔账单都值得记录！
  * [85.29] [AutoSkip](https://github.com/xjunz/AutoSkip) - 基于Shizuku授权的安卓"自动跳过"工具
  * [85.29] [HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！
@@ -25,9 +28,10 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [83.34] [privacyFlip](https://github.com/dorumrr/privacyFlip) - Stop leaking data and being tracked when your phone is locked. Automatic lock/unlock privacy control for rooted Android devices 🔐📱✨
  * [83.24] [kdeconnect-android-shizuku](https://github.com/Shoukaku39/kdeconnect-android-shizuku) - Forked from KDE Connect Android. Adds Shizuku support to bypass clipboard access restrictions on Android 10+ without using READ_LOGS or manual ADB shell. 基于 KDE Connect Android 的分支，添加对 Shizuku 的支持，在无需请求 READ_LOGS 或手动 ADB 授权的情况下，绕过 Android 10+ 剪贴板访问限制。
  * [82.74] [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
- * [82.60] [FoldDevtools](https://github.com/achyuki/FoldDevtools) - Using chrome devtools to debug webview on Android.
- * [82.46] [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Quick tool for utilizing CVE-224-31317 on Android
+ * [82.64] [FoldDevtools](https://github.com/achyuki/FoldDevtools) - Using chrome devtools to debug webview on Android.
+ * [82.46] [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Quick tool for utilizing CVE-2024-31317 on Android
  * [82.42] [MndroLua](https://github.com/Crescent-of-Maya/MndroLua) - A modern fork of AndroLua+ / 更加现代的 AndroLua+ 魔改版
+ * [82.42] [carriername](https://github.com/IQUXAe/carriername) - Fork carrier vanity name
  * [82.39] [Hz-Changer](https://github.com/MARCOS-S-S/Hz-Changer) - Under development! Simple, light, free and functional hz changer app.
  * [82.39] [MDPC](https://github.com/MrRare2/MDPC) - Fork of OwnDroid, A Device Policy Controller (DPC) app. Only used by me :)
  * [82.39] [gametuner](https://github.com/varunbala2237/gametuner) - A mobile tuning application for smoother gameplay experience on low/mid range devices.
@@ -35,10 +39,10 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [82.35] [Installer](https://github.com/huidoudour/Installer) - This app is only available to developers
  * [82.35] [ShinGen](https://github.com/Shio2077/ShinGen) - 安卓原神自动对话点击器/Genshin Impact Auto-Conversation Clicker on Android
  * [76.47] [AutoTask](https://github.com/xjunz/AutoTask) - An automation assistant app supporting both Shizuku and AccessibilityService.
- * [75.09] [vFlow](https://github.com/ChaoMixian/vFlow) - vFlow 是一款为 Android 平台设计的、强大且高度可扩展的自动化工具。它允许你通过图形化界面，将一系列“动作模块”自由组合成强大的“工作流”，从而自动完成各种日常的、重复性的屏幕操作任务。
- * [74.32] [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
- * [74.14] [android-wifi-pojie](https://github.com/bszapp/android-wifi-pojie) - Android使用密码本暴力破解wifi密码工具
- * [71.39] [MiRearScreenSwitcher](https://github.com/GoldenglowSusie/MiRearScreenSwitcher) - 为小米17Pro及以上（也许及以后）机型的背屏一键切换器
+ * [75.16] [vFlow](https://github.com/ChaoMixian/vFlow) - vFlow 是一款为 Android 平台设计的、强大且高度可扩展的自动化工具。它允许你通过图形化界面，将一系列“动作模块”自由组合成强大的“工作流”，从而自动完成各种日常的、重复性的屏幕操作任务。
+ * [74.46] [android-wifi-pojie](https://github.com/bszapp/android-wifi-pojie) - Android使用密码本暴力破解wifi密码工具
+ * [74.35] [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
+ * [71.46] [MiRearScreenSwitcher](https://github.com/GoldenglowSusie/MiRearScreenSwitcher) - 为小米17Pro及以上（也许及以后）机型的背屏一键切换器
  * [69.13] [hlbmerge_flutter](https://github.com/molihuan/hlbmerge_flutter) - 全平台将Bilibili缓存文件合并导出为MP4，支持B站手机客户端缓存，支持B站电脑客户端缓存 Merge and export Bilibili cache files into MP4, support caching on Bilibili mobile client and Bilibili computer client
  * [68.42] [haval-app-tool-multimidia](https://github.com/bobaoapae/haval-app-tool-multimidia) - Ferramenta Android experimental para estender e aprimorar o sistema multimídia do Haval H6 GT (GWM) via engenharia reversa e Shizuku
  * [68.04] [cmd-android](https://github.com/niki914/cmd-android) - 基于 Kotlin 协程的 Android Shell 命令执行框架，支持 User、Shizuku 和 Root 三种权限的命令行调用，提供统一易用的挂起式 API
@@ -65,7 +69,6 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [58.71] [DeviceOptimizeHelper](https://github.com/sbmatch/DeviceOptimizeHelper)
  * [56.06] [PixelCarrierSettings](https://github.com/iKirby/PixelCarrierSettings)
  * [56.02] [ankihelper-plus](https://github.com/huhuswei/ankihelper-plus)
- * [55.95] [carriername](https://github.com/IQUXAe/carriername)
  * [55.92] [autodaily](https://github.com/ParadiseZ/autodaily)
  * [55.88] [CBJQ_HugFenny](https://github.com/LiuJiewenTT/CBJQ_HugFenny)
  * [53.19] [VivoTools](https://github.com/ItosEO/VivoTools) - 蓝厂工具盒,用于降级GW和电源信息
@@ -93,6 +96,7 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [29.52] [AIDE-Plus](https://github.com/2659170494/AIDE-Plus) - AIDE+
  * [29.45] [Myflutter](https://github.com/dhiiizt/Myflutter) - Flutter
  * [29.41] [SilentInstaller](https://github.com/MiyazKaori/SilentInstaller) - 使用Shizuku进行静默安装的Android library
+ * [29.41] [fps-viewer-android](https://github.com/moahaassy-design/fps-viewer-android) - FPS Viewer - Android monitoring aplikasi dengan Shizuku untuk real-time FPS monitoring tanpa root
  * [26.47] [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Module to change country for tiktok to Belarus(for russian)
  * [17.79] [FreezeApp](https://github.com/JuneLeo/FreezeApp)
  * [17.72] [LauncherChanger](https://github.com/Samuel095383/LauncherChanger)

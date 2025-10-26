@@ -17,6 +17,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [AutoAccounting](https://github.com/AutoAccountingOrg/AutoAccounting) - 你的每一笔账单都值得记录！
  * [AutoSkip](https://github.com/xjunz/AutoSkip) - 基于Shizuku授权的安卓"自动跳过"工具
  * [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
+ * [AxManager](https://github.com/fahrez182/AxManager) - AxManager is an Android application designed to provide deeper control over apps and the system.
  * [CBJQ_HugFenny](https://github.com/LiuJiewenTT/CBJQ_HugFenny)
  * [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新
  * [DeviceOptimizeHelper](https://github.com/sbmatch/DeviceOptimizeHelper)
@@ -35,10 +36,12 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Manager](https://github.com/Aliucord/Manager) - The new way to install Aliucord – in a user-friendly way
  * [MiRearScreenSwitcher](https://github.com/GoldenglowSusie/MiRearScreenSwitcher) - 为小米17Pro及以上（也许及以后）机型的背屏一键切换器
  * [MndroLua](https://github.com/Crescent-of-Maya/MndroLua) - A modern fork of AndroLua+ / 更加现代的 AndroLua+ 魔改版
+ * [Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
  * [Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
  * [Operit](https://github.com/AAswordman/Operit) - The most powerful AI agent and AI chat software on Android
  * [PixelCarrierSettings](https://github.com/iKirby/PixelCarrierSettings)
- * [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Quick tool for utilizing CVE-224-31317 on Android
+ * [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Quick tool for utilizing CVE-2024-31317 on Android
+ * [PrivacyFlip](https://github.com/dorumrr/privacyFlip) - Manage your device privacy based on lock/unlock state
  * [ShinGen](https://github.com/Shio2077/ShinGen) - 安卓原神自动对话点击器/Genshin Impact Auto-Conversation Clicker on Android
  * [TimerAndroid](https://github.com/HNIdesu/TimerAndroid) - 定时关闭指定的应用，支持Magisk和Shizuku。
  * [UWS](https://github.com/UWillno/UWS) - Qt for Android的shizuku/root shell执行器
@@ -47,7 +50,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [android-wifi-pojie](https://github.com/bszapp/android-wifi-pojie) - Android使用密码本暴力破解wifi密码工具
  * [ankihelper-plus](https://github.com/huhuswei/ankihelper-plus)
  * [autodaily](https://github.com/ParadiseZ/autodaily)
- * [carriername](https://github.com/IQUXAe/carriername)
+ * [carriername](https://github.com/IQUXAe/carriername) - Fork carrier vanity name
  * [cmd-android](https://github.com/niki914/cmd-android) - 基于 Kotlin 协程的 Android Shell 命令执行框架，支持 User、Shizuku 和 Root 三种权限的命令行调用，提供统一易用的挂起式 API
  * [fakelauncher](https://github.com/ZH-XiJun/fakelauncher) - I swear, it is really just a feature phone, not a smart phone!
  * [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
@@ -92,6 +95,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [adhell3](https://github.com/pascua28/adhell3)
  * [android-settings-scheduler](https://github.com/Turtlepaw/android-settings-scheduler) - Schedule any settings that are in the Android Settings app to be changed
  * [connect-screen](https://github.com/sherylynn/connect-screen)
+ * [fps-viewer-android](https://github.com/moahaassy-design/fps-viewer-android) - FPS Viewer - Android monitoring aplikasi dengan Shizuku untuk real-time FPS monitoring tanpa root
  * [gemini-android](https://github.com/niki914/gemini-android) - Let gemini control your Android phone through function calling. 通过FunctionCalling让Gemini操控安卓手机。
  * [gesture_is_back](https://github.com/amrabdelhameeed/gesture_is_back)
  * [greentooth](https://github.com/qwerty12/greentooth) - Shizuku-using fork of https://gitlab.com/nbergman/greentooth

@@ -44,6 +44,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Quick tool for utilizing CVE-2024-31317 on Android
  * [PrivacyFlip](https://github.com/dorumrr/privacyflip) - Manage your device privacy based on lock/unlock state
  * [ShinGen](https://github.com/Shio2077/ShinGen) - 安卓原神自动对话点击器/Genshin Impact Auto-Conversation Clicker on Android
+ * [ShizuWall](https://github.com/AhmetCanArslan/ShizuWall) - Lightweight no root, no vpn firewall solution powered by Shizuku
  * [TimerAndroid](https://github.com/HNIdesu/TimerAndroid) - 定时关闭指定的应用，支持Magisk和Shizuku。
  * [UWS](https://github.com/UWillno/UWS) - Qt for Android的shizuku/root shell执行器
  * [VivoTools](https://github.com/ItosEO/VivoTools) - 蓝厂工具盒,用于降级GW和电源信息
@@ -53,7 +54,9 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [autodaily](https://github.com/ParadiseZ/autodaily)
  * [carriername](https://github.com/IQUXAe/carriername) - Fork carrier vanity name
  * [cmd-android](https://github.com/niki914/cmd-android) - 基于 Kotlin 协程的 Android Shell 命令执行框架，支持 User、Shizuku 和 Root 三种权限的命令行调用，提供统一易用的挂起式 API
+ * [de1984](https://github.com/dorumrr/de1984) - Privacy isn’t default. Take it back with De1984 Firewall and Package Control
  * [fakelauncher](https://github.com/ZH-XiJun/fakelauncher) - I swear, it is really just a feature phone, not a smart phone!
+ * [fonts](https://github.com/jeeneo/fonts) - OneUI 8 custom rootless font changer
  * [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
  * [gametuner](https://github.com/varunbala2237/gametuner) - A mobile tuning application for smoother gameplay experience on low/mid range devices.
  * [haval-app-tool-multimidia](https://github.com/bobaoapae/haval-app-tool-multimidia) - Ferramenta Android experimental para estender e aprimorar o sistema multimídia do Haval H6 GT (GWM) via engenharia reversa e Shizuku
@@ -82,6 +85,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [LauncherChanger](https://github.com/Samuel095383/LauncherChanger)
  * [LogCollector](https://github.com/thekosa/LogCollector) - Android application designed to collect and manage Android system logs
  * [Myflutter](https://github.com/dhiiizt/Myflutter) - Flutter
+ * [PackageInstaller](https://github.com/paymenremora/PackageInstaller) - A lightweight yet powerful package installer for Android.
  * [SFS-CustomTranslations-Installer](https://github.com/youfeng11/SFS-CustomTranslations-Installer) - SFS汉化安装器
  * [ShizukuRefresher](https://github.com/lyr341/ShizukuRefresher)
  * [SilentInstaller](https://github.com/MiyazKaori/SilentInstaller) - 使用Shizuku进行静默安装的Android library
@@ -101,11 +105,12 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [gemini-android](https://github.com/niki914/gemini-android) - Let gemini control your Android phone through function calling. 通过FunctionCalling让Gemini操控安卓手机。
  * [gesture_is_back](https://github.com/amrabdelhameeed/gesture_is_back)
  * [greentooth](https://github.com/qwerty12/greentooth) - Shizuku-using fork of https://gitlab.com/nbergman/greentooth
- * [instafel](https://github.com/Ecolify/instafel) - Instafel provides fast & up-to-date Instagram Alpha experience for everyone!
+ * [instafel](https://github.com/Eduardob3677/instafel) - Instafel provides fast & up-to-date Instagram Alpha experience for everyone!
  * [lanhegongjuxiang](https://github.com/miounet11/lanhegongjuxiang)
  * [li](https://github.com/lousli/li) - 安卓去广告
  * [modtoon_module](https://github.com/Inhaleoxygen/modtoon_module)
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
+ * [physical_keyboard](https://github.com/ngoloc2k4/physical_keyboard)
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
  * [sen](https://github.com/Fansirsqi/sen) - 一个简单的sen
  * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]

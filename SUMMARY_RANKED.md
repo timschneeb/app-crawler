@@ -15,9 +15,9 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [100.00] [Operit](https://github.com/AAswordman/Operit) - The most powerful AI agent and AI chat software on Android
  * [100.00] [PrivacyFlip](https://github.com/dorumrr/privacyflip) - Manage your device privacy based on lock/unlock state
  * [97.53] [Manager](https://github.com/Aliucord/Manager) - The new way to install Aliucord – in a user-friendly way
- * [96.08] [Athena](https://github.com/Kin69/Athena) - Athena is a Material You (Material 3) firewall and ad blocker that works seamlessly on both rooted and non-rooted devices.
+ * [96.15] [Athena](https://github.com/Kin69/Athena) - Athena is a Material You (Material 3) firewall and ad blocker that works seamlessly on both rooted and non-rooted devices.
+ * [86.24] [AxManager](https://github.com/fahrez182/AxManager) - AxManager is an Android application designed to provide deeper control over apps and the system.
  * [85.92] [JumpReplay](https://github.com/FourTwooo/JumpReplay) - Xposed Hook Android Intent/Scheme
- * [85.88] [AxManager](https://github.com/fahrez182/AxManager) - AxManager is an Android application designed to provide deeper control over apps and the system.
  * [85.29] [AutoAccounting](https://github.com/AutoAccountingOrg/AutoAccounting) - 你的每一笔账单都值得记录！
  * [85.29] [AutoSkip](https://github.com/xjunz/AutoSkip) - 基于Shizuku授权的安卓"自动跳过"工具
  * [85.29] [HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！
@@ -28,6 +28,7 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [83.52] [fakelauncher](https://github.com/ZH-XiJun/fakelauncher) - I swear, it is really just a feature phone, not a smart phone!
  * [83.34] [privacyFlip](https://github.com/dorumrr/privacyFlip) - Stop leaking data and being tracked when your phone is locked. Automatic lock/unlock privacy control for rooted Android devices 🔐📱✨
  * [83.24] [kdeconnect-android-shizuku](https://github.com/Shoukaku39/kdeconnect-android-shizuku) - Forked from KDE Connect Android. Adds Shizuku support to bypass clipboard access restrictions on Android 10+ without using READ_LOGS or manual ADB shell. 基于 KDE Connect Android 的分支，添加对 Shizuku 的支持，在无需请求 READ_LOGS 或手动 ADB 授权的情况下，绕过 Android 10+ 剪贴板访问限制。
+ * [83.16] [de1984](https://github.com/dorumrr/de1984) - Privacy isn’t default. Take it back with De1984 Firewall and Package Control
  * [82.74] [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
  * [82.64] [FoldDevtools](https://github.com/achyuki/FoldDevtools) - Using chrome devtools to debug webview on Android.
  * [82.46] [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Quick tool for utilizing CVE-2024-31317 on Android
@@ -39,11 +40,13 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [82.35] [GlyphRecorder](https://github.com/aaa1115910/GlyphRecorder) - A glyph recognition tool.
  * [82.35] [Installer](https://github.com/huidoudour/Installer) - This app is only available to developers
  * [82.35] [ShinGen](https://github.com/Shio2077/ShinGen) - 安卓原神自动对话点击器/Genshin Impact Auto-Conversation Clicker on Android
+ * [82.35] [ShizuWall](https://github.com/AhmetCanArslan/ShizuWall) - Lightweight no root, no vpn firewall solution powered by Shizuku
+ * [82.35] [fonts](https://github.com/jeeneo/fonts) - OneUI 8 custom rootless font changer
  * [76.47] [AutoTask](https://github.com/xjunz/AutoTask) - An automation assistant app supporting both Shizuku and AccessibilityService.
- * [75.20] [vFlow](https://github.com/ChaoMixian/vFlow) - vFlow 是一款为 Android 平台设计的、强大且高度可扩展的自动化工具。它允许你通过图形化界面，将一系列“动作模块”自由组合成强大的“工作流”，从而自动完成各种日常的、重复性的屏幕操作任务。
- * [74.67] [android-wifi-pojie](https://github.com/bszapp/android-wifi-pojie) - Android使用密码本暴力破解wifi密码工具
- * [74.35] [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
- * [71.53] [MiRearScreenSwitcher](https://github.com/GoldenglowSusie/MiRearScreenSwitcher) - 为小米17Pro及以上（也许及以后）机型的背屏一键切换器
+ * [75.24] [vFlow](https://github.com/ChaoMixian/vFlow) - vFlow 是一款为 Android 平台设计的、强大且高度可扩展的自动化工具。它允许你通过图形化界面，将一系列“动作模块”自由组合成强大的“工作流”，从而自动完成各种日常的、重复性的屏幕操作任务。
+ * [74.78] [android-wifi-pojie](https://github.com/bszapp/android-wifi-pojie) - Android使用密码本暴力破解wifi密码工具
+ * [74.39] [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
+ * [71.67] [MiRearScreenSwitcher](https://github.com/GoldenglowSusie/MiRearScreenSwitcher) - 为小米17Pro及以上（也许及以后）机型的背屏一键切换器
  * [69.16] [hlbmerge_flutter](https://github.com/molihuan/hlbmerge_flutter) - 全平台将Bilibili缓存文件合并导出为MP4，支持B站手机客户端缓存，支持B站电脑客户端缓存 Merge and export Bilibili cache files into MP4, support caching on Bilibili mobile client and Bilibili computer client
  * [68.42] [haval-app-tool-multimidia](https://github.com/bobaoapae/haval-app-tool-multimidia) - Ferramenta Android experimental para estender e aprimorar o sistema multimídia do Haval H6 GT (GWM) via engenharia reversa e Shizuku
  * [68.04] [cmd-android](https://github.com/niki914/cmd-android) - 基于 Kotlin 协程的 Android Shell 命令执行框架，支持 User、Shizuku 和 Root 三种权限的命令行调用，提供统一易用的挂起式 API
@@ -65,7 +68,8 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [58.93] [android-settings-scheduler](https://github.com/Turtlepaw/android-settings-scheduler) - Schedule any settings that are in the Android Settings app to be changed
  * [58.86] [A2Auth](https://github.com/tangguiyuan/A2Auth) - This repository contains the source code of A2AUTH, including the data collection app and authentication model. A2AUTH is an application-agnostic framework for continuous smartphone authentication using multimodal behavioral features and a triplet-loss network.
  * [58.86] [LogCollector](https://github.com/thekosa/LogCollector) - Android application designed to collect and manage Android system logs
- * [58.82] [instafel](https://github.com/Ecolify/instafel) - Instafel provides fast & up-to-date Instagram Alpha experience for everyone!
+ * [58.82] [PackageInstaller](https://github.com/paymenremora/PackageInstaller) - A lightweight yet powerful package installer for Android.
+ * [58.82] [instafel](https://github.com/Eduardob3677/instafel) - Instafel provides fast & up-to-date Instagram Alpha experience for everyone!
  * [58.82] [signal-switch](https://github.com/hashim47j/signal-switch) - Quick LTE/5G network mode switcher with QS tile and widget support
  * [58.71] [DeviceOptimizeHelper](https://github.com/sbmatch/DeviceOptimizeHelper)
  * [56.06] [PixelCarrierSettings](https://github.com/iKirby/PixelCarrierSettings)
@@ -105,6 +109,7 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [17.72] [xperia-camera-button](https://github.com/aaronkh/xperia-camera-button)
  * [17.65] [Accessibility-](https://github.com/nai559/Accessibility-)
  * [17.65] [ShizukuRefresher](https://github.com/lyr341/ShizukuRefresher)
+ * [17.65] [physical_keyboard](https://github.com/ngoloc2k4/physical_keyboard)
  * [11.91] [VeryDark](https://github.com/wkbin/VeryDark) - 极暗模式
  * [0.21] [XMeizu](https://github.com/ItosEO/XMeizu)
  * [0.04] [ControllerMapper](https://github.com/anhquan7826/ControllerMapper)

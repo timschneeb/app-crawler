@@ -12,6 +12,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Android-AccessibilityGrant](https://github.com/MagicianGuo/Android-AccessibilityGrant) - 能够一键为应用授予辅助功能（无障碍）权限，需要Shizuku
  * [Android-AntiForensic-Tools](https://github.com/bakad3v/Android-AntiForensic-Tools) - An application designed to silently protect user data from powerful adversaries.
  * [AppVaultX](https://github.com/sunilpaulmathew/AppVaultX) - App Control Made Easy
+ * [Ascent](https://github.com/4o3F/Ascent) - A tool for retrieving gacha history link on Android devices
  * [Athena](https://github.com/Kin69/Athena) - Athena is a Material You (Material 3) firewall and ad blocker that works seamlessly on both rooted and non-rooted devices.
  * [Aurora_Updater](https://github.com/TripleU613/Aurora_Updater) - Simple Version
  * [AutoAccounting](https://github.com/AutoAccountingOrg/AutoAccounting) - 你的每一笔账单都值得记录！
@@ -20,6 +21,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [AxManager](https://github.com/fahrez182/AxManager) - AxManager is an Android application designed to provide deeper control over apps and the system.
  * [CBJQ_HugFenny](https://github.com/LiuJiewenTT/CBJQ_HugFenny)
  * [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新
+ * [De1984 Firewall](https://github.com/dorumrr/de1984) - Privacy-focused Firewall and Package Manager for Android devices
  * [DeviceOptimizeHelper](https://github.com/sbmatch/DeviceOptimizeHelper)
  * [Doubletap-to-lock](https://github.com/albertcamus344/Doubletap-to-lock) - Use the accessiblity service or shizuku to lock the screen by double tapping on a transparent widget added to the homescreen
  * [FlymeFrameTools](https://github.com/Ruyue-Kinsenka/FlymeFrameTools) - 利用shuzuki无root管理flyme插帧超分的app名单
@@ -45,6 +47,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [PrivacyFlip](https://github.com/dorumrr/privacyflip) - Manage your device privacy based on lock/unlock state
  * [ShinGen](https://github.com/Shio2077/ShinGen) - 安卓原神自动对话点击器/Genshin Impact Auto-Conversation Clicker on Android
  * [ShizuWall](https://github.com/AhmetCanArslan/ShizuWall) - Lightweight no root, no vpn firewall solution powered by Shizuku
+ * [TaskerSettings](https://github.com/joaomgcd/TaskerSettings) - Helper app for Tasker
  * [TimerAndroid](https://github.com/HNIdesu/TimerAndroid) - 定时关闭指定的应用，支持Magisk和Shizuku。
  * [UWS](https://github.com/UWillno/UWS) - Qt for Android的shizuku/root shell执行器
  * [VivoTools](https://github.com/ItosEO/VivoTools) - 蓝厂工具盒,用于降级GW和电源信息
@@ -86,6 +89,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [LogCollector](https://github.com/thekosa/LogCollector) - Android application designed to collect and manage Android system logs
  * [Myflutter](https://github.com/dhiiizt/Myflutter) - Flutter
  * [PackageInstaller](https://github.com/paymenremora/PackageInstaller) - A lightweight yet powerful package installer for Android.
+ * [Reverse_KBattery](https://github.com/ItosEO/Reverse_KBattery)
  * [SFS-CustomTranslations-Installer](https://github.com/youfeng11/SFS-CustomTranslations-Installer) - SFS汉化安装器
  * [ShizukuRefresher](https://github.com/lyr341/ShizukuRefresher)
  * [SilentInstaller](https://github.com/MiyazKaori/SilentInstaller) - 使用Shizuku进行静默安装的Android library
@@ -105,7 +109,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [gemini-android](https://github.com/niki914/gemini-android) - Let gemini control your Android phone through function calling. 通过FunctionCalling让Gemini操控安卓手机。
  * [gesture_is_back](https://github.com/amrabdelhameeed/gesture_is_back)
  * [greentooth](https://github.com/qwerty12/greentooth) - Shizuku-using fork of https://gitlab.com/nbergman/greentooth
- * [instafel](https://github.com/Eduardob3677/instafel) - Instafel provides fast & up-to-date Instagram Alpha experience for everyone!
+ * [instafel](https://github.com/EduardoA3677/instafel) - Instafel provides fast & up-to-date Instagram Alpha experience for everyone!
  * [lanhegongjuxiang](https://github.com/miounet11/lanhegongjuxiang)
  * [li](https://github.com/lousli/li) - 安卓去广告
  * [modtoon_module](https://github.com/Inhaleoxygen/modtoon_module)

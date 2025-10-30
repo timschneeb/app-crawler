@@ -9,6 +9,7 @@ Sort by: [name] | [score](SUMMARY_RANKED.md)
 
 Entries are sorted by name and grouped into a separate category if the attached link has no downloadable releases.
 
+ * [-Launcher](https://github.com/Linkolnn/-Launcher)
  * [Android-AccessibilityGrant](https://github.com/MagicianGuo/Android-AccessibilityGrant) - 能够一键为应用授予辅助功能（无障碍）权限，需要Shizuku
  * [Android-AntiForensic-Tools](https://github.com/bakad3v/Android-AntiForensic-Tools) - An application designed to silently protect user data from powerful adversaries.
  * [AppVaultX](https://github.com/sunilpaulmathew/AppVaultX) - App Control Made Easy
@@ -104,6 +105,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [XPlan](https://github.com/ItosEO/XPlan) - X计划，合并版
  * [adhell3](https://github.com/pascua28/adhell3)
  * [android-settings-scheduler](https://github.com/Turtlepaw/android-settings-scheduler) - Schedule any settings that are in the Android Settings app to be changed
+ * [autoai-android](https://github.com/king0929zion/autoai-android)
  * [connect-screen](https://github.com/sherylynn/connect-screen)
  * [fps-viewer-android](https://github.com/moahaassy-design/fps-viewer-android) - FPS Viewer - Android monitoring aplikasi dengan Shizuku untuk real-time FPS monitoring tanpa root
  * [gemini-android](https://github.com/niki914/gemini-android) - Let gemini control your Android phone through function calling. 通过FunctionCalling让Gemini操控安卓手机。

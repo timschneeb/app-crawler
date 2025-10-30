@@ -15,10 +15,10 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [100.00] [Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
  * [100.00] [Operit](https://github.com/AAswordman/Operit) - The most powerful AI agent and AI chat software on Android
  * [100.00] [PrivacyFlip](https://github.com/dorumrr/privacyflip) - Manage your device privacy based on lock/unlock state
- * [97.53] [Manager](https://github.com/Aliucord/Manager) - The new way to install Aliucord – in a user-friendly way
- * [96.19] [Athena](https://github.com/Kin69/Athena) - Athena is a Material You (Material 3) firewall and ad blocker that works seamlessly on both rooted and non-rooted devices.
+ * [97.56] [Manager](https://github.com/Aliucord/Manager) - The new way to install Aliucord – in a user-friendly way
+ * [96.22] [Athena](https://github.com/Kin69/Athena) - Athena is a Material You (Material 3) firewall and ad blocker that works seamlessly on both rooted and non-rooted devices.
  * [88.28] [Ascent](https://github.com/4o3F/Ascent) - A tool for retrieving gacha history link on Android devices
- * [86.38] [AxManager](https://github.com/fahrez182/AxManager) - AxManager is an Android application designed to provide deeper control over apps and the system.
+ * [86.45] [AxManager](https://github.com/fahrez182/AxManager) - AxManager is an Android application designed to provide deeper control over apps and the system.
  * [85.92] [JumpReplay](https://github.com/FourTwooo/JumpReplay) - Xposed Hook Android Intent/Scheme
  * [85.29] [AutoAccounting](https://github.com/AutoAccountingOrg/AutoAccounting) - 你的每一笔账单都值得记录！
  * [85.29] [AutoSkip](https://github.com/xjunz/AutoSkip) - 基于Shizuku授权的安卓"自动跳过"工具
@@ -33,7 +33,7 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [83.24] [kdeconnect-android-shizuku](https://github.com/Shoukaku39/kdeconnect-android-shizuku) - Forked from KDE Connect Android. Adds Shizuku support to bypass clipboard access restrictions on Android 10+ without using READ_LOGS or manual ADB shell. 基于 KDE Connect Android 的分支，添加对 Shizuku 的支持，在无需请求 READ_LOGS 或手动 ADB 授权的情况下，绕过 Android 10+ 剪贴板访问限制。
  * [83.16] [de1984](https://github.com/dorumrr/de1984) - Privacy isn’t default. Take it back with De1984 Firewall and Package Control
  * [82.74] [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
- * [82.64] [FoldDevtools](https://github.com/achyuki/FoldDevtools) - Using chrome devtools to debug webview on Android.
+ * [82.67] [FoldDevtools](https://github.com/achyuki/FoldDevtools) - Using chrome devtools to debug webview on Android.
  * [82.46] [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Quick tool for utilizing CVE-2024-31317 on Android
  * [82.42] [MndroLua](https://github.com/Crescent-of-Maya/MndroLua) - A modern fork of AndroLua+ / 更加现代的 AndroLua+ 魔改版
  * [82.42] [carriername](https://github.com/IQUXAe/carriername) - Fork carrier vanity name
@@ -46,11 +46,11 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [82.35] [ShinGen](https://github.com/Shio2077/ShinGen) - 安卓原神自动对话点击器/Genshin Impact Auto-Conversation Clicker on Android
  * [82.35] [ShizuWall](https://github.com/AhmetCanArslan/ShizuWall) - Lightweight no root, no vpn firewall solution powered by Shizuku
  * [76.47] [AutoTask](https://github.com/xjunz/AutoTask) - An automation assistant app supporting both Shizuku and AccessibilityService.
- * [75.24] [vFlow](https://github.com/ChaoMixian/vFlow) - vFlow 是一款为 Android 平台设计的、强大且高度可扩展的自动化工具。它允许你通过图形化界面，将一系列“动作模块”自由组合成强大的“工作流”，从而自动完成各种日常的、重复性的屏幕操作任务。
+ * [75.27] [vFlow](https://github.com/ChaoMixian/vFlow) - vFlow 是一款为 Android 平台设计的、强大且高度可扩展的自动化工具。它允许你通过图形化界面，将一系列“动作模块”自由组合成强大的“工作流”，从而自动完成各种日常的、重复性的屏幕操作任务。
  * [74.92] [android-wifi-pojie](https://github.com/bszapp/android-wifi-pojie) - Android使用密码本暴力破解wifi密码工具
  * [74.42] [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
- * [71.95] [MiRearScreenSwitcher](https://github.com/GoldenglowSusie/MiRearScreenSwitcher) - 为小米17Pro及以上（也许及以后）机型的背屏一键切换器
- * [69.24] [hlbmerge_flutter](https://github.com/molihuan/hlbmerge_flutter) - 全平台将Bilibili缓存文件合并导出为MP4，支持B站手机客户端缓存，支持B站电脑客户端缓存 Merge and export Bilibili cache files into MP4, support caching on Bilibili mobile client and Bilibili computer client
+ * [72.13] [MiRearScreenSwitcher](https://github.com/GoldenglowSusie/MiRearScreenSwitcher) - 为小米17Pro及以上（也许及以后）机型的背屏一键切换器
+ * [69.31] [hlbmerge_flutter](https://github.com/molihuan/hlbmerge_flutter) - 全平台将Bilibili缓存文件合并导出为MP4，支持B站手机客户端缓存，支持B站电脑客户端缓存 Merge and export Bilibili cache files into MP4, support caching on Bilibili mobile client and Bilibili computer client
  * [68.42] [haval-app-tool-multimidia](https://github.com/bobaoapae/haval-app-tool-multimidia) - Ferramenta Android experimental para estender e aprimorar o sistema multimídia do Haval H6 GT (GWM) via engenharia reversa e Shizuku
  * [68.04] [cmd-android](https://github.com/niki914/cmd-android) - 基于 Kotlin 协程的 Android Shell 命令执行框架，支持 User、Shizuku 和 Root 三种权限的命令行调用，提供统一易用的挂起式 API
  * [68.00] [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
@@ -75,9 +75,10 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [58.82] [instafel](https://github.com/EduardoA3677/instafel) - Instafel provides fast & up-to-date Instagram Alpha experience for everyone!
  * [58.82] [signal-switch](https://github.com/hashim47j/signal-switch) - Quick LTE/5G network mode switcher with QS tile and widget support
  * [58.71] [DeviceOptimizeHelper](https://github.com/sbmatch/DeviceOptimizeHelper)
- * [56.06] [PixelCarrierSettings](https://github.com/iKirby/PixelCarrierSettings)
+ * [56.13] [PixelCarrierSettings](https://github.com/iKirby/PixelCarrierSettings)
  * [56.02] [ankihelper-plus](https://github.com/huhuswei/ankihelper-plus)
  * [55.92] [autodaily](https://github.com/ParadiseZ/autodaily)
+ * [55.88] [-Launcher](https://github.com/Linkolnn/-Launcher)
  * [55.88] [CBJQ_HugFenny](https://github.com/LiuJiewenTT/CBJQ_HugFenny)
  * [53.19] [VivoTools](https://github.com/ItosEO/VivoTools) - 蓝厂工具盒,用于降级GW和电源信息
  * [53.05] [Android-AccessibilityGrant](https://github.com/MagicianGuo/Android-AccessibilityGrant) - 能够一键为应用授予辅助功能（无障碍）权限，需要Shizuku
@@ -90,12 +91,13 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [44.15] [DeenShield](https://github.com/alhaq-initiative/DeenShield) - DeenShield will be Free and the most efficient way of full protection 
  * [44.12] [File-Manager](https://github.com/abusaeed-shuvo/File-Manager) - Simple file manager with shizuku in compose.
  * [44.12] [li](https://github.com/lousli/li) - 安卓去广告
- * [32.94] [XPlan](https://github.com/ItosEO/XPlan) - X计划，合并版
+ * [32.98] [XPlan](https://github.com/ItosEO/XPlan) - X计划，合并版
  * [32.49] [adhell3](https://github.com/pascua28/adhell3)
  * [32.42] [AudioControlApp](https://github.com/SwastikChamp2/AudioControlApp)
  * [32.42] [ForensicEye](https://github.com/flxholle/ForensicEye)
  * [32.39] [lanhegongjuxiang](https://github.com/miounet11/lanhegongjuxiang)
  * [32.35] [196](https://github.com/starkjack1970/196)
+ * [32.35] [autoai-android](https://github.com/king0929zion/autoai-android)
  * [32.35] [connect-screen](https://github.com/sherylynn/connect-screen)
  * [32.35] [gesture_is_back](https://github.com/amrabdelhameeed/gesture_is_back)
  * [32.35] [modtoon_module](https://github.com/Inhaleoxygen/modtoon_module)

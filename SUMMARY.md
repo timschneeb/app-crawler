@@ -22,7 +22,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [AxManager](https://github.com/fahrez182/AxManager) - AxManager is an Android application designed to provide deeper control over apps and the system.
  * [CBJQ_HugFenny](https://github.com/LiuJiewenTT/CBJQ_HugFenny)
  * [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新
- * [De1984 Firewall](https://github.com/dorumrr/de1984) - Privacy-focused Firewall and Package Manager for Android devices
  * [DeviceOptimizeHelper](https://github.com/sbmatch/DeviceOptimizeHelper)
  * [Doubletap-to-lock](https://github.com/albertcamus344/Doubletap-to-lock) - Use the accessiblity service or shizuku to lock the screen by double tapping on a transparent widget added to the homescreen
  * [FireWall-Blocks](https://github.com/shynoiddev/FireWall-Blocks) - Android firewall app using Shizuku and VPN modes. and no root required. This app can block internet access of any other apps. 
@@ -50,7 +49,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Quick tool for utilizing CVE-2024-31317 on Android
  * [PrivacyFlip](https://github.com/dorumrr/privacyflip) - Manage your device privacy based on lock/unlock state
  * [ShinGen](https://github.com/Shio2077/ShinGen) - 安卓原神自动对话点击器/Genshin Impact Auto-Conversation Clicker on Android
- * [ShizuWall](https://github.com/AhmetCanArslan/ShizuWall) - Lightweight no root, no vpn firewall solution powered by Shizuku
  * [TaskerSettings](https://github.com/joaomgcd/TaskerSettings) - Helper app for Tasker
  * [TimerAndroid](https://github.com/HNIdesu/TimerAndroid) - 定时关闭指定的应用，支持Magisk和Shizuku。
  * [UWS](https://github.com/UWillno/UWS) - Qt for Android的shizuku/root shell执行器
@@ -61,7 +59,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [autodaily](https://github.com/ParadiseZ/autodaily)
  * [carriername](https://github.com/IQUXAe/carriername) - Fork carrier vanity name
  * [cmd-android](https://github.com/niki914/cmd-android) - 基于 Kotlin 协程的 Android Shell 命令执行框架，支持 User、Shizuku 和 Root 三种权限的命令行调用，提供统一易用的挂起式 API
- * [de1984](https://github.com/dorumrr/de1984) - Privacy isn’t default. Take it back with De1984 Firewall and Package Control
  * [fakelauncher](https://github.com/ZH-XiJun/fakelauncher) - I swear, it is really just a feature phone, not a smart phone!
  * [fonts](https://github.com/jeeneo/fonts) - OneUI 8 custom rootless font changer
  * [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust

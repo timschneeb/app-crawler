@@ -14,20 +14,20 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [100.00] [Neo Store](https://github.com/NeoApplications/Neo-Store) - A modern feature-rich F-Droid client.
  * [100.00] [Operit](https://github.com/AAswordman/Operit) - The most powerful AI agent and AI chat software on Android
  * [100.00] [PrivacyFlip](https://github.com/dorumrr/privacyflip) - Manage your device privacy based on lock/unlock state
- * [97.67] [Manager](https://github.com/Aliucord/Manager) - The new way to install Aliucord – in a user-friendly way
- * [96.29] [Athena](https://github.com/Kin69/Athena) - Athena is a Material You (Material 3) firewall and ad blocker that works seamlessly on both rooted and non-rooted devices.
+ * [97.71] [Manager](https://github.com/Aliucord/Manager) - The new way to install Aliucord – in a user-friendly way
+ * [96.40] [Athena](https://github.com/Kin69/Athena) - Athena is a Material You (Material 3) firewall and ad blocker that works seamlessly on both rooted and non-rooted devices.
  * [88.32] [Ascent](https://github.com/4o3F/Ascent) - A tool for retrieving gacha history link on Android devices
- * [86.91] [AxManager](https://github.com/fahrez182/AxManager) - AxManager is an Android application designed to provide deeper control over apps and the system.
- * [85.92] [JumpReplay](https://github.com/FourTwooo/JumpReplay) - Xposed Hook Android Intent/Scheme
+ * [86.98] [AxManager](https://github.com/fahrez182/AxManager) - AxManager is an Android application designed to provide deeper control over apps and the system.
+ * [85.95] [JumpReplay](https://github.com/FourTwooo/JumpReplay) - Xposed Hook Android Intent/Scheme
  * [85.29] [AutoAccounting](https://github.com/AutoAccountingOrg/AutoAccounting) - 你的每一笔账单都值得记录！
  * [85.29] [AutoSkip](https://github.com/xjunz/AutoSkip) - 基于Shizuku授权的安卓"自动跳过"工具
  * [85.29] [HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！
  * [85.29] [Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
- * [84.76] [TaskerSettings](https://github.com/joaomgcd/TaskerSettings) - Helper app for Tasker
- * [83.94] [Android-AntiForensic-Tools](https://github.com/bakad3v/Android-AntiForensic-Tools) - An application designed to silently protect user data from powerful adversaries.
+ * [84.80] [TaskerSettings](https://github.com/joaomgcd/TaskerSettings) - Helper app for Tasker
+ * [83.98] [Android-AntiForensic-Tools](https://github.com/bakad3v/Android-AntiForensic-Tools) - An application designed to silently protect user data from powerful adversaries.
  * [83.94] [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ / Linkura Localify
  * [83.84] [telegram-rc](https://github.com/telegram-sms/telegram-rc) - [ROOT] A robot running on an Android device that controls your phone.
- * [83.59] [FireWall-Blocks](https://github.com/shynoiddev/FireWall-Blocks) - Android firewall app using Shizuku and VPN modes. and no root required. This app can block internet access of any other apps. 
+ * [83.62] [FireWall-Blocks](https://github.com/shynoiddev/FireWall-Blocks) - Android firewall app using Shizuku and VPN modes. and no root required. This app can block internet access of any other apps. 
  * [83.52] [fakelauncher](https://github.com/ZH-XiJun/fakelauncher) - I swear, it is really just a feature phone, not a smart phone!
  * [83.27] [kdeconnect-android-shizuku](https://github.com/Shoukaku39/kdeconnect-android-shizuku) - Forked from KDE Connect Android. Adds Shizuku support to bypass clipboard access restrictions on Android 10+ without using READ_LOGS or manual ADB shell. 基于 KDE Connect Android 的分支，添加对 Shizuku 的支持，在无需请求 READ_LOGS 或手动 ADB 授权的情况下，绕过 Android 10+ 剪贴板访问限制。
  * [82.85] [FoldDevtools](https://github.com/achyuki/FoldDevtools) - Using chrome devtools to debug WebView, etc. on Android.
@@ -43,9 +43,9 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [82.35] [Installer](https://github.com/huidoudour/Installer) - This app is only available to developers
  * [82.35] [ShinGen](https://github.com/Shio2077/ShinGen) - 安卓原神自动对话点击器/Genshin Impact Auto-Conversation Clicker on Android
  * [76.47] [AutoTask](https://github.com/xjunz/AutoTask) - An automation assistant app supporting both Shizuku and AccessibilityService.
- * [75.52] [vFlow](https://github.com/ChaoMixian/vFlow) - vFlow 是一款为 Android 平台设计的、强大且高度可扩展的自动化工具。它允许你通过图形化界面，将一系列“动作模块”自由组合成强大的“工作流”，从而自动完成各种日常的、重复性的屏幕操作任务。
+ * [75.59] [vFlow](https://github.com/ChaoMixian/vFlow) - vFlow 是一款为 Android 平台设计的、强大且高度可扩展的自动化工具。它允许你通过图形化界面，将一系列“动作模块”自由组合成强大的“工作流”，从而自动完成各种日常的、重复性的屏幕操作任务。
  * [75.41] [android-wifi-pojie](https://github.com/bszapp/android-wifi-pojie) - Android使用密码本暴力破解wifi密码工具
- * [74.49] [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
+ * [74.53] [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
  * [72.55] [MiRearScreenSwitcher](https://github.com/GoldenglowSusie/MiRearScreenSwitcher) - 为小米17Pro及以上（也许及以后）机型的背屏一键切换器
  * [69.59] [hlbmerge_flutter](https://github.com/molihuan/hlbmerge_flutter) - 全平台将Bilibili缓存文件合并导出为MP4，支持B站手机客户端缓存，支持B站电脑客户端缓存 Merge and export Bilibili cache files into MP4, support caching on Bilibili mobile client and Bilibili computer client
  * [68.46] [haval-app-tool-multimidia](https://github.com/bobaoapae/haval-app-tool-multimidia) - Ferramenta Android experimental para estender e aprimorar o sistema multimídia do Haval H6 GT (GWM) via engenharia reversa e Shizuku

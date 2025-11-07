@@ -10,13 +10,9 @@ Sort by: [name](SUMMARY.md) | [score]
 Entries are sorted by a score that is calculated based on quality of the linked repository (readme, has downloadable release, stars, etc.).
 
  * [100.00] [AppVaultX](https://github.com/sunilpaulmathew/AppVaultX) - App Control Made Easy
- * [100.00] [Fonts](https://github.com/jeeneo/fonts) - One UI 8 rootless font installer
- * [100.00] [Neo Store](https://github.com/NeoApplications/Neo-Store) - A modern feature-rich F-Droid client.
  * [100.00] [Operit](https://github.com/AAswordman/Operit) - The most powerful AI agent and AI chat software on Android
- * [100.00] [PrivacyFlip](https://github.com/dorumrr/privacyflip) - Manage your device privacy based on lock/unlock state
  * [97.81] [Manager](https://github.com/Aliucord/Manager) - The new way to install Aliucord – in a user-friendly way
  * [96.40] [Athena](https://github.com/Kin69/Athena) - Athena is a Material You (Material 3) firewall and ad blocker that works seamlessly on both rooted and non-rooted devices.
- * [88.32] [Ascent](https://github.com/4o3F/Ascent) - A tool for retrieving gacha history link on Android devices
  * [86.98] [AxManager](https://github.com/fahrez182/AxManager) - AxManager is an Android application designed to provide deeper control over apps and the system.
  * [85.99] [JumpReplay](https://github.com/FourTwooo/JumpReplay) - Xposed Hook Android Intent/Scheme
  * [85.29] [AutoAccounting](https://github.com/AutoAccountingOrg/AutoAccounting) - 你的每一笔账单都值得记录！
@@ -37,7 +33,6 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [82.42] [carriername](https://github.com/IQUXAe/carriername) - Fork carrier vanity name
  * [82.39] [Hz-Changer](https://github.com/MARCOS-S-S/Hz-Changer) - Under development! Simple, light, free and functional hz changer app.
  * [82.39] [MDPC](https://github.com/MrRare2/MDPC) - Fork of OwnDroid, A Device Policy Controller (DPC) app. Only used by me :)
- * [82.39] [fonts](https://github.com/jeeneo/fonts) - OneUI 8 custom rootless font changer
  * [82.39] [gametuner](https://github.com/varunbala2237/gametuner) - A mobile tuning application for smoother gameplay experience on low/mid range devices.
  * [82.35] [GlyphRecorder](https://github.com/aaa1115910/GlyphRecorder) - A glyph recognition tool.
  * [82.35] [Installer](https://github.com/huidoudour/Installer) - This app is only available to developers
@@ -54,6 +49,7 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [67.93] [Loki](https://github.com/trinadhthatakula/Loki) - Android App logger
  * [67.86] [HesleyTools](https://github.com/ldh-star/HesleyTools) - 自用工具/模块
  * [67.82] [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新
+ * [67.79] [SFS-CustomTranslations-Installer](https://github.com/youfeng11/SFS-CustomTranslations-Installer) - SFS汉化安装器
  * [67.75] [ClipboardListener](https://github.com/aa2013/ClipboardListener) - Flutter-ClipboardListener-Clipshare
  * [67.72] [FlymeFrameTools](https://github.com/Ruyue-Kinsenka/FlymeFrameTools) - 利用shuzuki无root管理flyme插帧超分的app名单
  * [67.72] [UWS](https://github.com/UWillno/UWS) - Qt for Android的shizuku/root shell执行器
@@ -85,7 +81,6 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [53.01] [TimerAndroid](https://github.com/HNIdesu/TimerAndroid) - 定时关闭指定的应用，支持Magisk和Shizuku。
  * [44.68] [ThemedManager](https://github.com/Osanosa/ThemedManager) - Themed Overlays Manager
  * [44.40] [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
- * [44.26] [SFS-CustomTranslations-Installer](https://github.com/youfeng11/SFS-CustomTranslations-Installer) - SFS汉化安装器
  * [44.19] [VRPquest](https://github.com/JarJarBlinkz/VRPquest) - A quest standalone version of the VRP Rookie sideloader.  !WIP!
  * [44.12] [File-Manager](https://github.com/abusaeed-shuvo/File-Manager) - Simple file manager with shizuku in compose.
  * [44.12] [li](https://github.com/lousli/li) - 安卓去广告

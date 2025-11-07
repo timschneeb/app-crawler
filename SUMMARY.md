@@ -13,7 +13,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Android-AccessibilityGrant](https://github.com/MagicianGuo/Android-AccessibilityGrant) - 能够一键为应用授予辅助功能（无障碍）权限，需要Shizuku
  * [Android-AntiForensic-Tools](https://github.com/bakad3v/Android-AntiForensic-Tools) - An application designed to silently protect user data from powerful adversaries.
  * [AppVaultX](https://github.com/sunilpaulmathew/AppVaultX) - App Control Made Easy
- * [Ascent](https://github.com/4o3F/Ascent) - A tool for retrieving gacha history link on Android devices
  * [Athena](https://github.com/Kin69/Athena) - Athena is a Material You (Material 3) firewall and ad blocker that works seamlessly on both rooted and non-rooted devices.
  * [Aurora_Updater](https://github.com/TripleU613/Aurora_Updater) - Simple Version
  * [AutoAccounting](https://github.com/AutoAccountingOrg/AutoAccounting) - 你的每一笔账单都值得记录！
@@ -29,7 +28,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [FireWall-Blocks](https://github.com/shynoiddev/FireWall-Blocks) - Android firewall app using Shizuku and VPN modes. and no root required. This app can block internet access of any other apps. 
  * [FlymeFrameTools](https://github.com/Ruyue-Kinsenka/FlymeFrameTools) - 利用shuzuki无root管理flyme插帧超分的app名单
  * [FoldDevtools](https://github.com/achyuki/FoldDevtools) - Using chrome devtools to debug WebView, etc. on Android.
- * [Fonts](https://github.com/jeeneo/fonts) - One UI 8 rootless font installer
  * [GlyphRecorder](https://github.com/aaa1115910/GlyphRecorder) - A glyph recognition tool.
  * [HesleyTools](https://github.com/ldh-star/HesleyTools) - 自用工具/模块
  * [HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！
@@ -42,13 +40,12 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Manager](https://github.com/Aliucord/Manager) - The new way to install Aliucord – in a user-friendly way
  * [MiRearScreenSwitcher](https://github.com/GoldenglowSusie/MiRearScreenSwitcher) - 为小米17Pro及以上（也许及以后）机型的背屏一键切换器
  * [MndroLua](https://github.com/Crescent-of-Maya/MndroLua) - A modern fork of AndroLua+ / 更加现代的 AndroLua+ 魔改版
- * [Neo Store](https://github.com/NeoApplications/Neo-Store) - A modern feature-rich F-Droid client.
  * [Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
  * [OnStop2FinishAndRemoveTask](https://github.com/takusan23/OnStop2FinishAndRemoveTask)
  * [Operit](https://github.com/AAswordman/Operit) - The most powerful AI agent and AI chat software on Android
  * [PixelCarrierSettings](https://github.com/iKirby/PixelCarrierSettings)
  * [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Quick tool for utilizing CVE-2024-31317 on Android
- * [PrivacyFlip](https://github.com/dorumrr/privacyflip) - Manage your device privacy based on lock/unlock state
+ * [SFS-CustomTranslations-Installer](https://github.com/youfeng11/SFS-CustomTranslations-Installer) - SFS汉化安装器
  * [ShinGen](https://github.com/Shio2077/ShinGen) - 安卓原神自动对话点击器/Genshin Impact Auto-Conversation Clicker on Android
  * [TaskerSettings](https://github.com/joaomgcd/TaskerSettings) - Helper app for Tasker
  * [TimerAndroid](https://github.com/HNIdesu/TimerAndroid) - 定时关闭指定的应用，支持Magisk和Shizuku。
@@ -61,7 +58,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [carriername](https://github.com/IQUXAe/carriername) - Fork carrier vanity name
  * [cmd-android](https://github.com/niki914/cmd-android) - 基于 Kotlin 协程的 Android Shell 命令执行框架，支持 User、Shizuku 和 Root 三种权限的命令行调用，提供统一易用的挂起式 API
  * [fakelauncher](https://github.com/ZH-XiJun/fakelauncher) - I swear, it is really just a feature phone, not a smart phone!
- * [fonts](https://github.com/jeeneo/fonts) - OneUI 8 custom rootless font changer
  * [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
  * [gametuner](https://github.com/varunbala2237/gametuner) - A mobile tuning application for smoother gameplay experience on low/mid range devices.
  * [haval-app-tool-multimidia](https://github.com/bobaoapae/haval-app-tool-multimidia) - Ferramenta Android experimental para estender e aprimorar o sistema multimídia do Haval H6 GT (GWM) via engenharia reversa e Shizuku
@@ -89,7 +85,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Myflutter](https://github.com/dhiiizt/Myflutter) - Flutter
  * [PackageInstaller](https://github.com/paymenremora/PackageInstaller) - A lightweight yet powerful package installer for Android.
  * [Reverse_KBattery](https://github.com/ItosEO/Reverse_KBattery)
- * [SFS-CustomTranslations-Installer](https://github.com/youfeng11/SFS-CustomTranslations-Installer) - SFS汉化安装器
  * [ShizukuRefresher](https://github.com/lyr341/ShizukuRefresher)
  * [SilentInstaller](https://github.com/MiyazKaori/SilentInstaller) - 使用Shizuku进行静默安装的Android library
  * [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Module to change country for tiktok to Belarus(for russian)

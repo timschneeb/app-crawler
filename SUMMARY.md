@@ -81,7 +81,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [AudioControlApp](https://github.com/SwastikChamp2/AudioControlApp)
  * [AutoTask](https://github.com/xjunz/AutoTask) - An automation assistant app supporting both Shizuku and AccessibilityService.
  * [ControllerMapper](https://github.com/anhquan7826/ControllerMapper)
- * [DeenShield](https://github.com/alhaq-initiative/DeenShield) - DeenShield will be Free and the most efficient way of full protection 
  * [File-Manager](https://github.com/abusaeed-shuvo/File-Manager) - Simple file manager with shizuku in compose.
  * [ForensicEye](https://github.com/flxholle/ForensicEye)
  * [FreezeApp](https://github.com/JuneLeo/FreezeApp)

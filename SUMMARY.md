@@ -82,6 +82,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ForensicEye](https://github.com/flxholle/ForensicEye)
  * [FreezeApp](https://github.com/JuneLeo/FreezeApp)
  * [LauncherChanger](https://github.com/Samuel095383/LauncherChanger)
+ * [Lithium](https://github.com/RinnXyz/Lithium) - By: Rinn
  * [LogCollector](https://github.com/thekosa/LogCollector) - Android application designed to collect and manage Android system logs
  * [Myflutter](https://github.com/dhiiizt/Myflutter) - Flutter
  * [PackageInstaller](https://github.com/paymenremora/PackageInstaller) - A lightweight yet powerful package installer for Android.

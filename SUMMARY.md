@@ -98,6 +98,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [VRPquest](https://github.com/JarJarBlinkz/VRPquest) - A quest standalone version of the VRP Rookie sideloader.  !WIP!
  * [VeryDark](https://github.com/wkbin/VeryDark) - 极暗模式
  * [XMeizu](https://github.com/ItosEO/XMeizu)
+ * [XPerm](https://github.com/Alhkxsj/XPerm) - 一个权限代理应用
  * [XPlan](https://github.com/ItosEO/XPlan) - X计划，合并版
  * [adhell3](https://github.com/pascua28/adhell3)
  * [android-settings-scheduler](https://github.com/Turtlepaw/android-settings-scheduler) - Schedule any settings that are in the Android Settings app to be changed

@@ -113,6 +113,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [instafel](https://github.com/EduardoA3677/instafel) - Instafel provides fast & up-to-date Instagram Alpha experience for everyone!
  * [lanhegongjuxiang](https://github.com/miounet11/lanhegongjuxiang)
  * [li](https://github.com/lousli/li) - 安卓去广告
+ * [materium](https://github.com/deminearchiver/materium) - Get Android app updates straight from the source.
  * [modtoon_module](https://github.com/Inhaleoxygen/modtoon_module)
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [physical_keyboard](https://github.com/ngoloc2k4/physical_keyboard)

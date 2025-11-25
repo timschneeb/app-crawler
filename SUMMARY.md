@@ -22,6 +22,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [BILIBILIAS](https://github.com/1250422131/bilibilias) - An auxiliary tool for Bilibili video caching, providing one-click caching
  * [CBJQ_HugFenny](https://github.com/LiuJiewenTT/CBJQ_HugFenny)
  * [ClipboardListener](https://github.com/aa2013/ClipboardListener) - Flutter-ClipboardListener-Clipshare
+ * [Cover-Screen-Launcher](https://github.com/Katsuyamaki/Cover-Screen-Launcher) - Cover Screen Launcer for Android Apps
  * [Cover-Screen-Trackpad](https://github.com/Katsuyamaki/Cover-Screen-Trackpad) - Cover Screen Trackpad for Android Apps
  * [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新
  * [DeviceOptimizeHelper](https://github.com/sbmatch/DeviceOptimizeHelper)
@@ -117,6 +118,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [gemini-android](https://github.com/niki914/gemini-android) - Let gemini control your Android phone through function calling. 通过FunctionCalling让Gemini操控安卓手机。
  * [gesture_is_back](https://github.com/amrabdelhameeed/gesture_is_back)
  * [greentooth](https://github.com/qwerty12/greentooth) - Shizuku-using fork of https://gitlab.com/nbergman/greentooth
+ * [https-github.com-RikkaApps-Shizuku](https://github.com/shtoohtoo02-droid/https-github.com-RikkaApps-Shizuku)
  * [lanhegongjuxiang](https://github.com/miounet11/lanhegongjuxiang)
  * [li](https://github.com/lousli/li) - 安卓去广告
  * [materium](https://github.com/deminearchiver/materium) - Get Android app updates straight from the source.

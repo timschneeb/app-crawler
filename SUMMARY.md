@@ -83,10 +83,11 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Accessibility-](https://github.com/nai559/Accessibility-)
  * [Android-FPS-Watcher](https://github.com/WuDi-ZhanShen/Android-FPS-Watcher) - Monitor RealTime FPS. Suppports Android 12+. Pure Java. Needs ADB or ROOT.
  * [AudioControlApp](https://github.com/SwastikChamp2/AudioControlApp)
+ * [AutoScript](https://github.com/Ion-conservation/AutoScript) - 网易云音乐广告脚本
  * [AutoTask](https://github.com/xjunz/AutoTask) - An automation assistant app supporting both Shizuku and AccessibilityService.
  * [ControllerMapper](https://github.com/anhquan7826/ControllerMapper)
+ * [Cooperative-Demo-1](https://github.com/StreetwiseGamgee/Cooperative-Demo-1) - Using Android Studio to develop a device statistics application using Jetpack Compose.
  * [File-Manager](https://github.com/abusaeed-shuvo/File-Manager) - Simple file manager with shizuku in compose.
- * [FoldTriggers2](https://github.com/ZDPepos/FoldTriggers2)
  * [ForensicEye](https://github.com/flxholle/ForensicEye)
  * [FreezeApp](https://github.com/JuneLeo/FreezeApp)
  * [LauncherChanger](https://github.com/Samuel095383/LauncherChanger)

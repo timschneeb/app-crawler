@@ -90,6 +90,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [File-Manager](https://github.com/abusaeed-shuvo/File-Manager) - Simple file manager with shizuku in compose.
  * [ForensicEye](https://github.com/flxholle/ForensicEye)
  * [FreezeApp](https://github.com/JuneLeo/FreezeApp)
+ * [HPatch](https://github.com/123456789zws/HPatch) - A non-root Xposed framework extending from LSPosed
  * [LauncherChanger](https://github.com/Samuel095383/LauncherChanger)
  * [Lithium](https://github.com/RinnXyz/Lithium) - By: Rinn
  * [LogCollector](https://github.com/thekosa/LogCollector) - Android application designed to collect and manage Android system logs
@@ -98,6 +99,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Myflutter](https://github.com/dhiiizt/Myflutter) - Flutter
  * [PackageInstaller](https://github.com/paymenremora/PackageInstaller) - A lightweight yet powerful package installer for Android.
  * [Reverse_KBattery](https://github.com/ItosEO/Reverse_KBattery)
+ * [Search](https://github.com/mrndstvndv/Search)
  * [ShizukuRefresher](https://github.com/lyr341/ShizukuRefresher)
  * [SilentInstaller](https://github.com/woaiyuzi/SilentInstaller) - 使用Shizuku进行静默安装的Android library
  * [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Module to change country for tiktok to Belarus(for russian)

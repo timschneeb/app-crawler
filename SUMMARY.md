@@ -29,6 +29,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新
  * [DeviceOptimizeHelper](https://github.com/sbmatch/DeviceOptimizeHelper)
  * [Doubletap-to-lock](https://github.com/albertcamus344/Doubletap-to-lock) - Use the accessiblity service or shizuku to lock the screen by double tapping on a transparent widget added to the homescreen
+ * [DroidOS](https://github.com/Katsuyamaki/DroidOS) - A powerful launcher and related tools to superpower AndroidOS
  * [DroidScope](https://github.com/TomatoKyou/DroidScope) - Android SolsRNG macro 
  * [FireWall-Blocks](https://github.com/shynoiddev/FireWall-Blocks) - Android firewall app using Shizuku and VPN modes. and no root required. This app can block internet access of any other apps. 
  * [FlymeFrameTools](https://github.com/Ruyue-Kinsenka/FlymeFrameTools) - 利用shuzuki无root管理flyme插帧超分的app名单
@@ -90,10 +91,10 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [AutoTask](https://github.com/xjunz/AutoTask) - An automation assistant app supporting both Shizuku and AccessibilityService.
  * [ControllerMapper](https://github.com/anhquan7826/ControllerMapper)
  * [Cooperative-Demo-1](https://github.com/StreetwiseGamgee/Cooperative-Demo-1) - Using Android Studio to develop a device statistics application using Jetpack Compose.
- * [DroidOS](https://github.com/Katsuyamaki/DroidOS) - A powerful launcher and related tools to superpower AndroidOS
  * [File-Manager](https://github.com/abusaeed-shuvo/File-Manager) - Simple file manager with shizuku in compose.
  * [ForensicEye](https://github.com/flxholle/ForensicEye)
  * [FreezeApp](https://github.com/JuneLeo/FreezeApp)
+ * [HMD](https://github.com/shad-ct/HMD)
  * [HPatch](https://github.com/123456789zws/HPatch) - A non-root Xposed framework extending from LSPosed
  * [LauncherChanger](https://github.com/Samuel095383/LauncherChanger)
  * [Lithium](https://github.com/RinnXyz/Lithium) - By: Rinn

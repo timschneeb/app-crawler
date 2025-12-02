@@ -119,6 +119,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [XMeizu](https://github.com/ItosEO/XMeizu)
  * [XPerm](https://github.com/Alhkxsj/XPerm) - 一个权限代理应用
  * [XPlan](https://github.com/ItosEO/XPlan) - X计划，合并版
+ * [XiaoBost](https://github.com/danhtrinhdevelopermay/XiaoBost) - The languages that make up the web. HTML provides the basic structure, CSS controls formatting, and JavaScript controls the behavior of different elements.
  * [adhell3](https://github.com/pascua28/adhell3)
  * [android-settings-scheduler](https://github.com/Turtlepaw/android-settings-scheduler) - Schedule any settings that are in the Android Settings app to be changed
  * [autoai-android](https://github.com/king0929zion/autoai-android)
@@ -135,6 +136,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [mountain](https://github.com/projecteah/mountain)
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [physical_keyboard](https://github.com/ngoloc2k4/physical_keyboard)
+ * [richauto-autojs](https://github.com/hubeishanling/richauto-autojs) - 基于autojs6开发的免费脚本平台，支持打包加密、插件打包、卡密验证
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
  * [sen](https://github.com/Fansirsqi/sen) - 一个简单的sen
  * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]

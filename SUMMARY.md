@@ -30,7 +30,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [DeviceOptimizeHelper](https://github.com/sbmatch/DeviceOptimizeHelper)
  * [Doubletap-to-lock](https://github.com/albertcamus344/Doubletap-to-lock) - Use the accessiblity service or shizuku to lock the screen by double tapping on a transparent widget added to the homescreen
  * [DroidOS](https://github.com/Katsuyamaki/DroidOS) - A powerful launcher and related tools to superpower AndroidOS
- * [DroidScope](https://github.com/TomatoKyou/DroidScope) - Android SolsRNG macro 
  * [FireWall-Blocks](https://github.com/shynoiddev/FireWall-Blocks) - Android firewall app using Shizuku and VPN modes. and no root required. This app can block internet access of any other apps. 
  * [FlymeFrameTools](https://github.com/Ruyue-Kinsenka/FlymeFrameTools) - 利用shuzuki无root管理flyme插帧超分的app名单
  * [FoldDevtools](https://github.com/achyuki/FoldDevtools) - Using chrome devtools to debug WebView, etc. on Android.

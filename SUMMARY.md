@@ -29,7 +29,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新
  * [DeviceOptimizeHelper](https://github.com/sbmatch/DeviceOptimizeHelper)
  * [Doubletap-to-lock](https://github.com/albertcamus344/Doubletap-to-lock) - Use the accessiblity service or shizuku to lock the screen by double tapping on a transparent widget added to the homescreen
- * [DroidOS](https://github.com/Katsuyamaki/DroidOS) - A powerful launcher and related tools to superpower AndroidOS
  * [FireWall-Blocks](https://github.com/shynoiddev/FireWall-Blocks) - Android firewall app using Shizuku and VPN modes. and no root required. This app can block internet access of any other apps. 
  * [FlymeFrameTools](https://github.com/Ruyue-Kinsenka/FlymeFrameTools) - 利用shuzuki无root管理flyme插帧超分的app名单
  * [FoldDevtools](https://github.com/achyuki/FoldDevtools) - Using chrome devtools to debug WebView, etc. on Android.
@@ -50,7 +49,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Operit](https://github.com/AAswordman/Operit) - The most powerful AI agent and AI chat software on Android/Operit是一款Android上目前能力最为强大的AI Agent
  * [PixelCarrierSettings](https://github.com/iKirby/PixelCarrierSettings)
  * [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Quick tool for utilizing CVE-2024-31317 on Android
- * [Running Services Monitor](https://github.com/biplobsd/running_services_monitor) - Monitor running services on your Android device with Shizuku integration
  * [SFS-CustomTranslations-Installer](https://github.com/youfeng11/SFS-CustomTranslations-Installer) - SFS汉化安装器
  * [ShinGen](https://github.com/Shio2077/ShinGen) - 安卓原神自动对话点击器/Genshin Impact Auto-Conversation Clicker on Android
  * [Sui](https://github.com/XiaoTong6666/Sui) - Modern super user interface implementation on Android.
@@ -76,7 +74,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ / Linkura Localify / LoveLive Translation / llll
  * [maps-min](https://github.com/sameerasw/maps-min) - Google Maps Min mode for any device with Shizuku
  * [q25-res-changer](https://github.com/mybabysexy/q25-res-changer)
- * [running_services_monitor](https://github.com/biplobsd/running_services_monitor) - Monitor running services on your Android device. With a clean and intuitive interface, you can easily view system and user apps, check their status efficiently.
  * [telegram-rc](https://github.com/telegram-sms/telegram-rc) - [ROOT] A robot running on an Android device that controls your phone.
  * [vFlow](https://github.com/ChaoMixian/vFlow) - vFlow 是一款为 Android 平台设计的、强大且高度可扩展的自动化工具。它允许你通过图形化界面，将一系列“动作模块”自由组合成强大的“工作流”，从而自动完成各种日常的、重复性的屏幕操作任务。
  * [wifi-password-manager](https://github.com/Khh-vu/wifi-password-manager) - Simple app using Shizuku to manage Wi-Fi passwords

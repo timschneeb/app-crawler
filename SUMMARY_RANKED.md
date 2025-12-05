@@ -12,7 +12,6 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [100.00] [AppVaultX](https://github.com/sunilpaulmathew/AppVaultX) - App Control Made Easy
  * [100.00] [BILIBILIAS](https://github.com/1250422131/bilibilias) - An auxiliary tool for Bilibili video caching, providing one-click caching
  * [100.00] [Operit](https://github.com/AAswordman/Operit) - The most powerful AI agent and AI chat software on Android/Operit是一款Android上目前能力最为强大的AI Agent
- * [100.00] [Running Services Monitor](https://github.com/biplobsd/running_services_monitor) - Monitor running services on your Android device with Shizuku integration
  * [100.00] [Taison](https://github.com/Gent8/Taison) - Manga reader fork with quality-of-life upgrades
  * [98.52] [Manager](https://github.com/Aliucord/Manager) - The new way to install Aliucord – in a user-friendly way
  * [98.45] [Athena](https://github.com/Kin69/Athena) - Athena is a Material You (Material 3) firewall and ad blocker that works seamlessly on both rooted and non-rooted devices.
@@ -32,12 +31,10 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [83.38] [kdeconnect-android-shizuku](https://github.com/Shoukaku39/kdeconnect-android-shizuku) - Forked from KDE Connect Android. Adds Shizuku support to bypass clipboard access restrictions on Android 10+ without using READ_LOGS or manual ADB shell. 基于 KDE Connect Android 的分支，添加对 Shizuku 的支持，在无需请求 READ_LOGS 或手动 ADB 授权的情况下，绕过 Android 10+ 剪贴板访问限制。
  * [83.27] [Sui](https://github.com/XiaoTong6666/Sui) - Modern super user interface implementation on Android.
  * [82.99] [FoldDevtools](https://github.com/achyuki/FoldDevtools) - Using chrome devtools to debug WebView, etc. on Android.
- * [82.81] [DroidOS](https://github.com/Katsuyamaki/DroidOS) - A powerful launcher and related tools to superpower AndroidOS
  * [82.78] [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
  * [82.71] [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Quick tool for utilizing CVE-2024-31317 on Android
  * [82.49] [MDPC](https://github.com/MrRare2/MDPC) - Fork of OwnDroid, A Device Policy Controller (DPC) app. Only used by me :)
  * [82.49] [maps-min](https://github.com/sameerasw/maps-min) - Google Maps Min mode for any device with Shizuku
- * [82.46] [running_services_monitor](https://github.com/biplobsd/running_services_monitor) - Monitor running services on your Android device. With a clean and intuitive interface, you can easily view system and user apps, check their status efficiently.
  * [82.42] [Installer](https://github.com/huidoudour/Installer) - This app is only available to developers
  * [82.42] [MndroLua](https://github.com/Crescent-of-Maya/MndroLua) - A modern fork of AndroLua+ / 更加现代的 AndroLua+ 魔改版
  * [82.42] [carriername](https://github.com/IQUXAe/carriername) - Fork carrier vanity name

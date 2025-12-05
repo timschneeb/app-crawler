@@ -22,7 +22,6 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [85.29] [HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！
  * [85.29] [Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
  * [85.15] [TaskerSettings](https://github.com/joaomgcd/TaskerSettings) - Helper app for Tasker
- * [84.68] [Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - 💊 Application to use ReVanced on Android that has extra features the official manager doesn't have
  * [84.08] [Android-AntiForensic-Tools](https://github.com/bakad3v/Android-AntiForensic-Tools) - An application designed to silently protect user data from powerful adversaries.
  * [83.94] [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ / Linkura Localify / LoveLive Translation / llll
  * [83.91] [telegram-rc](https://github.com/telegram-sms/telegram-rc) - [ROOT] A robot running on an Android device that controls your phone.
@@ -34,7 +33,6 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [82.78] [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
  * [82.71] [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Quick tool for utilizing CVE-2024-31317 on Android
  * [82.49] [MDPC](https://github.com/MrRare2/MDPC) - Fork of OwnDroid, A Device Policy Controller (DPC) app. Only used by me :)
- * [82.49] [maps-min](https://github.com/sameerasw/maps-min) - Google Maps Min mode for any device with Shizuku
  * [82.42] [Installer](https://github.com/huidoudour/Installer) - This app is only available to developers
  * [82.42] [MndroLua](https://github.com/Crescent-of-Maya/MndroLua) - A modern fork of AndroLua+ / 更加现代的 AndroLua+ 魔改版
  * [82.42] [carriername](https://github.com/IQUXAe/carriername) - Fork carrier vanity name

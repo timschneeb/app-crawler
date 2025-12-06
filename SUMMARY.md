@@ -106,6 +106,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [PandorasBox](https://github.com/Ujhhgtg/PandorasBox)
  * [Reverse_KBattery](https://github.com/ItosEO/Reverse_KBattery)
  * [Search](https://github.com/mrndstvndv/Search)
+ * [SerWall](https://github.com/hzoltan01/SerWall) - Firewall application for Android using the Shizuku API
  * [ShizukuRefresher](https://github.com/lyr341/ShizukuRefresher)
  * [SilentInstaller](https://github.com/woaiyuzi/SilentInstaller) - 使用Shizuku进行静默安装的Android library
  * [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Module to change country for tiktok to Belarus(for russian)

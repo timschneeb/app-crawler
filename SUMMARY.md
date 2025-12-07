@@ -85,6 +85,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Accessibility-](https://github.com/nai559/Accessibility-)
  * [Android-FPS-Watcher](https://github.com/WuDi-ZhanShen/Android-FPS-Watcher) - Monitor RealTime FPS. Suppports Android 12+. Pure Java. Needs ADB or ROOT.
  * [App](https://github.com/KyottoDevp/App)
+ * [AppControl-X](https://github.com/risunCode/AppControl-X) - Android-app
  * [AudioControlApp](https://github.com/SwastikChamp2/AudioControlApp)
  * [AutoScript](https://github.com/Ion-conservation/AutoScript) - 网易云音乐广告脚本
  * [AutoTask](https://github.com/xjunz/AutoTask) - An automation assistant app supporting both Shizuku and AccessibilityService.
@@ -102,6 +103,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [MiRearScreenSwitcherEnglish](https://github.com/aaronnat23/MiRearScreenSwitcherEnglish)
  * [ModularWhitelistApp](https://github.com/tam1012/ModularWhitelistApp) - MODULAR WHITELIST - Xiaomi PowerKeeper Whitelist Tool for Android
  * [Myflutter](https://github.com/dhiiizt/Myflutter) - Flutter
+ * [Najabudeen](https://github.com/najabudeendeen-byte/Najabudeen)
  * [PackageInstaller](https://github.com/paymenremora/PackageInstaller) - A lightweight yet powerful package installer for Android.
  * [PandorasBox](https://github.com/Ujhhgtg/PandorasBox)
  * [Reverse_KBattery](https://github.com/ItosEO/Reverse_KBattery)

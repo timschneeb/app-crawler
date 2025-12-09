@@ -11,7 +11,6 @@ Entries are sorted by a score that is calculated based on quality of the linked 
 
  * [100.00] [AppVaultX](https://github.com/sunilpaulmathew/AppVaultX) - App Control Made Easy
  * [100.00] [BILIBILIAS](https://github.com/1250422131/bilibilias) - An auxiliary tool for Bilibili video caching, providing one-click caching
- * [100.00] [Taison](https://github.com/Gent8/Taison) - Manga reader for organization and clear oversight
  * [98.59] [Manager](https://github.com/Aliucord/Manager) - The new way to install Aliucord – in a user-friendly way
  * [98.48] [Athena](https://github.com/Kin69/Athena) - Athena is a Material You (Material 3) firewall and ad blocker that works seamlessly on both rooted and non-rooted devices.
  * [89.02] [AxManager](https://github.com/fahrez182/AxManager) - AxManager is an Android application designed to provide deeper control over apps and the system.
@@ -24,11 +23,9 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [84.08] [Android-AntiForensic-Tools](https://github.com/bakad3v/Android-AntiForensic-Tools) - An application designed to silently protect user data from powerful adversaries.
  * [83.94] [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ / Linkura Localify / LoveLive Translation / llll
  * [83.91] [telegram-rc](https://github.com/telegram-sms/telegram-rc) - [ROOT] A robot running on an Android device that controls your phone.
- * [83.87] [Sui](https://github.com/XiaoTong6666/Sui) - Modern super user interface implementation on Android.
  * [83.80] [FireWall-Blocks](https://github.com/shynoiddev/FireWall-Blocks) - Android firewall app using Shizuku and VPN modes. and no root required. This app can block internet access of any other apps. 
  * [83.62] [fakelauncher](https://github.com/ZH-XiJun/fakelauncher) - I swear, it is really just a feature phone, not a smart phone!
  * [83.41] [kdeconnect-android-shizuku](https://github.com/Shoukaku39/kdeconnect-android-shizuku) - Forked from KDE Connect Android. Adds Shizuku support to bypass clipboard access restrictions on Android 10+ without using READ_LOGS or manual ADB shell. 基于 KDE Connect Android 的分支，添加对 Shizuku 的支持，在无需请求 READ_LOGS 或手动 ADB 授权的情况下，绕过 Android 10+ 剪贴板访问限制。
- * [83.06] [essentials](https://github.com/sameerasw/essentials) - Essential tools, mods and workarounds for Pixels
  * [82.99] [FoldDevtools](https://github.com/achyuki/FoldDevtools) - Using chrome devtools to debug WebView, etc. on Android.
  * [82.78] [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
  * [82.74] [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Quick tool for utilizing CVE-2024-31317 on Android
@@ -36,7 +33,6 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [82.46] [AppControl-X](https://github.com/risunCode/AppControl-X) - A powerful Android application for controlling app behavior, battery optimization, and system management using Root or Shizuku.
  * [82.42] [Installer](https://github.com/huidoudour/Installer) - This app is only available to developers
  * [82.42] [MndroLua](https://github.com/Crescent-of-Maya/MndroLua) - A modern fork of AndroLua+ / 更加现代的 AndroLua+ 魔改版
- * [82.42] [carriername](https://github.com/IQUXAe/carriername) - Fork carrier vanity name
  * [82.42] [gametuner](https://github.com/varunbala2237/gametuner) - A mobile tuning application for smoother gameplay experience on low/mid range devices.
  * [82.39] [Adaptive-Theme](https://github.com/xLexip/Adaptive-Theme) - Automatically adjusts your android device theme based on ambient light. Get it on Google Play!
  * [82.39] [Hz-Changer](https://github.com/S-Marcos-S/Hz-Changer) - Under development! Simple, light, free and functional hz changer app.
@@ -50,7 +46,7 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [73.75] [MiRearScreenSwitcher](https://github.com/GoldenglowSusie/MiRearScreenSwitcher) - 为小米17Pro及以上（也许及以后）机型的背屏一键切换器
  * [70.65] [hlbmerge_flutter](https://github.com/molihuan/hlbmerge_flutter) - 全平台将Bilibili缓存文件合并导出为MP4，支持B站手机客户端缓存，支持B站电脑客户端缓存 Merge and export Bilibili cache files into MP4, support caching on Bilibili mobile client and Bilibili computer client
  * [68.67] [haval-app-tool-multimidia](https://github.com/bobaoapae/haval-app-tool-multimidia) - Ferramenta Android experimental para estender e aprimorar o sistema multimídia do Haval H6 GT (GWM) via engenharia reversa e Shizuku
- * [68.11] [ZKM](https://github.com/ZUANVFX01/ZKM) - Zuan Kernel Manager App For  Root Device Android 
+ * [68.14] [ZKM](https://github.com/ZUANVFX01/ZKM) - Zuan Kernel Manager App For  Root Device Android 
  * [68.11] [cmd-android](https://github.com/niki914/cmd-android) - 基于 Kotlin 协程的 Android Shell 命令执行框架，支持 User、Shizuku 和 Root 三种权限的命令行调用，提供统一易用的挂起式 API
  * [68.00] [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [67.93] [Loki](https://github.com/trinadhthatakula/Loki) - Android App logger
@@ -60,7 +56,6 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [67.75] [ClipboardListener](https://github.com/aa2013/ClipboardListener) - Flutter-ClipboardListener-Clipshare
  * [67.72] [FlymeFrameTools](https://github.com/Ruyue-Kinsenka/FlymeFrameTools) - 利用shuzuki无root管理flyme插帧超分的app名单
  * [67.72] [UWS](https://github.com/UWillno/UWS) - Qt for Android的shizuku/root shell执行器
- * [67.68] [Aurora_Updater](https://github.com/TripleU613/Aurora_Updater) - Simple Version
  * [67.65] [Automatic-spark-renewal-APP](https://github.com/COLDESTBOW30654/Automatic-spark-renewal-APP) - 嵌入自动续火花脚本的Autojs修改版
  * [67.65] [Doubletap-to-lock](https://github.com/albertcamus344/Doubletap-to-lock) - Use the accessiblity service or shizuku to lock the screen by double tapping on a transparent widget added to the homescreen
  * [67.65] [KeyboardSwitcher](https://github.com/SgLy/KeyboardSwitcher) - Adds a quick setting tile for quickly switching keyboard (input method)
@@ -102,15 +97,11 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [44.12] [Lithium](https://github.com/RinnXyz/Lithium) - By: Rinn
  * [44.12] [SerWall](https://github.com/hzoltan01/SerWall) - Firewall application for Android using the Shizuku API
  * [44.12] [XPerm](https://github.com/Alhkxsj/XPerm) - 一个权限代理应用
- * [44.12] [richauto-autojs](https://github.com/hubeishanling/richauto-autojs) - 基于autojs6开发的免费脚本平台，支持打包加密、插件打包、卡密验证
  * [32.98] [XPlan](https://github.com/ItosEO/XPlan) - X计划，合并版
  * [32.49] [lanhegongjuxiang](https://github.com/miounet11/lanhegongjuxiang)
  * [32.39] [ForensicEye](https://github.com/flxholle/ForensicEye)
  * [32.39] [modtoon_module](https://github.com/Inhaleoxygen/modtoon_module)
- * [32.35] [196](https://github.com/starkjack1970/196)
- * [32.35] [App](https://github.com/KyottoDevp/App)
  * [32.35] [ForcePhoneMic](https://github.com/Ling554/ForcePhoneMic)
- * [32.35] [HMD](https://github.com/shad-ct/HMD)
  * [32.35] [MiRearScreenSwitcherEnglish](https://github.com/aaronnat23/MiRearScreenSwitcherEnglish)
  * [32.35] [Najabudeen](https://github.com/najabudeendeen-byte/Najabudeen)
  * [32.35] [Search](https://github.com/mrndstvndv/Search)
@@ -121,8 +112,6 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [30.26] [TouchTool](https://github.com/mr-bogey/TouchTool) - 使用Android无障碍功能来帮助用户点击。蓝图式任务编辑
  * [29.84] [Tweak-Android](https://github.com/lumkit/Tweak-Android) - 多功能安卓手机玩机工具箱
  * [29.80] [sen](https://github.com/Fansirsqi/sen) - 一个简单的sen
- * [29.59] [AIDE-Plus](https://github.com/2659170494/AIDE-Plus) - AIDE+
- * [29.45] [Myflutter](https://github.com/dhiiizt/Myflutter) - Flutter
  * [29.45] [SilentInstaller](https://github.com/woaiyuzi/SilentInstaller) - 使用Shizuku进行静默安装的Android library
  * [29.41] [fps-viewer-android](https://github.com/moahaassy-design/fps-viewer-android) - FPS Viewer - Android monitoring aplikasi dengan Shizuku untuk real-time FPS monitoring tanpa root
  * [26.47] [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Module to change country for tiktok to Belarus(for russian)

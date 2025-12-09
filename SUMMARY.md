@@ -16,7 +16,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [AppControl-X](https://github.com/risunCode/AppControl-X) - A powerful Android application for controlling app behavior, battery optimization, and system management using Root or Shizuku.
  * [AppVaultX](https://github.com/sunilpaulmathew/AppVaultX) - App Control Made Easy
  * [Athena](https://github.com/Kin69/Athena) - Athena is a Material You (Material 3) firewall and ad blocker that works seamlessly on both rooted and non-rooted devices.
- * [Aurora_Updater](https://github.com/TripleU613/Aurora_Updater) - Simple Version
  * [AutoAccounting](https://github.com/AutoAccountingOrg/AutoAccounting) - 你的每一笔账单都值得记录！
  * [AutoSkip](https://github.com/xjunz/AutoSkip) - 基于Shizuku授权的安卓"自动跳过"工具
  * [Automatic-spark-renewal-APP](https://github.com/COLDESTBOW30654/Automatic-spark-renewal-APP) - 嵌入自动续火花脚本的Autojs修改版
@@ -50,8 +49,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Quick tool for utilizing CVE-2024-31317 on Android
  * [SFS-CustomTranslations-Installer](https://github.com/youfeng11/SFS-CustomTranslations-Installer) - SFS汉化安装器
  * [ShinGen](https://github.com/Shio2077/ShinGen) - 安卓原神自动对话点击器/Genshin Impact Auto-Conversation Clicker on Android
- * [Sui](https://github.com/XiaoTong6666/Sui) - Modern super user interface implementation on Android.
- * [Taison](https://github.com/Gent8/Taison) - Manga reader for organization and clear oversight
  * [TaskerSettings](https://github.com/joaomgcd/TaskerSettings) - Helper app for Tasker
  * [TimerAndroid](https://github.com/HNIdesu/TimerAndroid) - 定时关闭指定的应用，支持Magisk和Shizuku。
  * [UWS](https://github.com/UWillno/UWS) - Qt for Android的shizuku/root shell执行器
@@ -61,10 +58,8 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [android-wifi-pojie](https://github.com/bszapp/android-wifi-pojie) - Android使用密码本暴力破解wifi密码工具
  * [ankihelper-plus](https://github.com/huhuswei/ankihelper-plus)
  * [autodaily](https://github.com/ParadiseZ/autodaily)
- * [carriername](https://github.com/IQUXAe/carriername) - Fork carrier vanity name
  * [chrono-s_camera_android](https://github.com/newyusir/chrono-s_camera_android) - android port of chrono's camera
  * [cmd-android](https://github.com/niki914/cmd-android) - 基于 Kotlin 协程的 Android Shell 命令执行框架，支持 User、Shizuku 和 Root 三种权限的命令行调用，提供统一易用的挂起式 API
- * [essentials](https://github.com/sameerasw/essentials) - Essential tools, mods and workarounds for Pixels
  * [fakelauncher](https://github.com/ZH-XiJun/fakelauncher) - I swear, it is really just a feature phone, not a smart phone!
  * [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
  * [gametuner](https://github.com/varunbala2237/gametuner) - A mobile tuning application for smoother gameplay experience on low/mid range devices.
@@ -79,30 +74,24 @@ Entries are sorted by name and grouped into a separate category if the attached 
 
 ### Apps with no releases
 
- * [196](https://github.com/starkjack1970/196)
+
+#### Updated in the last 4 months
+
  * [A2Auth](https://github.com/tangguiyuan/A2Auth) - This repository contains the source code of A2AUTH, including the data collection app and authentication model. A2AUTH is an application-agnostic framework for continuous smartphone authentication using multimodal behavioral features and a triplet-loss network.
- * [AIDE-Plus](https://github.com/2659170494/AIDE-Plus) - AIDE+
- * [Accessibility-](https://github.com/nai559/Accessibility-)
  * [Android-FPS-Watcher](https://github.com/WuDi-ZhanShen/Android-FPS-Watcher) - Monitor RealTime FPS. Suppports Android 12+. Pure Java. Needs ADB or ROOT.
- * [App](https://github.com/KyottoDevp/App)
- * [AudioControlApp](https://github.com/SwastikChamp2/AudioControlApp)
  * [AutoScript](https://github.com/Ion-conservation/AutoScript) - 网易云音乐广告脚本
  * [AutoTask](https://github.com/xjunz/AutoTask) - An automation assistant app supporting both Shizuku and AccessibilityService.
- * [ControllerMapper](https://github.com/anhquan7826/ControllerMapper)
  * [Cooperative-Demo-1](https://github.com/StreetwiseGamgee/Cooperative-Demo-1) - Using Android Studio to develop a device statistics application using Jetpack Compose.
  * [Debloatroid](https://github.com/Dev97633/Debloatroid)
  * [File-Manager](https://github.com/abusaeed-shuvo/File-Manager) - Simple file manager with shizuku in compose.
  * [ForcePhoneMic](https://github.com/Ling554/ForcePhoneMic)
  * [ForensicEye](https://github.com/flxholle/ForensicEye)
  * [FreezeApp](https://github.com/JuneLeo/FreezeApp)
- * [HMD](https://github.com/shad-ct/HMD)
  * [HPatch](https://github.com/123456789zws/HPatch) - A non-root Xposed framework extending from LSPosed
- * [LauncherChanger](https://github.com/Samuel095383/LauncherChanger)
  * [Lithium](https://github.com/RinnXyz/Lithium) - By: Rinn
  * [LogCollector](https://github.com/thekosa/LogCollector) - Android application designed to collect and manage Android system logs
  * [MiRearScreenSwitcherEnglish](https://github.com/aaronnat23/MiRearScreenSwitcherEnglish)
  * [ModularWhitelistApp](https://github.com/tam1012/ModularWhitelistApp) - MODULAR WHITELIST - Xiaomi PowerKeeper Whitelist Tool for Android
- * [Myflutter](https://github.com/dhiiizt/Myflutter) - Flutter
  * [Najabudeen](https://github.com/najabudeendeen-byte/Najabudeen)
  * [PackageInstaller](https://github.com/paymenremora/PackageInstaller) - A lightweight yet powerful package installer for Android.
  * [PandorasBox](https://github.com/Ujhhgtg/PandorasBox)
@@ -111,20 +100,15 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [SerWall](https://github.com/hzoltan01/SerWall) - Firewall application for Android using the Shizuku API
  * [ShizukuRefresher](https://github.com/lyr341/ShizukuRefresher)
  * [SilentInstaller](https://github.com/woaiyuzi/SilentInstaller) - 使用Shizuku进行静默安装的Android library
- * [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Module to change country for tiktok to Belarus(for russian)
- * [SuperWindow](https://github.com/eiyooooo/SuperWindow) - 超级视窗 | Enhance multi-task experience for large-screen Android devices
  * [ThemedManager](https://github.com/Osanosa/ThemedManager) - Themed Overlays Manager
  * [TouchTool](https://github.com/mr-bogey/TouchTool) - 使用Android无障碍功能来帮助用户点击。蓝图式任务编辑
  * [Tweak-Android](https://github.com/lumkit/Tweak-Android) - 多功能安卓手机玩机工具箱
  * [UnfuckZUI](https://github.com/dantmnf/UnfuckZUI)
  * [VRPquest](https://github.com/JarJarBlinkz/VRPquest) - A quest standalone version of the VRP Rookie sideloader.  !WIP!
- * [VeryDark](https://github.com/wkbin/VeryDark) - 极暗模式
  * [XMeizu](https://github.com/ItosEO/XMeizu)
  * [XPerm](https://github.com/Alhkxsj/XPerm) - 一个权限代理应用
  * [XPlan](https://github.com/ItosEO/XPlan) - X计划，合并版
  * [XiaoBost](https://github.com/danhtrinhdevelopermay/XiaoBost) - The languages that make up the web. HTML provides the basic structure, CSS controls formatting, and JavaScript controls the behavior of different elements.
- * [adhell3](https://github.com/pascua28/adhell3)
- * [android-settings-scheduler](https://github.com/Turtlepaw/android-settings-scheduler) - Schedule any settings that are in the Android Settings app to be changed
  * [autoai-android](https://github.com/king0929zion/autoai-android)
  * [connect-screen](https://github.com/sherylynn/connect-screen)
  * [fps-viewer-android](https://github.com/moahaassy-design/fps-viewer-android) - FPS Viewer - Android monitoring aplikasi dengan Shizuku untuk real-time FPS monitoring tanpa root
@@ -133,16 +117,27 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [greentooth](https://github.com/qwerty12/greentooth) - Shizuku-using fork of https://gitlab.com/nbergman/greentooth
  * [https-github.com-RikkaApps-Shizuku](https://github.com/shtoohtoo02-droid/https-github.com-RikkaApps-Shizuku)
  * [lanhegongjuxiang](https://github.com/miounet11/lanhegongjuxiang)
- * [li](https://github.com/lousli/li) - 安卓去广告
  * [materium](https://github.com/deminearchiver/materium) - Get Android app updates straight from the source.
  * [modtoon_module](https://github.com/Inhaleoxygen/modtoon_module)
- * [mountain](https://github.com/projecteah/mountain)
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [physical_keyboard](https://github.com/ngoloc2k4/physical_keyboard)
- * [richauto-autojs](https://github.com/hubeishanling/richauto-autojs) - 基于autojs6开发的免费脚本平台，支持打包加密、插件打包、卡密验证
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
  * [sen](https://github.com/Fansirsqi/sen) - 一个简单的sen
  * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]
  * [signal-switch](https://github.com/hashim47j/signal-switch) - Quick LTE/5G network mode switcher with QS tile and widget support
  * [sunshine-android](https://github.com/ZyoungInc/sunshine-android) - a sunshine server for android system
  * [xperia-camera-button](https://github.com/aaronkh/xperia-camera-button)
+
+#### Updated more than 4 months ago
+
+ * [Accessibility-](https://github.com/nai559/Accessibility-)
+ * [AudioControlApp](https://github.com/SwastikChamp2/AudioControlApp)
+ * [ControllerMapper](https://github.com/anhquan7826/ControllerMapper)
+ * [LauncherChanger](https://github.com/Samuel095383/LauncherChanger)
+ * [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Module to change country for tiktok to Belarus(for russian)
+ * [SuperWindow](https://github.com/eiyooooo/SuperWindow) - 超级视窗 | Enhance multi-task experience for large-screen Android devices
+ * [VeryDark](https://github.com/wkbin/VeryDark) - 极暗模式
+ * [adhell3](https://github.com/pascua28/adhell3)
+ * [android-settings-scheduler](https://github.com/Turtlepaw/android-settings-scheduler) - Schedule any settings that are in the Android Settings app to be changed
+ * [li](https://github.com/lousli/li) - 安卓去广告
+ * [mountain](https://github.com/projecteah/mountain)

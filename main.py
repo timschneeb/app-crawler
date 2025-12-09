@@ -50,11 +50,9 @@ def write_report(report_path, apps, ranked):
                   "\n")
 
         if not ranked:
-            report += "Sort by: [name] | [score](SUMMARY_RANKED.md)\n\n"
             report += "Entries are sorted by name and grouped into a separate category if the attached link has no downloadable releases.\n\n"
         else:
             apps = sorted(apps, key=lambda x: x.score, reverse=True)
-            report += "Sort by: [name](SUMMARY.md) | [score]\n\n"
             report += "Entries are sorted by a score that is calculated based on quality of the linked repository (readme, has downloadable release, stars, etc.).\n\n"
 
         if ranked:
@@ -125,7 +123,7 @@ def main():
     apps = list(filter(remove_ignored_entries, apps))
 
     write_report(report_path, apps, ranked=False)
-    write_report(report_ranked_path, apps, ranked=True)
+    # write_report(report_ranked_path, apps, ranked=True)
 
     # Print to console
     for app in apps:

@@ -1,5 +1,5 @@
-import json
 import os
+import pickle
 
 from scanners.scanner import Apps, App
 
@@ -31,17 +31,24 @@ class Cache:
         self.save_cache(1, apps)
 
     def path(self, part_id):
-        return self.cache_directory + '/cache' + str(part_id) + '.json'
+        return self.cache_directory + '/cache' + str(part_id) + '.pkl'
 
     def load_cache_part(self, part_id):
         apps = []
         try:
-            with open(self.path(part_id)) as f:
-                for o in Apps(**json.loads(f.read())).apps:
-                    apps.append(App(**o))
+            with open(self.path(part_id), 'rb') as f:
+                # Load pickled data; we expect either an Apps instance or a
+                # list of App instances.
+                data = pickle.load(f)
+
+                result = []
+                for o in data.apps:
+                    if not isinstance(o, App):
+                        raise TypeError(f"Cache part {part_id} contains non-App item: {type(o)}")
+                    result.append(o)
 
                 print("Loaded cache part " + str(part_id))
-                return apps
+                return result
         except FileNotFoundError:
             return []
         except Exception as e:
@@ -50,5 +57,5 @@ class Cache:
             return apps
 
     def save_cache(self, part_id, apps):
-        with open(self.path(part_id), mode='w') as f:
-            f.write(json.dumps(Apps(list(apps)), default=lambda o: o.__dict__, indent=4))
+        with open(self.path(part_id), 'wb') as f:
+            pickle.dump(Apps(list(apps)), f)  # type: ignore[arg-type]

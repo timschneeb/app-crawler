@@ -5,8 +5,6 @@
 This document tracks all GitHub repos and F-Droid apps that make use of Shizuku in some way but are not yet listed in the awesome-shizuku list. Please note that many of these apps are often incomplete or sometimes even false positives.
 Typically, these apps will be added to the list as soon as possible; however, unfinished apps are usually left in this document until they reach a usable state.
 
-Sort by: [name] | [score](SUMMARY_RANKED.md)
-
 Entries are sorted by name and grouped into a separate category if the attached link has no downloadable releases.
 
  * [-Launcher](https://github.com/Linkolnn/-Launcher)
@@ -68,6 +66,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [kdeconnect-android-shizuku](https://github.com/Shoukaku39/kdeconnect-android-shizuku) - Forked from KDE Connect Android. Adds Shizuku support to bypass clipboard access restrictions on Android 10+ without using READ_LOGS or manual ADB shell. 基于 KDE Connect Android 的分支，添加对 Shizuku 的支持，在无需请求 READ_LOGS 或手动 ADB 授权的情况下，绕过 Android 10+ 剪贴板访问限制。
  * [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ / Linkura Localify / LoveLive Translation / llll
  * [q25-res-changer](https://github.com/mybabysexy/q25-res-changer)
+ * [roubao](https://github.com/Turbo1123/roubao) - Android Automation Tool Based on Vision-Language Models
  * [telegram-rc](https://github.com/telegram-sms/telegram-rc) - [ROOT] A robot running on an Android device that controls your phone.
  * [vFlow](https://github.com/ChaoMixian/vFlow) - vFlow 是一款为 Android 平台设计的、强大且高度可扩展的自动化工具。它允许你通过图形化界面，将一系列“动作模块”自由组合成强大的“工作流”，从而自动完成各种日常的、重复性的屏幕操作任务。
  * [wifi-password-manager](https://github.com/Khh-vu/wifi-password-manager) - Simple app using Shizuku to manage Wi-Fi passwords
@@ -83,19 +82,13 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Cooperative-Demo-1](https://github.com/StreetwiseGamgee/Cooperative-Demo-1) - Using Android Studio to develop a device statistics application using Jetpack Compose.
  * [Debloatroid](https://github.com/Dev97633/Debloatroid)
  * [File-Manager](https://github.com/abusaeed-shuvo/File-Manager) - Simple file manager with shizuku in compose.
- * [ForcePhoneMic](https://github.com/Ling554/ForcePhoneMic)
  * [ForensicEye](https://github.com/flxholle/ForensicEye)
  * [FreezeApp](https://github.com/JuneLeo/FreezeApp)
  * [HPatch](https://github.com/123456789zws/HPatch) - A non-root Xposed framework extending from LSPosed
- * [Lithium](https://github.com/RinnXyz/Lithium) - By: Rinn
- * [MiRearScreenSwitcherEnglish](https://github.com/aaronnat23/MiRearScreenSwitcherEnglish)
  * [ModularWhitelistApp](https://github.com/tam1012/ModularWhitelistApp) - MODULAR WHITELIST - Xiaomi PowerKeeper Whitelist Tool for Android
- * [Najabudeen](https://github.com/najabudeendeen-byte/Najabudeen)
- * [PackageInstaller](https://github.com/paymenremora/PackageInstaller) - A lightweight yet powerful package installer for Android.
  * [PandorasBox](https://github.com/Ujhhgtg/PandorasBox)
  * [Reverse_KBattery](https://github.com/ItosEO/Reverse_KBattery)
  * [Search](https://github.com/mrndstvndv/Search)
- * [SerWall](https://github.com/hzoltan01/SerWall) - Firewall application for Android using the Shizuku API
  * [ShizukuRefresher](https://github.com/lyr341/ShizukuRefresher)
  * [SilentInstaller](https://github.com/woaiyuzi/SilentInstaller) - 使用Shizuku进行静默安装的Android library
  * [ThemedManager](https://github.com/Osanosa/ThemedManager) - Themed Overlays Manager
@@ -106,18 +99,12 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [XiaoBost](https://github.com/danhtrinhdevelopermay/XiaoBost) - The languages that make up the web. HTML provides the basic structure, CSS controls formatting, and JavaScript controls the behavior of different elements.
  * [autoai-android](https://github.com/king0929zion/autoai-android)
  * [connect-screen](https://github.com/sherylynn/connect-screen)
- * [fps-viewer-android](https://github.com/moahaassy-design/fps-viewer-android) - FPS Viewer - Android monitoring aplikasi dengan Shizuku untuk real-time FPS monitoring tanpa root
  * [gesture_is_back](https://github.com/amrabdelhameeed/gesture_is_back)
- * [https-github.com-RikkaApps-Shizuku](https://github.com/shtoohtoo02-droid/https-github.com-RikkaApps-Shizuku)
- * [lanhegongjuxiang](https://github.com/miounet11/lanhegongjuxiang)
  * [materium](https://github.com/deminearchiver/materium) - Get Android app updates straight from the source.
  * [physical_keyboard](https://github.com/ngoloc2k4/physical_keyboard)
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
  * [sen](https://github.com/Fansirsqi/sen) - 一个简单的sen
- * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]
- * [signal-switch](https://github.com/hashim47j/signal-switch) - Quick LTE/5G network mode switcher with QS tile and widget support
  * [sunshine-android](https://github.com/ZyoungInc/sunshine-android) - a sunshine server for android system
- * [xperia-camera-button](https://github.com/aaronkh/xperia-camera-button)
 
 #### Updated more than 4 months ago
 
@@ -125,8 +112,14 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [AudioControlApp](https://github.com/SwastikChamp2/AudioControlApp)
  * [AutoTask](https://github.com/xjunz/AutoTask) - An automation assistant app supporting both Shizuku and AccessibilityService.
  * [ControllerMapper](https://github.com/anhquan7826/ControllerMapper)
+ * [ForcePhoneMic](https://github.com/Ling554/ForcePhoneMic)
  * [LauncherChanger](https://github.com/Samuel095383/LauncherChanger)
+ * [Lithium](https://github.com/RinnXyz/Lithium) - By: Rinn
  * [LogCollector](https://github.com/thekosa/LogCollector) - Android application designed to collect and manage Android system logs
+ * [MiRearScreenSwitcherEnglish](https://github.com/aaronnat23/MiRearScreenSwitcherEnglish)
+ * [Najabudeen](https://github.com/najabudeendeen-byte/Najabudeen)
+ * [PackageInstaller](https://github.com/paymenremora/PackageInstaller) - A lightweight yet powerful package installer for Android.
+ * [SerWall](https://github.com/hzoltan01/SerWall) - Firewall application for Android using the Shizuku API
  * [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Module to change country for tiktok to Belarus(for russian)
  * [SuperWindow](https://github.com/eiyooooo/SuperWindow) - 超级视窗 | Enhance multi-task experience for large-screen Android devices
  * [Tweak-Android](https://github.com/lumkit/Tweak-Android) - 多功能安卓手机玩机工具箱
@@ -135,9 +128,15 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [XMeizu](https://github.com/ItosEO/XMeizu)
  * [adhell3](https://github.com/pascua28/adhell3)
  * [android-settings-scheduler](https://github.com/Turtlepaw/android-settings-scheduler) - Schedule any settings that are in the Android Settings app to be changed
+ * [fps-viewer-android](https://github.com/moahaassy-design/fps-viewer-android) - FPS Viewer - Android monitoring aplikasi dengan Shizuku untuk real-time FPS monitoring tanpa root
  * [gemini-android](https://github.com/niki914/gemini-android) - Let gemini control your Android phone through function calling. 通过FunctionCalling让Gemini操控安卓手机。
  * [greentooth](https://github.com/qwerty12/greentooth) - Shizuku-using fork of https://gitlab.com/nbergman/greentooth
+ * [https-github.com-RikkaApps-Shizuku](https://github.com/shtoohtoo02-droid/https-github.com-RikkaApps-Shizuku)
+ * [lanhegongjuxiang](https://github.com/miounet11/lanhegongjuxiang)
  * [li](https://github.com/lousli/li) - 安卓去广告
  * [modtoon_module](https://github.com/Inhaleoxygen/modtoon_module)
  * [mountain](https://github.com/projecteah/mountain)
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
+ * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]
+ * [signal-switch](https://github.com/hashim47j/signal-switch) - Quick LTE/5G network mode switcher with QS tile and widget support
+ * [xperia-camera-button](https://github.com/aaronkh/xperia-camera-button)

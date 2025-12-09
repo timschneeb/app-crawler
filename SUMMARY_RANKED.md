@@ -78,7 +78,7 @@ Entries are sorted by a score that is calculated based on quality of the linked 
  * [58.82] [signal-switch](https://github.com/hashim47j/signal-switch) - Quick LTE/5G network mode switcher with QS tile and widget support
  * [58.82] [sunshine-android](https://github.com/ZyoungInc/sunshine-android) - a sunshine server for android system
  * [58.81] [DeviceOptimizeHelper](https://github.com/sbmatch/DeviceOptimizeHelper)
- * [56.52] [PixelCarrierSettings](https://github.com/iKirby/PixelCarrierSettings)
+ * [56.55] [PixelCarrierSettings](https://github.com/iKirby/PixelCarrierSettings)
  * [56.06] [-Launcher](https://github.com/Linkolnn/-Launcher)
  * [56.02] [ankihelper-plus](https://github.com/huhuswei/ankihelper-plus)
  * [55.95] [autodaily](https://github.com/ParadiseZ/autodaily)

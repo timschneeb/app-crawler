@@ -3,7 +3,7 @@ import glob
 import json
 import os
 import time
-from datetime import datetime, UTC
+from datetime import datetime, UTC, timedelta
 from operator import attrgetter
 
 import util
@@ -63,8 +63,10 @@ def write_report(report_path, apps, ranked):
         else:   
             with_downloads = [a for a in apps if a.has_downloads]
             # 4 months = 17 weeks
-            new_and_no_downloads = [a for a in apps if not a.has_downloads and (a.last_updated is None or (datetime.now(UTC) - a.last_updated).weeks <= 17)]
-            old_and_no_downloads = [a for a in apps if not a.has_downloads and (datetime.now(UTC) - a.last_updated).weeks > 17]
+            now = datetime.now(UTC)
+            four_months = timedelta(weeks=17)
+            new_and_no_downloads = [a for a in apps if not a.has_downloads and (a.last_updated is None or (now - a.last_updated) <= four_months)]
+            old_and_no_downloads = [a for a in apps if not a.has_downloads and (a.last_updated is not None and (now - a.last_updated) > four_months)]
             for app in with_downloads:
                 report += entry_to_string(app, ranked)
 

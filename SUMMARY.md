@@ -10,6 +10,7 @@ Sort by: [name] | [score](SUMMARY_RANKED.md)
 Entries are sorted by name and grouped into a separate category if the attached link has no downloadable releases.
 
  * [-Launcher](https://github.com/Linkolnn/-Launcher)
+ * [Adaptive-Theme](https://github.com/xLexip/Adaptive-Theme) - Automatically adjusts your android device theme based on ambient light. Get it on Google Play!
  * [Android-AccessibilityGrant](https://github.com/MagicianGuo/Android-AccessibilityGrant) - 能够一键为应用授予辅助功能（无障碍）权限，需要Shizuku
  * [Android-AntiForensic-Tools](https://github.com/bakad3v/Android-AntiForensic-Tools) - An application designed to silently protect user data from powerful adversaries.
  * [AppControl-X](https://github.com/risunCode/AppControl-X) - A powerful Android application for controlling app behavior, battery optimization, and system management using Root or Shizuku.
@@ -25,8 +26,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [BitInstaller](https://github.com/S0methingSomething/BitInstaller)
  * [CBJQ_HugFenny](https://github.com/LiuJiewenTT/CBJQ_HugFenny)
  * [ClipboardListener](https://github.com/aa2013/ClipboardListener) - Flutter-ClipboardListener-Clipshare
- * [Cover-Screen-Launcher](https://github.com/Katsuyamaki/Cover-Screen-Launcher) - Cover Screen Launcer for Android Apps
- * [Cover-Screen-Trackpad](https://github.com/Katsuyamaki/Cover-Screen-Trackpad) - Cover Screen Trackpad for Android Apps
  * [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新
  * [DeviceOptimizeHelper](https://github.com/sbmatch/DeviceOptimizeHelper)
  * [Doubletap-to-lock](https://github.com/albertcamus344/Doubletap-to-lock) - Use the accessiblity service or shizuku to lock the screen by double tapping on a transparent widget added to the homescreen
@@ -47,7 +46,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [MndroLua](https://github.com/Crescent-of-Maya/MndroLua) - A modern fork of AndroLua+ / 更加现代的 AndroLua+ 魔改版
  * [Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
  * [OnStop2FinishAndRemoveTask](https://github.com/takusan23/OnStop2FinishAndRemoveTask)
- * [Operit](https://github.com/AAswordman/Operit) - The most powerful AI agent and AI chat software on Android/Operit是一款Android上目前能力最为强大的AI Agent
  * [PixelCarrierSettings](https://github.com/iKirby/PixelCarrierSettings)
  * [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Quick tool for utilizing CVE-2024-31317 on Android
  * [SFS-CustomTranslations-Installer](https://github.com/youfeng11/SFS-CustomTranslations-Installer) - SFS汉化安装器

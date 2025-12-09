@@ -52,7 +52,7 @@ jobs:
       run: |
         python main.py ./list
         cat SUMMARY.md >> $GITHUB_STEP_SUMMARY
-        cat SUMMARY_RANKED.md >> $GITHUB_STEP_SUMMARY
+        # cat SUMMARY_RANKED.md >> $GITHUB_STEP_SUMMARY
 
     - name: Delete previous cache
       if: ${{ steps.cache-restore.outputs.cache-hit }}

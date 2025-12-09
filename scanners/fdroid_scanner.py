@@ -1,3 +1,5 @@
+from datetime import datetime
+
 from .scanner import Scanner, App
 import requests
 from xml.dom import minidom
@@ -19,6 +21,8 @@ class FDroidScanner(Scanner):
         elements = dom.getElementsByTagName('application')
 
         for element in elements:
+            last_updated = datetime.strptime(element.getElementsByTagName("lastupdated")[0].firstChild.nodeValue, "%Y-%m-%d")
+            
             for package in element.getElementsByTagName("package"):
                 perms_tags = package.getElementsByTagName("permissions")
                 if len(perms_tags) > 0:
@@ -34,7 +38,7 @@ class FDroidScanner(Scanner):
 
                         apps.append(App(element.getElementsByTagName("name")[0].firstChild.nodeValue,
                                         element.getElementsByTagName("summary")[0].firstChild.nodeValue,
-                                        urls, type(self).__name__, score=100, has_downloads=True)) # Apps from f-droid repos are always preferred
+                                        urls, type(self).__name__, score=100, has_downloads=True, last_updated=last_updated)) # Apps from f-droid repos are always preferred
                         break
 
         print("fdroid: found " + str(len(apps)) + " apps")

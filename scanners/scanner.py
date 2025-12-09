@@ -1,4 +1,5 @@
 from abc import ABC, abstractmethod
+from datetime import datetime
 from typing import List
 
 
@@ -11,6 +12,7 @@ class App:
             scanner: str, 
             score: float = 0,
             has_downloads: bool = True,
+            last_updated: datetime = None,
         ):
         assert 0 <= score <= 100, "Score must be between 0 and 100"
         self.name = name
@@ -19,6 +21,7 @@ class App:
         self.scanner = scanner
         self.score = score
         self.has_downloads = has_downloads
+        self.last_updated = last_updated
 
     def __hash__(self):
         return hash(self.name)

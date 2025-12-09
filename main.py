@@ -3,6 +3,7 @@ import glob
 import json
 import os
 import time
+from datetime import datetime, UTC
 from operator import attrgetter
 
 import util
@@ -61,13 +62,23 @@ def write_report(report_path, apps, ranked):
                 report += entry_to_string(app, ranked)
         else:   
             with_downloads = [a for a in apps if a.has_downloads]
-            no_downloads = [a for a in apps if not a.has_downloads]
+            # 4 months = 17 weeks
+            new_and_no_downloads = [a for a in apps if not a.has_downloads and (a.last_updated is None or (datetime.now(UTC) - a.last_updated).weeks <= 17)]
+            old_and_no_downloads = [a for a in apps if not a.has_downloads and (datetime.now(UTC) - a.last_updated).weeks > 17]
             for app in with_downloads:
                 report += entry_to_string(app, ranked)
-            
-            if len(no_downloads) > 0:
+
+            if len(new_and_no_downloads) > 0 or len(old_and_no_downloads) > 0:
                 report += f"\n### Apps with no releases\n\n"
-                for app in no_downloads:
+                
+            if len(new_and_no_downloads) > 0:
+                report += f"\n#### Updated in the last 4 months\n\n"
+                for app in new_and_no_downloads:
+                    report += entry_to_string(app, ranked)
+
+            if len(old_and_no_downloads) > 0:
+                report += f"\n#### Updated more than 4 months ago\n\n"
+                for app in old_and_no_downloads:
                     report += entry_to_string(app, ranked)
 
         f.write(report)

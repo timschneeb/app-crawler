@@ -8,7 +8,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
 Entries are sorted by name and grouped into a separate category if the attached link has no downloadable releases.
 
  * [-Launcher](https://github.com/Linkolnn/-Launcher)
- * [Adaptive-Theme](https://github.com/xLexip/Adaptive-Theme) - Automatically adjusts your android device theme based on ambient light. Get it on Google Play!
+ * [Adaptive-Theme](https://github.com/xLexip/Adaptive-Theme) - Smart dark mode based on ambient light. System-wide, without root. Get it on Google Play!
  * [Android-AccessibilityGrant](https://github.com/MagicianGuo/Android-AccessibilityGrant) - 能够一键为应用授予辅助功能（无障碍）权限，需要Shizuku
  * [Android-AntiForensic-Tools](https://github.com/bakad3v/Android-AntiForensic-Tools) - An application designed to silently protect user data from powerful adversaries.
  * [AppControl-X](https://github.com/risunCode/AppControl-X) - A powerful Android application for controlling app behavior, battery optimization, and system management using Root or Shizuku.
@@ -45,6 +45,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [OnStop2FinishAndRemoveTask](https://github.com/takusan23/OnStop2FinishAndRemoveTask)
  * [PixelCarrierSettings](https://github.com/iKirby/PixelCarrierSettings)
  * [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Quick tool for utilizing CVE-2024-31317 on Android
+ * [PrivateDNSToggle](https://github.com/PoppaBuzz/PrivateDNSToggle) - A lightweight Android app for quick Private DNS (DNS-over-TLS) control via widgets and Quick Settings tile. Features 10 pre-configured DNS providers, custom provider support, and intuitive one-tap DNS toggling. No root required - works with Shizuku or ADB permissions.
  * [SFS-CustomTranslations-Installer](https://github.com/youfeng11/SFS-CustomTranslations-Installer) - SFS汉化安装器
  * [ShinGen](https://github.com/Shio2077/ShinGen) - 安卓原神自动对话点击器/Genshin Impact Auto-Conversation Clicker on Android
  * [TaskerSettings](https://github.com/joaomgcd/TaskerSettings) - Helper app for Tasker
@@ -117,26 +118,21 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Lithium](https://github.com/RinnXyz/Lithium) - By: Rinn
  * [LogCollector](https://github.com/thekosa/LogCollector) - Android application designed to collect and manage Android system logs
  * [MiRearScreenSwitcherEnglish](https://github.com/aaronnat23/MiRearScreenSwitcherEnglish)
- * [Najabudeen](https://github.com/najabudeendeen-byte/Najabudeen)
  * [PackageInstaller](https://github.com/paymenremora/PackageInstaller) - A lightweight yet powerful package installer for Android.
  * [SerWall](https://github.com/hzoltan01/SerWall) - Firewall application for Android using the Shizuku API
  * [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Module to change country for tiktok to Belarus(for russian)
  * [SuperWindow](https://github.com/eiyooooo/SuperWindow) - 超级视窗 | Enhance multi-task experience for large-screen Android devices
  * [Tweak-Android](https://github.com/lumkit/Tweak-Android) - 多功能安卓手机玩机工具箱
  * [VRPquest](https://github.com/JarJarBlinkz/VRPquest) - A quest standalone version of the VRP Rookie sideloader.  !WIP!
- * [VeryDark](https://github.com/wkbin/VeryDark) - 极暗模式
  * [XMeizu](https://github.com/ItosEO/XMeizu)
- * [adhell3](https://github.com/pascua28/adhell3)
  * [android-settings-scheduler](https://github.com/Turtlepaw/android-settings-scheduler) - Schedule any settings that are in the Android Settings app to be changed
+ * [chengying](https://github.com/nowmore/chengying)
  * [fps-viewer-android](https://github.com/moahaassy-design/fps-viewer-android) - FPS Viewer - Android monitoring aplikasi dengan Shizuku untuk real-time FPS monitoring tanpa root
  * [gemini-android](https://github.com/niki914/gemini-android) - Let gemini control your Android phone through function calling. 通过FunctionCalling让Gemini操控安卓手机。
  * [greentooth](https://github.com/qwerty12/greentooth) - Shizuku-using fork of https://gitlab.com/nbergman/greentooth
- * [https-github.com-RikkaApps-Shizuku](https://github.com/shtoohtoo02-droid/https-github.com-RikkaApps-Shizuku)
  * [lanhegongjuxiang](https://github.com/miounet11/lanhegongjuxiang)
  * [li](https://github.com/lousli/li) - 安卓去广告
  * [modtoon_module](https://github.com/Inhaleoxygen/modtoon_module)
- * [mountain](https://github.com/projecteah/mountain)
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]
- * [signal-switch](https://github.com/hashim47j/signal-switch) - Quick LTE/5G network mode switcher with QS tile and widget support
  * [xperia-camera-button](https://github.com/aaronkh/xperia-camera-button)

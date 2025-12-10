@@ -45,7 +45,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [OnStop2FinishAndRemoveTask](https://github.com/takusan23/OnStop2FinishAndRemoveTask)
  * [PixelCarrierSettings](https://github.com/iKirby/PixelCarrierSettings)
  * [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Quick tool for utilizing CVE-2024-31317 on Android
- * [PrivateDNSToggle](https://github.com/PoppaBuzz/PrivateDNSToggle) - A lightweight Android app for quick Private DNS (DNS-over-TLS) control via widgets and Quick Settings tile. Features 10 pre-configured DNS providers, custom provider support, and intuitive one-tap DNS toggling. No root required - works with Shizuku or ADB permissions.
  * [SFS-CustomTranslations-Installer](https://github.com/youfeng11/SFS-CustomTranslations-Installer) - SFS汉化安装器
  * [ShinGen](https://github.com/Shio2077/ShinGen) - 安卓原神自动对话点击器/Genshin Impact Auto-Conversation Clicker on Android
  * [TaskerSettings](https://github.com/joaomgcd/TaskerSettings) - Helper app for Tasker
@@ -81,15 +80,12 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Android-FPS-Watcher](https://github.com/WuDi-ZhanShen/Android-FPS-Watcher) - Monitor RealTime FPS. Suppports Android 12+. Pure Java. Needs ADB or ROOT.
  * [AutoScript](https://github.com/Ion-conservation/AutoScript) - 网易云音乐广告脚本
  * [Cooperative-Demo-1](https://github.com/StreetwiseGamgee/Cooperative-Demo-1) - Using Android Studio to develop a device statistics application using Jetpack Compose.
- * [Debloatroid](https://github.com/Dev97633/Debloatroid)
  * [ForcePhoneMic](https://github.com/Ling554/ForcePhoneMic)
  * [ForensicEye](https://github.com/flxholle/ForensicEye)
  * [FreezeApp](https://github.com/JuneLeo/FreezeApp)
- * [HPatch](https://github.com/123456789zws/HPatch) - A non-root Xposed framework extending from LSPosed
  * [Lithium](https://github.com/RinnXyz/Lithium) - By: Rinn
  * [MiRearScreenSwitcherEnglish](https://github.com/aaronnat23/MiRearScreenSwitcherEnglish)
  * [ModularWhitelistApp](https://github.com/tam1012/ModularWhitelistApp) - MODULAR WHITELIST - Xiaomi PowerKeeper Whitelist Tool for Android
- * [PackageInstaller](https://github.com/paymenremora/PackageInstaller) - A lightweight yet powerful package installer for Android.
  * [PandorasBox](https://github.com/Ujhhgtg/PandorasBox)
  * [Reverse_KBattery](https://github.com/ItosEO/Reverse_KBattery)
  * [Search](https://github.com/mrndstvndv/Search)
@@ -97,7 +93,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ShizukuRefresher](https://github.com/lyr341/ShizukuRefresher)
  * [ThemedManager](https://github.com/Osanosa/ThemedManager) - Themed Overlays Manager
  * [TouchTool](https://github.com/mr-bogey/TouchTool) - 使用Android无障碍功能来帮助用户点击。蓝图式任务编辑
- * [UnfuckZUI](https://github.com/dantmnf/UnfuckZUI)
  * [XPerm](https://github.com/Alhkxsj/XPerm) - 一个权限代理应用
  * [XiaoBost](https://github.com/danhtrinhdevelopermay/XiaoBost) - The languages that make up the web. HTML provides the basic structure, CSS controls formatting, and JavaScript controls the behavior of different elements.
  * [autoai-android](https://github.com/king0929zion/autoai-android)

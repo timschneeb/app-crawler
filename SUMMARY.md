@@ -78,6 +78,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
 
  * [A2Auth](https://github.com/tangguiyuan/A2Auth) - This repository contains the source code of A2AUTH, including the data collection app and authentication model. A2AUTH is an application-agnostic framework for continuous smartphone authentication using multimodal behavioral features and a triplet-loss network.
  * [Android-FPS-Watcher](https://github.com/WuDi-ZhanShen/Android-FPS-Watcher) - Monitor RealTime FPS. Suppports Android 12+. Pure Java. Needs ADB or ROOT.
+ * [Auto-GLM-Android](https://github.com/king0929zion/Auto-GLM-Android) - Auto-GLM-Android
  * [AutoScript](https://github.com/Ion-conservation/AutoScript) - 网易云音乐广告脚本
  * [Cooperative-Demo-1](https://github.com/StreetwiseGamgee/Cooperative-Demo-1) - Using Android Studio to develop a device statistics application using Jetpack Compose.
  * [ForcePhoneMic](https://github.com/Ling554/ForcePhoneMic)

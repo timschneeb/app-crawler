@@ -61,7 +61,7 @@ def write_report(report_path, apps, ranked):
         else:   
             with_downloads = [a for a in apps if a.has_downloads]
             now = datetime.now(UTC)
-            four_months = 4 * 30 # days
+            four_months = 3 * 30 # days
             new_and_no_downloads = [a for a in apps if not a.has_downloads and (a.last_updated is not None and (now - a.last_updated).days <= four_months)]
             old_and_no_downloads = [a for a in apps if a not in with_downloads and a not in new_and_no_downloads]
             for app in with_downloads:
@@ -71,12 +71,12 @@ def write_report(report_path, apps, ranked):
                 report += f"\n### Apps with no releases\n\n"
                 
             if len(new_and_no_downloads) > 0:
-                report += f"\n#### Updated in the last 4 months\n\n"
+                report += f"\n#### Updated in the last 3 months\n\n"
                 for app in new_and_no_downloads:
                     report += entry_to_string(app, ranked)
 
             if len(old_and_no_downloads) > 0:
-                report += f"\n#### Updated more than 4 months ago\n\n"
+                report += f"\n#### Updated more than 3 months ago\n\n"
                 for app in old_and_no_downloads:
                     report += entry_to_string(app, ranked)
 

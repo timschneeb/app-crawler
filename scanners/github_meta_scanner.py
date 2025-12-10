@@ -43,7 +43,7 @@ class GithubMetaScanner(Scanner):
         return_code = result.returncode
 
         if return_code == 0:
-            app.append(App(name, desc, [url], type(self).__name__, args.score, args.has_downloads))
+            app.append(App(name, desc, [url], type(self).__name__, args.score, args.has_downloads, args.last_updated))
 
         temp_dir.cleanup()
         return app
@@ -61,7 +61,7 @@ class GithubMetaScanner(Scanner):
                     util.is_known_app(repo.name, [repo.html_url]) or 
                     util.is_ignored(repo.name) or util.is_ignored(repo.html_url)):
                 continue
-    
+
             try:
                 full_results.append(App(repo.name, repo.description, [repo.html_url], type(self).__name__, 
                                         calc_github_score(repo), has_github_downloads(repo), repo.pushed_at))

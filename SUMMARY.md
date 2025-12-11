@@ -75,6 +75,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
 
 #### Updated in the last 3 months
 
+ * [-v-](https://github.com/AWDX-DYVB/-v-)
  * [A2Auth](https://github.com/tangguiyuan/A2Auth) - This repository contains the source code of A2AUTH, including the data collection app and authentication model. A2AUTH is an application-agnostic framework for continuous smartphone authentication using multimodal behavioral features and a triplet-loss network.
  * [Android-FPS-Watcher](https://github.com/WuDi-ZhanShen/Android-FPS-Watcher) - Monitor RealTime FPS. Suppports Android 12+. Pure Java. Needs ADB or ROOT.
  * [Auto-GLM-Android](https://github.com/king0929zion/Auto-GLM-Android) - Auto-GLM-Android
@@ -86,11 +87,14 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Lithium](https://github.com/RinnXyz/Lithium) - By: Rinn
  * [MiRearScreenSwitcherEnglish](https://github.com/aaronnat23/MiRearScreenSwitcherEnglish)
  * [ModularWhitelistApp](https://github.com/tam1012/ModularWhitelistApp) - MODULAR WHITELIST - Xiaomi PowerKeeper Whitelist Tool for Android
+ * [OpaiHUD](https://github.com/liangwk2023/OpaiHUD)
  * [PandorasBox](https://github.com/Ujhhgtg/PandorasBox)
+ * [PhonePointer](https://github.com/Usepot/PhonePointer)
  * [Reverse_KBattery](https://github.com/ItosEO/Reverse_KBattery)
  * [Search](https://github.com/mrndstvndv/Search)
  * [SerWall](https://github.com/hzoltan01/SerWall) - Firewall application for Android using the Shizuku API
  * [ShizukuRefresher](https://github.com/lyr341/ShizukuRefresher)
+ * [Streetwise-Toolbox](https://github.com/StreetwiseGamgee/Streetwise-Toolbox) - Using Android Studio to develop a device statistics application using Jetpack Compose.
  * [ThemedManager](https://github.com/Osanosa/ThemedManager) - Themed Overlays Manager
  * [TouchTool](https://github.com/mr-bogey/TouchTool) - 使用Android无障碍功能来帮助用户点击。蓝图式任务编辑
  * [XPerm](https://github.com/Alhkxsj/XPerm) - 一个权限代理应用

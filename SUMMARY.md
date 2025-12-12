@@ -8,7 +8,7 @@ Typically, these apps will be added to the list as soon as possible; however, un
 Entries are sorted by name and grouped into a separate category if the attached link has no downloadable releases.
 
  * [-Launcher](https://github.com/Linkolnn/-Launcher)
- * [Adaptive-Theme](https://github.com/xLexip/Adaptive-Theme) - Smart dark mode based on ambient light. System-wide, without root. Get it on Google Play!
+ * [Adaptive-Theme](https://github.com/xLexip/Adaptive-Theme) - Smart dark mode based on ambient light. System-wide. Get it on Google Play!
  * [Android-AccessibilityGrant](https://github.com/MagicianGuo/Android-AccessibilityGrant) - 能够一键为应用授予辅助功能（无障碍）权限，需要Shizuku
  * [Android-AntiForensic-Tools](https://github.com/bakad3v/Android-AntiForensic-Tools) - An application designed to silently protect user data from powerful adversaries.
  * [AppControl-X](https://github.com/risunCode/AppControl-X) - A powerful Android application for controlling app behavior, battery optimization, and system management using Root or Shizuku.
@@ -19,6 +19,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Automatic-spark-renewal-APP](https://github.com/COLDESTBOW30654/Automatic-spark-renewal-APP) - 嵌入自动续火花脚本的Autojs修改版
  * [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
  * [AxManager](https://github.com/fahrez182/AxManager) - AxManager is an Android application designed to provide deeper control over apps and the system.
+ * [BatStats](https://github.com/mlm-games/BatStats)
  * [BitInstaller](https://github.com/S0methingSomething/BitInstaller)
  * [CBJQ_HugFenny](https://github.com/LiuJiewenTT/CBJQ_HugFenny)
  * [ClipboardListener](https://github.com/aa2013/ClipboardListener) - Flutter-ClipboardListener-Clipshare
@@ -35,6 +36,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Installer](https://github.com/huidoudour/Installer) - This app is only available to developers
  * [JumpReplay](https://github.com/FourTwooo/JumpReplay) - Xposed Hook Android Intent/Scheme
  * [KeyboardSwitcher](https://github.com/SgLy/KeyboardSwitcher) - Adds a quick setting tile for quickly switching keyboard (input method)
+ * [Locker](https://github.com/brill594/Locker) - Prevent you from accessing your phone.
  * [Loki](https://github.com/trinadhthatakula/Loki) - Android App logger
  * [MDPC](https://github.com/MrRare2/MDPC) - Fork of OwnDroid, A Device Policy Controller (DPC) app. Only used by me :)
  * [Manager](https://github.com/Aliucord/Manager) - The new way to install Aliucord – in a user-friendly way

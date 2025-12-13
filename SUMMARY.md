@@ -8,7 +8,6 @@ Typically, these apps will be added to the list as soon as possible; however, un
 Entries are sorted by name and grouped into a separate category if the attached link has no downloadable releases.
 
  * [-Launcher](https://github.com/Linkolnn/-Launcher)
- * [Adaptive-Theme](https://github.com/xLexip/Adaptive-Theme) - Smart dark mode based on ambient light. System-wide. Get it on Google Play!
  * [Android-AccessibilityGrant](https://github.com/MagicianGuo/Android-AccessibilityGrant) - 能够一键为应用授予辅助功能（无障碍）权限，需要Shizuku
  * [Android-AntiForensic-Tools](https://github.com/bakad3v/Android-AntiForensic-Tools) - An application designed to silently protect user data from powerful adversaries.
  * [AppControl-X](https://github.com/risunCode/AppControl-X) - A powerful Android application for controlling app behavior, battery optimization, and system management using Root or Shizuku.

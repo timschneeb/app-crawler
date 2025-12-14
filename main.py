@@ -5,8 +5,6 @@ import time
 from datetime import datetime, UTC
 from operator import attrgetter
 
-from github import enable_console_debug_logging
-
 import util
 from cache import Cache
 from scanners.fdroid_scanner import FDroidScanner
@@ -70,8 +68,6 @@ def write_report(report_path, apps):
 
 
 def main():
-    #enable_console_debug_logging() # TODO: remove
-    
     parser = argparse.ArgumentParser()
     parser.add_argument("targetPath")
     args = parser.parse_args()

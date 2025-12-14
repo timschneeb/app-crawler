@@ -1,20 +1,14 @@
 import itertools
-import os
-import subprocess
-import time
 import multiprocessing as mp
+import subprocess
 import tempfile
 
-from github.Repository import Repository
+from git import Repo
+from github import Github, Auth
+from tqdm import tqdm
 
 import util
-from score import calc_github_score, has_github_downloads
 from .scanner import Scanner, App
-
-from github import Github, Auth
-from github.GithubException import RateLimitExceededException
-from tqdm import tqdm
-from git import Repo
 
 
 class GithubMetaScanner(Scanner):
@@ -43,7 +37,7 @@ class GithubMetaScanner(Scanner):
         return_code = result.returncode
 
         if return_code == 0:
-            app.append(App(name, desc, [url], type(self).__name__, args.score, args.has_downloads, args.last_updated))
+            app.append(App(name, desc, [url], type(self).__name__, args.has_downloads, args.last_updated))
 
         temp_dir.cleanup()
         return app
@@ -61,17 +55,10 @@ class GithubMetaScanner(Scanner):
                     util.is_known_app(repo.name, [repo.html_url]) or 
                     util.is_ignored(repo.name) or util.is_ignored(repo.html_url)):
                 continue
-
-            try:
-                full_results.append(App(repo.name, repo.description, [repo.html_url], type(self).__name__, 
-                                        calc_github_score(repo), has_github_downloads(repo), repo.pushed_at))
-                time.sleep(0.1)
-            except RateLimitExceededException:
-                print("github_meta: rate limit exceeded")
-                time.sleep(60)
-                full_results.append(App(repo.name, repo.description, [repo.html_url], type(self).__name__, 
-                                        calc_github_score(repo), has_github_downloads(repo), repo.pushed_at))
-
+    
+            full_results.append(App(repo.name, repo.description, [repo.html_url], type(self).__name__,
+                                    len(repo.get_releases().get_page(0)) > 0, repo.pushed_at))
+            
         filtered_results = util.filter_known_apps(full_results, self.exclude)
 
         pool = mp.Pool(self.process_count, maxtasksperchild=1)

@@ -10,16 +10,13 @@ class App:
             desc: str, 
             urls: List[str],
             scanner: str, 
-            score: float = 0,
             has_downloads: bool = True,
             last_updated: datetime = None,
         ):
-        assert 0 <= score <= 100, "Score must be between 0 and 100"
         self.name = name
         self.desc = desc
         self.urls = urls
         self.scanner = scanner
-        self.score = score
         self.has_downloads = has_downloads
         self.last_updated = last_updated
 

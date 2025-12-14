@@ -2,4 +2,3 @@ requests~=2.32.3
 PyGithub~=2.8.1
 tqdm~=4.67.1
 GitPython~=3.1.45
-langdetect~=1.0.9

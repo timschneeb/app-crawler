@@ -1,16 +1,17 @@
 import argparse
 import glob
-import json
 import os
 import time
-from datetime import datetime, UTC, timedelta
+from datetime import datetime, UTC
 from operator import attrgetter
+
+from github import enable_console_debug_logging
 
 import util
 from cache import Cache
 from scanners.fdroid_scanner import FDroidScanner
-from scanners.github_meta_scanner import GithubMetaScanner
 from scanners.github_code_scanner import GithubCodeScanner
+from scanners.github_meta_scanner import GithubMetaScanner
 
 
 def scan_apps(github_auth):
@@ -18,27 +19,20 @@ def scan_apps(github_auth):
     apps.extend(FDroidScanner("https://f-droid.org/repo/index.xml").find_matching_apps())
     apps.extend(FDroidScanner("https://apt.izzysoft.de/fdroid/repo/index.xml").find_matching_apps())
     if github_auth is not None and len(github_auth) > 0:
-        apps.extend(GithubCodeScanner(github_auth, exclude=apps, process_count=2).find_matching_apps())
-        apps.extend(GithubMetaScanner(github_auth, exclude=apps, process_count=2).find_matching_apps())
+        apps.extend(GithubCodeScanner(github_auth, exclude=apps, process_count=4).find_matching_apps())
+        apps.extend(GithubMetaScanner(github_auth, exclude=apps, process_count=4).find_matching_apps())
     return sorted(set(apps), key=attrgetter('name'))
 
 
-def entry_to_string(app, ranked):
-    score_str = f"[{"{:.2f}".format(app.score)}] " if ranked else ""    
-
-    line = ""
-    if len(app.urls) > 0:
-        line += f" * {score_str}[{app.name}]({app.urls[0]})"
-    else:
-        line += f" * {score_str}{app.name}"
-
+def entry_to_string(app):
+    line = f" * [{app.name}]({app.urls[0]})"
     if app.desc is not None:
         line += f" - {app.desc}"
     line += "\n"
     return line
 
 
-def write_report(report_path, apps, ranked):
+def write_report(report_path, apps):
     with (open(report_path, 'w') as f):
         report = ("## Scan results\n"
                   "> [!IMPORTANT]\n"
@@ -49,42 +43,35 @@ def write_report(report_path, apps, ranked):
                   "Typically, these apps will be added to the list as soon as possible; however, unfinished apps are usually left in this document until they reach a usable state.\n"
                   "\n")
 
-        if not ranked:
-            report += "Entries are sorted by name and grouped into a separate category if the attached link has no downloadable releases.\n\n"
-        else:
-            apps = sorted(apps, key=lambda x: x.score, reverse=True)
-            report += "Entries are sorted by a score that is calculated based on quality of the linked repository (readme, has downloadable release, stars, etc.).\n\n"
+        report += "Entries are sorted by name and grouped into a separate category if the attached link has no downloadable releases.\n\n"
+        
+        with_downloads = [a for a in apps if a.has_downloads]
+        now = datetime.now(UTC)
+        four_months = 3 * 30 # days
+        new_and_no_downloads = [a for a in apps if not a.has_downloads and (a.last_updated is not None and (now - a.last_updated).days <= four_months)]
+        old_and_no_downloads = [a for a in apps if a not in with_downloads and a not in new_and_no_downloads]
+        for app in with_downloads:
+            report += entry_to_string(app)
 
-        if ranked:
-            for app in apps:
-                report += entry_to_string(app, ranked)
-        else:   
-            with_downloads = [a for a in apps if a.has_downloads]
-            now = datetime.now(UTC)
-            four_months = 3 * 30 # days
-            new_and_no_downloads = [a for a in apps if not a.has_downloads and (a.last_updated is not None and (now - a.last_updated).days <= four_months)]
-            old_and_no_downloads = [a for a in apps if a not in with_downloads and a not in new_and_no_downloads]
-            for app in with_downloads:
-                report += entry_to_string(app, ranked)
+        if len(new_and_no_downloads) > 0 or len(old_and_no_downloads) > 0:
+            report += f"\n### Apps with no releases\n\n"
+            
+        if len(new_and_no_downloads) > 0:
+            report += f"\n#### Updated in the last 3 months\n\n"
+            for app in new_and_no_downloads:
+                report += entry_to_string(app)
 
-            if len(new_and_no_downloads) > 0 or len(old_and_no_downloads) > 0:
-                report += f"\n### Apps with no releases\n\n"
-                
-            if len(new_and_no_downloads) > 0:
-                report += f"\n#### Updated in the last 3 months\n\n"
-                for app in new_and_no_downloads:
-                    report += entry_to_string(app, ranked)
-
-            if len(old_and_no_downloads) > 0:
-                report += f"\n#### Updated more than 3 months ago\n\n"
-                for app in old_and_no_downloads:
-                    report += entry_to_string(app, ranked)
+        if len(old_and_no_downloads) > 0:
+            report += f"\n#### Updated more than 3 months ago\n\n"
+            for app in old_and_no_downloads:
+                report += entry_to_string(app)
 
         f.write(report)
-            
 
 
 def main():
+    #enable_console_debug_logging() # TODO: remove
+    
     parser = argparse.ArgumentParser()
     parser.add_argument("targetPath")
     args = parser.parse_args()
@@ -100,8 +87,7 @@ def main():
     path = args.targetPath
     util.readme_paths = glob.glob(path + '/*.md') + glob.glob(path + '/pages/UNLISTED.md')
     report_path = os.getcwd() + "/" + summary_file
-    report_ranked_path = os.getcwd() + "/" + summary_file.replace(".md", "") + "_RANKED.md"
-
+    
     cache_dir = os.getcwd() + "/cache"
     if not os.path.exists(cache_dir):
         os.mkdir(cache_dir)
@@ -122,8 +108,7 @@ def main():
     apps = util.filter_known_apps(apps)
     apps = list(filter(remove_ignored_entries, apps))
 
-    write_report(report_path, apps, ranked=False)
-    # write_report(report_ranked_path, apps, ranked=True)
+    write_report(report_path, apps)
 
     # Print to console
     for app in apps:

@@ -71,8 +71,8 @@ jobs:
 
     - uses: actions/upload-artifact@v4
       with:
-        name: cache
-        path: cache/
+        name: cache-pkl
+        path: cache/*.pkl
 
     - name: Publish summary changes
       uses: stefanzweifel/git-auto-commit-action@v7

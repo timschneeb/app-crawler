@@ -45,6 +45,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [OnStop2FinishAndRemoveTask](https://github.com/takusan23/OnStop2FinishAndRemoveTask)
  * [PixelCarrierSettings](https://github.com/iKirby/PixelCarrierSettings)
  * [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Quick tool for utilizing CVE-2024-31317 on Android
+ * [PowerOptimizeEnabler](https://github.com/wxxsfxyzm/PowerOptimizeEnabler) - Auto switch background limit on Shizuku startup
  * [SFS-CustomTranslations-Installer](https://github.com/youfeng11/SFS-CustomTranslations-Installer) - SFS汉化安装器
  * [ShinGen](https://github.com/Shio2077/ShinGen) - 安卓原神自动对话点击器/Genshin Impact Auto-Conversation Clicker on Android
  * [TaskerSettings](https://github.com/joaomgcd/TaskerSettings) - Helper app for Tasker
@@ -107,6 +108,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [gesture_is_back](https://github.com/amrabdelhameeed/gesture_is_back)
  * [lanhegongjuxiang](https://github.com/miounet11/lanhegongjuxiang)
  * [materium](https://github.com/deminearchiver/materium) - Get Android app updates straight from the source.
+ * [mihon-ocr](https://github.com/mihon-ocr/mihon-ocr) - Free and open source manga reader for Android
  * [physical_keyboard](https://github.com/ngoloc2k4/physical_keyboard)
  * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
  * [sen](https://github.com/Fansirsqi/sen) - 一个简单的sen

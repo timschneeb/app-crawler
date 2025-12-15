@@ -18,7 +18,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Automatic-spark-renewal-APP](https://github.com/COLDESTBOW30654/Automatic-spark-renewal-APP) - 嵌入自动续火花脚本的Autojs修改版
  * [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
  * [AxManager](https://github.com/fahrez182/AxManager) - AxManager is an Android application designed to provide deeper control over apps and the system.
- * [BatStats](https://github.com/mlm-games/BatStats)
+ * [BatStats](https://github.com/mlm-games/BatStats) - Battery monitor with stats via Shizuku/root
  * [BitInstaller](https://github.com/S0methingSomething/BitInstaller)
  * [CBJQ_HugFenny](https://github.com/LiuJiewenTT/CBJQ_HugFenny)
  * [ClipboardListener](https://github.com/aa2013/ClipboardListener) - Flutter-ClipboardListener-Clipshare

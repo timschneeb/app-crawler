@@ -86,7 +86,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Android-FPS-Watcher](https://github.com/WuDi-ZhanShen/Android-FPS-Watcher) - Monitor RealTime FPS. Suppports Android 12+. Pure Java. Needs ADB or ROOT.
  * [AutoScript](https://github.com/Ion-conservation/AutoScript) - 网易云音乐广告脚本
  * [ForcePhoneMic](https://github.com/Ling554/ForcePhoneMic)
- * [ForensicEye](https://github.com/flxholle/ForensicEye)
  * [GLM-phone](https://github.com/pengqiyu123/GLM-phone)
  * [Lithium](https://github.com/RinnXyz/Lithium) - By: Rinn
  * [MiRearScreenSwitcherEnglish](https://github.com/aaronnat23/MiRearScreenSwitcherEnglish)
@@ -97,10 +96,13 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [RootManager](https://github.com/Copi24/RootManager)
  * [Search](https://github.com/mrndstvndv/Search)
  * [SerWall](https://github.com/hzoltan01/SerWall) - Firewall application for Android using the Shizuku API
+ * [TaskOrb-Android-Assistant-Framework-Based-on-AutoGLM](https://github.com/wdsj2066/TaskOrb-Android-Assistant-Framework-Based-on-AutoGLM)
  * [ThemedManager](https://github.com/Osanosa/ThemedManager) - Themed Overlays Manager
  * [TouchTool](https://github.com/mr-bogey/TouchTool) - 使用Android无障碍功能来帮助用户点击。蓝图式任务编辑
+ * [WebSu-Plus](https://github.com/Betrix-ID/WebSu-Plus)
  * [XPerm](https://github.com/Alhkxsj/XPerm) - 一个权限代理应用
  * [XiaoBost](https://github.com/danhtrinhdevelopermay/XiaoBost) - The languages that make up the web. HTML provides the basic structure, CSS controls formatting, and JavaScript controls the behavior of different elements.
+ * [ZontesZoom](https://github.com/kerojohan/ZontesZoom)
  * [autoai-android](https://github.com/king0929zion/autoai-android)
  * [chengying](https://github.com/nowmore/chengying)
  * [fps-viewer-android](https://github.com/moahaassy-design/fps-viewer-android) - FPS Viewer - Android monitoring aplikasi dengan Shizuku untuk real-time FPS monitoring tanpa root
@@ -108,7 +110,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [lanhegongjuxiang](https://github.com/miounet11/lanhegongjuxiang)
  * [materium](https://github.com/deminearchiver/materium) - Get Android app updates straight from the source.
  * [physical_keyboard](https://github.com/ngoloc2k4/physical_keyboard)
- * [ripple-android](https://github.com/husmus00/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
+ * [ripple-android](https://github.com/hussam-alhassan/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
  * [sen](https://github.com/Fansirsqi/sen) - 一个简单的sen
  * [sunshine-android](https://github.com/ZyoungInc/sunshine-android) - a sunshine server for android system
 
@@ -119,6 +121,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [AutoTask](https://github.com/xjunz/AutoTask) - An automation assistant app supporting both Shizuku and AccessibilityService.
  * [ControllerMapper](https://github.com/anhquan7826/ControllerMapper)
  * [File-Manager](https://github.com/abusaeed-shuvo/File-Manager) - Simple file manager with shizuku in compose.
+ * [ForensicEye](https://github.com/flxholle/ForensicEye)
  * [LauncherChanger](https://github.com/Samuel095383/LauncherChanger)
  * [LogCollector](https://github.com/thekosa/LogCollector) - Android application designed to collect and manage Android system logs
  * [ShizukuRefresher](https://github.com/lyr341/ShizukuRefresher)

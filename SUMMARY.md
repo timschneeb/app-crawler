@@ -45,6 +45,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [MndroLua](https://github.com/Crescent-of-Maya/MndroLua) - A modern fork of AndroLua+ / 更加现代的 AndroLua+ 魔改版
  * [Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
  * [OnStop2FinishAndRemoveTask](https://github.com/takusan23/OnStop2FinishAndRemoveTask)
+ * [Open-AutoGLM-Android](https://github.com/xinzezhu/Open-AutoGLM-Android) - 安卓版的AutoGLM，不需要部署直接安装就可以使用，欢迎共建~
  * [PixelCarrierSettings](https://github.com/iKirby/PixelCarrierSettings)
  * [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Quick tool for utilizing CVE-2024-31317 on Android
  * [PowerOptimizeEnabler](https://github.com/wxxsfxyzm/PowerOptimizeEnabler) - Auto switch background limit on Shizuku startup
@@ -70,6 +71,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [kdeconnect-android-shizuku](https://github.com/Shoukaku39/kdeconnect-android-shizuku) - Forked from KDE Connect Android. Adds Shizuku support to bypass clipboard access restrictions on Android 10+ without using READ_LOGS or manual ADB shell. 基于 KDE Connect Android 的分支，添加对 Shizuku 的支持，在无需请求 READ_LOGS 或手动 ADB 授权的情况下，绕过 Android 10+ 剪贴板访问限制。
  * [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ / Linkura Localify / LoveLive Translation / llll
  * [pastiera](https://github.com/palsoftware/pastiera) - android keyboard specialized for pkb devices
+ * [phone-agent-xiaozhi](https://github.com/jieyou-io/phone-agent-xiaozhi)
  * [q25-res-changer](https://github.com/mybabysexy/q25-res-changer)
  * [roubao](https://github.com/Turbo1123/roubao) - Android Automation Tool Based on Vision-Language Models
  * [telegram-rc](https://github.com/telegram-sms/telegram-rc) - [ROOT] A robot running on an Android device that controls your phone.
@@ -90,6 +92,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Lithium](https://github.com/RinnXyz/Lithium) - By: Rinn
  * [MiRearScreenSwitcherEnglish](https://github.com/aaronnat23/MiRearScreenSwitcherEnglish)
  * [ModularWhitelistApp](https://github.com/tam1012/ModularWhitelistApp) - MODULAR WHITELIST - Xiaomi PowerKeeper Whitelist Tool for Android
+ * [Operit-build](https://github.com/3571963438/Operit-build)
  * [PandorasBox](https://github.com/Ujhhgtg/PandorasBox)
  * [PhonePointer](https://github.com/Usepot/PhonePointer)
  * [Reverse_KBattery](https://github.com/ItosEO/Reverse_KBattery)
@@ -109,6 +112,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [gesture_is_back](https://github.com/amrabdelhameeed/gesture_is_back)
  * [lanhegongjuxiang](https://github.com/miounet11/lanhegongjuxiang)
  * [materium](https://github.com/deminearchiver/materium) - Get Android app updates straight from the source.
+ * [pandamousclone](https://github.com/Danchoimod/pandamousclone)
  * [physical_keyboard](https://github.com/ngoloc2k4/physical_keyboard)
  * [ripple-android](https://github.com/hussam-alhassan/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
  * [sen](https://github.com/Fansirsqi/sen) - 一个简单的sen
@@ -137,6 +141,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [gemini-android](https://github.com/niki914/gemini-android) - Let gemini control your Android phone through function calling. 通过FunctionCalling让Gemini操控安卓手机。
  * [greentooth](https://github.com/qwerty12/greentooth) - Shizuku-using fork of https://gitlab.com/nbergman/greentooth
  * [li](https://github.com/lousli/li) - 安卓去广告
+ * [midi-pro](https://github.com/sleepchild/midi-pro) - rescue
  * [modtoon_module](https://github.com/Inhaleoxygen/modtoon_module)
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
  * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]

@@ -33,8 +33,23 @@ def section_to_string(title: str, apps: list) -> str:
     report = "\n"
     now = datetime.now(UTC)
     three_months = 3 * 30 # days
-    new = [a for a in apps if (a.last_updated is not None and (now - a.last_updated).days <= three_months)]
-    old = [a for a in apps if a not in new]
+
+    # Helper: ensure a datetime is timezone-aware in UTC. If it's naive, assume UTC.
+    def _make_aware(dt):
+        if dt is None:
+            return None
+        if dt.tzinfo is None:
+            return dt.replace(tzinfo=UTC)
+        return dt.astimezone(UTC)
+
+    new = []
+    old = []
+    for a in apps:
+        last = _make_aware(a.last_updated)
+        if last is not None and (now - last).days <= three_months:
+            new.append(a)
+        else:
+            old.append(a)
 
     if len(new) > 0 or len(old) > 0:
         report += f"### {title}\n\n"

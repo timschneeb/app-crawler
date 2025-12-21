@@ -108,7 +108,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ZontesZoom](https://github.com/kerojohan/ZontesZoom)
  * [autoai-android](https://github.com/king0929zion/autoai-android)
  * [chengying](https://github.com/nowmore/chengying)
- * [fps-viewer-android](https://github.com/moahaassy-design/fps-viewer-android) - FPS Viewer - Android monitoring aplikasi dengan Shizuku untuk real-time FPS monitoring tanpa root
  * [gesture_is_back](https://github.com/amrabdelhameeed/gesture_is_back)
  * [lanhegongjuxiang](https://github.com/miounet11/lanhegongjuxiang)
  * [materium](https://github.com/deminearchiver/materium) - Get Android app updates straight from the source.

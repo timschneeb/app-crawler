@@ -29,6 +29,29 @@ def entry_to_string(app):
     line += "\n"
     return line
 
+def section_to_string(title: str, apps: list) -> str:
+    report = "\n"
+    now = datetime.now(UTC)
+    three_months = 3 * 30 # days
+    new = [a for a in apps if (a.last_updated is not None and (now - a.last_updated).days <= three_months)]
+    old = [a for a in apps if a not in new]
+
+    if len(new) > 0 or len(old) > 0:
+        report += f"### {title}\n\n"
+
+    if len(new) > 0:
+        report += f"#### Updated in the last 3 months\n\n"
+        for app in new:
+            report += entry_to_string(app)
+
+    if len(old) > 0:
+        report += f"\n#### Updated more than 3 months ago\n\n"
+        for app in old:
+            report += entry_to_string(app)
+
+    return report
+
+
 
 def write_report(report_path, apps):
     with (open(report_path, 'w') as f):
@@ -42,28 +65,8 @@ def write_report(report_path, apps):
                   "\n")
 
         report += "Entries are sorted by name and grouped into a separate category if the attached link has no downloadable releases.\n\n"
-        
-        with_downloads = [a for a in apps if a.has_downloads]
-        now = datetime.now(UTC)
-        four_months = 3 * 30 # days
-        new_and_no_downloads = [a for a in apps if not a.has_downloads and (a.last_updated is not None and (now - a.last_updated).days <= four_months)]
-        old_and_no_downloads = [a for a in apps if a not in with_downloads and a not in new_and_no_downloads]
-        for app in with_downloads:
-            report += entry_to_string(app)
-
-        if len(new_and_no_downloads) > 0 or len(old_and_no_downloads) > 0:
-            report += f"\n### Apps with no releases\n\n"
-            
-        if len(new_and_no_downloads) > 0:
-            report += f"\n#### Updated in the last 3 months\n\n"
-            for app in new_and_no_downloads:
-                report += entry_to_string(app)
-
-        if len(old_and_no_downloads) > 0:
-            report += f"\n#### Updated more than 3 months ago\n\n"
-            for app in old_and_no_downloads:
-                report += entry_to_string(app)
-
+        report += section_to_string("Apps with releases", [a for a in apps if a.has_downloads])
+        report += section_to_string("Apps with no releases", [a for a in apps if not a.has_downloads])
         f.write(report)
 
 

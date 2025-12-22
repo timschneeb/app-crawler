@@ -20,6 +20,8 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Athena: Firewall & Adblocker](https://github.com/Kin69/Athena) - Firewall & AdBlocker (Root/VPN Supported). Material3 And Minimalistic Design
  * [Auto-GLM-Android](https://github.com/king0929zion/Auto-GLM-Android) - Auto-GLM-Android
  * [AutoAccounting](https://github.com/AutoAccountingOrg/AutoAccounting) - 你的每一笔账单都值得记录！
+ * [AutoGLM_Next](https://github.com/kgyyds/AutoGLM_Next) - 安卓ai自动化操作
+ * [AutoMandroid](https://github.com/A-nony-mous/AutoMandroid)
  * [Autoglm-Android](https://github.com/fsquirt/Autoglm-Android) - 一款无需电脑，通过Shizuku来让Autoglm操作你的手机的程序
  * [Automatic-spark-renewal-APP](https://github.com/COLDESTBOW30654/Automatic-spark-renewal-APP) - 嵌入自动续火花脚本的Autojs修改版
  * [Autoxjs_v6_ozobi](https://github.com/ozobiozobi/Autoxjs_v6_ozobi) - 基于 Autoxjs v6 魔改
@@ -93,12 +95,14 @@ Entries are sorted by name and grouped into a separate category if the attached 
 
  * [-v-](https://github.com/AWDX-DYVB/-v-)
  * [A2Auth](https://github.com/tangguiyuan/A2Auth) - This repository contains the source code of A2AUTH, including the data collection app and authentication model. A2AUTH is an application-agnostic framework for continuous smartphone authentication using multimodal behavioral features and a triplet-loss network.
+ * [AIDE-Plus-AS](https://github.com/sleepchild/AIDE-Plus-AS)
  * [ATOTO-TOOLKIT_2025](https://github.com/Eliminater74/ATOTO-TOOLKIT_2025) - ATOTO Toolkit 2025
  * [Android-FPS-Watcher](https://github.com/WuDi-ZhanShen/Android-FPS-Watcher) - Monitor RealTime FPS. Suppports Android 12+. Pure Java. Needs ADB or ROOT.
  * [AutoScript](https://github.com/Ion-conservation/AutoScript) - 网易云音乐广告脚本
  * [BillAuto](https://github.com/Albresky/BillAuto)
  * [ForcePhoneMic](https://github.com/Ling554/ForcePhoneMic)
  * [GLM-phone](https://github.com/pengqiyu123/GLM-phone)
+ * [LibreSwitch](https://github.com/earnerbaymalay/LibreSwitch)
  * [Lithium](https://github.com/RinnXyz/Lithium) - By: Rinn
  * [MiRearScreenSwitcherEnglish](https://github.com/aaronnat23/MiRearScreenSwitcherEnglish)
  * [ModularWhitelistApp](https://github.com/tam1012/ModularWhitelistApp) - MODULAR WHITELIST - Xiaomi PowerKeeper Whitelist Tool for Android

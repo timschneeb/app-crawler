@@ -37,6 +37,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Sysuer](https://github.com/SYSU-Tang/Sysuer)
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [ZKM](https://github.com/ZUANVFX01/ZKM) - Zuan Kernel Manager App For  Root Device Android 
+ * [ZiZip](https://github.com/king0929zion/ZiZip)
  * [android-wifi-pojie](https://github.com/bszapp/android-wifi-pojie) - Android使用密码本暴力破解wifi密码工具
  * [ankihelper-plus](https://github.com/huhuswei/ankihelper-plus)
  * [chrono-s_camera_android](https://github.com/newyusir/chrono-s_camera_android) - android port of chrono's camera
@@ -102,6 +103,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [autoai-android](https://github.com/king0929zion/autoai-android)
  * [chengying](https://github.com/nowmore/chengying)
  * [gesture_is_back](https://github.com/amrabdelhameeed/gesture_is_back)
+ * [github_tornaco_android_thanos](https://github.com/Eduardob3677/github_tornaco_android_thanos) - Decompiled APK: github.tornaco.android.thanos
  * [lanhegongjuxiang](https://github.com/miounet11/lanhegongjuxiang)
  * [materium](https://github.com/deminearchiver/materium) - Get Android app updates straight from the source.
  * [pandamousclone](https://github.com/Danchoimod/pandamousclone)

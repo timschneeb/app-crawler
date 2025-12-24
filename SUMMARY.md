@@ -26,7 +26,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [FreezeApp](https://github.com/JuneLeo/FreezeApp)
  * [GlyphRecorder](https://github.com/aaa1115910/GlyphRecorder) - A glyph recognition tool.
  * [Hz-Changer](https://github.com/S-Marcos-S/Hz-Changer) - Under development! Simple, light, free and functional hz changer app.
- * [Installer](https://github.com/huidoudour/Installer) - This app is only available to developers
+ * [Installer](https://github.com/huidoudour/Installer) - This app is for reference only and may be available
  * [Locker](https://github.com/brill594/Locker) - Prevent you from accessing your phone.
  * [Loki](https://github.com/trinadhthatakula/Loki) - Android App logger
  * [MiRearScreenSwitcher](https://github.com/GoldenglowSusie/MiRearScreenSwitcher) - 为小米17Pro及以上（也许及以后）机型的背屏一键切换器
@@ -93,6 +93,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [RootManager](https://github.com/Copi24/RootManager)
  * [Search](https://github.com/mrndstvndv/Search)
  * [SerWall](https://github.com/hzoltan01/SerWall) - Firewall application for Android using the Shizuku API
+ * [Sunshine-android](https://github.com/ZyoungInc/Sunshine-android) - a sunshine server for android system
  * [TaskOrb-Android-Assistant-Framework-Based-on-AutoGLM](https://github.com/wdsj2066/TaskOrb-Android-Assistant-Framework-Based-on-AutoGLM)
  * [ThemedManager](https://github.com/Osanosa/ThemedManager) - Themed Overlays Manager
  * [TouchTool](https://github.com/mr-bogey/TouchTool) - 使用Android无障碍功能来帮助用户点击。蓝图式任务编辑
@@ -102,8 +103,8 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ZontesZoom](https://github.com/kerojohan/ZontesZoom)
  * [autoai-android](https://github.com/king0929zion/autoai-android)
  * [chengying](https://github.com/nowmore/chengying)
- * [gesture_is_back](https://github.com/amrabdelhameeed/gesture_is_back)
  * [github_tornaco_android_thanos](https://github.com/Eduardob3677/github_tornaco_android_thanos) - Decompiled APK: github.tornaco.android.thanos
+ * [github_tornaco_android_thanos_2](https://github.com/Eduardob3677/github_tornaco_android_thanos_2) - Decompiled APK: github.tornaco.android.thanos
  * [lanhegongjuxiang](https://github.com/miounet11/lanhegongjuxiang)
  * [materium](https://github.com/deminearchiver/materium) - Get Android app updates straight from the source.
  * [pandamousclone](https://github.com/Danchoimod/pandamousclone)
@@ -134,6 +135,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [android-settings-scheduler](https://github.com/Turtlepaw/android-settings-scheduler) - Schedule any settings that are in the Android Settings app to be changed
  * [connect-screen](https://github.com/sherylynn/connect-screen)
  * [gemini-android](https://github.com/niki914/gemini-android) - Let gemini control your Android phone through function calling. 通过FunctionCalling让Gemini操控安卓手机。
+ * [gesture_is_back](https://github.com/amrabdelhameeed/gesture_is_back)
  * [greentooth](https://github.com/qwerty12/greentooth) - Shizuku-using fork of https://gitlab.com/nbergman/greentooth
  * [li](https://github.com/lousli/li) - 安卓去广告
  * [midi-pro](https://github.com/sleepchild/midi-pro) - rescue

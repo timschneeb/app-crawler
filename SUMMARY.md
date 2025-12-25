@@ -31,6 +31,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Loki](https://github.com/trinadhthatakula/Loki) - Android App logger
  * [MiRearScreenSwitcher](https://github.com/GoldenglowSusie/MiRearScreenSwitcher) - 为小米17Pro及以上（也许及以后）机型的背屏一键切换器
  * [Open-AutoGLM-Android](https://github.com/xinzezhu/Open-AutoGLM-Android) - 安卓版的AutoGLM，不需要部署直接安装就可以使用，欢迎共建~
+ * [Open-AutoGLM-App](https://github.com/dascard/Open-AutoGLM-App) - 只需一个APP就能实现AutoGLM的功能
  * [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Quick tool for utilizing CVE-2024-31317 on Android
  * [SFS-CustomTranslations-Installer](https://github.com/youfeng11/SFS-CustomTranslations-Installer) - SFS汉化安装器
  * [Streetwise-Toolbox](https://github.com/StreetwiseGamgee/Streetwise-Toolbox) - Using Android Studio to develop a device statistics application using Jetpack Compose.
@@ -46,6 +47,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ / Linkura Localify / LoveLive Translation / llll
  * [phone-agent-xiaozhi](https://github.com/jieyou-io/phone-agent-xiaozhi)
  * [q25-res-changer](https://github.com/mybabysexy/q25-res-changer)
+ * [record-manager](https://github.com/record-mod/record-manager) - Application to install and manage ReCord on android.
  * [roubao](https://github.com/Turbo1123/roubao) - Android Automation Tool Based on Vision-Language Models
  * [telegram-rc](https://github.com/telegram-sms/telegram-rc) - [ROOT] A robot running on an Android device that controls your phone.
  * [vFlow](https://github.com/ChaoMixian/vFlow) - vFlow 是一款为 Android 平台设计的、强大且高度可扩展的自动化工具。它允许你通过图形化界面，将一系列“动作模块”自由组合成强大的“工作流”，从而自动完成各种日常的、重复性的屏幕操作任务。
@@ -86,11 +88,13 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Lithium](https://github.com/RinnXyz/Lithium) - By: Rinn
  * [MiRearScreenSwitcherEnglish](https://github.com/aaronnat23/MiRearScreenSwitcherEnglish)
  * [ModularWhitelistApp](https://github.com/tam1012/ModularWhitelistApp) - MODULAR WHITELIST - Xiaomi PowerKeeper Whitelist Tool for Android
+ * [Naiko](https://github.com/UnTamed-Fury/Naiko) - Mihon Fork with Yōkai UI but with Anime support 
  * [Operit-build](https://github.com/3571963438/Operit-build)
  * [PandorasBox](https://github.com/Ujhhgtg/PandorasBox)
  * [PhonePointer](https://github.com/Usepot/PhonePointer)
  * [Reverse_KBattery](https://github.com/ItosEO/Reverse_KBattery)
  * [RootManager](https://github.com/Copi24/RootManager)
+ * [Ruto-GLM](https://github.com/iamr0s/Ruto-GLM) - Runs automatically (Android Phone)
  * [Search](https://github.com/mrndstvndv/Search)
  * [SerWall](https://github.com/hzoltan01/SerWall) - Firewall application for Android using the Shizuku API
  * [Sunshine-android](https://github.com/ZyoungInc/Sunshine-android) - a sunshine server for android system
@@ -109,6 +113,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [materium](https://github.com/deminearchiver/materium) - Get Android app updates straight from the source.
  * [pandamousclone](https://github.com/Danchoimod/pandamousclone)
  * [physical_keyboard](https://github.com/ngoloc2k4/physical_keyboard)
+ * [pikaso](https://github.com/king0929zion/pikaso) - fork by operit
  * [ripple-android](https://github.com/hussam-alhassan/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
  * [sen](https://github.com/Fansirsqi/sen) - 一个简单的sen
  * [sunshine-android](https://github.com/ZyoungInc/sunshine-android) - a sunshine server for android system

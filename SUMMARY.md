@@ -46,6 +46,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [haval-app-tool-multimidia](https://github.com/bobaoapae/haval-app-tool-multimidia) - Ferramenta Android experimental para estender e aprimorar o sistema multimídia do Haval H6 GT (GWM) via engenharia reversa e Shizuku
  * [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ / Linkura Localify / LoveLive Translation / llll
  * [phone-agent-xiaozhi](https://github.com/jieyou-io/phone-agent-xiaozhi)
+ * [pikaso](https://github.com/king0929zion/pikaso) - fork by operit
  * [q25-res-changer](https://github.com/mybabysexy/q25-res-changer)
  * [record-manager](https://github.com/record-mod/record-manager) - Application to install and manage ReCord on android.
  * [roubao](https://github.com/Turbo1123/roubao) - Android Automation Tool Based on Vision-Language Models
@@ -113,9 +114,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [materium](https://github.com/deminearchiver/materium) - Get Android app updates straight from the source.
  * [pandamousclone](https://github.com/Danchoimod/pandamousclone)
  * [physical_keyboard](https://github.com/ngoloc2k4/physical_keyboard)
- * [pikaso](https://github.com/king0929zion/pikaso) - fork by operit
  * [ripple-android](https://github.com/hussam-alhassan/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
- * [sen](https://github.com/Fansirsqi/sen) - 一个简单的sen
  * [sunshine-android](https://github.com/ZyoungInc/sunshine-android) - a sunshine server for android system
 
 #### Updated more than 3 months ago
@@ -146,5 +145,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [midi-pro](https://github.com/sleepchild/midi-pro) - rescue
  * [modtoon_module](https://github.com/Inhaleoxygen/modtoon_module)
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
+ * [sen](https://github.com/Fansirsqi/sen) - 一个简单的sen
  * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]
  * [xperia-camera-button](https://github.com/aaronkh/xperia-camera-button)

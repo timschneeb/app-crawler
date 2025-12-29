@@ -17,7 +17,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Auto-GLM-Android](https://github.com/king0929zion/Auto-GLM-Android) - Auto-GLM-Android
  * [AutoAccounting](https://github.com/AutoAccountingOrg/AutoAccounting) - 你的每一笔账单都值得记录！
  * [AutoGLM-Android](https://github.com/caochuankuan/AutoGLM-Android) - 基于 AndroidAutoGLM 二次开发的AutoGLM 纯安卓端 app，不用依赖电脑，安装即用。界面清爽可读
- * [AutoGLM-For-Android](https://github.com/Luokavin/AutoGLM-For-Android) - 基于 Open-AutoGLM 的 Android 原生手机智能助手应用 | Native Android Phone AI Assistant Based on Open-AutoGLM
+ * [AutoGLM-For-Android](https://github.com/Luokavin/AutoGLM-For-Android) - 纯 Android 端 Open-AutoGLM 实现，无需电脑
  * [AutoGLM_Next](https://github.com/kgyyds/AutoGLM_Next) - 安卓ai自动化操作
  * [AutoMandroid](https://github.com/A-nony-mous/AutoMandroid)
  * [Autoglm-Android](https://github.com/fsquirt/Autoglm-Android) - 一款无需电脑，通过Shizuku来让Autoglm操作你的手机的程序
@@ -25,6 +25,8 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [AxManager](https://github.com/fahrez182/AxManager) - AxManager is an Android application designed to provide deeper control over apps and the system.
  * [BitInstaller](https://github.com/S0methingSomething/BitInstaller)
  * [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新
+ * [ESP](https://github.com/bhikandeshmukh/ESP)
+ * [FakePowerOff](https://github.com/BinitDOX/FakePowerOff) - Simulate device shutdown, ideal for use with anti-theft apps.
  * [FreezeApp](https://github.com/JuneLeo/FreezeApp)
  * [GlyphRecorder](https://github.com/aaa1115910/GlyphRecorder) - A glyph recognition tool.
  * [Hz-Changer](https://github.com/S-Marcos-S/Hz-Changer) - Under development! Simple, light, free and functional hz changer app.
@@ -34,6 +36,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [MiRearScreenSwitcher](https://github.com/GoldenglowSusie/MiRearScreenSwitcher) - 为小米17Pro及以上（也许及以后）机型的背屏一键切换器
  * [Open-AutoGLM-Android](https://github.com/xinzezhu/Open-AutoGLM-Android) - 安卓版的AutoGLM，不需要部署直接安装就可以使用，欢迎共建~
  * [Open-AutoGLM-App](https://github.com/dascard/Open-AutoGLM-App) - 只需一个APP就能实现AutoGLM的功能
+ * [Pikaso-AI](https://github.com/king0929zion/Pikaso-AI) - agi
  * [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Quick tool for utilizing CVE-2024-31317 on Android
  * [QuantumFusionLauncher-P-](https://github.com/FireRam63/QuantumFusionLauncher-P-)
  * [SFS-CustomTranslations-Installer](https://github.com/youfeng11/SFS-CustomTranslations-Installer) - SFS汉化安装器

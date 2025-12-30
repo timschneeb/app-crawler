@@ -43,7 +43,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Streetwise-Toolbox](https://github.com/StreetwiseGamgee/Streetwise-Toolbox) - Using Android Studio to develop a device statistics application using Jetpack Compose.
  * [Sysuer](https://github.com/SYSU-Tang/Sysuer)
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
- * [ZKM](https://github.com/ZUANVFX01/ZKM) - Zuan Kernel Manager App For  Root Device Android 
+ * [ZKM](https://github.com/ZUANVFX01/ZKM) - Zuan Kernel Manager App For  Root Device Android With Material 3 Expressive Modern Style.
  * [ZiZip](https://github.com/king0929zion/ZiZip)
  * [android-wifi-pojie](https://github.com/bszapp/android-wifi-pojie) - Android使用密码本暴力破解wifi密码工具
  * [ankihelper-plus](https://github.com/huhuswei/ankihelper-plus)
@@ -88,8 +88,10 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [-v-](https://github.com/AWDX-DYVB/-v-)
  * [AIDE-Plus-AS](https://github.com/sleepchild/AIDE-Plus-AS)
  * [ATOTO-TOOLKIT_2025](https://github.com/Eliminater74/ATOTO-TOOLKIT_2025) - ATOTO Toolkit 2025
+ * [AutoPilotAI](https://github.com/soumithganji/AutoPilotAI)
  * [AutoScript](https://github.com/Ion-conservation/AutoScript) - 网易云音乐广告脚本
  * [BillAuto](https://github.com/Albresky/BillAuto)
+ * [DroidLock](https://github.com/zhengzaihong/DroidLock) - Android 企业设备管理器-设备监管-非定制系统方案
  * [ForcePhoneMic](https://github.com/Ling554/ForcePhoneMic)
  * [GLM-phone](https://github.com/pengqiyu123/GLM-phone)
  * [LibreSwitch](https://github.com/earnerbaymalay/LibreSwitch) - The ultimate Android privacy dashboard. Scan for bloatware and replace it with FOSS alternatives automatically. 
@@ -115,6 +117,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [XPerm](https://github.com/Alhkxsj/XPerm) - 一个权限代理应用
  * [XiaoBost](https://github.com/danhtrinhdevelopermay/XiaoBost) - The languages that make up the web. HTML provides the basic structure, CSS controls formatting, and JavaScript controls the behavior of different elements.
  * [ZontesZoom](https://github.com/kerojohan/ZontesZoom)
+ * [adocker](https://github.com/LukeXeon/adocker) - 在Android上运行Docker容器，AI编程
  * [autoai-android](https://github.com/king0929zion/autoai-android)
  * [bokbok](https://github.com/mustakim-init/bokbok) - A next-generation voice chat app for Gamers on android based on Material Design.
  * [chengying](https://github.com/nowmore/chengying)
@@ -125,7 +128,10 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [materium](https://github.com/deminearchiver/materium) - Get Android app updates straight from the source.
  * [pandamousclone](https://github.com/Danchoimod/pandamousclone)
  * [physical_keyboard](https://github.com/ngoloc2k4/physical_keyboard)
+ * [remoteadb](https://github.com/Copi24/remoteadb)
  * [ripple-android](https://github.com/hussam-alhassan/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
+ * [studious-octo-fishstick](https://github.com/bdralbydy875-ux/studious-octo-fishstick)
+ * [studious-octo-train](https://github.com/bdralbydy875-ux/studious-octo-train)
  * [sunshine-android](https://github.com/ZyoungInc/sunshine-android) - a sunshine server for android system
 
 #### Updated more than 3 months ago

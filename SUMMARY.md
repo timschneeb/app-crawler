@@ -88,7 +88,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [-v-](https://github.com/AWDX-DYVB/-v-)
  * [AIDE-Plus-AS](https://github.com/sleepchild/AIDE-Plus-AS)
  * [ATOTO-TOOLKIT_2025](https://github.com/Eliminater74/ATOTO-TOOLKIT_2025) - ATOTO Toolkit 2025
- * [AutoPilotAI](https://github.com/soumithganji/AutoPilotAI)
+ * [AutoPilotAI](https://github.com/soumithganji/AutoPilotAI) - VLM-powered Android automation agent that "sees" your screen and executes complex tasks from simple voice commands
  * [AutoScript](https://github.com/Ion-conservation/AutoScript) - 网易云音乐广告脚本
  * [BillAuto](https://github.com/Albresky/BillAuto)
  * [BitManager](https://github.com/S0methingSomething/BitManager)
@@ -133,7 +133,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ripple-android](https://github.com/hussam-alhassan/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
  * [studious-octo-fishstick](https://github.com/bdralbydy875-ux/studious-octo-fishstick)
  * [studious-octo-train](https://github.com/bdralbydy875-ux/studious-octo-train)
- * [sunshine-android](https://github.com/ZyoungInc/sunshine-android) - a sunshine server for android system
 
 #### Updated more than 3 months ago
 

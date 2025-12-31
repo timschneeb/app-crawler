@@ -91,6 +91,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [AutoPilotAI](https://github.com/soumithganji/AutoPilotAI)
  * [AutoScript](https://github.com/Ion-conservation/AutoScript) - 网易云音乐广告脚本
  * [BillAuto](https://github.com/Albresky/BillAuto)
+ * [BitManager](https://github.com/S0methingSomething/BitManager)
  * [DroidLock](https://github.com/zhengzaihong/DroidLock) - Android 企业设备管理器-设备监管-非定制系统方案
  * [ForcePhoneMic](https://github.com/Ling554/ForcePhoneMic)
  * [GLM-phone](https://github.com/pengqiyu123/GLM-phone)
@@ -127,7 +128,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [lanhegongjuxiang](https://github.com/miounet11/lanhegongjuxiang)
  * [lenovo-pen-plus-debug](https://github.com/ilamparithi-in/lenovo-pen-plus-debug) - My little investigation of why the button on the Pen included with Lenovo Idea Tab (Pro) doesnt work like the S Pen's (and a solution)
  * [materium](https://github.com/deminearchiver/materium) - Get Android app updates straight from the source.
- * [pandamousclone](https://github.com/Danchoimod/pandamousclone)
  * [physical_keyboard](https://github.com/ngoloc2k4/physical_keyboard)
  * [remoteadb](https://github.com/Copi24/remoteadb)
  * [ripple-android](https://github.com/hussam-alhassan/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices

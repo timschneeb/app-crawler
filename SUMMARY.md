@@ -13,6 +13,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
 #### Updated in the last 3 months
 
  * [-Launcher](https://github.com/Linkolnn/-Launcher)
+ * [AirMouse](https://github.com/jinyinghua/AirMouse) - A App can control your Android phone without touch.
  * [AppVaultX](https://github.com/sunilpaulmathew/AppVaultX) - App Control Made Easy
  * [Auto-GLM-Android](https://github.com/king0929zion/Auto-GLM-Android) - Auto-GLM-Android
  * [AutoAccounting](https://github.com/AutoAccountingOrg/AutoAccounting) - 你的每一笔账单都值得记录！
@@ -50,6 +51,8 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [chrono-s_camera_android](https://github.com/newyusir/chrono-s_camera_android) - android port of chrono's camera
  * [haval-app-tool-multimidia](https://github.com/bobaoapae/haval-app-tool-multimidia) - Ferramenta Android experimental para estender e aprimorar o sistema multimídia do Haval H6 GT (GWM) via engenharia reversa e Shizuku
  * [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ / Linkura Localify / LoveLive Translation / llll
+ * [mixer-1](https://github.com/farizanjum/mixer-1) - Per-app volume control for Android, designed with Nothing OS aesthetics.
+ * [morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe Manager
  * [phone-agent-xiaozhi](https://github.com/jieyou-io/phone-agent-xiaozhi)
  * [pikaso](https://github.com/king0929zion/pikaso) - fork by operit
  * [q25-res-changer](https://github.com/mybabysexy/q25-res-changer)
@@ -106,6 +109,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [PORNYOMI](https://github.com/ferelking242/PORNYOMI)
  * [PandorasBox](https://github.com/Ujhhgtg/PandorasBox)
  * [PhonePointer](https://github.com/Usepot/PhonePointer)
+ * [QABlackBo](https://github.com/mikepty/QABlackBo) - Black Box Testing Tool
  * [Reverse_KBattery](https://github.com/ItosEO/Reverse_KBattery)
  * [RootManager](https://github.com/Copi24/RootManager)
  * [Ruto-GLM](https://github.com/iamr0s/Ruto-GLM) - Runs automatically (Android Phone)
@@ -131,6 +135,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [physical_keyboard](https://github.com/ngoloc2k4/physical_keyboard)
  * [remoteadb](https://github.com/Copi24/remoteadb)
  * [ripple-android](https://github.com/hussam-alhassan/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
+ * [sing-box-for-android](https://github.com/SagerNet/sing-box-for-android) - Experimental Android client for sing-box
  * [studious-octo-fishstick](https://github.com/bdralbydy875-ux/studious-octo-fishstick)
  * [studious-octo-train](https://github.com/bdralbydy875-ux/studious-octo-train)
 

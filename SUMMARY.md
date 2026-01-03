@@ -14,6 +14,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
 
  * [-Launcher](https://github.com/Linkolnn/-Launcher)
  * [AirMouse](https://github.com/jinyinghua/AirMouse) - 一个能隔空操控你的安卓手机的APP。An app that can remotely control your Android phone.
+ * [AndroidPerformanceOptimization-APP](https://github.com/tew080/AndroidPerformanceOptimization-APP) - Build App By AI
  * [AppVaultX](https://github.com/sunilpaulmathew/AppVaultX) - App Control Made Easy
  * [Auto-GLM-Android](https://github.com/king0929zion/Auto-GLM-Android) - Auto-GLM-Android
  * [AutoAccounting](https://github.com/AutoAccountingOrg/AutoAccounting) - 你的每一笔账单都值得记录！
@@ -43,8 +44,9 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Quick tool for utilizing CVE-2024-31317 on Android
  * [QuantumFusionLauncher-P-](https://github.com/FireRam63/QuantumFusionLauncher-P-)
  * [SFS-CustomTranslations-Installer](https://github.com/youfeng11/SFS-CustomTranslations-Installer) - SFS汉化安装器
+ * [Simple-wireless-ADB](https://github.com/Danz17/Simple-wireless-ADB) - Simple Wireless ADB - ROOT REQUIRED - Lightweight Android app to enable wireless ADB on rooted devices
  * [Streetwise-Toolbox](https://github.com/StreetwiseGamgee/Streetwise-Toolbox) - Using Android Studio to develop a device statistics application using Jetpack Compose.
- * [Sysuer](https://github.com/SYSU-Tang/Sysuer)
+ * [Sysuer](https://github.com/SYSU-Tang/Sysuer) - 一款为中山大学 (SYSU) 学子打造的非官方校园生活助手。
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [ZKM](https://github.com/ZUANVFX01/ZKM) - Zuan Kernel Manager App For  Root Device Android With Material 3 Expressive Modern Style.
  * [ZiZip](https://github.com/king0929zion/ZiZip)

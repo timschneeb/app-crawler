@@ -27,6 +27,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [BitInstaller](https://github.com/S0methingSomething/BitInstaller)
  * [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新
  * [ESP](https://github.com/bhikandeshmukh/ESP)
+ * [EnforceDoze](https://github.com/farfromrefug/EnforceDoze) - Enable Doze mode immediately after screen off and turn off motion sensing
  * [FakePowerOff](https://github.com/BinitDOX/FakePowerOff) - Simulate device shutdown, ideal for use with anti-theft apps.
  * [FreezeApp](https://github.com/JuneLeo/FreezeApp)
  * [GlyphRecorder](https://github.com/aaa1115910/GlyphRecorder) - A glyph recognition tool.
@@ -52,8 +53,8 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [chrono-s_camera_android](https://github.com/newyusir/chrono-s_camera_android) - android port of chrono's camera
  * [haval-app-tool-multimidia](https://github.com/bobaoapae/haval-app-tool-multimidia) - Ferramenta Android experimental para estender e aprimorar o sistema multimídia do Haval H6 GT (GWM) via engenharia reversa e Shizuku
  * [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ / Linkura Localify / LoveLive Translation / llll
+ * [micswitch](https://github.com/kAi-Xin-02/micswitch) - Switch microphone between apps without leaving voice/video calls
  * [mixer-1](https://github.com/farizanjum/mixer-1) - Per-app volume control for Android, designed with Nothing OS aesthetics.
- * [morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe Manager
  * [phone-agent-xiaozhi](https://github.com/jieyou-io/phone-agent-xiaozhi)
  * [pikaso](https://github.com/king0929zion/pikaso) - fork by operit
  * [q25-res-changer](https://github.com/mybabysexy/q25-res-changer)

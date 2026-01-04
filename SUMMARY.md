@@ -63,7 +63,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [record-manager](https://github.com/record-mod/record-manager) - Application to install and manage ReCord on android.
  * [roubao](https://github.com/Turbo1123/roubao) - Android Automation Tool Based on Vision-Language Models
  * [telegram-rc](https://github.com/telegram-sms/telegram-rc) - [ROOT] A robot running on an Android device that controls your phone.
- * [usb_debug_toggle](https://github.com/NullOkami47/usb_debug_toggle)
  * [vFlow](https://github.com/ChaoMixian/vFlow) - vFlow 是一款为 Android 平台设计的、强大且高度可扩展的自动化工具。它允许你通过图形化界面，将一系列“动作模块”自由组合成强大的“工作流”，从而自动完成各种日常的、重复性的屏幕操作任务。
 
 #### Updated more than 3 months ago

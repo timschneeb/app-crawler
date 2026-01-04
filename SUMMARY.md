@@ -15,7 +15,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [-Launcher](https://github.com/Linkolnn/-Launcher)
  * [AirMouse](https://github.com/jinyinghua/AirMouse) - 一个能隔空操控你的安卓手机的APP。An app that can remotely control your Android phone.
  * [AndroidPerformanceOptimization-APP](https://github.com/tew080/AndroidPerformanceOptimization-APP) - Build App By AI
- * [AppVaultX](https://github.com/sunilpaulmathew/AppVaultX) - App Control Made Easy
  * [Auto-GLM-Android](https://github.com/king0929zion/Auto-GLM-Android) - Auto-GLM-Android
  * [AutoAccounting](https://github.com/AutoAccountingOrg/AutoAccounting) - 你的每一笔账单都值得记录！
  * [AutoGLM-Android](https://github.com/caochuankuan/AutoGLM-Android) - 基于 AndroidAutoGLM 二次开发的AutoGLM 纯安卓端 app，不用依赖电脑，安装即用。界面清爽可读
@@ -48,14 +47,12 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Streetwise-Toolbox](https://github.com/StreetwiseGamgee/Streetwise-Toolbox) - Using Android Studio to develop a device statistics application using Jetpack Compose.
  * [Sysuer](https://github.com/SYSU-Tang/Sysuer) - 一款为中山大学 (SYSU) 学子打造的非官方校园生活助手。
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
- * [ZKM](https://github.com/ZUANVFX01/ZKM) - Zuan Kernel Manager App For  Root Device Android With Material 3 Expressive Modern Style.
  * [ZiZip](https://github.com/king0929zion/ZiZip)
  * [android-wifi-pojie](https://github.com/bszapp/android-wifi-pojie) - Android使用密码本暴力破解wifi密码工具
  * [ankihelper-plus](https://github.com/huhuswei/ankihelper-plus)
  * [chrono-s_camera_android](https://github.com/newyusir/chrono-s_camera_android) - android port of chrono's camera
  * [haval-app-tool-multimidia](https://github.com/bobaoapae/haval-app-tool-multimidia) - Ferramenta Android experimental para estender e aprimorar o sistema multimídia do Haval H6 GT (GWM) via engenharia reversa e Shizuku
  * [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ / Linkura Localify / LoveLive Translation / llll
- * [maps-min](https://github.com/sameerasw/maps-min) - Google Maps Min mode for any device with Shizuku
  * [micswitch](https://github.com/kAi-Xin-02/micswitch) - Switch microphone between apps without leaving voice/video calls
  * [mixer-1](https://github.com/farizanjum/mixer-1) - Per-app volume control for Android, designed with Nothing OS aesthetics.
  * [phone-agent-xiaozhi](https://github.com/jieyou-io/phone-agent-xiaozhi)
@@ -168,6 +165,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [XPlan](https://github.com/ItosEO/XPlan) - X计划，合并版
  * [android-settings-scheduler](https://github.com/Turtlepaw/android-settings-scheduler) - Schedule any settings that are in the Android Settings app to be changed
  * [connect-screen](https://github.com/sherylynn/connect-screen)
+ * [everyones-APPS](https://github.com/Slinky-86/everyones-APPS) - Created with StackBlitz ⚡️
  * [gemini-android](https://github.com/niki914/gemini-android) - Let gemini control your Android phone through function calling. 通过FunctionCalling让Gemini操控安卓手机。
  * [gesture_is_back](https://github.com/amrabdelhameeed/gesture_is_back)
  * [greentooth](https://github.com/qwerty12/greentooth) - Shizuku-using fork of https://gitlab.com/nbergman/greentooth

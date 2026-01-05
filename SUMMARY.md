@@ -40,6 +40,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Open-AutoGLM-App](https://github.com/dascard/Open-AutoGLM-App) - 只需一个APP就能实现AutoGLM的功能
  * [Pikaso-AI](https://github.com/king0929zion/Pikaso-AI) - agi
  * [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Quick tool for utilizing CVE-2024-31317 on Android
+ * [Recording-Light-Control](https://github.com/Farpathan/Recording-Light-Control) - Recording Light Control gives precise control over the Nothing Phone (3)'s recording light.
  * [Ruto-GLM](https://github.com/iamr0s/Ruto-GLM) - 手机端 AutoGLM：无需电脑，真·后台全自动。 支持熄屏、同时多个任务并行，主屏操作互不干扰。（一个基于 AI 的 Android 自动化与多任务框架，开启无限可能。）
  * [SFS-CustomTranslations-Installer](https://github.com/youfeng11/SFS-CustomTranslations-Installer) - SFS汉化安装器
  * [Simple-wireless-ADB](https://github.com/Danz17/Simple-wireless-ADB) - Simple Wireless ADB - ROOT REQUIRED - Lightweight Android app to enable wireless ADB on rooted devices
@@ -112,6 +113,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [PandorasBox](https://github.com/Ujhhgtg/PandorasBox)
  * [PhonePointer](https://github.com/Usepot/PhonePointer)
  * [QABlackBo](https://github.com/mikepty/QABlackBo) - Black Box Testing Tool
+ * [QABlackBox](https://github.com/mikepty/QABlackBox) - Black Box Testing Tool
  * [Reverse_KBattery](https://github.com/ItosEO/Reverse_KBattery)
  * [RootManager](https://github.com/Copi24/RootManager)
  * [Search](https://github.com/mrndstvndv/Search)

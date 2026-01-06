@@ -25,6 +25,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Automatic-spark-renewal-APP](https://github.com/COLDESTBOW30654/Automatic-spark-renewal-APP) - 嵌入自动续火花脚本的Autojs修改版
  * [AxManager](https://github.com/fahrez182/AxManager) - AxManager is an Android application designed to provide deeper control over apps and the system.
  * [BitInstaller](https://github.com/S0methingSomething/BitInstaller)
+ * [BluetoothTester](https://github.com/expliyh/BluetoothTester)
  * [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新
  * [ESP](https://github.com/bhikandeshmukh/ESP)
  * [FakePowerOff](https://github.com/BinitDOX/FakePowerOff) - Simulate device shutdown, ideal for use with anti-theft apps.
@@ -36,6 +37,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Loki](https://github.com/trinadhthatakula/Loki) - Android App logger
  * [MiRearScreenGradienter](https://github.com/GoldenglowSusie/MiRearScreenGradienter)
  * [MiRearScreenSwitcher](https://github.com/GoldenglowSusie/MiRearScreenSwitcher) - 为小米17Pro及以上（也许及以后）机型的背屏一键切换器
+ * [NotiFixer](https://github.com/dkajan19/NotiFixer) - Android utility to make notifications persistent/undismissable using Shizuku.
  * [Open-AutoGLM-Android](https://github.com/xinzezhu/Open-AutoGLM-Android) - 安卓版的AutoGLM，不需要部署直接安装就可以使用，欢迎共建~
  * [Open-AutoGLM-App](https://github.com/dascard/Open-AutoGLM-App) - 只需一个APP就能实现AutoGLM的功能
  * [Pikaso-AI](https://github.com/king0929zion/Pikaso-AI) - agi
@@ -50,6 +52,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ZiZip](https://github.com/king0929zion/ZiZip)
  * [android-wifi-pojie](https://github.com/bszapp/android-wifi-pojie) - Android使用密码本暴力破解wifi密码工具
  * [ankihelper-plus](https://github.com/huhuswei/ankihelper-plus)
+ * [autoglm_KY](https://github.com/aryneal-boop/autoglm_KY) - 开源的autoglm
  * [chrono-s_camera_android](https://github.com/newyusir/chrono-s_camera_android) - android port of chrono's camera
  * [haval-app-tool-multimidia](https://github.com/bobaoapae/haval-app-tool-multimidia) - Ferramenta Android experimental para estender e aprimorar o sistema multimídia do Haval H6 GT (GWM) via engenharia reversa e Shizuku
  * [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ / Linkura Localify / LoveLive Translation / llll
@@ -97,7 +100,8 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [AutoScript](https://github.com/Ion-conservation/AutoScript) - 网易云音乐广告脚本
  * [BillAuto](https://github.com/Albresky/BillAuto)
  * [BitManager](https://github.com/S0methingSomething/BitManager)
- * [BluetoothTester](https://github.com/expliyh/BluetoothTester)
+ * [ClipBridge](https://github.com/RyanZhou416/ClipBridge)
+ * [Debloater-next](https://github.com/Dev97633/Debloater-next)
  * [DroidLock](https://github.com/zhengzaihong/DroidLock) - Android 企业设备管理器-设备监管-非定制系统方案
  * [ForcePhoneMic](https://github.com/Ling554/ForcePhoneMic)
  * [GLM-phone](https://github.com/pengqiyu123/GLM-phone)

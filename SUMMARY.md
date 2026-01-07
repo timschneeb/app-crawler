@@ -18,6 +18,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Auto-GLM-Android](https://github.com/king0929zion/Auto-GLM-Android) - Auto-GLM-Android
  * [AutoAccounting](https://github.com/AutoAccountingOrg/AutoAccounting) - 你的每一笔账单都值得记录！
  * [AutoGLM-Android](https://github.com/caochuankuan/AutoGLM-Android) - 基于 AndroidAutoGLM 二次开发的AutoGLM 纯安卓端 app，不用依赖电脑，安装即用。界面清爽可读
+ * [AutoGLM-Aura](https://github.com/aellnxin/AutoGLM-Aura) - 基于 Open-AutoGLM 框架的纯手机端（Android 原生）AI 智能助手项目，专注于实现免手操作（Hands-Free）的手机自动化 Agent
  * [AutoGLM-For-Android](https://github.com/Luokavin/AutoGLM-For-Android) - 纯 Android 端 Open-AutoGLM 实现，无需电脑
  * [AutoGLM_Next](https://github.com/kgyyds/AutoGLM_Next) - 安卓ai自动化操作
  * [AutoMandroid](https://github.com/A-nony-mous/AutoMandroid)
@@ -100,6 +101,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [AutoScript](https://github.com/Ion-conservation/AutoScript) - 网易云音乐广告脚本
  * [BillAuto](https://github.com/Albresky/BillAuto)
  * [BitManager](https://github.com/S0methingSomething/BitManager)
+ * [CaptureSecureScreen](https://github.com/jimmychanii/CaptureSecureScreen) - A android tools to capture screen, includes secure flag activity
  * [ClipBridge](https://github.com/RyanZhou416/ClipBridge)
  * [Debloater-next](https://github.com/Dev97633/Debloater-next)
  * [DroidLock](https://github.com/zhengzaihong/DroidLock) - Android 企业设备管理器-设备监管-非定制系统方案

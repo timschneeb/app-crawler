@@ -32,13 +32,13 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [FakePowerOff](https://github.com/BinitDOX/FakePowerOff) - Simulate device shutdown, ideal for use with anti-theft apps.
  * [FreezeApp](https://github.com/JuneLeo/FreezeApp)
  * [GlyphRecorder](https://github.com/aaa1115910/GlyphRecorder) - A glyph recognition tool.
+ * [GrooveLauncher](https://github.com/cherryhoax/GrooveLauncher) - moved to Disco Launcher
  * [Hz-Changer](https://github.com/S-Marcos-S/Hz-Changer) - Under development! Simple, light, free and functional hz changer app.
  * [Installer](https://github.com/huidoudour/Installer) - This app is for reference only and may be available
  * [Locker](https://github.com/brill594/Locker) - Prevent you from accessing your phone.
  * [Loki](https://github.com/trinadhthatakula/Loki) - Android App logger
  * [MiRearScreenGradienter](https://github.com/GoldenglowSusie/MiRearScreenGradienter)
  * [MiRearScreenSwitcher](https://github.com/GoldenglowSusie/MiRearScreenSwitcher) - 为小米17Pro及以上（也许及以后）机型的背屏一键切换器
- * [NotiFixer](https://github.com/dkajan19/NotiFixer) - Android utility to make notifications persistent/undismissable using Shizuku.
  * [Open-AutoGLM-Android](https://github.com/xinzezhu/Open-AutoGLM-Android) - 安卓版的AutoGLM，不需要部署直接安装就可以使用，欢迎共建~
  * [Open-AutoGLM-App](https://github.com/dascard/Open-AutoGLM-App) - 只需一个APP就能实现AutoGLM的功能
  * [Pikaso-AI](https://github.com/king0929zion/Pikaso-AI) - agi
@@ -159,7 +159,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ControllerMapper](https://github.com/anhquan7826/ControllerMapper)
  * [File-Manager](https://github.com/abusaeed-shuvo/File-Manager) - Simple file manager with shizuku in compose.
  * [ForensicEye](https://github.com/flxholle/ForensicEye)
- * [GrooveLauncher](https://github.com/oscardiaz28/GrooveLauncher) - A groovy personalized home screen experience for Android
  * [LauncherChanger](https://github.com/Samuel095383/LauncherChanger)
  * [LogCollector](https://github.com/thekosa/LogCollector) - Android application designed to collect and manage Android system logs
  * [ShizukuRefresher](https://github.com/lyr341/ShizukuRefresher)

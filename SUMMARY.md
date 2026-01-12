@@ -24,6 +24,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [AutoMandroid](https://github.com/A-nony-mous/AutoMandroid)
  * [Autoglm-Android](https://github.com/fsquirt/Autoglm-Android) - 一款无需电脑，通过Shizuku来让Autoglm操作你的手机的程序
  * [Automatic-spark-renewal-APP](https://github.com/COLDESTBOW30654/Automatic-spark-renewal-APP) - 嵌入自动续火花脚本的Autojs修改版
+ * [Ava](https://github.com/knoop7/Ava) - Turn Any Android 7-16 Device into a Smart Home Control Panel
  * [AvarionX-Manager](https://github.com/phsycologicalFudge/AvarionX-Manager) - Manager for ColourSwift apps
  * [AxManager](https://github.com/fahrez182/AxManager) - AxManager is an Android application designed to provide deeper control over apps and the system.
  * [BitInstaller](https://github.com/S0methingSomething/BitInstaller)
@@ -170,6 +171,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [LauncherChanger](https://github.com/Samuel095383/LauncherChanger)
  * [LogCollector](https://github.com/thekosa/LogCollector) - Android application designed to collect and manage Android system logs
  * [ShizukuRefresher](https://github.com/lyr341/ShizukuRefresher)
+ * [Sih](https://github.com/Rishcoden/Sih)
  * [SilentInstaller](https://github.com/woaiyuzi/SilentInstaller) - 使用Shizuku进行静默安装的Android library
  * [SimTTPatch](https://github.com/RecodeLiner/SimTTPatch) - Module to change country for tiktok to Belarus(for russian)
  * [Sui](https://github.com/Anatdx/Sui) - Modern super user interface implementation on Android.

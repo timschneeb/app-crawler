@@ -94,6 +94,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
  * [gametuner](https://github.com/varunbala2237/gametuner) - A mobile tuning application for smoother gameplay experience on low/mid range devices.
  * [kdeconnect-android-shizuku](https://github.com/Shoukaku39/kdeconnect-android-shizuku) - Forked from KDE Connect Android. Adds Shizuku support to bypass clipboard access restrictions on Android 10+ without using READ_LOGS or manual ADB shell. 基于 KDE Connect Android 的分支，添加对 Shizuku 的支持，在无需请求 READ_LOGS 或手动 ADB 授权的情况下，绕过 Android 10+ 剪贴板访问限制。
+ * [rexfile](https://github.com/RuYomi/rexfile)
 
 ### Apps with no releases
 
@@ -122,6 +123,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ModularWhitelistApp](https://github.com/tam1012/ModularWhitelistApp) - MODULAR WHITELIST - Xiaomi PowerKeeper Whitelist Tool for Android
  * [Murasaki](https://github.com/Anatdx/Murasaki) - The API and the developer guide for Shizuku and Sui.
  * [Naiko](https://github.com/UnTamed-Fury/Naiko) - Mihon Fork with Yōkai UI but with Anime support 
+ * [Nexus-framework](https://github.com/1andrewprice6-jpg/Nexus-framework)
  * [Operit-build](https://github.com/3571963438/Operit-build)
  * [PORNYOMI](https://github.com/ferelking242/PORNYOMI)
  * [PandorasBox](https://github.com/Ujhhgtg/PandorasBox)
@@ -142,6 +144,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Zong-Hub-GFX](https://github.com/kaungkaung575556-beep/Zong-Hub-GFX)
  * [ZontesZoom](https://github.com/kerojohan/ZontesZoom)
  * [adocker](https://github.com/LukeXeon/adocker) - 在Android上运行Docker容器，AI编程
+ * [android-pillar-stabilizer](https://github.com/1andrewprice6-jpg/android-pillar-stabilizer)
  * [autoai-android](https://github.com/king0929zion/autoai-android)
  * [bokbok](https://github.com/mustakim-init/bokbok) - A next-generation voice chat app for Gamers on android based on Material Design.
  * [chengying](https://github.com/nowmore/chengying)

@@ -103,6 +103,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [-v-](https://github.com/AWDX-DYVB/-v-)
  * [AIDE-Plus-AS](https://github.com/sleepchild/AIDE-Plus-AS)
  * [ATOTO-TOOLKIT_2025](https://github.com/Eliminater74/ATOTO-TOOLKIT_2025) - ATOTO Toolkit 2025
+ * [AuroraStore-WhitelistEdition2](https://github.com/a-319/AuroraStore-WhitelistEdition2)
  * [AutoGLM-Android-Voice](https://github.com/chenbom/AutoGLM-Android-Voice) - Open-AutoGLM with speech input for android.
  * [AutoPilotAI](https://github.com/soumithganji/AutoPilotAI) - VLM-powered Android automation agent that "sees" your screen and executes complex tasks from simple voice commands
  * [AutoScript](https://github.com/Ion-conservation/AutoScript) - 网易云音乐广告脚本
@@ -128,7 +129,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [PORNYOMI](https://github.com/ferelking242/PORNYOMI)
  * [PandorasBox](https://github.com/Ujhhgtg/PandorasBox)
  * [PhonePointer](https://github.com/Usepot/PhonePointer)
- * [QABlackBo](https://github.com/mikepty/QABlackBo) - Black Box Testing Tool
  * [QABlackBox](https://github.com/mikepty/QABlackBox) - Black Box Testing Tool
  * [Reverse_KBattery](https://github.com/ItosEO/Reverse_KBattery)
  * [RootManager](https://github.com/Copi24/RootManager)
@@ -148,6 +148,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [autoai-android](https://github.com/king0929zion/autoai-android)
  * [bokbok](https://github.com/mustakim-init/bokbok) - A next-generation voice chat app for Gamers on android based on Material Design.
  * [chengying](https://github.com/nowmore/chengying)
+ * [droidify_enterprise](https://github.com/Bliss-Bass/droidify_enterprise)
  * [github_tornaco_android_thanos](https://github.com/Eduardob3677/github_tornaco_android_thanos) - Decompiled APK: github.tornaco.android.thanos
  * [github_tornaco_android_thanos_2](https://github.com/Eduardob3677/github_tornaco_android_thanos_2) - Decompiled APK: github.tornaco.android.thanos
  * [lanhegongjuxiang](https://github.com/miounet11/lanhegongjuxiang)

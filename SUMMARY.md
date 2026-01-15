@@ -156,7 +156,9 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [materium](https://github.com/deminearchiver/materium) - Get Android app updates straight from the source.
  * [physical_keyboard](https://github.com/ngoloc2k4/physical_keyboard)
  * [remoteadb](https://github.com/Copi24/remoteadb)
+ * [safecleaner_projex](https://github.com/wreckage6716/safecleaner_projex)
  * [shaobing](https://github.com/BeyondMark/shaobing) - 烧饼 Shaobing - 开源 AI 手机自动化助手 | AI Phone Automation Assistant
+ * [shizuku-screen-off-on-phone-call](https://github.com/olegsvs/shizuku-screen-off-on-phone-call)
  * [sing-box-for-android](https://github.com/SagerNet/sing-box-for-android) - Experimental Android client for sing-box
  * [studious-octo-fishstick](https://github.com/bdralbydy875-ux/studious-octo-fishstick)
  * [studious-octo-train](https://github.com/bdralbydy875-ux/studious-octo-train)

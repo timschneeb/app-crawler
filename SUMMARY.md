@@ -41,7 +41,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [LifeUpCatcher](https://github.com/Thang1191/LifeUpCatcher) - LifeUpCatcher is a companion application for LifeUp
  * [Locker](https://github.com/brill594/Locker) - Prevent you from accessing your phone.
  * [Loki](https://github.com/trinadhthatakula/Loki) - Android App logger
- * [MangoDroidX](https://github.com/Shalaykin1/MangoDroidX)
  * [MiRearScreenGradienter](https://github.com/GoldenglowSusie/MiRearScreenGradienter)
  * [MiRearScreenSwitcher](https://github.com/GoldenglowSusie/MiRearScreenSwitcher) - 为小米17Pro及以上（也许及以后）机型的背屏一键切换器
  * [Open-AutoGLM-Android](https://github.com/xinzezhu/Open-AutoGLM-Android) - 安卓版的AutoGLM，不需要部署直接安装就可以使用，欢迎共建~
@@ -60,6 +59,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [android-wifi-pojie](https://github.com/bszapp/android-wifi-pojie) - Android使用密码本暴力破解wifi密码工具
  * [ankihelper-plus](https://github.com/huhuswei/ankihelper-plus)
  * [autoglm_KY](https://github.com/aryneal-boop/autoglm_KY) - 开源的autoglm
+ * [autojs6_Management](https://github.com/shiyaaini/autojs6_Management) - autojs6管理平台，支持远程运行脚步（类似hamibot）,运行日志，远程投屏（有些设备不给截屏），远程推送软件
  * [chrono-s_camera_android](https://github.com/newyusir/chrono-s_camera_android) - android port of chrono's camera
  * [haval-app-tool-multimidia](https://github.com/bobaoapae/haval-app-tool-multimidia) - Ferramenta Android experimental para estender e aprimorar o sistema multimídia do Haval H6 GT (GWM) via engenharia reversa e Shizuku
  * [lenovo-pen-plus-debug](https://github.com/ilamparithi-in/lenovo-pen-plus-debug) - My little investigation of why the button on the Pen included with Lenovo Idea Tab (Pro) doesnt work like the S Pen's (and a solution)
@@ -153,6 +153,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [bokbok](https://github.com/mustakim-init/bokbok) - A next-generation voice chat app for Gamers on android based on Material Design.
  * [chengying](https://github.com/nowmore/chengying)
  * [droidify_enterprise](https://github.com/Bliss-Bass/droidify_enterprise)
+ * [gexu](https://github.com/Ramsesdb/gexu) - The first AI-powered manga reader for Android. Features semantic search (RAG), library intelligence, and contextual AI chat. Built on Mihon/Tachiyomi.
  * [github_tornaco_android_thanos](https://github.com/Eduardob3677/github_tornaco_android_thanos) - Decompiled APK: github.tornaco.android.thanos
  * [github_tornaco_android_thanos_2](https://github.com/Eduardob3677/github_tornaco_android_thanos_2) - Decompiled APK: github.tornaco.android.thanos
  * [lanhegongjuxiang](https://github.com/miounet11/lanhegongjuxiang)

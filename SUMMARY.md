@@ -15,6 +15,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [-Launcher](https://github.com/Linkolnn/-Launcher)
  * [AirMouse](https://github.com/jinyinghua/AirMouse) - 一个能隔空操控你的安卓手机的APP。An app that can remotely control your Android phone.
  * [AppDualZuku](https://github.com/nathanatgit/AppDualZuku) - Manage dual app with Shizuku privilege.
+ * [Appzuku](https://github.com/northmendo/Appzuku) - A simple app to boost performance by stopping background apps, relying on Root/Shizuku permissions.
  * [Auto-GLM-Android](https://github.com/king0929zion/Auto-GLM-Android) - Auto-GLM-Android
  * [AutoAccounting](https://github.com/AutoAccountingOrg/AutoAccounting) - 你的每一笔账单都值得记录！
  * [AutoGLM-Android](https://github.com/caochuankuan/AutoGLM-Android) - 基于 AndroidAutoGLM 二次开发的AutoGLM 纯安卓端 app，不用依赖电脑，安装即用。界面清爽可读
@@ -24,7 +25,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [AutoMandroid](https://github.com/A-nony-mous/AutoMandroid)
  * [Autoglm-Android](https://github.com/fsquirt/Autoglm-Android) - 一款无需电脑，通过Shizuku来让Autoglm操作你的手机的程序
  * [Automatic-spark-renewal-APP](https://github.com/COLDESTBOW30654/Automatic-spark-renewal-APP) - 嵌入自动续火花脚本的Autojs修改版
- * [Ava](https://github.com/knoop7/Ava) - Turn Any Android 7-16 Device into a Smart Home Control Panel
+ * [Ava](https://github.com/knoop7/Ava) - Turn any Android 7-16 device into a Bluetooth proxy all-in-one smart home control panel
  * [AvarionX-Manager](https://github.com/phsycologicalFudge/AvarionX-Manager) - Manager for ColourSwift apps
  * [AxManager](https://github.com/fahrez182/AxManager) - AxManager is an Android application designed to provide deeper control over apps and the system.
  * [BitInstaller](https://github.com/S0methingSomething/BitInstaller)
@@ -168,9 +169,11 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [shizuku-pixincreate](https://github.com/emtee40/shizuku-pixincreate)
  * [shizuku-screen-off-on-phone-call](https://github.com/olegsvs/shizuku-screen-off-on-phone-call)
  * [shizuku-wear](https://github.com/emtee40/shizuku-wear)
+ * [shizuku-yangFenTuoZi](https://github.com/emtee40/shizuku-yangFenTuoZi)
  * [sing-box-for-android](https://github.com/SagerNet/sing-box-for-android) - Experimental Android client for sing-box
  * [studious-octo-fishstick](https://github.com/bdralbydy875-ux/studious-octo-fishstick)
  * [studious-octo-train](https://github.com/bdralbydy875-ux/studious-octo-train)
+ * [yomihon](https://github.com/yomihon/yomihon) - Free and open source manga reader for Android
  * [zhex-mobile-application](https://github.com/JANITH-DINUJAYA/zhex-mobile-application) - used java and sqlite and used shizuku for root
 
 #### Updated more than 3 months ago

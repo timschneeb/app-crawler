@@ -122,6 +122,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ForcePhoneMic](https://github.com/Ling554/ForcePhoneMic)
  * [GLM-phone](https://github.com/pengqiyu123/GLM-phone)
  * [Golden-IDE](https://github.com/scto/Golden-IDE)
+ * [Judiya](https://github.com/judiyajudiya930-commits/Judiya)
  * [Know_You](https://github.com/ZJDqtjs/Know_You) - 基于flutter对uni_familyguard项目的重构
  * [LibreSwitch](https://github.com/earnerbaymalay/LibreSwitch) - The ultimate Android privacy dashboard. Scan for bloatware and replace it with FOSS alternatives automatically. 
  * [Lithium](https://github.com/RinnXyz/Lithium) - By: Rinn
@@ -132,7 +133,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [MutiChannel-Alarm](https://github.com/xksyu2021/MutiChannel-Alarm) - An alarm app with muti ringing channels
  * [Naiko](https://github.com/UnTamed-Fury/Naiko) - Mihon Fork with Yōkai UI but with Anime support 
  * [Nexus-framework](https://github.com/1andrewprice6-jpg/Nexus-framework)
- * [Operit-build](https://github.com/3571963438/Operit-build)
+ * [Operit-build](https://github.com/yiluo13/Operit-build)
  * [PORNYOMI](https://github.com/ferelking242/PORNYOMI)
  * [PandorasBox](https://github.com/Ujhhgtg/PandorasBox)
  * [PhonePointer](https://github.com/Usepot/PhonePointer)
@@ -156,6 +157,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [autoai-android](https://github.com/king0929zion/autoai-android)
  * [bokbok](https://github.com/mustakim-init/bokbok) - A next-generation voice chat app for Gamers on android based on Material Design.
  * [chengying](https://github.com/nowmore/chengying)
+ * [cn.pylin.xycjd](https://github.com/PYLinTech/cn.pylin.xycjd) - Xiaoyu Super Island
  * [droidify_enterprise](https://github.com/Bliss-Bass/droidify_enterprise)
  * [gexu](https://github.com/Ramsesdb/gexu) - The first AI-powered manga reader for Android. Features semantic search (RAG), library intelligence, and contextual AI chat. Built on Mihon/Tachiyomi.
  * [github_tornaco_android_thanos](https://github.com/Eduardob3677/github_tornaco_android_thanos) - Decompiled APK: github.tornaco.android.thanos
@@ -173,7 +175,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [sing-box-for-android](https://github.com/SagerNet/sing-box-for-android) - Experimental Android client for sing-box
  * [studious-octo-fishstick](https://github.com/bdralbydy875-ux/studious-octo-fishstick)
  * [studious-octo-train](https://github.com/bdralbydy875-ux/studious-octo-train)
- * [yomihon](https://github.com/yomihon/yomihon) - Free and open source manga reader for Android
+ * [yomihon](https://github.com/yomihon/yomihon) - Free and open source manga reader for Android - now with OCR (text recognition)
  * [zhex-mobile-application](https://github.com/JANITH-DINUJAYA/zhex-mobile-application) - used java and sqlite and used shizuku for root
 
 #### Updated more than 3 months ago

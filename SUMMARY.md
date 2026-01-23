@@ -40,6 +40,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [GrooveLauncher](https://github.com/cherryhoax/GrooveLauncher) - moved to Disco Launcher
  * [Hz-Changer](https://github.com/S-Marcos-S/Hz-Changer) - Under development! Simple, light, free and functional hz changer app.
  * [Installer](https://github.com/huidoudour/Installer) - This app is for reference only and may be available
+ * [Jarngreipr](https://github.com/BrianJr03/Jarngreipr) - A modern, customizable Android launcher designed for the AYN Thor (and other dual screen devices).
  * [LifeUpCatcher](https://github.com/Thang1191/LifeUpCatcher) - LifeUpCatcher is a companion application for LifeUp
  * [Locker](https://github.com/brill594/Locker) - Prevent you from accessing your phone.
  * [Loki](https://github.com/trinadhthatakula/Loki) - Android App logger
@@ -55,7 +56,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Simple-wireless-ADB](https://github.com/Danz17/Simple-wireless-ADB) - Simple Wireless ADB - ROOT REQUIRED - Lightweight Android app to enable wireless ADB on rooted devices
  * [Streetwise-Toolbox](https://github.com/StreetwiseGamgee/Streetwise-Toolbox) - Using Android Studio to develop a device statistics application using Jetpack Compose.
  * [Sysuer](https://github.com/SYSU-Tang/Sysuer) - 一款为中山大学 (SYSU) 学子打造的非官方校园生活助手。
- * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [WuWa-Tool-Android](https://github.com/k4wai1/WuWa-Tool-Android) - An app to organize and apply Wuthering Waves graphics configs safely using Shizuku.
  * [ZiZip](https://github.com/king0929zion/ZiZip)
  * [android-wifi-pojie](https://github.com/bszapp/android-wifi-pojie) - Android使用密码本暴力破解wifi密码工具
@@ -89,10 +89,10 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [KeyboardSwitcher](https://github.com/SgLy/KeyboardSwitcher) - Adds a quick setting tile for quickly switching keyboard (input method)
  * [MndroLua](https://github.com/Crescent-of-Maya/MndroLua) - A modern fork of AndroLua+ / 更加现代的 AndroLua+ 魔改版
  * [Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
- * [RexFile](https://github.com/RuYomi/RexFile)
  * [TimerAndroid](https://github.com/HNIdesu/TimerAndroid) - 定时关闭指定的应用，支持Magisk和Shizuku。
  * [UWS](https://github.com/UWillno/UWS) - Qt for Android的shizuku/root shell执行器
  * [VivoTools](https://github.com/ItosEO/VivoTools) - 蓝厂工具盒,用于降级GW和电源信息
+ * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [autodaily](https://github.com/ParadiseZ/autodaily)
  * [cmd-android](https://github.com/niki914/cmd-android) - 基于 Kotlin 协程的 Android Shell 命令执行框架，支持 User、Shizuku 和 Root 三种权限的命令行调用，提供统一易用的挂起式 API
  * [dumpsys-battery-manager](https://github.com/superisuer/dumpsys-battery-manager) - Change the battery values via dumpsys with the interface. Available to change battery meter, percent, temperature and charging status.

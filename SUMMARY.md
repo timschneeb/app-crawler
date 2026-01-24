@@ -46,6 +46,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Loki](https://github.com/trinadhthatakula/Loki) - Android App logger
  * [MiRearScreenGradienter](https://github.com/GoldenglowSusie/MiRearScreenGradienter)
  * [MiRearScreenSwitcher](https://github.com/GoldenglowSusie/MiRearScreenSwitcher) - 为小米17Pro及以上（也许及以后）机型的背屏一键切换器
+ * [MutiChannel-Alarm](https://github.com/xksyu2021/MutiChannel-Alarm) - An alarm app with muti ringing channels
  * [Open-AutoGLM-Android](https://github.com/xinzezhu/Open-AutoGLM-Android) - 安卓版的AutoGLM，不需要部署直接安装就可以使用，欢迎共建~
  * [Open-AutoGLM-App](https://github.com/dascard/Open-AutoGLM-App) - 只需一个APP就能实现AutoGLM的功能
  * [Pikaso-AI](https://github.com/king0929zion/Pikaso-AI) - agi
@@ -75,6 +76,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [roubao](https://github.com/Turbo1123/roubao) - Android Automation Tool Based on Vision-Language Models
  * [telegram-rc](https://github.com/telegram-sms/telegram-rc) - [ROOT] A robot running on an Android device that controls your phone.
  * [vFlow](https://github.com/ChaoMixian/vFlow) - vFlow 是一款为 Android 平台设计的、强大且高度可扩展的自动化工具。它允许你通过图形化界面，将一系列“动作模块”自由组合成强大的“工作流”，从而自动完成各种日常的、重复性的屏幕操作任务。
+ * [yomihon](https://github.com/yomihon/yomihon) - Free and open source manga reader for Android - now with OCR (text recognition)
 
 #### Updated more than 3 months ago
 
@@ -120,6 +122,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ClipboardSync-Android](https://github.com/rccce/ClipboardSync-Android)
  * [DroidLock](https://github.com/zhengzaihong/DroidLock) - Android 企业设备管理器-设备监管-非定制系统方案
  * [ForcePhoneMic](https://github.com/Ling554/ForcePhoneMic)
+ * [FrostPlum](https://github.com/jickylive/FrostPlum)
  * [GLM-phone](https://github.com/pengqiyu123/GLM-phone)
  * [Golden-IDE](https://github.com/scto/Golden-IDE)
  * [Judiya](https://github.com/judiyajudiya930-commits/Judiya)
@@ -130,7 +133,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [MiRearScreenSwitcherEnglish](https://github.com/aaronnat23/MiRearScreenSwitcherEnglish)
  * [ModularWhitelistApp](https://github.com/tam1012/ModularWhitelistApp) - MODULAR WHITELIST - Xiaomi PowerKeeper Whitelist Tool for Android
  * [Murasaki](https://github.com/Anatdx/Murasaki) - The API and the developer guide for Shizuku and Sui.
- * [MutiChannel-Alarm](https://github.com/xksyu2021/MutiChannel-Alarm) - An alarm app with muti ringing channels
  * [Naiko](https://github.com/UnTamed-Fury/Naiko) - Mihon Fork with Yōkai UI but with Anime support 
  * [Nexus-framework](https://github.com/1andrewprice6-jpg/Nexus-framework)
  * [Operit-build](https://github.com/yiluo13/Operit-build)
@@ -175,7 +177,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [sing-box-for-android](https://github.com/SagerNet/sing-box-for-android) - Experimental Android client for sing-box
  * [studious-octo-fishstick](https://github.com/bdralbydy875-ux/studious-octo-fishstick)
  * [studious-octo-train](https://github.com/bdralbydy875-ux/studious-octo-train)
- * [yomihon](https://github.com/yomihon/yomihon) - Free and open source manga reader for Android - now with OCR (text recognition)
  * [zhex-mobile-application](https://github.com/JANITH-DINUJAYA/zhex-mobile-application) - used java and sqlite and used shizuku for root
 
 #### Updated more than 3 months ago

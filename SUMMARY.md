@@ -58,6 +58,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Streetwise-Toolbox](https://github.com/StreetwiseGamgee/Streetwise-Toolbox) - Using Android Studio to develop a device statistics application using Jetpack Compose.
  * [Sysuer](https://github.com/SYSU-Tang/Sysuer) - 一款为中山大学 (SYSU) 学子打造的非官方校园生活助手。
  * [WuWa-Tool-Android](https://github.com/k4wai1/WuWa-Tool-Android) - An app to organize and apply Wuthering Waves graphics configs safely using Shizuku.
+ * [XiaoAn](https://github.com/power690/XiaoAn) - 小安语音助手轻松抄操作手机
  * [ZiZip](https://github.com/king0929zion/ZiZip)
  * [android-wifi-pojie](https://github.com/bszapp/android-wifi-pojie) - Android使用密码本暴力破解wifi密码工具
  * [ankihelper-plus](https://github.com/huhuswei/ankihelper-plus)
@@ -71,10 +72,13 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [mixer-1](https://github.com/farizanjum/mixer-1) - Per-app volume control for Android, designed with Nothing OS aesthetics.
  * [phone-agent-xiaozhi](https://github.com/jieyou-io/phone-agent-xiaozhi)
  * [pikaso](https://github.com/king0929zion/pikaso) - fork by operit
+ * [pixel-16-ims-fix](https://github.com/ShamirSecret/pixel-16-ims-fix)
  * [q25-res-changer](https://github.com/mybabysexy/q25-res-changer)
  * [record-manager](https://github.com/record-mod/record-manager) - Application to install and manage ReCord on android.
  * [roubao](https://github.com/Turbo1123/roubao) - Android Automation Tool Based on Vision-Language Models
+ * [startfrp](https://github.com/usertest001/startfrp) - Android FRP客户端，FRP Client， FRP Android
  * [telegram-rc](https://github.com/telegram-sms/telegram-rc) - [ROOT] A robot running on an Android device that controls your phone.
+ * [traffic-light](https://github.com/leekleak/traffic-light) - A persistent network speed tracker in your status bar
  * [vFlow](https://github.com/ChaoMixian/vFlow) - vFlow 是一款为 Android 平台设计的、强大且高度可扩展的自动化工具。它允许你通过图形化界面，将一系列“动作模块”自由组合成强大的“工作流”，从而自动完成各种日常的、重复性的屏幕操作任务。
  * [yomihon](https://github.com/yomihon/yomihon) - Free and open source manga reader for Android - now with OCR (text recognition)
 

@@ -31,13 +31,13 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [BitInstaller](https://github.com/S0methingSomething/BitInstaller)
  * [BluetoothTester](https://github.com/expliyh/BluetoothTester)
  * [ColourSwift_AV](https://github.com/phsycologicalFudge/ColourSwift_AV) - A powerful, ad-free antivirus for android
+ * [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新
  * [Debloater-next](https://github.com/Dev97633/Debloater-next) - A safe, open-source Android debloater using Shizuku — no root required.
  * [DiscoLauncher](https://github.com/cherryhoax/DiscoLauncher) - Personalized home screen experience for Android
  * [ESP](https://github.com/bhikandeshmukh/ESP)
  * [FakePowerOff](https://github.com/BinitDOX/FakePowerOff) - Simulate device shutdown, ideal for use with anti-theft apps.
  * [FreezeApp](https://github.com/JuneLeo/FreezeApp)
  * [GlyphRecorder](https://github.com/aaa1115910/GlyphRecorder) - A glyph recognition tool.
- * [GrooveLauncher](https://github.com/cherryhoax/GrooveLauncher) - moved to Disco Launcher
  * [Hz-Changer](https://github.com/S-Marcos-S/Hz-Changer) - Under development! Simple, light, free and functional hz changer app.
  * [Installer](https://github.com/huidoudour/Installer) - This app is for reference only and may be available
  * [Jarngreipr](https://github.com/BrianJr03/Jarngreipr) - A modern, customizable Android launcher designed for the AYN Thor (and other dual screen devices).
@@ -47,6 +47,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [MiRearScreenGradienter](https://github.com/GoldenglowSusie/MiRearScreenGradienter)
  * [MiRearScreenSwitcher](https://github.com/GoldenglowSusie/MiRearScreenSwitcher) - 为小米17Pro及以上（也许及以后）机型的背屏一键切换器
  * [MutiChannel-Alarm](https://github.com/xksyu2021/MutiChannel-Alarm) - An alarm app with muti ringing channels
+ * [OmniAPK](https://github.com/GloriousTR/OmniAPK)
  * [Open-AutoGLM-Android](https://github.com/xinzezhu/Open-AutoGLM-Android) - 安卓版的AutoGLM，不需要部署直接安装就可以使用，欢迎共建~
  * [Open-AutoGLM-App](https://github.com/dascard/Open-AutoGLM-App) - 只需一个APP就能实现AutoGLM的功能
  * [Pikaso-AI](https://github.com/king0929zion/Pikaso-AI) - agi
@@ -54,9 +55,10 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Recording-Light-Control](https://github.com/Farpathan/Recording-Light-Control) - Recording Light Control gives precise control over the Nothing Phone (3)'s recording light.
  * [Ruto-GLM](https://github.com/iamr0s/Ruto-GLM) - 手机端 AutoGLM：无需电脑，真·后台全自动。 支持熄屏、同时多个任务并行，主屏操作互不干扰。（一个基于 AI 的 Android 自动化与多任务框架，开启无限可能。）
  * [SFS-CustomTranslations-Installer](https://github.com/youfeng11/SFS-CustomTranslations-Installer) - SFS汉化安装器
- * [Simple-wireless-ADB](https://github.com/Danz17/Simple-wireless-ADB) - Simple Wireless ADB - ROOT REQUIRED - Lightweight Android app to enable wireless ADB on rooted devices
+ * [Simple-wireless-ADB](https://github.com/PhenixStar/Simple-wireless-ADB) - Simple Wireless ADB - ROOT REQUIRED - Lightweight Android app to enable wireless ADB on rooted devices
  * [Streetwise-Toolbox](https://github.com/StreetwiseGamgee/Streetwise-Toolbox) - Using Android Studio to develop a device statistics application using Jetpack Compose.
  * [Sysuer](https://github.com/SYSU-Tang/Sysuer) - 一款为中山大学 (SYSU) 学子打造的非官方校园生活助手。
+ * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [WuWa-Tool-Android](https://github.com/k4wai1/WuWa-Tool-Android) - An app to organize and apply Wuthering Waves graphics configs safely using Shizuku.
  * [XiaoAn](https://github.com/power690/XiaoAn) - 小安语音助手轻松抄操作手机
  * [ZiZip](https://github.com/king0929zion/ZiZip)
@@ -87,7 +89,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Android-AccessibilityGrant](https://github.com/MagicianGuo/Android-AccessibilityGrant) - 能够一键为应用授予辅助功能（无障碍）权限，需要Shizuku
  * [AutoSkip](https://github.com/xjunz/AutoSkip) - 基于Shizuku授权的安卓"自动跳过"工具
  * [CBJQ_HugFenny](https://github.com/LiuJiewenTT/CBJQ_HugFenny)
- * [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新
  * [DeviceOptimizeHelper](https://github.com/sbmatch/DeviceOptimizeHelper)
  * [FlymeFrameTools](https://github.com/Ruyue-Kinsenka/FlymeFrameTools) - 利用shuzuki无root管理flyme插帧超分的app名单
  * [HesleyTools](https://github.com/ldh-star/HesleyTools) - 自用工具/模块
@@ -98,14 +99,12 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [TimerAndroid](https://github.com/HNIdesu/TimerAndroid) - 定时关闭指定的应用，支持Magisk和Shizuku。
  * [UWS](https://github.com/UWillno/UWS) - Qt for Android的shizuku/root shell执行器
  * [VivoTools](https://github.com/ItosEO/VivoTools) - 蓝厂工具盒,用于降级GW和电源信息
- * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [autodaily](https://github.com/ParadiseZ/autodaily)
  * [cmd-android](https://github.com/niki914/cmd-android) - 基于 Kotlin 协程的 Android Shell 命令执行框架，支持 User、Shizuku 和 Root 三种权限的命令行调用，提供统一易用的挂起式 API
  * [dumpsys-battery-manager](https://github.com/superisuer/dumpsys-battery-manager) - Change the battery values via dumpsys with the interface. Available to change battery meter, percent, temperature and charging status.
  * [gamebot](https://github.com/tkkcc/gamebot) - (WIP) android game automation with rust
  * [gametuner](https://github.com/varunbala2237/gametuner) - A mobile tuning application for smoother gameplay experience on low/mid range devices.
  * [kdeconnect-android-shizuku](https://github.com/Shoukaku39/kdeconnect-android-shizuku) - Forked from KDE Connect Android. Adds Shizuku support to bypass clipboard access restrictions on Android 10+ without using READ_LOGS or manual ADB shell. 基于 KDE Connect Android 的分支，添加对 Shizuku 的支持，在无需请求 READ_LOGS 或手动 ADB 授权的情况下，绕过 Android 10+ 剪贴板访问限制。
- * [rexfile](https://github.com/RuYomi/rexfile)
  * [rexfile-old-version](https://github.com/RuYomi/rexfile-old-version)
 
 ### Apps with no releases
@@ -169,6 +168,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [github_tornaco_android_thanos](https://github.com/Eduardob3677/github_tornaco_android_thanos) - Decompiled APK: github.tornaco.android.thanos
  * [github_tornaco_android_thanos_2](https://github.com/Eduardob3677/github_tornaco_android_thanos_2) - Decompiled APK: github.tornaco.android.thanos
  * [lanhegongjuxiang](https://github.com/miounet11/lanhegongjuxiang)
+ * [lexpesawat](https://github.com/mlacnout-sketch/lexpesawat)
  * [materium](https://github.com/deminearchiver/materium) - Get Android app updates straight from the source.
  * [physical_keyboard](https://github.com/ngoloc2k4/physical_keyboard)
  * [remoteadb](https://github.com/Copi24/remoteadb)
@@ -193,6 +193,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ControllerMapper](https://github.com/anhquan7826/ControllerMapper)
  * [File-Manager](https://github.com/abusaeed-shuvo/File-Manager) - Simple file manager with shizuku in compose.
  * [ForensicEye](https://github.com/flxholle/ForensicEye)
+ * [GrooveLauncher](https://github.com/oscardiaz28/GrooveLauncher) - A groovy personalized home screen experience for Android
  * [LauncherChanger](https://github.com/Samuel095383/LauncherChanger)
  * [LogCollector](https://github.com/thekosa/LogCollector) - Android application designed to collect and manage Android system logs
  * [ShizukuRefresher](https://github.com/lyr341/ShizukuRefresher)

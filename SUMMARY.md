@@ -38,6 +38,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [FakePowerOff](https://github.com/BinitDOX/FakePowerOff) - Simulate device shutdown, ideal for use with anti-theft apps.
  * [FreezeApp](https://github.com/JuneLeo/FreezeApp)
  * [GlyphRecorder](https://github.com/aaa1115910/GlyphRecorder) - A glyph recognition tool.
+ * [GrooveLauncher](https://github.com/cherryhoax/GrooveLauncher) - moved to Disco Launcher
  * [Hz-Changer](https://github.com/S-Marcos-S/Hz-Changer) - Under development! Simple, light, free and functional hz changer app.
  * [Installer](https://github.com/huidoudour/Installer) - This app is for reference only and may be available
  * [Jarngreipr](https://github.com/BrianJr03/Jarngreipr) - A modern, customizable Android launcher designed for the AYN Thor (and other dual screen devices).
@@ -58,6 +59,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Simple-wireless-ADB](https://github.com/PhenixStar/Simple-wireless-ADB) - Simple Wireless ADB - ROOT REQUIRED - Lightweight Android app to enable wireless ADB on rooted devices
  * [Streetwise-Toolbox](https://github.com/StreetwiseGamgee/Streetwise-Toolbox) - Using Android Studio to develop a device statistics application using Jetpack Compose.
  * [Sysuer](https://github.com/SYSU-Tang/Sysuer) - 一款为中山大学 (SYSU) 学子打造的非官方校园生活助手。
+ * [Traffic Light](https://github.com/leekleak/traffic-light) - Track your internet usage in the status bar
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [WuWa-Tool-Android](https://github.com/k4wai1/WuWa-Tool-Android) - An app to organize and apply Wuthering Waves graphics configs safely using Shizuku.
  * [XiaoAn](https://github.com/power690/XiaoAn) - 小安语音助手轻松抄操作手机
@@ -69,6 +71,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [chrono-s_camera_android](https://github.com/newyusir/chrono-s_camera_android) - android port of chrono's camera
  * [haval-app-tool-multimidia](https://github.com/bobaoapae/haval-app-tool-multimidia) - Ferramenta Android experimental para estender e aprimorar o sistema multimídia do Haval H6 GT (GWM) via engenharia reversa e Shizuku
  * [lenovo-pen-plus-debug](https://github.com/ilamparithi-in/lenovo-pen-plus-debug) - My little investigation of why the button on the Pen included with Lenovo Idea Tab (Pro) doesnt work like the S Pen's (and a solution)
+ * [lexpesawat](https://github.com/mlacnout-sketch/lexpesawat)
  * [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ / Linkura Localify / LoveLive Translation / llll
  * [micswitch](https://github.com/kAi-Xin-02/micswitch) - Switch microphone between apps without leaving voice/video calls
  * [mixer-1](https://github.com/farizanjum/mixer-1) - Per-app volume control for Android, designed with Nothing OS aesthetics.
@@ -79,7 +82,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [record-manager](https://github.com/record-mod/record-manager) - Application to install and manage ReCord on android.
  * [roubao](https://github.com/Turbo1123/roubao) - Android Automation Tool Based on Vision-Language Models
  * [startfrp](https://github.com/usertest001/startfrp) - Android FRP客户端，FRP Client， FRP Android
- * [telegram-rc](https://github.com/telegram-sms/telegram-rc) - [ROOT] A robot running on an Android device that controls your phone.
+ * [telegram-rc](https://github.com/telegram-sms/telegram-rc) - [Shizuku] A robot running on an Android device that controls your phone.
  * [traffic-light](https://github.com/leekleak/traffic-light) - A persistent network speed tracker in your status bar
  * [vFlow](https://github.com/ChaoMixian/vFlow) - vFlow 是一款为 Android 平台设计的、强大且高度可扩展的自动化工具。它允许你通过图形化界面，将一系列“动作模块”自由组合成强大的“工作流”，从而自动完成各种日常的、重复性的屏幕操作任务。
  * [yomihon](https://github.com/yomihon/yomihon) - Free and open source manga reader for Android - now with OCR (text recognition)
@@ -147,6 +150,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [RootManager](https://github.com/Copi24/RootManager)
  * [Search](https://github.com/mrndstvndv/Search)
  * [SerWall](https://github.com/hzoltan01/SerWall) - Firewall application for Android using the Shizuku API
+ * [ShizukuRunner](https://github.com/delmsyap/ShizukuRunner)
  * [Sunshine-android](https://github.com/ZyoungInc/Sunshine-android) - a sunshine server for android system
  * [TaskOrb-Android-Assistant-Framework-Based-on-AutoGLM](https://github.com/wdsj2066/TaskOrb-Android-Assistant-Framework-Based-on-AutoGLM)
  * [Termux](https://github.com/ymontejoarenas-ctrl/Termux) - (opcional)
@@ -168,9 +172,8 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [github_tornaco_android_thanos](https://github.com/Eduardob3677/github_tornaco_android_thanos) - Decompiled APK: github.tornaco.android.thanos
  * [github_tornaco_android_thanos_2](https://github.com/Eduardob3677/github_tornaco_android_thanos_2) - Decompiled APK: github.tornaco.android.thanos
  * [lanhegongjuxiang](https://github.com/miounet11/lanhegongjuxiang)
- * [lexpesawat](https://github.com/mlacnout-sketch/lexpesawat)
  * [materium](https://github.com/deminearchiver/materium) - Get Android app updates straight from the source.
- * [physical_keyboard](https://github.com/ngoloc2k4/physical_keyboard)
+ * [mkm](https://github.com/abhay-byte/mkm)
  * [remoteadb](https://github.com/Copi24/remoteadb)
  * [safecleaner_projex](https://github.com/wreckage6716/safecleaner_projex)
  * [shaobing](https://github.com/BeyondMark/shaobing) - 烧饼 Shaobing - 开源 AI 手机自动化助手 | AI Phone Automation Assistant
@@ -193,7 +196,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ControllerMapper](https://github.com/anhquan7826/ControllerMapper)
  * [File-Manager](https://github.com/abusaeed-shuvo/File-Manager) - Simple file manager with shizuku in compose.
  * [ForensicEye](https://github.com/flxholle/ForensicEye)
- * [GrooveLauncher](https://github.com/oscardiaz28/GrooveLauncher) - A groovy personalized home screen experience for Android
  * [LauncherChanger](https://github.com/Samuel095383/LauncherChanger)
  * [LogCollector](https://github.com/thekosa/LogCollector) - Android application designed to collect and manage Android system logs
  * [ShizukuRefresher](https://github.com/lyr341/ShizukuRefresher)
@@ -216,6 +218,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [midi-pro](https://github.com/sleepchild/midi-pro) - rescue
  * [modtoon_module](https://github.com/Inhaleoxygen/modtoon_module)
  * [pandora](https://github.com/maisymoe/pandora) - Pandora's Watch, a toolbox for Wear OS devices.
+ * [physical_keyboard](https://github.com/ngoloc2k4/physical_keyboard)
  * [ripple-android](https://github.com/hussam-alhassan/ripple-android) - An Android app which uses Termux to help install applications to the dual profile on supported devices
  * [sen](https://github.com/Fansirsqi/sen) - 一个简单的sen
  * [shizuku4quest](https://github.com/metalex201/shizuku4quest) - A modified version of Shizuku for the quest 3 [WIP]

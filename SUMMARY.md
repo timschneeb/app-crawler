@@ -49,7 +49,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [MiRearScreenSwitcher](https://github.com/GoldenglowSusie/MiRearScreenSwitcher) - 为小米17Pro及以上（也许及以后）机型的背屏一键切换器
  * [MutiChannel-Alarm](https://github.com/xksyu2021/MutiChannel-Alarm) - An alarm app with muti ringing channels
  * [OmniAPK](https://github.com/GloriousTR/OmniAPK)
- * [Open-AutoGLM-Android](https://github.com/xinzezhu/Open-AutoGLM-Android) - 安卓版的AutoGLM，不需要部署直接安装就可以使用，欢迎共建~
  * [Open-AutoGLM-App](https://github.com/dascard/Open-AutoGLM-App) - 只需一个APP就能实现AutoGLM的功能
  * [Pikaso-AI](https://github.com/king0929zion/Pikaso-AI) - agi
  * [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Quick tool for utilizing CVE-2024-31317 on Android
@@ -69,6 +68,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [autoglm_KY](https://github.com/aryneal-boop/autoglm_KY) - 开源的autoglm
  * [autojs6_Management](https://github.com/shiyaaini/autojs6_Management) - autojs6管理平台，支持远程运行脚步（类似hamibot）,运行日志，远程投屏（有些设备不给截屏），远程推送软件
  * [chrono-s_camera_android](https://github.com/newyusir/chrono-s_camera_android) - android port of chrono's camera
+ * [gama](https://github.com/popovicialinc/gama) - GPU API Manager for Android-based devices (GAMA)
  * [haval-app-tool-multimidia](https://github.com/bobaoapae/haval-app-tool-multimidia) - Ferramenta Android experimental para estender e aprimorar o sistema multimídia do Haval H6 GT (GWM) via engenharia reversa e Shizuku
  * [lenovo-pen-plus-debug](https://github.com/ilamparithi-in/lenovo-pen-plus-debug) - My little investigation of why the button on the Pen included with Lenovo Idea Tab (Pro) doesnt work like the S Pen's (and a solution)
  * [lexpesawat](https://github.com/mlacnout-sketch/lexpesawat)
@@ -141,12 +141,12 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Murasaki](https://github.com/Anatdx/Murasaki) - The API and the developer guide for Shizuku and Sui.
  * [Naiko](https://github.com/UnTamed-Fury/Naiko) - Mihon Fork with Yōkai UI but with Anime support 
  * [Nexus-framework](https://github.com/1andrewprice6-jpg/Nexus-framework)
+ * [Open-AutoGLM-Android](https://github.com/Repobor/Open-AutoGLM-Android) - 基于 https://github.com/zai-org/Open-AutoGLM 的Android实现
  * [Operit-build](https://github.com/yiluo13/Operit-build)
  * [PORNYOMI](https://github.com/ferelking242/PORNYOMI)
  * [PandorasBox](https://github.com/Ujhhgtg/PandorasBox)
  * [PhonePointer](https://github.com/Usepot/PhonePointer)
  * [QABlackBox](https://github.com/mikepty/QABlackBox) - Black Box Testing Tool
- * [Reverse_KBattery](https://github.com/ItosEO/Reverse_KBattery)
  * [RootManager](https://github.com/Copi24/RootManager)
  * [Search](https://github.com/mrndstvndv/Search)
  * [SerWall](https://github.com/hzoltan01/SerWall) - Firewall application for Android using the Shizuku API
@@ -159,6 +159,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [WebSu-Plus](https://github.com/Betrix-ID/WebSu-Plus)
  * [XPerm](https://github.com/Alhkxsj/XPerm) - 一个权限代理应用
  * [XiaoBost](https://github.com/danhtrinhdevelopermay/XiaoBost) - The languages that make up the web. HTML provides the basic structure, CSS controls formatting, and JavaScript controls the behavior of different elements.
+ * [Xphone](https://github.com/wake0p/Xphone) - help you get away from phone
  * [Zong-Hub-GFX](https://github.com/kaungkaung575556-beep/Zong-Hub-GFX)
  * [ZontesZoom](https://github.com/kerojohan/ZontesZoom)
  * [adocker](https://github.com/LukeXeon/adocker) - 在Android上运行Docker容器，AI编程
@@ -171,6 +172,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [gexu](https://github.com/Ramsesdb/gexu) - The first AI-powered manga reader for Android. Features semantic search (RAG), library intelligence, and contextual AI chat. Built on Mihon/Tachiyomi.
  * [github_tornaco_android_thanos](https://github.com/Eduardob3677/github_tornaco_android_thanos) - Decompiled APK: github.tornaco.android.thanos
  * [github_tornaco_android_thanos_2](https://github.com/Eduardob3677/github_tornaco_android_thanos_2) - Decompiled APK: github.tornaco.android.thanos
+ * [komiworld](https://github.com/yoshino2923/komiworld) - An app for manga, anime and novels on android and TV
  * [lanhegongjuxiang](https://github.com/miounet11/lanhegongjuxiang)
  * [materium](https://github.com/deminearchiver/materium) - Get Android app updates straight from the source.
  * [mkm](https://github.com/abhay-byte/mkm)
@@ -198,6 +200,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ForensicEye](https://github.com/flxholle/ForensicEye)
  * [LauncherChanger](https://github.com/Samuel095383/LauncherChanger)
  * [LogCollector](https://github.com/thekosa/LogCollector) - Android application designed to collect and manage Android system logs
+ * [Reverse_KBattery](https://github.com/ItosEO/Reverse_KBattery)
  * [ShizukuRefresher](https://github.com/lyr341/ShizukuRefresher)
  * [Sih](https://github.com/Rishcoden/Sih)
  * [SilentInstaller](https://github.com/woaiyuzi/SilentInstaller) - 使用Shizuku进行静默安装的Android library

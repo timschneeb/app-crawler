@@ -38,6 +38,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [FakePowerOff](https://github.com/BinitDOX/FakePowerOff) - Simulate device shutdown, ideal for use with anti-theft apps.
  * [FreezeApp](https://github.com/JuneLeo/FreezeApp)
  * [GlyphRecorder](https://github.com/aaa1115910/GlyphRecorder) - A glyph recognition tool.
+ * [GrooveLauncher](https://github.com/cherryhoax/GrooveLauncher) - moved to Disco Launcher
  * [Hz-Changer](https://github.com/S-Marcos-S/Hz-Changer) - Under development! Simple, light, free and functional hz changer app.
  * [Installer](https://github.com/huidoudour/Installer) - This app is for reference only and may be available
  * [Jarngreipr](https://github.com/BrianJr03/Jarngreipr) - A modern, customizable Android launcher designed for the AYN Thor (and other dual screen devices).
@@ -47,8 +48,8 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [MiRearScreenGradienter](https://github.com/GoldenglowSusie/MiRearScreenGradienter)
  * [MiRearScreenSwitcher](https://github.com/GoldenglowSusie/MiRearScreenSwitcher) - 为小米17Pro及以上（也许及以后）机型的背屏一键切换器
  * [MutiChannel-Alarm](https://github.com/xksyu2021/MutiChannel-Alarm) - An alarm app with muti ringing channels
- * [OmniAPK](https://github.com/GloriousTR/OmniAPK)
- * [Open-AutoGLM-Android](https://github.com/butlanys/Open-AutoGLM-Android) - 基于 Open-AutoGLM 的 Android 原生客户端，通过 Shizuku 实现完全本地化的 AI 手机操控，无需电脑连接。
+ * [OmniAPK](https://github.com/GloriousTR/OmniAPK) - The Ultimate Android App Store
+ * [Open-AutoGLM-Android](https://github.com/xinzezhu/Open-AutoGLM-Android) - 安卓版的AutoGLM，不需要部署直接安装就可以使用，欢迎共建~
  * [Open-AutoGLM-App](https://github.com/dascard/Open-AutoGLM-App) - 只需一个APP就能实现AutoGLM的功能
  * [Pikaso-AI](https://github.com/king0929zion/Pikaso-AI) - agi
  * [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Quick tool for utilizing CVE-2024-31317 on Android
@@ -65,10 +66,10 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [XiaoAn](https://github.com/power690/XiaoAn) - 小安语音助手轻松抄操作手机
  * [ZiZip](https://github.com/king0929zion/ZiZip)
  * [android-wifi-pojie](https://github.com/bszapp/android-wifi-pojie) - Android使用密码本暴力破解wifi密码工具
- * [ankihelper-plus](https://github.com/huhuswei/ankihelper-plus)
  * [autoglm_KY](https://github.com/aryneal-boop/autoglm_KY) - 开源的autoglm
  * [autojs6_Management](https://github.com/shiyaaini/autojs6_Management) - autojs6管理平台，支持远程运行脚步（类似hamibot）,运行日志，远程投屏（有些设备不给截屏），远程推送软件
  * [chrono-s_camera_android](https://github.com/newyusir/chrono-s_camera_android) - android port of chrono's camera
+ * [deskcontrol](https://github.com/exiarepairii/deskcontrol)
  * [gama](https://github.com/popovicialinc/gama) - GPU API Manager for Android-based devices (GAMA)
  * [haval-app-tool-multimidia](https://github.com/bobaoapae/haval-app-tool-multimidia) - Ferramenta Android experimental para estender e aprimorar o sistema multimídia do Haval H6 GT (GWM) via engenharia reversa e Shizuku
  * [lenovo-pen-plus-debug](https://github.com/ilamparithi-in/lenovo-pen-plus-debug) - My little investigation of why the button on the Pen included with Lenovo Idea Tab (Pro) doesnt work like the S Pen's (and a solution)
@@ -104,6 +105,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [TimerAndroid](https://github.com/HNIdesu/TimerAndroid) - 定时关闭指定的应用，支持Magisk和Shizuku。
  * [UWS](https://github.com/UWillno/UWS) - Qt for Android的shizuku/root shell执行器
  * [VivoTools](https://github.com/ItosEO/VivoTools) - 蓝厂工具盒,用于降级GW和电源信息
+ * [ankihelper-plus](https://github.com/huhuswei/ankihelper-plus)
  * [autodaily](https://github.com/ParadiseZ/autodaily)
  * [cmd-android](https://github.com/niki914/cmd-android) - 基于 Kotlin 协程的 Android Shell 命令执行框架，支持 User、Shizuku 和 Root 三种权限的命令行调用，提供统一易用的挂起式 API
  * [dumpsys-battery-manager](https://github.com/superisuer/dumpsys-battery-manager) - Change the battery values via dumpsys with the interface. Available to change battery meter, percent, temperature and charging status.
@@ -165,7 +167,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ZontesZoom](https://github.com/kerojohan/ZontesZoom)
  * [adocker](https://github.com/LukeXeon/adocker) - 在Android上运行Docker容器，借助AI开发的项目
  * [android-pillar-stabilizer](https://github.com/1andrewprice6-jpg/android-pillar-stabilizer)
- * [autoai-android](https://github.com/king0929zion/autoai-android)
  * [bokbok](https://github.com/mustakim-init/bokbok) - A next-generation voice chat app for Gamers on android based on Material Design.
  * [chengying](https://github.com/nowmore/chengying)
  * [cn.pylin.xycjd](https://github.com/PYLinTech/cn.pylin.xycjd) - Xiaoyu Super Island
@@ -201,7 +202,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ControllerMapper](https://github.com/anhquan7826/ControllerMapper)
  * [File-Manager](https://github.com/abusaeed-shuvo/File-Manager) - Simple file manager with shizuku in compose.
  * [ForensicEye](https://github.com/flxholle/ForensicEye)
- * [GrooveLauncher](https://github.com/oscardiaz28/GrooveLauncher) - A groovy personalized home screen experience for Android
  * [LauncherChanger](https://github.com/Samuel095383/LauncherChanger)
  * [LogCollector](https://github.com/thekosa/LogCollector) - Android application designed to collect and manage Android system logs
  * [Reverse_KBattery](https://github.com/ItosEO/Reverse_KBattery)
@@ -216,6 +216,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [XMeizu](https://github.com/ItosEO/XMeizu)
  * [XPlan](https://github.com/ItosEO/XPlan) - X计划，合并版
  * [android-settings-scheduler](https://github.com/Turtlepaw/android-settings-scheduler) - Schedule any settings that are in the Android Settings app to be changed
+ * [autoai-android](https://github.com/king0929zion/autoai-android)
  * [connect-screen](https://github.com/sherylynn/connect-screen)
  * [everyones-APPS](https://github.com/Slinky-86/everyones-APPS) - Created with StackBlitz ⚡️
  * [gemini-android](https://github.com/niki914/gemini-android) - Let gemini control your Android phone through function calling. 通过FunctionCalling让Gemini操控安卓手机。

@@ -13,6 +13,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
 #### Updated in the last 3 months
 
  * [-Launcher](https://github.com/Linkolnn/-Launcher)
+ * [AirFileEditor](https://github.com/lza6/AirFileEditor) - Listen to the wind and change the document - A lightweight file editing tool. (听风改文件 - 一个轻量级的文件快速替换工具。)
  * [AirMouse](https://github.com/jinyinghua/AirMouse) - 一个能隔空操控你的安卓手机的APP。An app that can remotely control your Android phone.
  * [AppDualZuku](https://github.com/nathanatgit/AppDualZuku) - Manage dual app with Shizuku privilege.
  * [Appzuku](https://github.com/northmendo/Appzuku) - A simple app to boost performance by stopping background apps, relying on Root/Shizuku permissions.
@@ -77,6 +78,9 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ / Linkura Localify / LoveLive Translation / llll
  * [micswitch](https://github.com/kAi-Xin-02/micswitch) - Switch microphone between apps without leaving voice/video calls
  * [mixer-1](https://github.com/farizanjum/mixer-1) - Per-app volume control for Android, designed with Nothing OS aesthetics.
+ * [mkm](https://github.com/abhay-byte/mkm)
+ * [orangects](https://github.com/azu0609/orangects)
+ * [patchwork](https://github.com/brittytino/patchwork) - Patchwork is an open-source Android app designed to enhance productivity and creativity. It features a modern UI, customizable tools, and seamless integration with popular platforms. 
  * [phone-agent-xiaozhi](https://github.com/jieyou-io/phone-agent-xiaozhi)
  * [pikaso](https://github.com/king0929zion/pikaso) - fork by operit
  * [pixel-16-ims-fix](https://github.com/ShamirSecret/pixel-16-ims-fix)
@@ -131,6 +135,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ClipBridge](https://github.com/RyanZhou416/ClipBridge)
  * [ClipboardSync-Android](https://github.com/rccce/ClipboardSync-Android)
  * [DroidLock](https://github.com/zhengzaihong/DroidLock) - Android 企业设备管理器-设备监管-非定制系统方案
+ * [FlexLauncher](https://github.com/Multitaskerplays/FlexLauncher) - Android app that allows multi-user
  * [ForcePhoneMic](https://github.com/Ling554/ForcePhoneMic)
  * [FrostPlum](https://github.com/jickylive/FrostPlum)
  * [GLM-phone](https://github.com/pengqiyu123/GLM-phone)
@@ -179,7 +184,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [komiworld](https://github.com/yoshino2923/komiworld) - An app for manga, anime and novels on android and TV
  * [lanhegongjuxiang](https://github.com/miounet11/lanhegongjuxiang)
  * [materium](https://github.com/deminearchiver/materium) - Get Android app updates straight from the source.
- * [mkm](https://github.com/abhay-byte/mkm)
+ * [privateeye](https://github.com/SaltProphet/privateeye) - Professional-grade Android screen recording utility with MediaProjection API and floating overlay controls.
  * [remoteadb](https://github.com/Copi24/remoteadb)
  * [safecleaner_projex](https://github.com/wreckage6716/safecleaner_projex)
  * [shaobing](https://github.com/BeyondMark/shaobing) - 烧饼 Shaobing - 开源 AI 手机自动化助手 | AI Phone Automation Assistant

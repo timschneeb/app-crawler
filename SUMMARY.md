@@ -19,7 +19,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [AutoGLM-For-Android](https://github.com/Luokavin/AutoGLM-For-Android) - 纯 Android 端 Open-AutoGLM 实现，无需电脑
  * [Ava](https://github.com/knoop7/Ava) - Turn any Android 7-16 device into a Bluetooth proxy all-in-one smart home control panel
  * [AvarionX-Manager](https://github.com/phsycologicalFudge/AvarionX-Manager) - Manager for ColourSwift apps
- * [AxManager](https://github.com/fahrez182/AxManager) - AxManager is an Android application designed to provide deeper control over apps and the system.
  * [BiBi-Keyboard](https://github.com/BryceWG/BiBi-Keyboard) - 说点啥（BiBi Keyboard）:一个基于 Kotlin 的 Android 平台的 LLM 与 ASR 语音输入法键盘应用  An LLM ASR voice input method keyboard application for the Android platform based on Kotlin
  * [BitInstaller](https://github.com/S0methingSomething/BitInstaller)
  * [ColourSwift_AV](https://github.com/phsycologicalFudge/ColourSwift_AV) - A powerful, ad-free antivirus for android
@@ -33,23 +32,20 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Loki](https://github.com/trinadhthatakula/Loki) - Android App logger
  * [MiRearScreenGradienter](https://github.com/GoldenglowSusie/MiRearScreenGradienter)
  * [MiRearScreenSwitcher](https://github.com/GoldenglowSusie/MiRearScreenSwitcher) - 为小米17Pro及以上（也许及以后）机型的背屏一键切换器
- * [MyApplication5](https://github.com/keshu12/MyApplication5)
  * [Open-AutoGLM-Android](https://github.com/xinzezhu/Open-AutoGLM-Android) - 安卓版的AutoGLM，不需要部署直接安装就可以使用，欢迎共建~
  * [Pikaso-AI](https://github.com/king0929zion/Pikaso-AI) - agi
  * [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Quick tool for utilizing CVE-2024-31317 on Android
  * [Recording-Light-Control](https://github.com/Farpathan/Recording-Light-Control) - Recording Light Control gives precise control over the Nothing Phone (3)'s recording light.
  * [Ruto-GLM](https://github.com/iamr0s/Ruto-GLM) - 手机端 AutoGLM：无需电脑，真·后台全自动。 支持熄屏、同时多个任务并行，主屏操作互不干扰。（一个基于 AI 的 Android 自动化与多任务框架，开启无限可能。）
- * [Simple-wireless-ADB](https://github.com/PhenixStar/Simple-wireless-ADB) - Simple Wireless ADB - ROOT REQUIRED - Lightweight Android app to enable wireless ADB on rooted devices
+ * [Squire-VR](https://github.com/kyy1-cyy/Squire-VR) - Standalone tool to browse and download Games from the rookie server for meta quest
  * [Traffic Light](https://github.com/leekleak/traffic-light) - Track your internet usage in the status bar
  * [UltraNavbar](https://github.com/iMasterProX/UltraNavbar) - LG 울트라탭의 불편할대로 불편한 하단 UI조작 경험을 개선하려다 더 많은 기능을 넣게된 앱
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [WuWa-Tool-Android](https://github.com/k4wai1/WuWa-Tool-Android) - An app to organize and apply Wuthering Waves graphics configs safely using Shizuku.
  * [android-wifi-pojie](https://github.com/bszapp/android-wifi-pojie) - Android使用密码本暴力破解wifi密码工具
- * [auto-ledger](https://github.com/vmoeak/auto-ledger)
  * [chrono-s_camera_android](https://github.com/newyusir/chrono-s_camera_android) - android port of chrono's camera
  * [deskcontrol](https://github.com/exiarepairii/deskcontrol)
  * [gama](https://github.com/popovicialinc/gama) - GPU API Manager for Android-based devices (GAMA)
- * [lenovo-pen-plus-debug](https://github.com/ilamparithi-in/lenovo-pen-plus-debug) - My little investigation of why the button on the Pen included with Lenovo Idea Tab (Pro) doesnt work like the S Pen's (and a solution)
  * [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ / Linkura Localify / LoveLive Translation / llll
  * [mixer-1](https://github.com/farizanjum/mixer-1) - Per-app volume control for Android, designed with Nothing OS aesthetics.
  * [orangects](https://github.com/azu0609/orangects)
@@ -119,17 +115,13 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [lanhegongjuxiang](https://github.com/miounet11/lanhegongjuxiang)
  * [privateeye](https://github.com/SaltProphet/privateeye) - Professional-grade Android screen recording utility with MediaProjection API and floating overlay controls.
  * [remoteadb](https://github.com/Copi24/remoteadb)
- * [shaobing](https://github.com/BeyondMark/shaobing) - 烧饼 Shaobing - 开源 AI 手机自动化助手 | AI Phone Automation Assistant
  * [shizuku-screen-off-on-phone-call](https://github.com/olegsvs/shizuku-screen-off-on-phone-call)
  * [shizuku-wear](https://github.com/emtee40/shizuku-wear)
- * [shizuku-yangFenTuoZi](https://github.com/emtee40/shizuku-yangFenTuoZi)
  * [sing-box-for-android](https://github.com/SagerNet/sing-box-for-android) - Experimental Android client for sing-box
 
 #### Updated more than 3 months ago
 
  * [Android-FPS-Watcher](https://github.com/WuDi-ZhanShen/Android-FPS-Watcher) - Monitor RealTime FPS. Suppports Android 12+. Pure Java. Needs ADB or ROOT.
- * [FreezeApp](https://github.com/FreezeTool/FreezeApp)
- * [GrooveLauncher](https://github.com/oscardiaz28/GrooveLauncher) - A groovy personalized home screen experience for Android
  * [SuperWindow](https://github.com/eiyooooo/SuperWindow) - 超级视窗 | Enhance multi-task experience for large-screen Android devices
  * [android-settings-scheduler](https://github.com/Turtlepaw/android-settings-scheduler) - Schedule any settings that are in the Android Settings app to be changed
  * [li](https://github.com/lousli/li) - 安卓去广告

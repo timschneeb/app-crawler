@@ -27,16 +27,15 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [DiscoLauncher](https://github.com/cherryhoax/DiscoLauncher) - A groovy personalized home screen experience
  * [ESP](https://github.com/bhikandeshmukh/ESP)
  * [FakePowerOff](https://github.com/BinitDOX/FakePowerOff) - Simulate device shutdown, ideal for use with anti-theft apps.
- * [GlyphRecorder](https://github.com/aaa1115910/GlyphRecorder) - A glyph recognition tool.
  * [Hz-Changer](https://github.com/S-Marcos-S/Hz-Changer) - Under development! Simple, light, free and functional hz changer app.
  * [Loki](https://github.com/trinadhthatakula/Loki) - Android App logger
  * [MiRearScreenGradienter](https://github.com/GoldenglowSusie/MiRearScreenGradienter)
  * [MiRearScreenSwitcher](https://github.com/GoldenglowSusie/MiRearScreenSwitcher) - 为小米17Pro及以上（也许及以后）机型的背屏一键切换器
- * [Open-AutoGLM-Android](https://github.com/butlanys/Open-AutoGLM-Android) - 基于 Open-AutoGLM 的 Android 原生客户端，通过 Shizuku 实现完全本地化的 AI 手机操控，无需电脑连接。
  * [Pikaso-AI](https://github.com/king0929zion/Pikaso-AI) - agi
  * [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Quick tool for utilizing CVE-2024-31317 on Android
  * [Ruto-GLM](https://github.com/iamr0s/Ruto-GLM) - 手机端 AutoGLM：无需电脑，真·后台全自动。 支持熄屏、同时多个任务并行，主屏操作互不干扰。（一个基于 AI 的 Android 自动化与多任务框架，开启无限可能。）
  * [Squire-VR](https://github.com/kyy1-cyy/Squire-VR) - Standalone tool to browse and download Games from the rookie server for meta quest
+ * [TURBO-CORE-ANDROID](https://github.com/Catdiegovdl5/TURBO-CORE-ANDROID) - Otimizador de Android com modos PC, Gamer e Bateria.
  * [UltraNavbar](https://github.com/iMasterProX/UltraNavbar) - LG 울트라탭의 불편할대로 불편한 하단 UI조작 경험을 개선하려다 더 많은 기능을 넣게된 앱
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [WuWa-Tool-Android](https://github.com/k4wai1/WuWa-Tool-Android) - An app to organize and apply Wuthering Waves graphics configs safely using Shizuku.
@@ -53,6 +52,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
 
 #### Updated more than 3 months ago
 
+ * [GlyphRecorder](https://github.com/aaa1115910/GlyphRecorder) - A glyph recognition tool.
  * [HesleyTools](https://github.com/ldh-star/HesleyTools) - 自用工具/模块
  * [HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！
  * [KeyboardSwitcher](https://github.com/SgLy/KeyboardSwitcher) - Adds a quick setting tile for quickly switching keyboard (input method)
@@ -89,6 +89,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Murasaki](https://github.com/Anatdx/Murasaki) - The API and the developer guide for Shizuku and Sui.
  * [My-app](https://github.com/rjkyker383-gif/My-app)
  * [Nexus-framework](https://github.com/1andrewprice6-jpg/Nexus-framework)
+ * [Open-AutoGLM-Android](https://github.com/Repobor/Open-AutoGLM-Android) - 基于 https://github.com/zai-org/Open-AutoGLM 的Android实现
  * [Operit-build](https://github.com/yiluo13/Operit-build)
  * [PhonePointer](https://github.com/Usepot/PhonePointer)
  * [QABlackBox](https://github.com/mikepty/QABlackBox) - Black Box Testing Tool
@@ -112,6 +113,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [droidify_enterprise](https://github.com/Bliss-Bass/droidify_enterprise)
  * [kwshell](https://github.com/DuckyScript/kwshell) - A android terminal
  * [lanhegongjuxiang](https://github.com/miounet11/lanhegongjuxiang)
+ * [mlbb-history-analyst](https://github.com/Amethyst666/mlbb-history-analyst)
  * [privateeye](https://github.com/SaltProphet/privateeye) - Professional-grade Android screen recording utility with MediaProjection API and floating overlay controls.
  * [remoteadb](https://github.com/Copi24/remoteadb)
  * [shizuku-screen-off-on-phone-call](https://github.com/olegsvs/shizuku-screen-off-on-phone-call)

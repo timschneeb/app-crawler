@@ -112,6 +112,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [chengying](https://github.com/nowmore/chengying)
  * [cn.pylin.xycjd](https://github.com/PYLinTech/cn.pylin.xycjd) - Xiaoyu Super Island
  * [droidify_enterprise](https://github.com/Bliss-Bass/droidify_enterprise)
+ * [hyperdroid](https://github.com/roshank8s/hyperdroid)
  * [kwshell](https://github.com/DuckyScript/kwshell) - A android terminal
  * [lanhegongjuxiang](https://github.com/miounet11/lanhegongjuxiang)
  * [mlbb-history-analyst](https://github.com/Amethyst666/mlbb-history-analyst)
@@ -120,6 +121,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [shizuku-screen-off-on-phone-call](https://github.com/olegsvs/shizuku-screen-off-on-phone-call)
  * [shizuku-wear](https://github.com/emtee40/shizuku-wear)
  * [sing-box-for-android](https://github.com/SagerNet/sing-box-for-android) - Experimental Android client for sing-box
+ * [uninstallApp](https://github.com/HL946067429/uninstallApp) - Android batch uninstaller
 
 #### Updated more than 3 months ago
 

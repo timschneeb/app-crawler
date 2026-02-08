@@ -13,6 +13,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
 #### Updated in the last 3 months
 
  * [AirMouse](https://github.com/jinyinghua/AirMouse) - 一个能隔空操控你的安卓手机的APP。An app that can remotely control your Android phone.
+ * [Ajiro](https://github.com/CrackTC/Ajiro) - 麻城建设
  * [AppDualZuku](https://github.com/nathanatgit/AppDualZuku) - Manage dual app with Shizuku privilege.
  * [Appzuku](https://github.com/northmendo/Appzuku) - A simple app to boost performance by stopping background apps, relying on Root/Shizuku permissions.
  * [AutoAccounting](https://github.com/AutoAccountingOrg/AutoAccounting) - 你的每一笔账单都值得记录！
@@ -50,6 +51,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [roubao](https://github.com/Turbo1123/roubao) - Android Automation Tool Based on Vision-Language Models
  * [startfrp](https://github.com/usertest001/startfrp) - Android FRP客户端，FRP Client， FRP Android
  * [telegram-rc](https://github.com/telegram-sms/telegram-rc) - [Shizuku] A robot running on an Android device that controls your phone.
+ * [uad-shizuku](https://github.com/nikescar/uad-shizuku) - android debloater, scanner, app installer using adb.
  * [vFlow](https://github.com/ChaoMixian/vFlow) - vFlow 是一款为 Android 平台设计的、强大且高度可扩展的自动化工具。它允许你通过图形化界面，将一系列“动作模块”自由组合成强大的“工作流”，从而自动完成各种日常的、重复性的屏幕操作任务。
 
 #### Updated more than 3 months ago
@@ -74,6 +76,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [AutoGLM-Android-Voice](https://github.com/chenbom/AutoGLM-Android-Voice) - Open-AutoGLM with speech input for android.
  * [AutoPilotAI](https://github.com/soumithganji/AutoPilotAI) - VLM-powered Android automation agent that "sees" your screen and executes complex tasks from simple voice commands
  * [AutoScript](https://github.com/Ion-conservation/AutoScript) - 网易云音乐广告脚本
+ * [BattleGrounds_GFX](https://github.com/Krish-malik/BattleGrounds_GFX) - BattleGrounds GFX Tool is a performance optimization app for games like PUBG Mobile, BGMI, and other battleground titles. It unlocks higher FPS options, optimizes graphics settings, reduces lag, and improves smoothness based on your device without changing core gameplay. Perfect for stable, competitive play.
  * [BillAuto](https://github.com/Albresky/BillAuto)
  * [CaptureSecureScreen](https://github.com/jimmychanii/CaptureSecureScreen) - A android tools to capture screen, includes secure flag activity
  * [ClipBridge](https://github.com/RyanZhou416/ClipBridge)
@@ -89,12 +92,14 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [MiRearScreenSwitcherEnglish](https://github.com/aaronnat23/MiRearScreenSwitcherEnglish)
  * [ModularWhitelistApp](https://github.com/tam1012/ModularWhitelistApp) - MODULAR WHITELIST - Xiaomi PowerKeeper Whitelist Tool for Android
  * [Murasaki](https://github.com/Anatdx/Murasaki) - The API and the developer guide for Shizuku and Sui.
+ * [Murasaki-api](https://github.com/Anatdx/Murasaki-api) - The API and the developer guide for Shizuku and Sui.
  * [My-app](https://github.com/rjkyker383-gif/My-app)
  * [Nexus-framework](https://github.com/1andrewprice6-jpg/Nexus-framework)
  * [Operit-build](https://github.com/yiluo13/Operit-build)
  * [PhonePointer](https://github.com/Usepot/PhonePointer)
  * [QABlackBox](https://github.com/mikepty/QABlackBox) - Black Box Testing Tool
  * [RootManager](https://github.com/Copi24/RootManager)
+ * [Sesame-TK](https://github.com/outlllc/Sesame-TK) - 芝你麻咸鱼的粒-TK
  * [ShizukuRunner](https://github.com/delmsyap/ShizukuRunner)
  * [Sunshine-android](https://github.com/ZyoungInc/Sunshine-android) - a sunshine server for android system
  * [TaskOrb-Android-Assistant-Framework-Based-on-AutoGLM](https://github.com/wdsj2066/TaskOrb-Android-Assistant-Framework-Based-on-AutoGLM)
@@ -113,6 +118,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [cn.pylin.xycjd](https://github.com/PYLinTech/cn.pylin.xycjd) - Xiaoyu Super Island
  * [droidify_enterprise](https://github.com/Bliss-Bass/droidify_enterprise)
  * [hyperdroid](https://github.com/roshank8s/hyperdroid)
+ * [kikyo](https://github.com/achyutbadyal/kikyo) - Free and open source manga reader for Android
  * [kwshell](https://github.com/DuckyScript/kwshell) - A android terminal
  * [lanhegongjuxiang](https://github.com/miounet11/lanhegongjuxiang)
  * [mlbb-history-analyst](https://github.com/Amethyst666/mlbb-history-analyst)
@@ -128,5 +134,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Android-FPS-Watcher](https://github.com/WuDi-ZhanShen/Android-FPS-Watcher) - Monitor RealTime FPS. Suppports Android 12+. Pure Java. Needs ADB or ROOT.
  * [SuperWindow](https://github.com/eiyooooo/SuperWindow) - 超级视窗 | Enhance multi-task experience for large-screen Android devices
  * [android-settings-scheduler](https://github.com/Turtlepaw/android-settings-scheduler) - Schedule any settings that are in the Android Settings app to be changed
+ * [iOStachiyomi](https://github.com/sevendeadly/iOStachiyomi) - Hard-Fork of Tachiyomi source code for digital media preservance purposes
  * [li](https://github.com/lousli/li) - 安卓去广告
  * [modtoon_module](https://github.com/Inhaleoxygen/modtoon_module)

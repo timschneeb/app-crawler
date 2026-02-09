@@ -32,7 +32,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Loki](https://github.com/trinadhthatakula/Loki) - Android App logger
  * [MiRearScreenGradienter](https://github.com/GoldenglowSusie/MiRearScreenGradienter)
  * [MiRearScreenSwitcher](https://github.com/GoldenglowSusie/MiRearScreenSwitcher) - 为小米17Pro及以上（也许及以后）机型的背屏一键切换器
- * [Open-AutoGLM-Android](https://github.com/xinzezhu/Open-AutoGLM-Android) - 安卓版的AutoGLM，不需要部署直接安装就可以使用，欢迎共建~
+ * [Open-AutoGLM-Android](https://github.com/butlanys/Open-AutoGLM-Android) - 基于 Open-AutoGLM 的 Android 原生客户端，通过 Shizuku 实现完全本地化的 AI 手机操控，无需电脑连接。
  * [Pikaso-AI](https://github.com/king0929zion/Pikaso-AI) - agi
  * [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Quick tool for utilizing CVE-2024-31317 on Android
  * [Ruto-GLM](https://github.com/iamr0s/Ruto-GLM) - 手机端 AutoGLM：无需电脑，真·后台全自动。 支持熄屏、同时多个任务并行，主屏操作互不干扰。（一个基于 AI 的 Android 自动化与多任务框架，开启无限可能。）
@@ -44,6 +44,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [aadb-manager](https://github.com/LozanoTH/aadb-manager) - app android para administrar moduos bash en androi
  * [android-wifi-pojie](https://github.com/bszapp/android-wifi-pojie) - Android使用密码本暴力破解wifi密码工具
  * [chrono-s_camera_android](https://github.com/newyusir/chrono-s_camera_android) - android port of chrono's camera
+ * [com.system.reschange](https://github.com/c0a22132/com.system.reschange)
  * [hexodus](https://github.com/thejaustin/hexodus) - Next-generation Android theming engine for Samsung One UI 8 (Android 16+) as a spiritual successor to 'Hex Installer', leveraging Shizuku for system-level operations without requiring root access.
  * [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ / Linkura Localify / LoveLive Translation / llll
  * [mixer-1](https://github.com/farizanjum/mixer-1) - Per-app volume control for Android, designed with Nothing OS aesthetics.
@@ -83,7 +84,9 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ClipboardSync-Android](https://github.com/rccce/ClipboardSync-Android)
  * [DroidLock](https://github.com/zhengzaihong/DroidLock) - Android 企业设备管理器-设备监管-非定制系统方案
  * [FlexLauncher](https://github.com/Multitaskerplays/FlexLauncher) - Android app that allows multi-user
+ * [FlipAccounting](https://github.com/yyzx2016lht/FlipAccounting) - 通过shizhuku权限实现翻转进行记账的软件。（适用于钱迹）参考自动记账
  * [ForcePhoneMic](https://github.com/Ling554/ForcePhoneMic)
+ * [Frame-generation-](https://github.com/proqaz2-design/Frame-generation-) - Without root 
  * [FrostPlum](https://github.com/jickylive/FrostPlum)
  * [GLM-phone](https://github.com/pengqiyu123/GLM-phone)
  * [Golden-IDE](https://github.com/scto/Golden-IDE)
@@ -122,6 +125,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [kwshell](https://github.com/DuckyScript/kwshell) - A android terminal
  * [lanhegongjuxiang](https://github.com/miounet11/lanhegongjuxiang)
  * [mlbb-history-analyst](https://github.com/Amethyst666/mlbb-history-analyst)
+ * [opengui-android](https://github.com/yiling-org/opengui-android) -  OpenGUI - 具备语音交互与自主执行能力的 Android AI Agent
  * [privateeye](https://github.com/SaltProphet/privateeye) - Professional-grade Android screen recording utility with MediaProjection API and floating overlay controls.
  * [remoteadb](https://github.com/Copi24/remoteadb)
  * [shizuku-screen-off-on-phone-call](https://github.com/olegsvs/shizuku-screen-off-on-phone-call)

@@ -14,6 +14,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
 
  * [AirMouse](https://github.com/jinyinghua/AirMouse) - 一个能隔空操控你的安卓手机的APP。An app that can remotely control your Android phone.
  * [Ajiro](https://github.com/CrackTC/Ajiro) - 麻城建设
+ * [Amarok-Hider-mirror](https://github.com/sad25kag/Amarok-Hider-mirror)
  * [AppDualZuku](https://github.com/nathanatgit/AppDualZuku) - Manage dual app with Shizuku privilege.
  * [Appzuku](https://github.com/northmendo/Appzuku) - A simple app to boost performance by stopping background apps, relying on Root/Shizuku permissions.
  * [AutoAccounting](https://github.com/AutoAccountingOrg/AutoAccounting) - 你的每一笔账单都值得记录！
@@ -22,13 +23,16 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [AvarionX-Manager](https://github.com/phsycologicalFudge/AvarionX-Manager) - Manager for ColourSwift apps
  * [BiBi-Keyboard](https://github.com/BryceWG/BiBi-Keyboard) - 说点啥（BiBi Keyboard）:一个基于 Kotlin 的 Android 平台的 LLM 与 ASR 语音输入法键盘应用  An LLM ASR voice input method keyboard application for the Android platform based on Kotlin
  * [BitInstaller](https://github.com/S0methingSomething/BitInstaller)
+ * [Canta-mirror](https://github.com/sad25kag/Canta-mirror)
  * [CherryDiskInfo](https://github.com/ArcCherry/CherryDiskInfo) - CrystalDiskInfo 的 Android 平台精神续作，为无法更换存储的移动设备提供寿命透明度
  * [ColourSwift_AV](https://github.com/phsycologicalFudge/ColourSwift_AV) - A powerful, ad-free antivirus for android
  * [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新
  * [DiscoLauncher](https://github.com/cherryhoax/DiscoLauncher) - A groovy personalized home screen experience
  * [ESP](https://github.com/bhikandeshmukh/ESP)
  * [FakePowerOff](https://github.com/BinitDOX/FakePowerOff) - Simulate device shutdown, ideal for use with anti-theft apps.
+ * [Hail-mirror](https://github.com/sad25kag/Hail-mirror)
  * [Hz-Changer](https://github.com/S-Marcos-S/Hz-Changer) - Under development! Simple, light, free and functional hz changer app.
+ * [InstallerX-Revived-mirror](https://github.com/sad25kag/InstallerX-Revived-mirror)
  * [Loki](https://github.com/trinadhthatakula/Loki) - Android App logger
  * [MiRearScreenGradienter](https://github.com/GoldenglowSusie/MiRearScreenGradienter)
  * [MiRearScreenSwitcher](https://github.com/GoldenglowSusie/MiRearScreenSwitcher) - 为小米17Pro及以上（也许及以后）机型的背屏一键切换器
@@ -36,12 +40,14 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Pikaso-AI](https://github.com/king0929zion/Pikaso-AI) - agi
  * [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Quick tool for utilizing CVE-2024-31317 on Android
  * [Ruto-GLM](https://github.com/iamr0s/Ruto-GLM) - 手机端 AutoGLM：无需电脑，真·后台全自动。 支持熄屏、同时多个任务并行，主屏操作互不干扰。（一个基于 AI 的 Android 自动化与多任务框架，开启无限可能。）
+ * [Shizuku-mirror](https://github.com/sad25kag/Shizuku-mirror)
  * [TURBO-CORE-ANDROID](https://github.com/Catdiegovdl5/TURBO-CORE-ANDROID) - Otimizador de Android com modos PC, Gamer e Bateria.
  * [UltraNavbar](https://github.com/iMasterProX/UltraNavbar) - LG 울트라탭의 불편할대로 불편한 하단 UI조작 경험을 개선하려다 더 많은 기능을 넣게된 앱
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [WuWa-Tool-Android](https://github.com/k4wai1/WuWa-Tool-Android) - An app to organize and apply Wuthering Waves graphics configs safely using Shizuku.
  * [aadb-manager](https://github.com/LozanoTH/aadb-manager) - app android para administrar moduos bash en androi
  * [android-wifi-pojie](https://github.com/bszapp/android-wifi-pojie) - Android使用密码本暴力破解wifi密码工具
+ * [carrierconfigeditor](https://github.com/bjorn-032/carrierconfigeditor)
  * [chrono-s_camera_android](https://github.com/newyusir/chrono-s_camera_android) - android port of chrono's camera
  * [com.system.reschange](https://github.com/c0a22132/com.system.reschange)
  * [hexodus](https://github.com/thejaustin/hexodus) - Next-generation Android theming engine for Samsung One UI 8 (Android 16+) as a spiritual successor to 'Hex Installer', leveraging Shizuku for system-level operations without requiring root access.
@@ -92,6 +98,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [InstallerX_](https://github.com/shuaige-911/InstallerX_)
  * [Know_You](https://github.com/ZJDqtjs/Know_You) - 基于flutter对uni_familyguard项目的重构
  * [LocalDex](https://github.com/lukifer23/LocalDex)
+ * [MAA-Meow](https://github.com/Aliothmoon/MAA-Meow) - 《明日方舟》小助手Android版，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
  * [MiRearScreenSwitcherEnglish](https://github.com/aaronnat23/MiRearScreenSwitcherEnglish)
  * [ModularWhitelistApp](https://github.com/tam1012/ModularWhitelistApp) - MODULAR WHITELIST - Xiaomi PowerKeeper Whitelist Tool for Android
  * [Murasaki](https://github.com/Anatdx/Murasaki) - The API and the developer guide for Shizuku and Sui.
@@ -105,6 +112,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [RootManager](https://github.com/Copi24/RootManager)
  * [Sesame-TK](https://github.com/outlllc/Sesame-TK) - 芝你麻咸鱼的粒-TK
  * [ShizukuRunner](https://github.com/delmsyap/ShizukuRunner)
+ * [SignalFix](https://github.com/zhaochunqi/SignalFix) - 修复类原生的信号问题
  * [Sunshine-android](https://github.com/ZyoungInc/Sunshine-android) - a sunshine server for android system
  * [TaskOrb-Android-Assistant-Framework-Based-on-AutoGLM](https://github.com/wdsj2066/TaskOrb-Android-Assistant-Framework-Based-on-AutoGLM)
  * [ThemedManager](https://github.com/Osanosa/ThemedManager) - Themed Overlays Manager

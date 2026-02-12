@@ -34,9 +34,9 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Hz-Changer](https://github.com/S-Marcos-S/Hz-Changer) - Under development! Simple, light, free and functional hz changer app.
  * [InstallerX-Revived-mirror](https://github.com/sad25kag/InstallerX-Revived-mirror)
  * [Loki](https://github.com/trinadhthatakula/Loki) - Android App logger
+ * [MAA-Meow](https://github.com/Aliothmoon/MAA-Meow) - 《明日方舟》小助手Android版，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
  * [MiRearScreenGradienter](https://github.com/GoldenglowSusie/MiRearScreenGradienter)
  * [MiRearScreenSwitcher](https://github.com/GoldenglowSusie/MiRearScreenSwitcher) - 为小米17Pro及以上（也许及以后）机型的背屏一键切换器
- * [Open-AutoGLM-Android](https://github.com/xinzezhu/Open-AutoGLM-Android) - 安卓版的AutoGLM，不需要部署直接安装就可以使用，欢迎共建~
  * [Pikaso-AI](https://github.com/king0929zion/Pikaso-AI) - agi
  * [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Quick tool for utilizing CVE-2024-31317 on Android
  * [Ruto-GLM](https://github.com/iamr0s/Ruto-GLM) - 手机端 AutoGLM：无需电脑，真·后台全自动。 支持熄屏、同时多个任务并行，主屏操作互不干扰。（一个基于 AI 的 Android 自动化与多任务框架，开启无限可能。）
@@ -50,6 +50,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [carrierconfigeditor](https://github.com/bjorn-032/carrierconfigeditor)
  * [chrono-s_camera_android](https://github.com/newyusir/chrono-s_camera_android) - android port of chrono's camera
  * [com.system.reschange](https://github.com/c0a22132/com.system.reschange)
+ * [florid](https://github.com/Nandanrmenon/florid) - F-Droid Client
  * [hexodus](https://github.com/thejaustin/hexodus) - Next-generation Android theming engine for Samsung One UI 8 (Android 16+) as a spiritual successor to 'Hex Installer', leveraging Shizuku for system-level operations without requiring root access.
  * [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ / Linkura Localify / LoveLive Translation / llll
  * [mixer-1](https://github.com/farizanjum/mixer-1) - Per-app volume control for Android, designed with Nothing OS aesthetics.
@@ -59,6 +60,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [telegram-rc](https://github.com/telegram-sms/telegram-rc) - [Shizuku] A robot running on an Android device that controls your phone.
  * [uad-shizuku](https://github.com/nikescar/uad-shizuku) - android debloater, scanner, app installer using adb.
  * [vFlow](https://github.com/ChaoMixian/vFlow) - vFlow 是一款为 Android 平台设计的、强大且高度可扩展的自动化工具。它允许你通过图形化界面，将一系列“动作模块”自由组合成强大的“工作流”，从而自动完成各种日常的、重复性的屏幕操作任务。
+ * [zivpn-xsocks-core](https://github.com/mlacnout-sketch/zivpn-xsocks-core)
 
 #### Updated more than 3 months ago
 
@@ -98,7 +100,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [InstallerX_](https://github.com/shuaige-911/InstallerX_)
  * [Know_You](https://github.com/ZJDqtjs/Know_You) - 基于flutter对uni_familyguard项目的重构
  * [LocalDex](https://github.com/lukifer23/LocalDex)
- * [MAA-Meow](https://github.com/Aliothmoon/MAA-Meow) - 《明日方舟》小助手Android版，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
  * [MiRearScreenSwitcherEnglish](https://github.com/aaronnat23/MiRearScreenSwitcherEnglish)
  * [ModularWhitelistApp](https://github.com/tam1012/ModularWhitelistApp) - MODULAR WHITELIST - Xiaomi PowerKeeper Whitelist Tool for Android
  * [Murasaki](https://github.com/Anatdx/Murasaki) - The API and the developer guide for Shizuku and Sui.
@@ -106,6 +107,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [My-app](https://github.com/rjkyker383-gif/My-app)
  * [NeoDeskPet](https://github.com/nishichengju/NeoDeskPet)
  * [Nexus-framework](https://github.com/1andrewprice6-jpg/Nexus-framework)
+ * [Open-AutoGLM-Android](https://github.com/Repobor/Open-AutoGLM-Android) - 基于 https://github.com/zai-org/Open-AutoGLM 的Android实现
  * [Operit-build](https://github.com/yiluo13/Operit-build)
  * [PhonePointer](https://github.com/Usepot/PhonePointer)
  * [QABlackBox](https://github.com/mikepty/QABlackBox) - Black Box Testing Tool
@@ -119,7 +121,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [TouchTool](https://github.com/mr-bogey/TouchTool) - 使用Android无障碍功能来帮助用户点击。蓝图式任务编辑
  * [Vortex](https://github.com/mim1012/Vortex)
  * [WebSu-Plus](https://github.com/Betrix-ID/WebSu-Plus)
- * [XPerm](https://github.com/Alhkxsj/XPerm) - 一个权限代理应用
  * [Xphone](https://github.com/wake0p/Xphone) - help you get away from phone
  * [Zong-Hub-GFX](https://github.com/kaungkaung575556-beep/Zong-Hub-GFX)
  * [ZontesZoom](https://github.com/kerojohan/ZontesZoom)
@@ -147,6 +148,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
 
  * [Android-FPS-Watcher](https://github.com/WuDi-ZhanShen/Android-FPS-Watcher) - Monitor RealTime FPS. Suppports Android 12+. Pure Java. Needs ADB or ROOT.
  * [SuperWindow](https://github.com/eiyooooo/SuperWindow) - 超级视窗 | Enhance multi-task experience for large-screen Android devices
+ * [XPerm](https://github.com/Alhkxsj/XPerm) - 一个权限代理应用
  * [android-settings-scheduler](https://github.com/Turtlepaw/android-settings-scheduler) - Schedule any settings that are in the Android Settings app to be changed
  * [iOStachiyomi](https://github.com/sevendeadly/iOStachiyomi) - Hard-Fork of Tachiyomi source code for digital media preservance purposes
  * [li](https://github.com/lousli/li) - 安卓去广告

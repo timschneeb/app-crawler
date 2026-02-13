@@ -20,6 +20,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [AutoAccounting](https://github.com/AutoAccountingOrg/AutoAccounting) - 你的每一笔账单都值得记录！
  * [AutoGLM-For-Android](https://github.com/Luokavin/AutoGLM-For-Android) - 纯 Android 端 Open-AutoGLM 实现，无需电脑
  * [Ava](https://github.com/knoop7/Ava) - Turn any Android 7-16 device into a Bluetooth proxy all-in-one smart home control panel
+ * [AvarionX-Android-Antivirus](https://github.com/phsycologicalFudge/AvarionX-Android-Antivirus) - A powerful antivirus for android
  * [AvarionX-Manager](https://github.com/phsycologicalFudge/AvarionX-Manager) - Manager for ColourSwift apps
  * [BiBi-Keyboard](https://github.com/BryceWG/BiBi-Keyboard) - 说点啥（BiBi Keyboard）:一个基于 Kotlin 的 Android 平台的 LLM 与 ASR 语音输入法键盘应用  An LLM ASR voice input method keyboard application for the Android platform based on Kotlin
  * [BitInstaller](https://github.com/S0methingSomething/BitInstaller)
@@ -37,6 +38,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [MAA-Meow](https://github.com/Aliothmoon/MAA-Meow) - 《明日方舟》小助手Android版，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
  * [MiRearScreenGradienter](https://github.com/GoldenglowSusie/MiRearScreenGradienter)
  * [MiRearScreenSwitcher](https://github.com/GoldenglowSusie/MiRearScreenSwitcher) - 为小米17Pro及以上（也许及以后）机型的背屏一键切换器
+ * [Open-AutoGLM-Android](https://github.com/xinzezhu/Open-AutoGLM-Android) - 安卓版的AutoGLM，不需要部署直接安装就可以使用，欢迎共建~
  * [Pikaso-AI](https://github.com/king0929zion/Pikaso-AI) - agi
  * [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Quick tool for utilizing CVE-2024-31317 on Android
  * [Ruto-GLM](https://github.com/iamr0s/Ruto-GLM) - 手机端 AutoGLM：无需电脑，真·后台全自动。 支持熄屏、同时多个任务并行，主屏操作互不干扰。（一个基于 AI 的 Android 自动化与多任务框架，开启无限可能。）
@@ -60,6 +62,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [telegram-rc](https://github.com/telegram-sms/telegram-rc) - [Shizuku] A robot running on an Android device that controls your phone.
  * [uad-shizuku](https://github.com/nikescar/uad-shizuku) - android debloater, scanner, app installer using adb.
  * [vFlow](https://github.com/ChaoMixian/vFlow) - vFlow 是一款为 Android 平台设计的、强大且高度可扩展的自动化工具。它允许你通过图形化界面，将一系列“动作模块”自由组合成强大的“工作流”，从而自动完成各种日常的、重复性的屏幕操作任务。
+ * [yhjmew.minecraft.nbteditor](https://github.com/yinghuajimew/yhjmew.minecraft.nbteditor)
  * [zivpn-xsocks-core](https://github.com/mlacnout-sketch/zivpn-xsocks-core)
 
 #### Updated more than 3 months ago
@@ -107,12 +110,12 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [My-app](https://github.com/rjkyker383-gif/My-app)
  * [NeoDeskPet](https://github.com/nishichengju/NeoDeskPet)
  * [Nexus-framework](https://github.com/1andrewprice6-jpg/Nexus-framework)
- * [Open-AutoGLM-Android](https://github.com/Repobor/Open-AutoGLM-Android) - 基于 https://github.com/zai-org/Open-AutoGLM 的Android实现
  * [Operit-build](https://github.com/yiluo13/Operit-build)
  * [PhonePointer](https://github.com/Usepot/PhonePointer)
  * [QABlackBox](https://github.com/mikepty/QABlackBox) - Black Box Testing Tool
  * [RootManager](https://github.com/Copi24/RootManager)
  * [Sesame-TK](https://github.com/outlllc/Sesame-TK) - 芝你麻咸鱼的粒-TK
+ * [Shizuku-](https://github.com/Asilkan5807/Shizuku-)
  * [ShizukuRunner](https://github.com/delmsyap/ShizukuRunner)
  * [SignalFix](https://github.com/zhaochunqi/SignalFix) - 修复类原生的信号问题
  * [Sunshine-android](https://github.com/ZyoungInc/Sunshine-android) - a sunshine server for android system

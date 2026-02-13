@@ -35,10 +35,10 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Hz-Changer](https://github.com/S-Marcos-S/Hz-Changer) - Under development! Simple, light, free and functional hz changer app.
  * [InstallerX-Revived-mirror](https://github.com/sad25kag/InstallerX-Revived-mirror)
  * [Loki](https://github.com/trinadhthatakula/Loki) - Android App logger
+ * [LuxuryCheats](https://github.com/iFor-Lux/LuxuryCheats) - Luxury Cheat's
  * [MAA-Meow](https://github.com/Aliothmoon/MAA-Meow) - 《明日方舟》小助手Android版，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
  * [MiRearScreenGradienter](https://github.com/GoldenglowSusie/MiRearScreenGradienter)
  * [MiRearScreenSwitcher](https://github.com/GoldenglowSusie/MiRearScreenSwitcher) - 为小米17Pro及以上（也许及以后）机型的背屏一键切换器
- * [Open-AutoGLM-Android](https://github.com/xinzezhu/Open-AutoGLM-Android) - 安卓版的AutoGLM，不需要部署直接安装就可以使用，欢迎共建~
  * [Pikaso-AI](https://github.com/king0929zion/Pikaso-AI) - agi
  * [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Quick tool for utilizing CVE-2024-31317 on Android
  * [Ruto-GLM](https://github.com/iamr0s/Ruto-GLM) - 手机端 AutoGLM：无需电脑，真·后台全自动。 支持熄屏、同时多个任务并行，主屏操作互不干扰。（一个基于 AI 的 Android 自动化与多任务框架，开启无限可能。）
@@ -56,6 +56,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [hexodus](https://github.com/thejaustin/hexodus) - Next-generation Android theming engine for Samsung One UI 8 (Android 16+) as a spiritual successor to 'Hex Installer', leveraging Shizuku for system-level operations without requiring root access.
  * [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ / Linkura Localify / LoveLive Translation / llll
  * [mixer-1](https://github.com/farizanjum/mixer-1) - Per-app volume control for Android, designed with Nothing OS aesthetics.
+ * [opengui-android](https://github.com/yiling-org/opengui-android) -  OpenGUI - 具备语音交互与自主执行能力的 Android AI Agent
  * [orangects](https://github.com/azu0609/orangects)
  * [roubao](https://github.com/Turbo1123/roubao) - Android Automation Tool Based on Vision-Language Models
  * [startfrp](https://github.com/usertest001/startfrp) - Android FRP客户端，FRP Client， FRP Android
@@ -110,6 +111,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [My-app](https://github.com/rjkyker383-gif/My-app)
  * [NeoDeskPet](https://github.com/nishichengju/NeoDeskPet)
  * [Nexus-framework](https://github.com/1andrewprice6-jpg/Nexus-framework)
+ * [Open-AutoGLM-Android](https://github.com/Repobor/Open-AutoGLM-Android) - 基于 https://github.com/zai-org/Open-AutoGLM 的Android实现
  * [Operit-build](https://github.com/yiluo13/Operit-build)
  * [PhonePointer](https://github.com/Usepot/PhonePointer)
  * [QABlackBox](https://github.com/mikepty/QABlackBox) - Black Box Testing Tool
@@ -118,6 +120,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Shizuku-](https://github.com/Asilkan5807/Shizuku-)
  * [ShizukuRunner](https://github.com/delmsyap/ShizukuRunner)
  * [SignalFix](https://github.com/zhaochunqi/SignalFix) - 修复类原生的信号问题
+ * [Stellar](https://github.com/roro2239/Stellar) - Another Shizuku impl
  * [Sunshine-android](https://github.com/ZyoungInc/Sunshine-android) - a sunshine server for android system
  * [TaskOrb-Android-Assistant-Framework-Based-on-AutoGLM](https://github.com/wdsj2066/TaskOrb-Android-Assistant-Framework-Based-on-AutoGLM)
  * [ThemedManager](https://github.com/Osanosa/ThemedManager) - Themed Overlays Manager
@@ -134,12 +137,12 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [cn.pylin.xycjd](https://github.com/PYLinTech/cn.pylin.xycjd) - Xiaoyu Super Island
  * [droidify_enterprise](https://github.com/Bliss-Bass/droidify_enterprise)
  * [enforced-app-repo](https://github.com/defencedigital/enforced-app-repo) - ENFORCED App Repo Client - forked from Droid-fy
+ * [flipaccounting-ai](https://github.com/yyzx2016lht/flipaccounting-ai)
  * [hyperdroid](https://github.com/roshank8s/hyperdroid)
  * [kikyo](https://github.com/achyutbadyal/kikyo) - Free and open source manga reader for Android
  * [kwshell](https://github.com/DuckyScript/kwshell) - A android terminal
  * [lanhegongjuxiang](https://github.com/miounet11/lanhegongjuxiang)
  * [mlbb-history-analyst](https://github.com/Amethyst666/mlbb-history-analyst)
- * [opengui-android](https://github.com/yiling-org/opengui-android) -  OpenGUI - 具备语音交互与自主执行能力的 Android AI Agent
  * [privateeye](https://github.com/SaltProphet/privateeye) - Professional-grade Android screen recording utility with MediaProjection API and floating overlay controls.
  * [remoteadb](https://github.com/Copi24/remoteadb)
  * [shizuku-screen-off-on-phone-call](https://github.com/olegsvs/shizuku-screen-off-on-phone-call)

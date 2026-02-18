@@ -43,7 +43,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [MiRearScreenGradienter](https://github.com/GoldenglowSusie/MiRearScreenGradienter)
  * [MiRearScreenSwitcher](https://github.com/GoldenglowSusie/MiRearScreenSwitcher) - 为小米17Pro及以上（也许及以后）机型的背屏一键切换器
  * [OmniLauncher](https://github.com/RichModify/OmniLauncher)
- * [Open-AutoGLM-Android](https://github.com/butlanys/Open-AutoGLM-Android) - 基于 Open-AutoGLM 的 Android 原生客户端，通过 Shizuku 实现完全本地化的 AI 手机操控，无需电脑连接。
+ * [Open-AutoGLM-Android](https://github.com/xinzezhu/Open-AutoGLM-Android) - 安卓版的AutoGLM，不需要部署直接安装就可以使用，欢迎共建~
  * [Pikaso-AI](https://github.com/king0929zion/Pikaso-AI) - agi
  * [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Quick tool for utilizing CVE-2024-31317 on Android
  * [Ruto-GLM](https://github.com/iamr0s/Ruto-GLM) - 手机端 AutoGLM：无需电脑，真·后台全自动。 支持熄屏、同时多个任务并行，主屏操作互不干扰。（一个基于 AI 的 Android 自动化与多任务框架，开启无限可能。）
@@ -57,6 +57,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [carrierconfigeditor](https://github.com/bjorn-032/carrierconfigeditor)
  * [chrono-s_camera_android](https://github.com/newyusir/chrono-s_camera_android) - android port of chrono's camera
  * [com.system.reschange](https://github.com/c0a22132/com.system.reschange)
+ * [flipaccounting-ai](https://github.com/yyzx2016lht/flipaccounting-ai) - 搭配钱迹使用的辅助记账软件。通过翻转的方式调出悬浮窗，填写资产，金额，分类后可以同步到钱迹中。添加了ai识别模块，可以通过简短一句话让ai分辨资产分类金额等数据，极简优化记账过程。
  * [florid](https://github.com/Nandanrmenon/florid) - F-Droid Client
  * [flow](https://github.com/huajideshutiao/flow) - 用于将 URL 转换为 intent 或打开未导出的活动
  * [hexodus](https://github.com/thejaustin/hexodus) - Next-generation Android theming engine for Samsung One UI 8 (Android 16+) as a spiritual successor to 'Hex Installer', leveraging Shizuku for system-level operations without requiring root access.
@@ -110,6 +111,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Golden-IDE](https://github.com/scto/Golden-IDE)
  * [InstallerX_](https://github.com/shuaige-911/InstallerX_)
  * [Know_You](https://github.com/ZJDqtjs/Know_You) - 基于flutter对uni_familyguard项目的重构
+ * [KyrooSApp](https://github.com/andiisking/KyrooSApp)
  * [LocalDex](https://github.com/lukifer23/LocalDex)
  * [MBOOSTER](https://github.com/murilopedrosasena-byte/MBOOSTER) - Otimizador usando api shizuku
  * [MiRearScreenSwitcherEnglish](https://github.com/aaronnat23/MiRearScreenSwitcherEnglish)
@@ -124,6 +126,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [RootManager](https://github.com/Copi24/RootManager)
  * [Sesame-TK](https://github.com/outlllc/Sesame-TK) - 芝你麻咸鱼的粒-TK
  * [Shizuku-](https://github.com/Asilkan5807/Shizuku-)
+ * [Shizuku-Api16-test](https://github.com/yuan-shiguang/Shizuku-Api16-test)
  * [ShizukuRunner](https://github.com/delmsyap/ShizukuRunner)
  * [SignalFix](https://github.com/zhaochunqi/SignalFix) - 修复类原生的信号问题
  * [Stellar-API](https://github.com/roro2239/Stellar-API) - Stellar API SDK
@@ -137,13 +140,13 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Zong-Hub-GFX](https://github.com/kaungkaung575556-beep/Zong-Hub-GFX)
  * [ZontesZoom](https://github.com/kerojohan/ZontesZoom)
  * [adocker](https://github.com/LukeXeon/adocker) - 在Android上运行Docker容器，借助AI开发的项目
+ * [android-desktop-touchpad](https://github.com/prespic/android-desktop-touchpad) - Virtual touchpad for Android Desktop Mode on external displays. Uses Shizuku to inject mouse events on the secondary screen. Built for Pixel 8+ with Android 15+.
  * [android-pillar-stabilizer](https://github.com/1andrewprice6-jpg/android-pillar-stabilizer)
  * [chengying](https://github.com/nowmore/chengying)
  * [cn.pylin.xycjd](https://github.com/PYLinTech/cn.pylin.xycjd) - Xiaoyu Super Island
  * [disk-mapper-android](https://github.com/kvitaliq-maker/disk-mapper-android)
  * [droidify_enterprise](https://github.com/Bliss-Bass/droidify_enterprise)
  * [enforced-app-repo](https://github.com/defencedigital/enforced-app-repo) - ENFORCED App Repo Client - forked from Droid-fy
- * [flipaccounting-ai](https://github.com/yyzx2016lht/flipaccounting-ai) - 搭配钱迹使用的辅助记账软件。通过翻转的方式调出悬浮窗，填写资产，金额，分类后可以同步到钱迹中。添加了ai识别模块，可以通过简短一句话让ai分辨资产分类金额等数据，极简优化记账过程。
  * [font-installer-blu-g64](https://github.com/ranicola69-cpu/font-installer-blu-g64) - Android app to install system fonts on Blu G64 using Shizuku
  * [hyperdroid](https://github.com/roshank8s/hyperdroid)
  * [kikyo](https://github.com/achyutbadyal/kikyo) - Free and open source manga reader for Android
@@ -157,6 +160,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [shizuku-wear](https://github.com/emtee40/shizuku-wear)
  * [sing-box-for-android](https://github.com/SagerNet/sing-box-for-android) - Experimental Android client for sing-box
  * [uninstallApp](https://github.com/HL946067429/uninstallApp) - Android batch uninstaller
+ * [yolozimiao](https://github.com/joeykang789/yolozimiao)
 
 #### Updated more than 3 months ago
 

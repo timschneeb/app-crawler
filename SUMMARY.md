@@ -36,14 +36,13 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [FakePowerOff](https://github.com/BinitDOX/FakePowerOff) - Simulate device shutdown, ideal for use with anti-theft apps.
  * [Florid](https://github.com/Nandanrmenon/florid) - F-Droid Client, but on UX steriods
  * [Hail-mirror](https://github.com/sad25kag/Hail-mirror)
- * [InstallerX-Revived-mirror](https://github.com/sad25kag/InstallerX-Revived-mirror)
  * [Loki](https://github.com/trinadhthatakula/Loki) - Android App logger
  * [LuxuryCheats](https://github.com/iFor-Lux/LuxuryCheats) - Luxury Cheat's
  * [MAA-Meow](https://github.com/Aliothmoon/MAA-Meow) - 《明日方舟》小助手Android版，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
  * [MiRearScreenGradienter](https://github.com/GoldenglowSusie/MiRearScreenGradienter)
  * [MiRearScreenSwitcher](https://github.com/GoldenglowSusie/MiRearScreenSwitcher) - 为小米17Pro及以上（也许及以后）机型的背屏一键切换器
  * [OmniLauncher](https://github.com/RichModify/OmniLauncher)
- * [Open-AutoGLM-Android](https://github.com/butlanys/Open-AutoGLM-Android) - 基于 Open-AutoGLM 的 Android 原生客户端，通过 Shizuku 实现完全本地化的 AI 手机操控，无需电脑连接。
+ * [Open-AutoGLM-Android](https://github.com/xinzezhu/Open-AutoGLM-Android) - 安卓版的AutoGLM，不需要部署直接安装就可以使用，欢迎共建~
  * [Pikaso-AI](https://github.com/king0929zion/Pikaso-AI) - agi
  * [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Quick tool for utilizing CVE-2024-31317 on Android
  * [Ruto-GLM](https://github.com/iamr0s/Ruto-GLM) - 手机端 AutoGLM：无需电脑，真·后台全自动。 支持熄屏、同时多个任务并行，主屏操作互不干扰。（一个基于 AI 的 Android 自动化与多任务框架，开启无限可能。）
@@ -125,6 +124,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [PhonePointer](https://github.com/Usepot/PhonePointer)
  * [QABlackBox](https://github.com/mikepty/QABlackBox) - Black Box Testing Tool
  * [RootManager](https://github.com/Copi24/RootManager)
+ * [Sesame-AG](https://github.com/aoguai/Sesame-AG)
  * [Sesame-TK](https://github.com/outlllc/Sesame-TK) - 芝你麻咸鱼的粒-TK
  * [Shizuku-](https://github.com/Asilkan5807/Shizuku-)
  * [Shizuku-Api16-test](https://github.com/yuan-shiguang/Shizuku-Api16-test)
@@ -141,11 +141,13 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Zong-Hub-GFX](https://github.com/kaungkaung575556-beep/Zong-Hub-GFX)
  * [ZontesZoom](https://github.com/kerojohan/ZontesZoom)
  * [adocker](https://github.com/LukeXeon/adocker) - 在Android上运行Docker容器，借助AI开发的项目
+ * [androTOP](https://github.com/c0dev0id/androTOP) - CPU in the status bar
  * [android-desktop-touchpad](https://github.com/prespic/android-desktop-touchpad) - Virtual touchpad for Android Desktop Mode on external displays. Uses Shizuku to inject mouse events on the secondary screen. Built for Pixel 8+ with Android 15+.
  * [android-pillar-stabilizer](https://github.com/1andrewprice6-jpg/android-pillar-stabilizer)
  * [chengying](https://github.com/nowmore/chengying)
  * [cn.pylin.xycjd](https://github.com/PYLinTech/cn.pylin.xycjd) - Xiaoyu Super Island
  * [disk-mapper-android](https://github.com/kvitaliq-maker/disk-mapper-android)
+ * [dji-in-vjoi](https://github.com/Axel9813/dji-in-vjoi)
  * [droidify_enterprise](https://github.com/Bliss-Bass/droidify_enterprise)
  * [enforced-app-repo](https://github.com/defencedigital/enforced-app-repo) - ENFORCED App Repo Client - forked from Droid-fy
  * [font-installer-blu-g64](https://github.com/ranicola69-cpu/font-installer-blu-g64) - Android app to install system fonts on Blu G64 using Shizuku

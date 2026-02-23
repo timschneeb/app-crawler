@@ -50,8 +50,10 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [TURBO-CORE-ANDROID](https://github.com/Catdiegovdl5/TURBO-CORE-ANDROID) - Otimizador de Android com modos PC, Gamer e Bateria.
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [WuWa-Tool-Android](https://github.com/k4wai1/WuWa-Tool-Android) - An app to organize and apply Wuthering Waves graphics configs safely using Shizuku.
+ * [ZionChat](https://github.com/king0929zion/ZionChat) - An AI Chat APP imitating the style of ChatGPT
  * [aadb-manager](https://github.com/LozanoTH/aadb-manager) - app android para administrar moduos bash en androi
  * [android-wifi-pojie](https://github.com/bszapp/android-wifi-pojie) - Android使用密码本暴力破解wifi密码工具
+ * [carrier-ims-for-pixel](https://github.com/ryfineZ/carrier-ims-for-pixel) - Carrier IMS for Pixel (TurboIMS): multilingual (中文/English) pixel ims / ims / carrierconfig / volte / vowifi / 5G+ toolkit for Google Pixel.
  * [carrierconfigeditor](https://github.com/bjorn-032/carrierconfigeditor)
  * [chrono-s_camera_android](https://github.com/newyusir/chrono-s_camera_android) - android port of chrono's camera
  * [com.system.reschange](https://github.com/c0a22132/com.system.reschange)
@@ -108,6 +110,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [FlipAccounting](https://github.com/yyzx2016lht/FlipAccounting) - 通过shizhuku权限实现翻转进行记账的软件。（适用于钱迹）参考自动记账
  * [ForcePhoneMic](https://github.com/Ling554/ForcePhoneMic)
  * [Frame-generation-](https://github.com/proqaz2-design/Frame-generation-) - Without root 
+ * [FrameX-Android](https://github.com/MaheshSharan/FrameX-Android) - Android FPS meter and performance overlay powered by Shizuku.
  * [FrostPlum](https://github.com/jickylive/FrostPlum)
  * [GLM-phone](https://github.com/pengqiyu123/GLM-phone)
  * [Golden-IDE](https://github.com/scto/Golden-IDE)
@@ -142,6 +145,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Zong-Hub-GFX](https://github.com/kaungkaung575556-beep/Zong-Hub-GFX)
  * [ZontesZoom](https://github.com/kerojohan/ZontesZoom)
  * [adocker](https://github.com/LukeXeon/adocker) - 在Android上运行Docker容器，借助AI开发的项目
+ * [andRemote2](https://github.com/c0dev0id/andRemote2) - Android DMD Remote 2 emulator
  * [androTOP](https://github.com/c0dev0id/androTOP) - CPU in the status bar
  * [android-desktop-touchpad](https://github.com/prespic/android-desktop-touchpad) - Virtual touchpad for Android Desktop Mode on external displays. Uses Shizuku to inject mouse events on the secondary screen. Built for Pixel 8+ with Android 15+.
  * [android-pillar-stabilizer](https://github.com/1andrewprice6-jpg/android-pillar-stabilizer)

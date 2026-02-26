@@ -25,6 +25,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Ava](https://github.com/knoop7/Ava) - Turn any Android 7-16 device into a Bluetooth proxy all-in-one smart home control panel
  * [AvarionX-Android-Antivirus](https://github.com/phsycologicalFudge/AvarionX-Android-Antivirus) - A powerful antivirus for android
  * [AvarionX-Manager](https://github.com/phsycologicalFudge/AvarionX-Manager) - Manager for ColourSwift apps
+ * [BDroid_X](https://github.com/Ark-Repoleved/BDroid_X) - PC-free Browndust II Mod manager for Android
  * [BiBi-Keyboard](https://github.com/BryceWG/BiBi-Keyboard) - 说点啥（BiBi Keyboard）:一个基于 Kotlin 的 Android 平台的 LLM 与 ASR 语音输入法键盘应用  An LLM ASR voice input method keyboard application for the Android platform based on Kotlin
  * [BitInstaller](https://github.com/S0methingSomething/BitInstaller)
  * [Canta-mirror](https://github.com/sad25kag/Canta-mirror)
@@ -43,7 +44,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [MAA-Meow](https://github.com/Aliothmoon/MAA-Meow) - 《明日方舟》小助手Android版，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
  * [MiRearScreenGradienter](https://github.com/GoldenglowSusie/MiRearScreenGradienter)
  * [MiRearScreenSwitcher](https://github.com/GoldenglowSusie/MiRearScreenSwitcher) - 为小米17Pro及以上（也许及以后）机型的背屏一键切换器
- * [MoFont](https://github.com/tenebralis-dev/MoFont) - 在 One UI 8 上免 root 安装自定义字体
+ * [MoFont](https://github.com/kirenath/MoFont) - 在 One UI 8 上免 root 安装自定义字体
  * [OmniLauncher](https://github.com/RichModify/OmniLauncher)
  * [Open-AutoGLM-Android](https://github.com/xinzezhu/Open-AutoGLM-Android) - 安卓版的AutoGLM，不需要部署直接安装就可以使用，欢迎共建~
  * [Pikaso-AI](https://github.com/king0929zion/Pikaso-AI) - agi
@@ -63,7 +64,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [chrono-s_camera_android](https://github.com/newyusir/chrono-s_camera_android) - android port of chrono's camera
  * [com.system.reschange](https://github.com/c0a22132/com.system.reschange)
  * [flipaccounting-ai](https://github.com/yyzx2016lht/flipaccounting-ai) - 搭配钱迹使用的辅助记账软件。通过翻转的方式调出悬浮窗，填写资产，金额，分类后可以同步到钱迹中。添加了ai识别模块，可以通过简短一句话让ai分辨资产分类金额等数据，极简优化记账过程。
- * [florid](https://github.com/Nandanrmenon/florid) - F-Droid Client
  * [flow](https://github.com/huajideshutiao/flow) - 用于将 URL 转换为 intent 或打开未导出的活动
  * [hexodus](https://github.com/thejaustin/hexodus) - Next-generation Android theming engine for Samsung One UI 8 (Android 16+) as a spiritual successor to 'Hex Installer', leveraging Shizuku for system-level operations without requiring root access.
  * [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ / Linkura Localify / LoveLive Translation / llll
@@ -149,6 +149,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [TaskOrb-Android-Assistant-Framework-Based-on-AutoGLM](https://github.com/wdsj2066/TaskOrb-Android-Assistant-Framework-Based-on-AutoGLM)
  * [ThemedManager](https://github.com/Osanosa/ThemedManager) - Themed Overlays Manager
  * [TouchTool](https://github.com/mr-bogey/TouchTool) - 使用Android无障碍功能来帮助用户点击。蓝图式任务编辑
+ * [Vivo-Unofficial-Game-Booster](https://github.com/MaheshSharan/Vivo-Unofficial-Game-Booster) -  A high-performance gaming optimization utility specifically optimized for the Vivo T3 Ultra (Dimensity 9200+).
  * [Vortex](https://github.com/mim1012/Vortex)
  * [WebSu-Plus](https://github.com/Betrix-ID/WebSu-Plus)
  * [Xphone](https://github.com/wake0p/Xphone) - help you get away from phone
@@ -161,6 +162,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [autoscroll](https://github.com/freude916/autoscroll) - Android Screen Scroller using Shizuku API
  * [chengying](https://github.com/nowmore/chengying)
  * [cn.pylin.xycjd](https://github.com/PYLinTech/cn.pylin.xycjd) - Xiaoyu Super Island
+ * [dev-archive](https://github.com/qw2bxz/dev-archive)
  * [disk-mapper-android](https://github.com/kvitaliq-maker/disk-mapper-android)
  * [dji-in-vjoi](https://github.com/Axel9813/dji-in-vjoi)
  * [droidify_enterprise](https://github.com/Bliss-Bass/droidify_enterprise)

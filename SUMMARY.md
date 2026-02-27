@@ -51,11 +51,13 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Quick tool for utilizing CVE-2024-31317 on Android
  * [Ruto-GLM](https://github.com/iamr0s/Ruto-GLM) - 手机端 AutoGLM：无需电脑，真·后台全自动。 支持熄屏、同时多个任务并行，主屏操作互不干扰。（一个基于 AI 的 Android 自动化与多任务框架，开启无限可能。）
  * [Shizuku-mirror](https://github.com/sad25kag/Shizuku-mirror)
+ * [ShizukuPlus](https://github.com/thejaustin/ShizukuPlus) - Shizuku+ — Enhanced fork with UX improvements to the app management screen
  * [Stellar](https://github.com/roro2239/Stellar) - Another Shizuku impl
  * [TURBO-CORE-ANDROID](https://github.com/Catdiegovdl5/TURBO-CORE-ANDROID) - Otimizador de Android com modos PC, Gamer e Bateria.
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [WuWa-Tool-Android](https://github.com/k4wai1/WuWa-Tool-Android) - An app to organize and apply Wuthering Waves graphics configs safely using Shizuku.
  * [ZionChat](https://github.com/king0929zion/ZionChat) - An AI Chat APP imitating the style of ChatGPT
+ * [ZionChat-X](https://github.com/king0929zion/ZionChat-X)
  * [aadb-manager](https://github.com/LozanoTH/aadb-manager) - app android para administrar moduos bash en androi
  * [andRemote2](https://github.com/c0dev0id/andRemote2) - Android DMD Remote 2 emulator
  * [android-wifi-pojie](https://github.com/bszapp/android-wifi-pojie) - Android使用密码本暴力破解wifi密码工具
@@ -68,6 +70,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [hexodus](https://github.com/thejaustin/hexodus) - Next-generation Android theming engine for Samsung One UI 8 (Android 16+) as a spiritual successor to 'Hex Installer', leveraging Shizuku for system-level operations without requiring root access.
  * [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ / Linkura Localify / LoveLive Translation / llll
  * [mixer-1](https://github.com/farizanjum/mixer-1) - Per-app volume control for Android, designed with Nothing OS aesthetics.
+ * [noderr-micronodes](https://github.com/Noderrxyz/noderr-micronodes) - Production-grade micronode clients for the Noderr Protocol. Supports iOS (account creation), Android (AI agent execution), and Browser (automation) with complete anti-detection and operator privacy.
  * [opengui-android](https://github.com/yiling-org/opengui-android) -  OpenGUI - 具备语音交互与自主执行能力的 Android AI Agent
  * [orangects](https://github.com/azu0609/orangects)
  * [pearity](https://github.com/thejaustin/pearity) - iOS parity settings for Samsung One UI — three-state toggles, Shizuku-powered
@@ -127,6 +130,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [MBOOSTER](https://github.com/murilopedrosasena-byte/MBOOSTER) - Otimizador usando api shizuku
  * [Murasaki-api](https://github.com/Anatdx/Murasaki-api) - The API and the developer guide for Shizuku and Sui.
  * [My-app](https://github.com/rjkyker383-gif/My-app)
+ * [MyApplication](https://github.com/z-ph/MyApplication)
  * [NeoDeskPet](https://github.com/nishichengju/NeoDeskPet)
  * [Nexus-framework](https://github.com/1andrewprice6-jpg/Nexus-framework)
  * [Operit-build](https://github.com/yiluo13/Operit-build)
@@ -139,7 +143,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Shizuku-Api16-test](https://github.com/yuan-shiguang/Shizuku-Api16-test)
  * [Shizuku-Main](https://github.com/haedrhaedr505/Shizuku-Main)
  * [Shizuku-Mod](https://github.com/haedrhaedr505/Shizuku-Mod)
- * [ShizukuPlus](https://github.com/thejaustin/ShizukuPlus) - Shizuku+ — Enhanced fork with UX improvements to the app management screen
  * [ShizukuPlus-API](https://github.com/thejaustin/ShizukuPlus-API)
  * [ShizukuRunner](https://github.com/delmsyap/ShizukuRunner)
  * [ShizukuTerminal](https://github.com/hmode22222/ShizukuTerminal)

@@ -39,13 +39,13 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [FakePowerOff](https://github.com/BinitDOX/FakePowerOff) - Simulate device shutdown, ideal for use with anti-theft apps.
  * [Florid](https://github.com/Nandanrmenon/florid) - F-Droid Client, but on UX steriods
  * [Hail-mirror](https://github.com/sad25kag/Hail-mirror)
+ * [HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！
  * [Loki](https://github.com/trinadhthatakula/Loki) - Android App logger
  * [LuxuryCheats](https://github.com/iFor-Lux/LuxuryCheats) - Luxury Cheat's
  * [MAA-Meow](https://github.com/Aliothmoon/MAA-Meow) - 《明日方舟》小助手Android版，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
  * [MiRearScreenGradienter](https://github.com/GoldenglowSusie/MiRearScreenGradienter)
  * [MiRearScreenSwitcher](https://github.com/GoldenglowSusie/MiRearScreenSwitcher) - 为小米17Pro及以上（也许及以后）机型的背屏一键切换器
  * [MoFont](https://github.com/kirenath/MoFont) - 在 One UI 8 上免 root 安装自定义字体
- * [OmniLauncher](https://github.com/RichModify/OmniLauncher)
  * [Open-AutoGLM-Android](https://github.com/xinzezhu/Open-AutoGLM-Android) - 安卓版的AutoGLM，不需要部署直接安装就可以使用，欢迎共建~
  * [Pikaso-AI](https://github.com/king0929zion/Pikaso-AI) - agi
  * [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Quick tool for utilizing CVE-2024-31317 on Android
@@ -69,6 +69,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [flow](https://github.com/huajideshutiao/flow) - 用于将 URL 转换为 intent 或打开未导出的活动
  * [hexodus](https://github.com/thejaustin/hexodus) - Next-generation Android theming engine for Samsung One UI 8 (Android 16+) as a spiritual successor to 'Hex Installer', leveraging Shizuku for system-level operations without requiring root access.
  * [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ / Linkura Localify / LoveLive Translation / llll
+ * [mihon-legado](https://github.com/Tthfyth/mihon-legado) - 支持legado图源的mihon漫画阅读器
  * [mixer-1](https://github.com/farizanjum/mixer-1) - Per-app volume control for Android, designed with Nothing OS aesthetics.
  * [noderr-micronodes](https://github.com/Noderrxyz/noderr-micronodes) - Production-grade micronode clients for the Noderr Protocol. Supports iOS (account creation), Android (AI agent execution), and Browser (automation) with complete anti-detection and operator privacy.
  * [opengui-android](https://github.com/yiling-org/opengui-android) -  OpenGUI - 具备语音交互与自主执行能力的 Android AI Agent
@@ -87,7 +88,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
 
  * [GlyphRecorder](https://github.com/aaa1115910/GlyphRecorder) - A glyph recognition tool.
  * [HesleyTools](https://github.com/ldh-star/HesleyTools) - 自用工具/模块
- * [HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！
  * [Hz-Changer](https://github.com/S-Marcos-S/Hz-Changer) - Under development! Simple, light, free and functional hz changer app.
  * [KeyboardSwitcher](https://github.com/SgLy/KeyboardSwitcher) - Adds a quick setting tile for quickly switching keyboard (input method)
  * [MndroLua](https://github.com/Crescent-of-Maya/MndroLua) - A modern fork of AndroLua+ / 更加现代的 AndroLua+ 魔改版
@@ -123,6 +123,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [FrostPlum](https://github.com/jickylive/FrostPlum)
  * [GLM-phone](https://github.com/pengqiyu123/GLM-phone)
  * [Golden-IDE](https://github.com/scto/Golden-IDE)
+ * [Hail-1.10.0](https://github.com/temp12138/Hail-1.10.0)
  * [InstallerX_](https://github.com/shuaige-911/InstallerX_)
  * [Know_You](https://github.com/ZJDqtjs/Know_You) - 基于flutter对uni_familyguard项目的重构
  * [KyrooSApp](https://github.com/andiisking/KyrooSApp)
@@ -172,11 +173,13 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [enforced-app-repo](https://github.com/defencedigital/enforced-app-repo) - ENFORCED App Repo Client - forked from Droid-fy
  * [font-installer-blu-g64](https://github.com/ranicola69-cpu/font-installer-blu-g64) - Android app to install system fonts on Blu G64 using Shizuku
  * [hyperdroid](https://github.com/roshank8s/hyperdroid)
+ * [iflow-bot](https://github.com/xuanyuanluoxue/iflow-bot) - 一个可以调用安卓api的ai软件
  * [kikyo](https://github.com/achyutbadyal/kikyo) - Free and open source manga reader for Android
  * [kwshell](https://github.com/DuckyScript/kwshell) - A android terminal
  * [mlbb-history-analyst](https://github.com/Amethyst666/mlbb-history-analyst)
  * [oppo-cts](https://github.com/ashiyalice/oppo-cts) -  OppoCTS - Circle to Search Enabler for ColorOS
  * [privateeye](https://github.com/SaltProphet/privateeye) - Professional-grade Android screen recording utility with MediaProjection API and floating overlay controls.
+ * [samsung_ota](https://github.com/zainarbani/samsung_ota)
  * [sd-maid-pro](https://github.com/toviralideasyt7/sd-maid-pro)
  * [shizuku-screen-off-on-phone-call](https://github.com/olegsvs/shizuku-screen-off-on-phone-call)
  * [shizuku-wear](https://github.com/emtee40/shizuku-wear)

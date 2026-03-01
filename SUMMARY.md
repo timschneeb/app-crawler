@@ -59,6 +59,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ZionChat](https://github.com/king0929zion/ZionChat) - An AI Chat APP imitating the style of ChatGPT
  * [ZionChat-X](https://github.com/king0929zion/ZionChat-X)
  * [aadb-manager](https://github.com/LozanoTH/aadb-manager) - app android para administrar moduos bash en androi
+ * [alian-android](https://github.com/xlb1130/alian-android) - 想拥有自己的豆包/豆包手机吗？看看Alian，语音通话、视频通话、手机自动化、MCP可配...
  * [andRemote2](https://github.com/c0dev0id/andRemote2) - Android DMD Remote 2 emulator
  * [android-wifi-pojie](https://github.com/bszapp/android-wifi-pojie) - Android使用密码本暴力破解wifi密码工具
  * [carrier-ims-for-pixel](https://github.com/ryfineZ/carrier-ims-for-pixel) - Carrier IMS for Pixel (TurboIMS): multilingual (中文/English) pixel ims / ims / carrierconfig / volte / vowifi / 5G+ toolkit for Google Pixel.
@@ -124,6 +125,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [GLM-phone](https://github.com/pengqiyu123/GLM-phone)
  * [Golden-IDE](https://github.com/scto/Golden-IDE)
  * [Hail-1.10.0](https://github.com/temp12138/Hail-1.10.0)
+ * [HyperMTZ](https://github.com/rvnka/HyperMTZ)
  * [InstallerX_](https://github.com/shuaige-911/InstallerX_)
  * [Know_You](https://github.com/ZJDqtjs/Know_You) - 基于flutter对uni_familyguard项目的重构
  * [KyrooSApp](https://github.com/andiisking/KyrooSApp)
@@ -134,6 +136,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [MyApplication](https://github.com/z-ph/MyApplication)
  * [NeoDeskPet](https://github.com/nishichengju/NeoDeskPet)
  * [Nexus-framework](https://github.com/1andrewprice6-jpg/Nexus-framework)
+ * [ObsidianBackup](https://github.com/canuk40/ObsidianBackup) - A modern Spin on titanium backup with alot more support
  * [Operit-build](https://github.com/yiluo13/Operit-build)
  * [PhonePointer](https://github.com/Usepot/PhonePointer)
  * [QABlackBox](https://github.com/mikepty/QABlackBox) - Black Box Testing Tool

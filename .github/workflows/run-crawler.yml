@@ -69,7 +69,7 @@ jobs:
         path: cache/
         key: ${{ env.cache-key }}
 
-    - uses: actions/upload-artifact@v6
+    - uses: actions/upload-artifact@v7
       with:
         name: cache-pkl
         path: cache/*.pkl

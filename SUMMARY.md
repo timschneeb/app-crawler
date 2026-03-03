@@ -46,7 +46,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [MiRearScreenGradienter](https://github.com/GoldenglowSusie/MiRearScreenGradienter)
  * [MiRearScreenSwitcher](https://github.com/GoldenglowSusie/MiRearScreenSwitcher) - 为小米17Pro及以上（也许及以后）机型的背屏一键切换器
  * [MoFont](https://github.com/kirenath/MoFont) - 在 One UI 8 上免 root 安装自定义字体
- * [Open-AutoGLM-Android](https://github.com/butlanys/Open-AutoGLM-Android) - 基于 Open-AutoGLM 的 Android 原生客户端，通过 Shizuku 实现完全本地化的 AI 手机操控，无需电脑连接。
+ * [Open-AutoGLM-Android](https://github.com/xinzezhu/Open-AutoGLM-Android) - 安卓版的AutoGLM，不需要部署直接安装就可以使用，欢迎共建~
  * [Pikaso-AI](https://github.com/king0929zion/Pikaso-AI) - agi
  * [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Quick tool for utilizing CVE-2024-31317 on Android
  * [Ruto-GLM](https://github.com/iamr0s/Ruto-GLM) - 手机端 AutoGLM：无需电脑，真·后台全自动。 支持熄屏、同时多个任务并行，主屏操作互不干扰。（一个基于 AI 的 Android 自动化与多任务框架，开启无限可能。）
@@ -63,6 +63,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [alian-android](https://github.com/xlb1130/alian-android) - 想拥有自己的豆包/豆包手机吗？看看Alian，语音通话、视频通话、手机自动化、MCP可配...
  * [andRemote2](https://github.com/c0dev0id/andRemote2) - Android DMD Remote 2 emulator
  * [android-wifi-pojie](https://github.com/bszapp/android-wifi-pojie) - Android使用密码本暴力破解wifi密码工具
+ * [bingtray](https://github.com/nikescar/bingtray) - cross-platform bingwallpaper download tray(cli) apps.
  * [carrier-ims-for-pixel](https://github.com/ryfineZ/carrier-ims-for-pixel) - Carrier IMS for Pixel (TurboIMS): multilingual (中文/English) pixel ims / ims / carrierconfig / volte / vowifi / 5G+ toolkit for Google Pixel.
  * [carrierconfigeditor](https://github.com/bjorn-032/carrierconfigeditor)
  * [chrono-s_camera_android](https://github.com/newyusir/chrono-s_camera_android) - android port of chrono's camera
@@ -73,6 +74,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ / Linkura Localify / LoveLive Translation / llll
  * [mihon-legado](https://github.com/Tthfyth/mihon-legado) - 支持legado图源的mihon漫画阅读器
  * [mixer-1](https://github.com/farizanjum/mixer-1) - Per-app volume control for Android, designed with Nothing OS aesthetics.
+ * [mobile-LLM-app](https://github.com/TapirHeron/mobile-LLM-app) - an android application which is based LLM to do workflows
  * [noderr-micronodes](https://github.com/Noderrxyz/noderr-micronodes) - Production-grade micronode clients for the Noderr Protocol. Supports iOS (account creation), Android (AI agent execution), and Browser (automation) with complete anti-detection and operator privacy.
  * [opengui-android](https://github.com/yiling-org/opengui-android) -  OpenGUI - 具备语音交互与自主执行能力的 Android AI Agent
  * [orangects](https://github.com/azu0609/orangects)
@@ -116,9 +118,11 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Carrotpilot-Galaxy](https://github.com/jominki354/Carrotpilot-Galaxy)
  * [ClipBridge](https://github.com/RyanZhou416/ClipBridge)
  * [ClipboardSync-Android](https://github.com/rccce/ClipboardSync-Android)
+ * [Custard](https://github.com/kymjs/Custard) - 一个Android AI Agent应用，完全独立运行，你可以理解为 OpenClaw 的 Android 版，拥有强大的工具调用能力。
  * [DeadHand-](https://github.com/xieerfan/DeadHand-) - 当我离开时,我的身后事,要自己处理,人走茶不凉
  * [Distra-Quit](https://github.com/Hackersaikiran/Distra-Quit) - Distra Quit – Doomscrolling Control App
  * [DroidLock](https://github.com/zhengzaihong/DroidLock) - Android 企业设备管理器-设备监管-非定制系统方案
+ * [EasyUserSwitcher](https://github.com/sorryusernameisalreadytaken/EasyUserSwitcher) - EasyUserSwitcher is an Android app that connects to the device’s own Wireless ADB interface and allows quick switching between Android user profiles. It lists available users via pm list users and performs automated am switch-user commands, including optional auto-return to the main user when the device becomes idle.
  * [FlexLauncher](https://github.com/Multitaskerplays/FlexLauncher) - Android app that allows multi-user
  * [FlipAccounting](https://github.com/yyzx2016lht/FlipAccounting) - 通过shizhuku权限实现翻转进行记账的软件。（适用于钱迹）参考自动记账
  * [ForcePhoneMic](https://github.com/Ling554/ForcePhoneMic)
@@ -144,7 +148,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [PhonePointer](https://github.com/Usepot/PhonePointer)
  * [QABlackBox](https://github.com/mikepty/QABlackBox) - Black Box Testing Tool
  * [Sesame-AG](https://github.com/aoguai/Sesame-AG)
- * [Sesame-TK](https://github.com/outlllc/Sesame-TK) - 芝你麻咸鱼的粒-TK
  * [Shizuku-](https://github.com/Asilkan5807/Shizuku-)
  * [Shizuku-ADB-Terminal](https://github.com/hmode22222/Shizuku-ADB-Terminal) - ADB Terminal for Shizuku
  * [Shizuku-Api16-test](https://github.com/yuan-shiguang/Shizuku-Api16-test)

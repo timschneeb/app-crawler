@@ -63,6 +63,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [alian-android](https://github.com/xlb1130/alian-android) - 想拥有自己的豆包/豆包手机吗？看看Alian，语音通话、视频通话、手机自动化、MCP可配...
  * [andRemote2](https://github.com/c0dev0id/andRemote2) - Android DMD Remote 2 emulator
  * [android-wifi-pojie](https://github.com/bszapp/android-wifi-pojie) - Android使用密码本暴力破解wifi密码工具
+ * [apkupdateross](https://github.com/EikeiDev/apkupdateross) - APKUpdater OSS - это инструмент с открытым исходным кодом, который упрощает процесс поиска обновлений для установленных вами приложений.
  * [bingtray](https://github.com/nikescar/bingtray) - cross-platform bingwallpaper download tray(cli) apps.
  * [carrier-ims-for-pixel](https://github.com/ryfineZ/carrier-ims-for-pixel) - Carrier IMS for Pixel (TurboIMS): multilingual (中文/English) pixel ims / ims / carrierconfig / volte / vowifi / 5G+ toolkit for Google Pixel.
  * [carrierconfigeditor](https://github.com/bjorn-032/carrierconfigeditor)
@@ -118,6 +119,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Carrotpilot-Galaxy](https://github.com/jominki354/Carrotpilot-Galaxy)
  * [ClipBridge](https://github.com/RyanZhou416/ClipBridge)
  * [ClipboardSync-Android](https://github.com/rccce/ClipboardSync-Android)
+ * [Cloud](https://github.com/Paluss1122-1/Cloud)
  * [Custard](https://github.com/kymjs/Custard) - 一个Android AI Agent应用，完全独立运行，你可以理解为 OpenClaw 的 Android 版，拥有强大的工具调用能力。
  * [DeadHand-](https://github.com/xieerfan/DeadHand-) - 当我离开时,我的身后事,要自己处理,人走茶不凉
  * [Distra-Quit](https://github.com/Hackersaikiran/Distra-Quit) - Distra Quit – Doomscrolling Control App
@@ -133,6 +135,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Golden-IDE](https://github.com/scto/Golden-IDE)
  * [Hail-1.10.0](https://github.com/temp12138/Hail-1.10.0)
  * [HyperMTZ](https://github.com/rvnka/HyperMTZ)
+ * [InstallerX-Elderly](https://github.com/editinghero/InstallerX-Elderly)
  * [InstallerX_](https://github.com/shuaige-911/InstallerX_)
  * [Know_You](https://github.com/ZJDqtjs/Know_You) - 基于flutter对uni_familyguard项目的重构
  * [KyrooSApp](https://github.com/andiisking/KyrooSApp)
@@ -172,6 +175,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [androTOP](https://github.com/c0dev0id/androTOP) - CPU in the status bar
  * [android-desktop-touchpad](https://github.com/prespic/android-desktop-touchpad) - Virtual touchpad for Android Desktop Mode on external displays. Uses Shizuku to inject mouse events on the secondary screen. Built for Pixel 8+ with Android 15+.
  * [android-pillar-stabilizer](https://github.com/1andrewprice6-jpg/android-pillar-stabilizer)
+ * [android-tiling-wm](https://github.com/Aypex/android-tiling-wm) - i3/Hyprland-style tiling window manager for Android 16+ phones. No root required.
  * [androlyze](https://github.com/c0dev0id/androlyze) - Android Analyze App
  * [autoscroll](https://github.com/freude916/autoscroll) - Android Screen Scroller using Shizuku API
  * [chengying](https://github.com/nowmore/chengying)
@@ -188,6 +192,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [kwshell](https://github.com/DuckyScript/kwshell) - A android terminal
  * [mlbb-history-analyst](https://github.com/Amethyst666/mlbb-history-analyst)
  * [oppo-cts](https://github.com/ashiyalice/oppo-cts) -  OppoCTS - Circle to Search Enabler for ColorOS
+ * [phone-assistant](https://github.com/z-ph/phone-assistant)
  * [privateeye](https://github.com/SaltProphet/privateeye) - Professional-grade Android screen recording utility with MediaProjection API and floating overlay controls.
  * [resolution-tools](https://github.com/kenovanken-a11y/resolution-tools) - haha
  * [samsung_ota](https://github.com/zainarbani/samsung_ota)
@@ -195,6 +200,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [shizuku-screen-off-on-phone-call](https://github.com/olegsvs/shizuku-screen-off-on-phone-call)
  * [shizuku-wear](https://github.com/emtee40/shizuku-wear)
  * [sing-box-for-android](https://github.com/SagerNet/sing-box-for-android) - Experimental Android client for sing-box
+ * [termux-launcher](https://github.com/fvkd/termux-launcher)
  * [uninstallApp](https://github.com/HL946067429/uninstallApp) - Android batch uninstaller
  * [usafiri](https://github.com/Dream-kid-342/usafiri) - First stable release of a Flutter + Supabase M-Pesa payment system.   Supports STK Push, real-time callbacks, subscription activation, and error logging.
  * [xreal-show-taps](https://github.com/shugi12345/xreal-show-taps) - an app that makes it so when connecting xreal glasses the developer option "show taps" enables automaticallyallowing you to see the location of your finger on screen

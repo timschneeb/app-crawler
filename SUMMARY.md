@@ -64,6 +64,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [orangects](https://github.com/azu0609/orangects)
  * [pearity](https://github.com/thejaustin/pearity) - iOS parity settings for Samsung One UI — three-state toggles, Shizuku-powered
  * [pims](https://github.com/dmitry-goncharov/pims) - The app for enabling VoLTE and VoWiFi on Google Pixel smartphone
+ * [pocket_waifu](https://github.com/yuriluv/pocket_waifu)
  * [roubao](https://github.com/Turbo1123/roubao) - Android Automation Tool Based on Vision-Language Models
  * [scrollsnap](https://github.com/li-junlei/scrollsnap)
  * [sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
@@ -117,8 +118,8 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [HyperMTZ](https://github.com/rvnka/HyperMTZ)
  * [InstallerX-Elderly](https://github.com/editinghero/InstallerX-Elderly)
  * [InstallerX_](https://github.com/shuaige-911/InstallerX_)
+ * [JavaPro](https://github.com/sorumstylXjava/JavaPro) - Powerful Android Tweak & Optimizer | Root & Non-Root Support | Shizuku 
  * [Know_You](https://github.com/ZJDqtjs/Know_You) - 基于flutter对uni_familyguard项目的重构
- * [KyrooSApp](https://github.com/andiisking/KyrooSApp)
  * [LocalDex](https://github.com/lukifer23/LocalDex)
  * [MBOOSTER](https://github.com/murilopedrosasena-byte/MBOOSTER) - Otimizador usando api shizuku
  * [Murasaki-api](https://github.com/Anatdx/Murasaki-api) - The API and the developer guide for Shizuku and Sui.

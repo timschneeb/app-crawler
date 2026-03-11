@@ -30,6 +30,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Buge-App-Manager](https://github.com/BugeStudioTeam/Buge-App-Manager) - Buge App Manager is a powerful Android tool for app and permission management, requiring Shizuku.
  * [CherryDiskInfo](https://github.com/ArcCherry/CherryDiskInfo) - CrystalDiskInfo 的 Android 平台精神续作，为无法更换存储的移动设备提供寿命透明度
  * [Cinderbox-Companion](https://github.com/ObfuscatedVoid/Cinderbox-Companion) - Companion app for Stardew Valley on Android — sync saves with Steam Cloud, download game files, and manage SMAPI mods. Works with the official Android port and Cinderbox.
+ * [CustomAnimator](https://github.com/AhmetCanArslan/CustomAnimator)
  * [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新
  * [DeXKeyBoard](https://github.com/16rab/DeXKeyBoard)
  * [DiscoLauncher](https://github.com/cherryhoax/DiscoLauncher) - A groovy personalized home screen experience
@@ -38,13 +39,13 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ExtensionBox](https://github.com/omersusin/ExtensionBox) - Extension box 
  * [FPSViewer](https://github.com/binhmod/FPSViewer) - fps counter realtime for Android
  * [FakePowerOff](https://github.com/BinitDOX/FakePowerOff) - Simulate device shutdown, ideal for use with anti-theft apps.
- * [FakeRoot](https://github.com/ZiTanIOI/FakeRoot) - 基于小米的服务漏洞制作的一个权限管理器
  * [HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！
  * [Loki](https://github.com/trinadhthatakula/Loki) - Android App logger
  * [MAA-Meow](https://github.com/Aliothmoon/MAA-Meow) - 《明日方舟》小助手Android版，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
  * [MiRearScreenGradienter](https://github.com/GoldenglowSusie/MiRearScreenGradienter)
  * [MoFont](https://github.com/kirenath/MoFont) - 在 One UI 8 上免 root 安装自定义字体
- * [Open-AutoGLM-Android](https://github.com/xinzezhu/Open-AutoGLM-Android) - 安卓版的AutoGLM，不需要部署直接安装就可以使用，欢迎共建~
+ * [Open-AutoGLM-Android](https://github.com/butlanys/Open-AutoGLM-Android) - 基于 Open-AutoGLM 的 Android 原生客户端，通过 Shizuku 实现完全本地化的 AI 手机操控，无需电脑连接。
+ * [Orion-Store](https://github.com/RookieEnough/Orion-Store) - The ultimate home for modded apps. OrionStore offers instant access to YouTube ReVanced, Spot Revanced, and essential open-source tools without the clutter. No servers, no tracking, just a beautiful, modern gateway to the apps you love.
  * [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Quick tool for utilizing CVE-2024-31317 on Android
  * [Raaz](https://github.com/oserv47-del/Raaz)
  * [Ruto-GLM](https://github.com/iamr0s/Ruto-GLM) - 手机端 AutoGLM：无需电脑，真·后台全自动。 支持熄屏、同时多个任务并行，主屏操作互不干扰。（一个基于 AI 的 Android 自动化与多任务框架，开启无限可能。）
@@ -104,6 +105,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [APK-MultiUpdate](https://github.com/alltechdev/APK-MultiUpdate) - In-app update library for Android - check GitHub releases, download APKs, install via Native/Session/Root/Shizuku/Dhizuku
  * [ATOTO-TOOLKIT_2025](https://github.com/Eliminater74/ATOTO-TOOLKIT_2025) - ATOTO Toolkit 2025
  * [AUAK_AGENTY](https://github.com/AuthourAkson/AUAK_AGENTY)
+ * [AndroidFoldeerExplorer](https://github.com/SerZhyAle/AndroidFoldeerExplorer)
  * [AndroidToolKit](https://github.com/Shiho-Patch/AndroidToolKit)
  * [AppBlocker](https://github.com/guvencan/AppBlocker)
  * [AutoAIDL](https://github.com/NguyenDuck/AutoAIDL) - Gradle plugin auto generate aidl files from an Interface with annotations
@@ -119,11 +121,11 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ClipboardSync-Android](https://github.com/rccce/ClipboardSync-Android)
  * [Cloud](https://github.com/Paluss1122-1/Cloud)
  * [Custard](https://github.com/kymjs/Custard) - 一个Android AI Agent应用，完全独立运行，你可以理解为 OpenClaw 的 Android 版，拥有强大的工具调用能力。
- * [CustomAnimator](https://github.com/AhmetCanArslan/CustomAnimator)
  * [DeadHand-](https://github.com/xieerfan/DeadHand-) - 当我离开时,我的身后事,要自己处理,人走茶不凉
  * [Distra-Quit](https://github.com/Hackersaikiran/Distra-Quit) - Distra Quit – Doomscrolling Control App
  * [DroidLock](https://github.com/zhengzaihong/DroidLock) - Android 企业设备管理器-设备监管-非定制系统方案
  * [EasyUserSwitcher](https://github.com/sorryusernameisalreadytaken/EasyUserSwitcher) - EasyUserSwitcher is an Android app that connects to the device’s own Wireless ADB interface and allows quick switching between Android user profiles. It lists available users via pm list users and performs automated am switch-user commands, including optional auto-return to the main user when the device becomes idle.
+ * [FakeRoot](https://github.com/h465855hgg/FakeRoot) - 基于小米的服务漏洞制作的一个权限管理器
  * [FlexLauncher](https://github.com/Multitaskerplays/FlexLauncher) - Android app that allows multi-user
  * [FlipAccounting](https://github.com/yyzx2016lht/FlipAccounting) - 通过shizhuku权限实现翻转进行记账的软件。（适用于钱迹）参考自动记账
  * [Frame-generation-](https://github.com/proqaz2-design/Frame-generation-) - Without root 
@@ -141,7 +143,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [MBOOSTER](https://github.com/murilopedrosasena-byte/MBOOSTER) - Otimizador usando api shizuku
  * [Murasaki-api](https://github.com/Anatdx/Murasaki-api) - The API and the developer guide for Shizuku and Sui.
  * [My-app](https://github.com/rjkyker383-gif/My-app)
- * [MyApplication](https://github.com/z-ph/MyApplication)
+ * [MyApplication](https://github.com/Ynkcc/MyApplication)
  * [NeoDeskPet](https://github.com/nishichengju/NeoDeskPet)
  * [Nexus-framework](https://github.com/1andrewprice6-jpg/Nexus-framework)
  * [ObsidianBackup](https://github.com/canuk40/ObsidianBackup) - A modern Spin on titanium backup with alot more support

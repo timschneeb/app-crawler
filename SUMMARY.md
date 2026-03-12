@@ -54,6 +54,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ShutterMute](https://github.com/ajebulon/ShutterMute) - A lightweight Android app that silences the camera shutter sound using Shizuku, without requiring root access.
  * [Stellar](https://github.com/roro2239/Stellar) - Another Shizuku impl
  * [Stellar-API](https://github.com/roro2239/Stellar-API) - Stellar API SDK
+ * [Vortex](https://github.com/mim1012/Vortex)
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [WuWa-Tool-Android](https://github.com/k4wai1/WuWa-Tool-Android) - An app to organize and apply Wuthering Waves graphics configs safely using Shizuku.
  * [ZionCh](https://github.com/king0929zion/ZionCh) - An AI Chat APP imitating the style of ChatGPT
@@ -148,7 +149,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Nexus-framework](https://github.com/1andrewprice6-jpg/Nexus-framework)
  * [ObsidianBackup](https://github.com/canuk40/ObsidianBackup) - A modern Spin on titanium backup with alot more support
  * [Operit-build](https://github.com/yiluo13/Operit-build)
- * [PhonePointer](https://github.com/Usepot/PhonePointer)
  * [QABlackBox](https://github.com/mikepty/QABlackBox) - Black Box Testing Tool
  * [Sabila](https://github.com/putrinisa124124-hub/Sabila)
  * [Sesame-AG](https://github.com/aoguai/Sesame-AG)
@@ -164,7 +164,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [TaskOrb-Android-Assistant-Framework-Based-on-AutoGLM](https://github.com/wdsj2066/TaskOrb-Android-Assistant-Framework-Based-on-AutoGLM)
  * [ThemedManager](https://github.com/Osanosa/ThemedManager) - Themed Overlays Manager
  * [TouchTool](https://github.com/mr-bogey/TouchTool) - 使用Android无障碍功能来帮助用户点击。蓝图式任务编辑
- * [Vortex](https://github.com/mim1012/Vortex)
+ * [UberAutoAccept](https://github.com/mim1012/UberAutoAccept) - Vortex 스타일의 상태 머신 기반 Uber 드라이버 자동 콜 수락 Android 애플리케이션
  * [WebSu-Plus](https://github.com/Betrix-ID/WebSu-Plus)
  * [Xphone](https://github.com/wake0p/Xphone) - help you get away from phone
  * [Zong-Hub-GFX](https://github.com/kaungkaung575556-beep/Zong-Hub-GFX)
@@ -216,9 +216,12 @@ Entries are sorted by name and grouped into a separate category if the attached 
 #### Updated more than 3 months ago
 
  * [Android-FPS-Watcher](https://github.com/WuDi-ZhanShen/Android-FPS-Watcher) - Monitor RealTime FPS. Suppports Android 12+. Pure Java. Needs ADB or ROOT.
+ * [FMD-foss](https://github.com/haseebno1/FMD-foss) - FMD Android is a mobile application that enables users to locate and control their Android devices remotely. It serves as an open-source, privacy-focused alternative to Google's Find My Device service.
  * [ForcePhoneMic](https://github.com/Ling554/ForcePhoneMic)
+ * [Grayscaler_FSMMI](https://github.com/CalvinDittkrist/Grayscaler_FSMMI) - Keep your phone mostly monochrome, but allow apps like camera to be in color.
  * [MiRearScreenSwitcherEnglish](https://github.com/aaronnat23/MiRearScreenSwitcherEnglish)
  * [ModularWhitelistApp](https://github.com/tam1012/ModularWhitelistApp) - MODULAR WHITELIST - Xiaomi PowerKeeper Whitelist Tool for Android
+ * [PhonePointer](https://github.com/Usepot/PhonePointer)
  * [Sunshine-android](https://github.com/ZyoungInc/Sunshine-android) - a sunshine server for android system
  * [SuperWindow](https://github.com/eiyooooo/SuperWindow) - 超级视窗 | Enhance multi-task experience for large-screen Android devices
  * [android-settings-scheduler](https://github.com/Turtlepaw/android-settings-scheduler) - Schedule any settings that are in the Android Settings app to be changed

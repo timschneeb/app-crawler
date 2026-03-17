@@ -13,6 +13,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
 #### Updated in the last 3 months
 
  * [9Player](https://github.com/techza14/9Player)
+ * [AccountSwitcher](https://github.com/Ynkcc/AccountSwitcher)
  * [AirMouse](https://github.com/jinyinghua/AirMouse) - 一个能隔空操控你的安卓手机的APP。An app that can remotely control your Android phone.
  * [Ajiro](https://github.com/CrackTC/Ajiro) - 麻城建设
  * [AndroidAutoGLM](https://github.com/sidhu-master/AndroidAutoGLM) - 这是基于AutoGLM改造的纯血Android版🚀，不依赖电脑💻，无需安装其他任何程序📱，开包即用⚡️，支持语音输入命令🎤。
@@ -51,7 +52,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [MoFont](https://github.com/kirenath/MoFont) - 在 One UI 8 上免 root 安装自定义字体
  * [Movinkpad-stylus-remapper](https://github.com/KawaNae/Movinkpad-stylus-remapper)
  * [Mtzeditor](https://github.com/Alisuuu/Mtzeditor)
- * [Open-AutoGLM-Android](https://github.com/butlanys/Open-AutoGLM-Android) - 基于 Open-AutoGLM 的 Android 原生客户端，通过 Shizuku 实现完全本地化的 AI 手机操控，无需电脑连接。
+ * [Open-AutoGLM-Android](https://github.com/xinzezhu/Open-AutoGLM-Android) - 安卓版的AutoGLM，不需要部署直接安装就可以使用，欢迎共建~
  * [Orion-Store](https://github.com/RookieEnough/Orion-Store) - The ultimate home for modded apps. OrionStore offers instant access to YouTube ReVanced, Spot Revanced, and essential open-source tools without the clutter. No servers, no tracking, just a beautiful, modern gateway to the apps you love.
  * [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Quick tool for utilizing CVE-2024-31317 on Android
  * [Raaz](https://github.com/oserv47-del/Raaz)
@@ -65,6 +66,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [SwiftSense](https://github.com/itsmelissadev/SwiftSense) - SwiftSense is a versatile Android toolkit to boost gaming performance. It forces sensor rates to 200Hz+ and manages background apps via Shizuku to reduce CPU load. A privacy-focused, open-source project.
  * [Vortex](https://github.com/mim1012/Vortex)
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
+ * [Will-do](https://github.com/AIXINJUELUOAI/Will-do)
  * [WuWa-Tool-Android](https://github.com/k4wai1/WuWa-Tool-Android) - An app to organize and apply Wuthering Waves graphics configs safely using Shizuku.
  * [ZenTasker](https://github.com/loongj-code/ZenTasker)
  * [ZionCh](https://github.com/king0929zion/ZionCh) - An AI Chat APP imitating the style of ChatGPT
@@ -117,7 +119,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [APK-MultiUpdate](https://github.com/alltechdev/APK-MultiUpdate) - In-app update library for Android - check GitHub releases, download APKs, install via Native/Session/Root/Shizuku/Dhizuku
  * [ATOTO-TOOLKIT_2025](https://github.com/Eliminater74/ATOTO-TOOLKIT_2025) - ATOTO Toolkit 2025
  * [AUAK_AGENTY](https://github.com/AuthourAkson/AUAK_AGENTY)
- * [AccountSwitcher](https://github.com/Ynkcc/AccountSwitcher)
  * [AndroidFoldeerExplorer](https://github.com/SerZhyAle/AndroidFoldeerExplorer)
  * [AndroidToolKit](https://github.com/Shiho-Patch/AndroidToolKit)
  * [AppBlocker](https://github.com/guvencan/AppBlocker)
@@ -165,6 +166,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [NeoDeskPet](https://github.com/nishichengju/NeoDeskPet)
  * [Nexus-framework](https://github.com/1andrewprice6-jpg/Nexus-framework)
  * [ObsidianBackup](https://github.com/canuk40/ObsidianBackup) - A modern Spin on titanium backup with alot more support
+ * [OmniDev-Workspace](https://github.com/obieda-hussien/OmniDev-Workspace)
  * [QABlackBox](https://github.com/mikepty/QABlackBox) - Black Box Testing Tool
  * [Sabila](https://github.com/putrinisa124124-hub/Sabila)
  * [Sesame-AG](https://github.com/aoguai/Sesame-AG)
@@ -198,6 +200,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [disk-mapper-android](https://github.com/kvitaliq-maker/disk-mapper-android)
  * [dji-in-vjoi](https://github.com/Axel9813/dji-in-vjoi)
  * [droidify_enterprise](https://github.com/Bliss-Bass/droidify_enterprise)
+ * [dual-manager](https://github.com/trunone/dual-manager)
  * [enforced-app-repo](https://github.com/defencedigital/enforced-app-repo) - ENFORCED App Repo Client - forked from Droid-fy
  * [fenbihelper](https://github.com/Teri1111/fenbihelper) - 使用豆包查询粉笔考公选择题的自动化工具
  * [filetool](https://github.com/mauricelam/filetool) - https://mauricelam.github.io/filetool/

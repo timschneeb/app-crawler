@@ -47,6 +47,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！
  * [KiraService](https://github.com/i7m7r8/KiraService)
  * [Klux-Lock](https://github.com/nxurs1337/Klux-Lock) - KluxLock, Android cihazlarda seçtiğiniz uygulamaları biyometrik doğrulama veya PIN ile korumanızı sağlayan açık kaynaklı bir uygulama kilidi projesidir. Erişilebilirlik, kullanım istatistikleri ve Shizuku gibi farklı algılama yöntemlerini destekleyerek güvenlik ve esneklik sunar.
+ * [LXB-Framework](https://github.com/wuwei-crg/LXB-Framework)
  * [Loki](https://github.com/trinadhthatakula/Loki) - Android App logger
  * [MAA-Meow](https://github.com/Aliothmoon/MAA-Meow) - 《明日方舟》小助手Android版，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
  * [MiRearScreenGradienter](https://github.com/GoldenglowSusie/MiRearScreenGradienter)
@@ -57,6 +58,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Orion-Store](https://github.com/RookieEnough/Orion-Store) - The ultimate home for modded apps. OrionStore offers instant access to YouTube ReVanced, Spot Revanced, and essential open-source tools without the clutter. No servers, no tracking, just a beautiful, modern gateway to the apps you love.
  * [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Quick tool for utilizing CVE-2024-31317 on Android
  * [Raaz](https://github.com/oserv47-del/Raaz)
+ * [Recents](https://github.com/tymwitko/Recents) - Launcher-agnostic "Recents" menu for Android.
  * [RedTrigger](https://github.com/zampierilucas/RedTrigger) - Android app that enables shoulder triggers on Red Magic phones system-wide, without Game Space
  * [Ruto-GLM](https://github.com/iamr0s/Ruto-GLM) - 手机端 AutoGLM：无需电脑，真·后台全自动。 支持熄屏、同时多个任务并行，主屏操作互不干扰。（一个基于 AI 的 Android 自动化与多任务框架，开启无限可能。）
  * [ShizukuPlus](https://github.com/thejaustin/ShizukuPlus) - Shizuku+ — Enhanced fork with UX improvements to the app management screen
@@ -77,14 +79,15 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [android](https://github.com/wgtunnel/android) - A FOSS WireGuard & AmneziaWG Android client with auto-tunneling, lockdown & proxying.
  * [android-wifi-pojie](https://github.com/bszapp/android-wifi-pojie) - Android使用密码本暴力破解wifi密码工具
  * [anyclaw-android-assistant-evolution](https://github.com/zhangzheyuanviolin-ship-it/anyclaw-android-assistant-evolution) - AnyClaw Android continuous evolution repository with migration baseline, roadmap, and release history.
- * [bingtray](https://github.com/nikescar/bingtray) - cross-platform bingwallpaper download tray(cli) apps.
+ * [aurora-dhizuku](https://github.com/alltechdev/aurora-dhizuku) - Aurora Store Dhizuku installer implementation
+ * [blu-g64-root-helper](https://github.com/ranicola69-cpu/blu-g64-root-helper) - One-click root helper for Blu G64 with Magisk bundled
  * [botdrop-android](https://github.com/zhixianio/botdrop-android) - Run AI agents on your Android phone — no terminal, no CLI, just a guided setup.
  * [carrier-ims-for-pixel](https://github.com/ryfineZ/carrier-ims-for-pixel) - Carrier IMS for Pixel (TurboIMS): multilingual (中文/English) pixel ims / ims / carrierconfig / volte / vowifi / 5G+ toolkit for Google Pixel.
  * [carrierconfigeditor](https://github.com/bjorn-032/carrierconfigeditor)
- * [chrono-s_camera_android](https://github.com/newyusir/chrono-s_camera_android) - android port of chrono's camera
  * [com.system.reschange](https://github.com/c0a22132/com.system.reschange)
  * [destination](https://github.com/creativeidiot123/destination) - Nuclear level app blocking, Nothing else comes close, no root required, no device reset required.
  * [flow](https://github.com/huajideshutiao/flow) - 用于将 URL 转换为 intent 或打开未导出的活动
+ * [font-installer-blu-g64](https://github.com/ranicola69-cpu/font-installer-blu-g64) - Android app to install system fonts on Blu G64 using Shizuku
  * [hexodus](https://github.com/thejaustin/hexodus) - Next-generation Android theming engine for Samsung One UI 8 (Android 16+) as a spiritual successor to 'Hex Installer', leveraging Shizuku for system-level operations without requiring root access.
  * [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ / Linkura Localify / LoveLive Translation / llll
  * [mixer-1](https://github.com/farizanjum/mixer-1) - Per-app volume control for Android, designed with Nothing OS aesthetics.
@@ -112,6 +115,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [MiRearScreenSwitcher](https://github.com/GoldenglowSusie/MiRearScreenSwitcher) - 为小米17Pro及以上（也许及以后）机型的背屏一键切换器
  * [MndroLua](https://github.com/Crescent-of-Maya/MndroLua) - A modern fork of AndroLua+ / 更加现代的 AndroLua+ 魔改版
  * [Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
+ * [chrono-s_camera_android](https://github.com/newyusir/chrono-s_camera_android) - android port of chrono's camera
  * [kdeconnect-android-shizuku](https://github.com/Shoukaku39/kdeconnect-android-shizuku) - Forked from KDE Connect Android. Adds Shizuku support to bypass clipboard access restrictions on Android 10+ without using READ_LOGS or manual ADB shell. 基于 KDE Connect Android 的分支，添加对 Shizuku 的支持，在无需请求 READ_LOGS 或手动 ADB 授权的情况下，绕过 Android 10+ 剪贴板访问限制。
 
 ### Apps with no releases
@@ -151,10 +155,8 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Frame-generation-](https://github.com/proqaz2-design/Frame-generation-) - Without root 
  * [FrameX-Android](https://github.com/MaheshSharan/FrameX-Android) - Android FPS meter and performance overlay powered by Shizuku.
  * [FrostPlum](https://github.com/jickylive/FrostPlum)
- * [GLM-phone](https://github.com/pengqiyu123/GLM-phone)
  * [Geargrinder](https://github.com/Benjamin-Wiegand/Geargrinder) - A free and open source alternative to Android Auto
  * [Golden-IDE](https://github.com/scto/Golden-IDE)
- * [HyperMTZ](https://github.com/rvnka/HyperMTZ)
  * [InstallerX_](https://github.com/shuaige-911/InstallerX_)
  * [JavaPro](https://github.com/sorumstylXjava/JavaPro) - Powerful Android Tweak & Optimizer | Root & Non-Root Support | Shizuku 
  * [Khant](https://github.com/saryargyitkn2-crypto/Khant)
@@ -209,7 +211,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [enforced-app-repo](https://github.com/defencedigital/enforced-app-repo) - ENFORCED App Repo Client - forked from Droid-fy
  * [fenbihelper](https://github.com/Teri1111/fenbihelper) - 使用豆包查询粉笔考公选择题的自动化工具
  * [filetool](https://github.com/mauricelam/filetool) - https://mauricelam.github.io/filetool/
- * [font-installer-blu-g64](https://github.com/ranicola69-cpu/font-installer-blu-g64) - Android app to install system fonts on Blu G64 using Shizuku
  * [give_me_wifi](https://github.com/dbrodie/give_me_wifi)
  * [hyperdroid](https://github.com/roshank8s/hyperdroid)
  * [iflow-bot](https://github.com/xuanyuanluoxue/iflow-bot) - 一个可以调用安卓api的ai软件
@@ -219,7 +220,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [mlbb-history-analyst](https://github.com/Amethyst666/mlbb-history-analyst)
  * [oppo-cts](https://github.com/ashiyalice/oppo-cts) -  OppoCTS - Circle to Search Enabler for ColorOS
  * [phone-assistant](https://github.com/z-ph/phone-assistant)
- * [privateeye](https://github.com/SaltProphet/privateeye) - Professional-grade Android screen recording utility with MediaProjection API and floating overlay controls.
  * [resolution-tools](https://github.com/kenovanken-a11y/resolution-tools) - haha
  * [samsung_ota](https://github.com/zainarbani/samsung_ota)
  * [sd-maid-pro](https://github.com/toviralideasyt7/sd-maid-pro)
@@ -244,6 +244,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Android-FPS-Watcher](https://github.com/WuDi-ZhanShen/Android-FPS-Watcher) - Monitor RealTime FPS. Suppports Android 12+. Pure Java. Needs ADB or ROOT.
  * [FMD-foss](https://github.com/haseebno1/FMD-foss) - FMD Android is a mobile application that enables users to locate and control their Android devices remotely. It serves as an open-source, privacy-focused alternative to Google's Find My Device service.
  * [ForcePhoneMic](https://github.com/Ling554/ForcePhoneMic)
+ * [GLM-phone](https://github.com/pengqiyu123/GLM-phone)
  * [Grayscaler_FSMMI](https://github.com/CalvinDittkrist/Grayscaler_FSMMI) - Keep your phone mostly monochrome, but allow apps like camera to be in color.
  * [MiRearScreenSwitcherEnglish](https://github.com/aaronnat23/MiRearScreenSwitcherEnglish)
  * [ModularWhitelistApp](https://github.com/tam1012/ModularWhitelistApp) - MODULAR WHITELIST - Xiaomi PowerKeeper Whitelist Tool for Android

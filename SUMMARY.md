@@ -57,6 +57,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Mtzeditor](https://github.com/Alisuuu/Mtzeditor)
  * [Open-AutoGLM-Android](https://github.com/xinzezhu/Open-AutoGLM-Android) - 安卓版的AutoGLM，不需要部署直接安装就可以使用，欢迎共建~
  * [Orion-Store](https://github.com/RookieEnough/Orion-Store) - The ultimate home for modded apps. OrionStore offers instant access to YouTube ReVanced, Spot Revanced, and essential open-source tools without the clutter. No servers, no tracking, just a beautiful, modern gateway to the apps you love.
+ * [OxygenToolbox](https://github.com/EraserCN/OxygenToolbox) - Toolbox for OxygenOS
  * [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Quick tool for utilizing CVE-2024-31317 on Android
  * [Raaz](https://github.com/oserv47-del/Raaz)
  * [Recents](https://github.com/tymwitko/Recents) - Launcher-agnostic "Recents" menu for Android.
@@ -82,6 +83,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [android](https://github.com/wgtunnel/android) - A FOSS WireGuard & AmneziaWG Android client with auto-tunneling, lockdown & proxying.
  * [android-wifi-pojie](https://github.com/bszapp/android-wifi-pojie) - Android使用密码本暴力破解wifi密码工具
  * [anyclaw-android-assistant-evolution](https://github.com/zhangzheyuanviolin-ship-it/anyclaw-android-assistant-evolution) - AnyClaw Android continuous evolution repository with migration baseline, roadmap, and release history.
+ * [aod-suite](https://github.com/OutrageousStorm/aod-suite) - 🌙 AOD Suite — Always On Display customization via Shizuku ADB. Control min brightness, blurred wallpaper, gestures & more.
  * [aurora-dhizuku](https://github.com/alltechdev/aurora-dhizuku) - Aurora Store Dhizuku installer implementation
  * [blu-g64-root-helper](https://github.com/ranicola69-cpu/blu-g64-root-helper) - One-click root helper for Blu G64 with Magisk bundled
  * [botdrop-android](https://github.com/zhixianio/botdrop-android) - Run AI agents on your Android phone — no terminal, no CLI, just a guided setup.
@@ -117,6 +119,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [MiRearScreenSwitcher](https://github.com/GoldenglowSusie/MiRearScreenSwitcher) - 为小米17Pro及以上（也许及以后）机型的背屏一键切换器
  * [MndroLua](https://github.com/Crescent-of-Maya/MndroLua) - A modern fork of AndroLua+ / 更加现代的 AndroLua+ 魔改版
  * [Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
+ * [ShizukuUesrService](https://github.com/Com-kt/ShizukuUesrService) - Shizuku UserService
  * [chrono-s_camera_android](https://github.com/newyusir/chrono-s_camera_android) - android port of chrono's camera
  * [kdeconnect-android-shizuku](https://github.com/Shoukaku39/kdeconnect-android-shizuku) - Forked from KDE Connect Android. Adds Shizuku support to bypass clipboard access restrictions on Android 10+ without using READ_LOGS or manual ADB shell. 基于 KDE Connect Android 的分支，添加对 Shizuku 的支持，在无需请求 READ_LOGS 或手动 ADB 授权的情况下，绕过 Android 10+ 剪贴板访问限制。
 
@@ -124,9 +127,10 @@ Entries are sorted by name and grouped into a separate category if the attached 
 
 #### Updated in the last 3 months
 
+ * [123](https://github.com/Lin-ZCZ/123)
  * [APK-MultiUpdate](https://github.com/alltechdev/APK-MultiUpdate) - In-app update library for Android - check GitHub releases, download APKs, install via Native/Session/Root/Shizuku/Dhizuku
- * [ATOTO-TOOLKIT_2025](https://github.com/Eliminater74/ATOTO-TOOLKIT_2025) - ATOTO Toolkit 2025
  * [AUAK_AGENTY](https://github.com/AuthourAkson/AUAK_AGENTY)
+ * [AiNongMol](https://github.com/sitthit5-tech/AiNongMol)
  * [AndroidFoldeerExplorer](https://github.com/SerZhyAle/AndroidFoldeerExplorer)
  * [AndroidToolKit](https://github.com/Shiho-Patch/AndroidToolKit)
  * [AppBlocker](https://github.com/guvencan/AppBlocker)
@@ -135,7 +139,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [AutoPilotAI](https://github.com/soumithganji/AutoPilotAI) - VLM-powered Android automation agent that "sees" your screen and executes complex tasks from simple voice commands
  * [AutoScript](https://github.com/Ion-conservation/AutoScript) - 网易云音乐广告脚本
  * [BattleGrounds_GFX](https://github.com/Krish-malik/BattleGrounds_GFX) - BattleGrounds GFX Tool is a performance optimization app for games like PUBG Mobile, BGMI, and other battleground titles. It unlocks higher FPS options, optimizes graphics settings, reduces lag, and improves smoothness based on your device without changing core gameplay. Perfect for stable, competitive play.
- * [BillAuto](https://github.com/Albresky/BillAuto)
  * [BluePair](https://github.com/rohittp0/BluePair)
  * [Boobgy](https://github.com/bdralbydy875-ux/Boobgy)
  * [CaptureSecureScreen](https://github.com/jimmychanii/CaptureSecureScreen) - A android tools to capture screen, includes secure flag activity
@@ -174,6 +177,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [NeoDeskPet](https://github.com/nishichengju/NeoDeskPet)
  * [Nexus-framework](https://github.com/1andrewprice6-jpg/Nexus-framework)
  * [NongMol-AI](https://github.com/sitthit2-rgb/NongMol-AI)
+ * [NongMol-AI-Pro](https://github.com/sitthit2-rgb/NongMol-AI-Pro)
  * [ObsidianBackup](https://github.com/canuk40/ObsidianBackup) - A modern Spin on titanium backup with alot more support
  * [OmniDev-Workspace](https://github.com/obieda-hussien/OmniDev-Workspace)
  * [Protector](https://github.com/Shakti-coding/Protector)
@@ -214,14 +218,17 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [dual-manager](https://github.com/trunone/dual-manager)
  * [enforced-app-repo](https://github.com/defencedigital/enforced-app-repo) - ENFORCED App Repo Client - forked from Droid-fy
  * [fenbihelper](https://github.com/Teri1111/fenbihelper) - 使用豆包查询粉笔考公选择题的自动化工具
+ * [fileHunter](https://github.com/vertigo0628/fileHunter) - Minimalist Android File Manager specifically designed to uncover hidden media vaults and browse restricted application data without requiring root access.
  * [filetool](https://github.com/mauricelam/filetool) - https://mauricelam.github.io/filetool/
+ * [galaxy-shutter-mute-manager](https://github.com/ryuya0124/galaxy-shutter-mute-manager)
  * [give_me_wifi](https://github.com/dbrodie/give_me_wifi)
  * [hyperdroid](https://github.com/roshank8s/hyperdroid)
  * [iflow-bot](https://github.com/xuanyuanluoxue/iflow-bot) - 一个可以调用安卓api的ai软件
- * [input-leaf](https://github.com/anasvhora284/input-leaf)
+ * [input-leaf](https://github.com/anasvhora284/input-leaf) - Android client for Input Leap — share keyboard & mouse from your pc to your phone 
  * [kikyo](https://github.com/achyutbadyal/kikyo) - Free and open source manga reader for Android
  * [kwshell](https://github.com/DuckyScript/kwshell) - A android terminal
  * [mazda-control](https://github.com/afayvisovich/mazda-control)
+ * [mcpshell](https://github.com/xnet-admin-1/mcpshell) - Android MCP server with sh, proot Ubuntu, and Shizuku rish shell tools
  * [mengo](https://github.com/tedydevmac/mengo) - mihon fork
  * [mlbb-history-analyst](https://github.com/Amethyst666/mlbb-history-analyst)
  * [oppo-cts](https://github.com/ashiyalice/oppo-cts) -  OppoCTS - Circle to Search Enabler for ColorOS
@@ -232,6 +239,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [shizuku-screen-off-on-phone-call](https://github.com/olegsvs/shizuku-screen-off-on-phone-call)
  * [shizuku-wear](https://github.com/emtee40/shizuku-wear)
  * [sing-box-for-android](https://github.com/SagerNet/sing-box-for-android) - Experimental Android client for sing-box
+ * [tauri-plugin-shizuku](https://github.com/zhangnjsd/tauri-plugin-shizuku)
  * [termux-app-source-20260306-032102](https://github.com/ztm983620369/termux-app-source-20260306-032102) - Snapshot of local termux-app workspace
  * [termux-launcher](https://github.com/fvkd/termux-launcher)
  * [uninstallApp](https://github.com/HL946067429/uninstallApp) - Android batch uninstaller
@@ -246,7 +254,9 @@ Entries are sorted by name and grouped into a separate category if the attached 
 #### Updated more than 3 months ago
 
  * [-v-](https://github.com/AWDX-DYVB/-v-)
+ * [ATOTO-TOOLKIT_2025](https://github.com/Eliminater74/ATOTO-TOOLKIT_2025) - ATOTO Toolkit 2025
  * [Android-FPS-Watcher](https://github.com/WuDi-ZhanShen/Android-FPS-Watcher) - Monitor RealTime FPS. Suppports Android 12+. Pure Java. Needs ADB or ROOT.
+ * [BillAuto](https://github.com/Albresky/BillAuto)
  * [FMD-foss](https://github.com/haseebno1/FMD-foss) - FMD Android is a mobile application that enables users to locate and control their Android devices remotely. It serves as an open-source, privacy-focused alternative to Google's Find My Device service.
  * [ForcePhoneMic](https://github.com/Ling554/ForcePhoneMic)
  * [GLM-phone](https://github.com/pengqiyu123/GLM-phone)

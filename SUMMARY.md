@@ -75,6 +75,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Stellar](https://github.com/roro2239/Stellar) - Another Shizuku impl
  * [Stellar-API](https://github.com/roro2239/Stellar-API) - Stellar API SDK
  * [SwiftSense](https://github.com/itsmelissadev/SwiftSense) - SwiftSense is a versatile Android toolkit to boost gaming performance. It forces sensor rates to 200Hz+ and manages background apps via Shizuku to reduce CPU load. A privacy-focused, open-source project.
+ * [UberAutoAccept](https://github.com/mim1012/UberAutoAccept) - Vortex 스타일의 상태 머신 기반 Uber 드라이버 자동 콜 수락 Android 애플리케이션
  * [Vortex](https://github.com/mim1012/Vortex)
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [Will-do](https://github.com/AIXINJUELUOAI/Will-do)
@@ -84,9 +85,11 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ZionCh](https://github.com/king0929zion/ZionCh) - An AI Chat APP imitating the style of ChatGPT
  * [aa-logcat](https://github.com/mrmees/aa-logcat) - Android app for capturing Android Auto protocol debug logs during real-world sessions
  * [alian-android](https://github.com/xlb1130/alian-android) - 想拥有自己的豆包/豆包手机吗？看看Alian，语音通话、视频通话、手机自动化、MCP可配...
- * [amctl](https://github.com/memohai/amctl)
+ * [amctl](https://github.com/memohai/amctl) - An AI Agent tool to automate Android devices reliably
  * [android](https://github.com/wgtunnel/android) - A FOSS WireGuard & AmneziaWG Android client with auto-tunneling, lockdown & proxying.
+ * [android-openclaw-native](https://github.com/wayansuardyana-code/android-openclaw-native)
  * [android-wifi-pojie](https://github.com/bszapp/android-wifi-pojie) - Android使用密码本暴力破解wifi密码工具
+ * [anti-tracker](https://github.com/HonzaV/anti-tracker) - GPS, Bluetooth, WiFi, Data and carrier cellphone signal all those can be used to track you. Get rid of tracking with this Android App. 
  * [anyclaw-android-assistant-evolution](https://github.com/zhangzheyuanviolin-ship-it/anyclaw-android-assistant-evolution) - AnyClaw Android continuous evolution repository with migration baseline, roadmap, and release history.
  * [aod-suite](https://github.com/OutrageousStorm/aod-suite) - 🌙 AOD Suite — Always On Display customization via Shizuku ADB. Control min brightness, blurred wallpaper, gestures & more.
  * [aurora-dhizuku](https://github.com/alltechdev/aurora-dhizuku) - Aurora Store Dhizuku installer implementation
@@ -110,6 +113,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [pearity](https://github.com/thejaustin/pearity) - iOS parity settings for Samsung One UI — three-state toggles, Shizuku-powered
  * [phoneAgent](https://github.com/biezhaowo1123/phoneAgent) - 手机ai机器人
  * [pims](https://github.com/dmitry-goncharov/pims) - The app for enabling VoLTE and VoWiFi on Google Pixel smartphone
+ * [pocket-lobster-android](https://github.com/zhangzheyuanviolin-ship-it/pocket-lobster-android) - Pocket Lobster for Android: Codex + OpenClaw with dual terminals, Shizuku system shell, shared storage, and on-device AI task execution.
  * [pocket_waifu](https://github.com/yuriluv/pocket_waifu)
  * [roubao](https://github.com/Turbo1123/roubao) - Android Automation Tool Based on Vision-Language Models
  * [scrollsnap](https://github.com/li-junlei/scrollsnap)
@@ -207,8 +211,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [TachiAZ](https://github.com/extsup/TachiAZ) - manga reader android
  * [ThemedManager](https://github.com/Osanosa/ThemedManager) - Themed Overlays Manager
  * [TouchTool](https://github.com/mr-bogey/TouchTool) - 使用Android无障碍功能来帮助用户点击。蓝图式任务编辑
- * [UberAutoAccept](https://github.com/mim1012/UberAutoAccept) - Vortex 스타일의 상태 머신 기반 Uber 드라이버 자동 콜 수락 Android 애플리케이션
- * [WebSu-Plus](https://github.com/Betrix-ID/WebSu-Plus)
  * [Xphone](https://github.com/wake0p/Xphone) - help you get away from phone
  * [Zong-Hub-GFX](https://github.com/kaungkaung575556-beep/Zong-Hub-GFX)
  * [adocker](https://github.com/LukeXeon/adocker) - 在Android上运行Docker容器，借助AI开发的项目
@@ -275,6 +277,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Sunshine-android](https://github.com/ZyoungInc/Sunshine-android) - a sunshine server for android system
  * [SuperWindow](https://github.com/eiyooooo/SuperWindow) - 超级视窗 | Enhance multi-task experience for large-screen Android devices
  * [TaskOrb-Android-Assistant-Framework-Based-on-AutoGLM](https://github.com/wdsj2066/TaskOrb-Android-Assistant-Framework-Based-on-AutoGLM)
+ * [WebSu-Plus](https://github.com/Betrix-ID/WebSu-Plus)
  * [ZontesZoom](https://github.com/kerojohan/ZontesZoom)
  * [android-settings-scheduler](https://github.com/Turtlepaw/android-settings-scheduler) - Schedule any settings that are in the Android Settings app to be changed
  * [chengying](https://github.com/nowmore/chengying)

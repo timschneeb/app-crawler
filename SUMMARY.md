@@ -23,6 +23,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [AppDualZuku](https://github.com/nathanatgit/AppDualZuku) - Manage app multiple instances in workspaces with Shizuku privilege.
  * [Appzuku](https://github.com/northmendo/Appzuku) - A simple app to boost performance by stopping background apps, relying on Root/Shizuku permissions.
  * [Audio-Refresher](https://github.com/SebastianZzzz/Audio-Refresher) - Automatic refreshing audio services via Shizuku to keep service alive. It's a way to optimize background video playing without having to manually refresh the player status via control centre. Now it's only designed for BiliBili.
+ * [Auto-Fish](https://github.com/memohai/Auto-Fish) - An AI Agent tool to automate Android devices reliably
  * [AutoAccounting](https://github.com/AutoAccountingOrg/AutoAccounting) - 你的每一笔账单都值得记录！
  * [AutoGLM-For-Android](https://github.com/Luokavin/AutoGLM-For-Android) - 纯 Android 端 Open-AutoGLM 实现，无需电脑
  * [Ava](https://github.com/knoop7/Ava) - Turn any Android 7-16 device into a Bluetooth proxy all-in-one smart home control panel
@@ -45,7 +46,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [FPSViewer](https://github.com/binhmod/FPSViewer) - fps counter realtime for Android
  * [FakePowerOff](https://github.com/BinitDOX/FakePowerOff) - Simulate device shutdown, ideal for use with anti-theft apps.
  * [Filex](https://github.com/Alisuuu/Filex)
- * [GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
+ * [GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
  * [GlyphRecorder](https://github.com/aaa1115910/GlyphRecorder) - A glyph recognition tool.
  * [HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！
  * [KiraService](https://github.com/i7m7r8/KiraService)
@@ -54,6 +55,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Loki](https://github.com/trinadhthatakula/Loki) - Android App logger
  * [MAA-Meow](https://github.com/Aliothmoon/MAA-Meow) - 《明日方舟》小助手Android版，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
  * [MapXr](https://github.com/halfmonty/MapXr) - A TAP mapping tool for one or two TAP devices used simultaneously
+ * [MetaAgent](https://github.com/Crossfield-Labs/MetaAgent)
  * [MiHealth_AmapFix](https://github.com/ljy6-6-6/MiHealth_AmapFix) - 禁止小米运动健康屏蔽高德地图的焦点通知，在HyperOS2.0下，当导航触发焦点通知后，可在穿戴式产品上显示实时导航信息。
  * [MiRearScreenGradienter](https://github.com/GoldenglowSusie/MiRearScreenGradienter)
  * [MoFont](https://github.com/kirenath/MoFont) - 在 One UI 8 上免 root 安装自定义字体
@@ -62,6 +64,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Open-AutoGLM-Android](https://github.com/xinzezhu/Open-AutoGLM-Android) - 安卓版的AutoGLM，不需要部署直接安装就可以使用，欢迎共建~
  * [Orion-Store](https://github.com/RookieEnough/Orion-Store) - The ultimate home for modded apps. OrionStore offers instant access to YouTube ReVanced, Spot Revanced, and essential open-source tools without the clutter. No servers, no tracking, just a beautiful, modern gateway to the apps you love.
  * [OxygenToolbox](https://github.com/EraserCN/OxygenToolbox) - Toolbox for OxygenOS
+ * [Pensum](https://github.com/troikoss/Pensum) - Advanced system monitor and process killer for Android, optimized for desktop mode.
  * [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Quick tool for utilizing CVE-2024-31317 on Android
  * [Raaz](https://github.com/oserv47-del/Raaz)
  * [Recents](https://github.com/tymwitko/Recents) - Launcher-agnostic "Recents" menu for Android.
@@ -113,11 +116,13 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [pearity](https://github.com/thejaustin/pearity) - iOS parity settings for Samsung One UI — three-state toggles, Shizuku-powered
  * [phoneAgent](https://github.com/biezhaowo1123/phoneAgent) - 手机ai机器人
  * [pims](https://github.com/dmitry-goncharov/pims) - The app for enabling VoLTE and VoWiFi on Google Pixel smartphone
- * [pocket-lobster-android](https://github.com/zhangzheyuanviolin-ship-it/pocket-lobster-android) - Pocket Lobster for Android: Codex + OpenClaw with dual terminals, Shizuku system shell, shared storage, and on-device AI task execution.
+ * [pocket-lobster-android](https://github.com/zhangzheyuanviolin-ship-it/pocket-lobster-android) - 口袋大龙虾 Pocket Lobster for Android: Codex + OpenClaw, dual terminals, Shizuku system shell, shared storage, and on-device AI task execution.
  * [pocket_waifu](https://github.com/yuriluv/pocket_waifu)
+ * [rayniyomi](https://github.com/ryacub/rayniyomi) - Free and Open source  anime/manga/light novel reader. Based of aniyomi
  * [roubao](https://github.com/Turbo1123/roubao) - Android Automation Tool Based on Vision-Language Models
  * [scrollsnap](https://github.com/li-junlei/scrollsnap)
  * [sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
+ * [skin-script-installer](https://github.com/IstarVin/skin-script-installer) - Android Skin Script Installer
  * [spotify-ad-skipper](https://github.com/sihooney/spotify-ad-skipper) - Skip ads on Spotify for Android
  * [startfrp](https://github.com/usertest001/startfrp) - Android FRP客户端，FRP Client， FRP Android
  * [uad-shizuku](https://github.com/nikescar/uad-shizuku) - android debloater, scanner, app installer using adb.

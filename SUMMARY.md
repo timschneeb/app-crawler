@@ -26,6 +26,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Auto-Fish](https://github.com/memohai/Auto-Fish) - An AI Agent tool to automate Android devices reliably
  * [AutoAccounting](https://github.com/AutoAccountingOrg/AutoAccounting) - 你的每一笔账单都值得记录！
  * [AutoGLM-For-Android](https://github.com/Luokavin/AutoGLM-For-Android) - 纯 Android 端 Open-AutoGLM 实现，无需电脑
+ * [AutoSlide](https://github.com/tianxing-ovo/AutoSlide) - 一款安卓自动滑动APP，可以自动播放短视频、自动翻页阅读小说
  * [Ava](https://github.com/knoop7/Ava) - Turn any Android 7-16 device into a Bluetooth proxy all-in-one smart home control panel
  * [AvarionX-Android-Antivirus](https://github.com/phsycologicalFudge/AvarionX-Android-Antivirus) - A powerful antivirus for android
  * [AvarionX-Manager](https://github.com/phsycologicalFudge/AvarionX-Manager) - Manager for ColourSwift apps
@@ -47,6 +48,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [FakePowerOff](https://github.com/BinitDOX/FakePowerOff) - Simulate device shutdown, ideal for use with anti-theft apps.
  * [Filex](https://github.com/Alisuuu/Filex)
  * [GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
+ * [GlyphHacker](https://github.com/Young-Lord/GlyphHacker) - LOVE Ingress Glyph Hack with Android power
  * [GlyphRecorder](https://github.com/aaa1115910/GlyphRecorder) - A glyph recognition tool.
  * [HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！
  * [KiraService](https://github.com/i7m7r8/KiraService)
@@ -183,6 +185,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [JavaPro](https://github.com/sorumstylXjava/JavaPro) - Powerful Android Tweak & Optimizer | Root & Non-Root Support | Shizuku 
  * [Khant](https://github.com/saryargyitkn2-crypto/Khant)
  * [Know_You](https://github.com/ZJDqtjs/Know_You) - 基于flutter对uni_familyguard项目的重构
+ * [Kuukiyomi2.0](https://github.com/Lenoxlkz/Kuukiyomi2.0) - Continuación personal del proyecto Kuukiyomi
  * [LNStretch](https://github.com/luanzzkribeirozzk-design/LNStretch) - LN Stretch — Esticador de tela Free Fire
  * [LineTheme](https://github.com/JasonHongGG/LineTheme)
  * [LocalDex](https://github.com/lukifer23/LocalDex)
@@ -212,6 +215,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ShizukuTerminal](https://github.com/hmode22222/ShizukuTerminal)
  * [SignalFix](https://github.com/zhaochunqi/SignalFix) - 修复类原生的信号问题
  * [SpeccyOS-Showcase](https://github.com/lorpagc-art/SpeccyOS-Showcase) - Speccy OS Imperial Edition (v0.3.0) 🚩: Meta-Sistema Operativo y Frontend IA para consolas Android. Con Ambient DNA (interfaz adaptativa), Hot-Edge Overlay (menú táctil in-game), Cloud Sync y Web-Auth para GammaOS. Optimización extrema de hardware y biblioteca neural dinámica. Redefiniendo el juego portátil con inteligencia real.
+ * [StereoBalanceOverlay](https://github.com/du4n31/StereoBalanceOverlay)
  * [SystemBridgeFramework](https://github.com/olivia1246/SystemBridgeFramework) - Framework for Android to allow websites or other applications to request custom payload execution by utilising URL schemes.
  * [TachiAZ](https://github.com/extsup/TachiAZ) - manga reader android
  * [ThemedManager](https://github.com/Osanosa/ThemedManager) - Themed Overlays Manager

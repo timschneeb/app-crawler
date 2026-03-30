@@ -47,10 +47,9 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Elysium-Vanguard-One-Tap-Boost](https://github.com/jordelmir/Elysium-Vanguard-One-Tap-Boost) - ⚜️ Elite Performance Optimization Suite for Android. Shizuku-powered, one-tap system-wide hardware acceleration and debloating. Premium Cyberpunk UI. 🔱
  * [ExtensionBox](https://github.com/omersusin/ExtensionBox) - Extension box 
  * [FPSViewer](https://github.com/binhmod/FPSViewer) - fps counter realtime for Android
- * [FakePowerOff](https://github.com/BinitDOX/FakePowerOff) - Simulate device shutdown, ideal for use with anti-theft apps.
  * [Filex](https://github.com/Alisuuu/Filex)
  * [GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
- * [GlyphHacker](https://github.com/Young-Lord/GlyphHacker) - LOVE Ingress Glyph Hack with Android power
+ * [GlyphHacker](https://github.com/Young-Lord/GlyphHacker) - LOVE Ingress Glyph Hack with Android power.
  * [GlyphRecorder](https://github.com/aaa1115910/GlyphRecorder) - A glyph recognition tool.
  * [HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！
  * [Klux-Lock](https://github.com/nxurs1337/Klux-Lock) - KluxLock, Android cihazlarda seçtiğiniz uygulamaları biyometrik doğrulama veya PIN ile korumanızı sağlayan açık kaynaklı bir uygulama kilidi projesidir. Erişilebilirlik, kullanım istatistikleri ve Shizuku gibi farklı algılama yöntemlerini destekleyerek güvenlik ve esneklik sunar.
@@ -86,6 +85,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [Will-do](https://github.com/AIXINJUELUOAI/Will-do)
  * [WuWa-Tool-Android](https://github.com/k4wai1/WuWa-Tool-Android) - An app to organize and apply Wuthering Waves graphics configs safely using Shizuku.
+ * [YoukiDex-Android-Desktop](https://github.com/mrYouki/YoukiDex-Android-Desktop) - YoukiDEX  is a full Android desktop experience built on top of Smart Dock — no launcher swap needed. Runs as a system overlay with full UI customization, persistent dock, notification panel, icon pack support, and massive stability improvements.
  * [ZenPatch](https://github.com/saintxseiyax/ZenPatch)
  * [ZenTasker](https://github.com/loongj-code/ZenTasker)
  * [ZionCh](https://github.com/king0929zion/ZionCh) - An AI Chat APP imitating the style of ChatGPT
@@ -138,6 +138,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
 
 #### Updated more than 3 months ago
 
+ * [FakePowerOff](https://github.com/BinitDOX/FakePowerOff) - Simulate device shutdown, ideal for use with anti-theft apps.
  * [HesleyTools](https://github.com/ldh-star/HesleyTools) - 自用工具/模块
  * [Hz-Changer](https://github.com/S-Marcos-S/Hz-Changer) - Under development! Simple, light, free and functional hz changer app.
  * [KeyboardSwitcher](https://github.com/SgLy/KeyboardSwitcher) - Adds a quick setting tile for quickly switching keyboard (input method)
@@ -160,6 +161,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [AndroidToolKit](https://github.com/Shiho-Patch/AndroidToolKit)
  * [AppBlocker](https://github.com/guvencan/AppBlocker)
  * [AutoAIDL](https://github.com/NguyenDuck/AutoAIDL) - Gradle plugin auto generate aidl files from an Interface with annotations
+ * [AutoGLM4Android](https://github.com/sypw233/AutoGLM4Android)
  * [AutoJs6-master](https://github.com/h4912126/AutoJs6-master)
  * [AutoPilotAI](https://github.com/soumithganji/AutoPilotAI) - VLM-powered Android automation agent that "sees" your screen and executes complex tasks from simple voice commands
  * [AutoScript](https://github.com/Ion-conservation/AutoScript) - 网易云音乐广告脚本
@@ -175,6 +177,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [DeadHand-](https://github.com/xieerfan/DeadHand-) - 当我离开时,我的身后事,要自己处理,人走茶不凉
  * [Distra-Quit](https://github.com/Hackersaikiran/Distra-Quit) - Distra Quit – Doomscrolling Control App
  * [DroidLock](https://github.com/zhengzaihong/DroidLock) - Android 企业设备管理器-设备监管-非定制系统方案
+ * [EasierSpot](https://github.com/AgentKosticka/EasierSpot)
  * [EasyUserSwitcher](https://github.com/sorryusernameisalreadytaken/EasyUserSwitcher) - EasyUserSwitcher is an Android app that connects to the device’s own Wireless ADB interface and allows quick switching between Android user profiles. It lists available users via pm list users and performs automated am switch-user commands, including optional auto-return to the main user when the device becomes idle.
  * [FFStretchhhhhhhhh](https://github.com/luanzzkribeirozzk-design/FFStretchhhhhhhhh) - LN Stretch — Esticador de tela Free Fire
  * [FabricatedOverlayManager](https://github.com/timschneeb/FabricatedOverlayManager) - Create fabricated overlays easily. Designed for Android 14, for use with https://github.com/timschneeb/postexploitation-toolbox-android on unrooted devices.
@@ -190,6 +193,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [HandsOff](https://github.com/moqaddasQA/HandsOff) - Universal Android privacy guardian. Blocks DNS trackers, monitors mic/camera access, watches for new permissions. No root required.
  * [Has_Store](https://github.com/feth19/Has_Store)
  * [Hoshimager](https://github.com/xXYxxdMC-GH/Hoshimager) - Android App Ops Manager
+ * [HuAHua](https://github.com/sidhu-master/HuAHua)
  * [InstallerX_](https://github.com/shuaige-911/InstallerX_)
  * [JavaPro](https://github.com/sorumstylXjava/JavaPro) - Powerful Android Tweak & Optimizer | Root & Non-Root Support | Shizuku 
  * [Khant](https://github.com/saryargyitkn2-crypto/Khant)
@@ -214,6 +218,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Replay-passador-o-melhor-de-todos](https://github.com/luanzzkribeirozzk-design/Replay-passador-o-melhor-de-todos)
  * [Sabila](https://github.com/putrinisa124124-hub/Sabila)
  * [Sesame-AG](https://github.com/aoguai/Sesame-AG) - Sesame-AG
+ * [Setup1](https://github.com/panupongboonton-source/Setup1) - Setup
  * [Shizuku-](https://github.com/Asilkan5807/Shizuku-)
  * [Shizuku-ADB-Terminal](https://github.com/hmode22222/Shizuku-ADB-Terminal) - ADB Terminal for Shizuku
  * [Shizuku-Main](https://github.com/haedrhaedr505/Shizuku-Main)
@@ -223,6 +228,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ShizukuTerminal](https://github.com/hmode22222/ShizukuTerminal)
  * [SignalFix](https://github.com/zhaochunqi/SignalFix) - 修复类原生的信号问题
  * [SpeccyOS-Showcase](https://github.com/lorpagc-art/SpeccyOS-Showcase) - Speccy OS Imperial Edition (v0.3.0) 🚩: Meta-Sistema Operativo y Frontend IA para consolas Android. Con Ambient DNA (interfaz adaptativa), Hot-Edge Overlay (menú táctil in-game), Cloud Sync y Web-Auth para GammaOS. Optimización extrema de hardware y biblioteca neural dinámica. Redefiniendo el juego portátil con inteligencia real.
+ * [SpotiByeAds](https://github.com/aleCatt/SpotiByeAds)
  * [StereoBalanceOverlay](https://github.com/du4n31/StereoBalanceOverlay)
  * [SystemBridgeFramework](https://github.com/olivia1246/SystemBridgeFramework) - Framework for Android to allow websites or other applications to request custom payload execution by utilising URL schemes.
  * [TachiAZ](https://github.com/extsup/TachiAZ) - manga reader android
@@ -246,6 +252,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [droidify_enterprise](https://github.com/Bliss-Bass/droidify_enterprise)
  * [dual-manager](https://github.com/trunone/dual-manager)
  * [enforced-app-repo](https://github.com/defencedigital/enforced-app-repo) - ENFORCED App Repo Client - forked from Droid-fy
+ * [ethernet-config](https://github.com/newppaer/ethernet-config) - Android APP - Configure static IP on ethernet via Shizuku (no root)
  * [fenbihelper](https://github.com/Teri1111/fenbihelper) - 使用豆包查询粉笔考公选择题的自动化工具
  * [fileHunter](https://github.com/vertigo0628/fileHunter) - Minimalist Android File Manager specifically designed to uncover hidden media vaults and browse restricted application data without requiring root access.
  * [filetool](https://github.com/mauricelam/filetool) - https://mauricelam.github.io/filetool/

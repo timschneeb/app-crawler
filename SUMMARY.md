@@ -43,7 +43,8 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新
  * [DeXKeyBoard](https://github.com/16rab/DeXKeyBoard)
  * [DiscoLauncher](https://github.com/cherryhoax/DiscoLauncher) - A groovy personalized home screen experience
- * [ESP](https://github.com/bhikandeshmukh/ESP)
+ * [Dragon-Launcher](https://github.com/Elnix90/Dragon-Launcher) - Fast Gesture based android launcher
+ * [EasierSpot](https://github.com/AgentKosticka/EasierSpot)
  * [Elysium-Vanguard-One-Tap-Boost](https://github.com/jordelmir/Elysium-Vanguard-One-Tap-Boost) - ⚜️ Elite Performance Optimization Suite for Android. Shizuku-powered, one-tap system-wide hardware acceleration and debloating. Premium Cyberpunk UI. 🔱
  * [ExtensionBox](https://github.com/omersusin/ExtensionBox) - Extension box 
  * [FPSViewer](https://github.com/binhmod/FPSViewer) - fps counter realtime for Android
@@ -51,13 +52,14 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
  * [GlyphHacker](https://github.com/Young-Lord/GlyphHacker) - LOVE Ingress Glyph Hack with Android power.
  * [GlyphRecorder](https://github.com/aaa1115910/GlyphRecorder) - A glyph recognition tool.
+ * [Haven](https://github.com/GlassOnTin/Haven) - Free SSH, VNC, RDP & SFTP client for Android
  * [HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！
  * [Klux-Lock](https://github.com/nxurs1337/Klux-Lock) - KluxLock, Android cihazlarda seçtiğiniz uygulamaları biyometrik doğrulama veya PIN ile korumanızı sağlayan açık kaynaklı bir uygulama kilidi projesidir. Erişilebilirlik, kullanım istatistikleri ve Shizuku gibi farklı algılama yöntemlerini destekleyerek güvenlik ve esneklik sunar.
  * [LXB-Framework](https://github.com/wuwei-crg/LXB-Framework)
  * [Loki](https://github.com/trinadhthatakula/Loki) - Android App logger
  * [MAA-Meow](https://github.com/Aliothmoon/MAA-Meow) - 《明日方舟》小助手Android版，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
  * [MapXr](https://github.com/halfmonty/MapXr) - A TAP mapping tool for one or two TAP devices used simultaneously
- * [MetaAgent](https://github.com/Crossfield-Labs/MetaAgent)
+ * [MetaAgent](https://github.com/Crossfield-Labs/MetaAgent) - PC端仓库 https://github.com/Crossfield-Labs/pc_orchestrator_core 和 https://github.com/Crossfield-Labs/MetaAgent-PC
  * [MiHealth_AmapFix](https://github.com/ljy6-6-6/MiHealth_AmapFix) - 禁止小米运动健康屏蔽高德地图的焦点通知，在HyperOS2.0下，当导航触发焦点通知后，可在穿戴式产品上显示实时导航信息。
  * [MiRearScreenGradienter](https://github.com/GoldenglowSusie/MiRearScreenGradienter)
  * [MoFont](https://github.com/kirenath/MoFont) - 在 One UI 8 上免 root 安装自定义字体
@@ -124,6 +126,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [pims](https://github.com/dmitry-goncharov/pims) - The app for enabling VoLTE and VoWiFi on Google Pixel smartphone
  * [pocket-lobster-android](https://github.com/zhangzheyuanviolin-ship-it/pocket-lobster-android) - 口袋大龙虾 Pocket Lobster for Android: Codex + OpenClaw, dual terminals, Shizuku system shell, shared storage, and on-device AI task execution.
  * [pocket_waifu](https://github.com/yuriluv/pocket_waifu)
+ * [quickeditapp](https://github.com/DaDevMikey/quickeditapp)
  * [rayniyomi](https://github.com/ryacub/rayniyomi) - Free and Open source  anime/manga/light novel reader. Based of aniyomi
  * [roubao](https://github.com/Turbo1123/roubao) - Android Automation Tool Based on Vision-Language Models
  * [scrollsnap](https://github.com/li-junlei/scrollsnap)
@@ -138,6 +141,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
 
 #### Updated more than 3 months ago
 
+ * [ESP](https://github.com/bhikandeshmukh/ESP)
  * [FakePowerOff](https://github.com/BinitDOX/FakePowerOff) - Simulate device shutdown, ideal for use with anti-theft apps.
  * [HesleyTools](https://github.com/ldh-star/HesleyTools) - 自用工具/模块
  * [Hz-Changer](https://github.com/S-Marcos-S/Hz-Changer) - Under development! Simple, light, free and functional hz changer app.
@@ -156,14 +160,13 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [123](https://github.com/Lin-ZCZ/123)
  * [APK-MultiUpdate](https://github.com/alltechdev/APK-MultiUpdate) - In-app update library for Android - check GitHub releases, download APKs, install via Native/Session/Root/Shizuku/Dhizuku
  * [AUAK_AGENTY](https://github.com/AuthourAkson/AUAK_AGENTY)
- * [AiNongMol](https://github.com/sitthit5-tech/AiNongMol)
  * [AndroidFoldeerExplorer](https://github.com/SerZhyAle/AndroidFoldeerExplorer)
  * [AndroidToolKit](https://github.com/Shiho-Patch/AndroidToolKit)
  * [AppBlocker](https://github.com/guvencan/AppBlocker)
+ * [Audio-Toggle](https://github.com/Ruhdee/Audio-Toggle) - No-UI Android utility that toggles mono audio and audio balance
  * [AutoAIDL](https://github.com/NguyenDuck/AutoAIDL) - Gradle plugin auto generate aidl files from an Interface with annotations
  * [AutoGLM4Android](https://github.com/sypw233/AutoGLM4Android)
  * [AutoJs6-master](https://github.com/h4912126/AutoJs6-master)
- * [AutoPilotAI](https://github.com/soumithganji/AutoPilotAI) - VLM-powered Android automation agent that "sees" your screen and executes complex tasks from simple voice commands
  * [AutoScript](https://github.com/Ion-conservation/AutoScript) - 网易云音乐广告脚本
  * [BattleGrounds_GFX](https://github.com/Krish-malik/BattleGrounds_GFX) - BattleGrounds GFX Tool is a performance optimization app for games like PUBG Mobile, BGMI, and other battleground titles. It unlocks higher FPS options, optimizes graphics settings, reduces lag, and improves smoothness based on your device without changing core gameplay. Perfect for stable, competitive play.
  * [BluePair](https://github.com/rohittp0/BluePair)
@@ -176,8 +179,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [DALE3](https://github.com/Longbatman09/DALE3) - Dual App Lock Executor
  * [DeadHand-](https://github.com/xieerfan/DeadHand-) - 当我离开时,我的身后事,要自己处理,人走茶不凉
  * [Distra-Quit](https://github.com/Hackersaikiran/Distra-Quit) - Distra Quit – Doomscrolling Control App
- * [DroidLock](https://github.com/zhengzaihong/DroidLock) - Android 企业设备管理器-设备监管-非定制系统方案
- * [EasierSpot](https://github.com/AgentKosticka/EasierSpot)
  * [EasyUserSwitcher](https://github.com/sorryusernameisalreadytaken/EasyUserSwitcher) - EasyUserSwitcher is an Android app that connects to the device’s own Wireless ADB interface and allows quick switching between Android user profiles. It lists available users via pm list users and performs automated am switch-user commands, including optional auto-return to the main user when the device becomes idle.
  * [FFStretchhhhhhhhh](https://github.com/luanzzkribeirozzk-design/FFStretchhhhhhhhh) - LN Stretch — Esticador de tela Free Fire
  * [FabricatedOverlayManager](https://github.com/timschneeb/FabricatedOverlayManager) - Create fabricated overlays easily. Designed for Android 14, for use with https://github.com/timschneeb/postexploitation-toolbox-android on unrooted devices.
@@ -203,6 +204,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [LineTheme](https://github.com/JasonHongGG/LineTheme)
  * [MBOOSTER](https://github.com/murilopedrosasena-byte/MBOOSTER) - Otimizador usando api shizuku
  * [MWV-Script-](https://github.com/17crown1901mituru/MWV-Script-)
+ * [MiAdKiller](https://github.com/m13629812143/MiAdKiller) - 小米手机广告管理工具 - 免Root一键关闭MIUI/HyperOS广告
  * [MiRearPlayback](https://github.com/Sevilze/MiRearPlayback)
  * [MobileAIDomestic](https://github.com/huy264128-netizen/MobileAIDomestic)
  * [My-app](https://github.com/rjkyker383-gif/My-app)
@@ -213,8 +215,10 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [NongMol-AI-Pro](https://github.com/sitthit2-rgb/NongMol-AI-Pro)
  * [ObsidianBackup](https://github.com/canuk40/ObsidianBackup) - A modern Spin on titanium backup with alot more support
  * [OmniDev-Workspace](https://github.com/obieda-hussien/OmniDev-Workspace)
+ * [Private-Space-Manager](https://github.com/Akshay-86/Private-Space-Manager)
  * [Protector](https://github.com/Shakti-coding/Protector)
  * [QABlackBox](https://github.com/mikepty/QABlackBox) - Black Box Testing Tool
+ * [RTOSify](https://github.com/AILIFE-4798/RTOSify)
  * [Replay-passador-o-melhor-de-todos](https://github.com/luanzzkribeirozzk-design/Replay-passador-o-melhor-de-todos)
  * [Sabila](https://github.com/putrinisa124124-hub/Sabila)
  * [Sesame-AG](https://github.com/aoguai/Sesame-AG) - Sesame-AG
@@ -294,7 +298,9 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ATOTO-TOOLKIT_2025](https://github.com/Eliminater74/ATOTO-TOOLKIT_2025) - ATOTO Toolkit 2025
  * [AdBlocking](https://github.com/xueyuleiT/AdBlocking)
  * [Android-FPS-Watcher](https://github.com/WuDi-ZhanShen/Android-FPS-Watcher) - Monitor RealTime FPS. Suppports Android 12+. Pure Java. Needs ADB or ROOT.
+ * [AutoPilotAI](https://github.com/soumithganji/AutoPilotAI) - VLM-powered Android automation agent that "sees" your screen and executes complex tasks from simple voice commands
  * [BillAuto](https://github.com/Albresky/BillAuto)
+ * [DroidLock](https://github.com/zhengzaihong/DroidLock) - Android 企业设备管理器-设备监管-非定制系统方案
  * [FMD-foss](https://github.com/haseebno1/FMD-foss) - FMD Android is a mobile application that enables users to locate and control their Android devices remotely. It serves as an open-source, privacy-focused alternative to Google's Find My Device service.
  * [ForcePhoneMic](https://github.com/Ling554/ForcePhoneMic)
  * [GLM-phone](https://github.com/pengqiyu123/GLM-phone)

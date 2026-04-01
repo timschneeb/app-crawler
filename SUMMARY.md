@@ -50,6 +50,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [FPSViewer](https://github.com/binhmod/FPSViewer) - fps counter realtime for Android
  * [Filex](https://github.com/Alisuuu/Filex)
  * [GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
+ * [Github Store](https://github.com/rainxchzed/Github-Store) - App store for GitHub releases - discover and install apps with one click
  * [GlyphHacker](https://github.com/Young-Lord/GlyphHacker) - LOVE Ingress Glyph Hack with Android power.
  * [GlyphRecorder](https://github.com/aaa1115910/GlyphRecorder) - A glyph recognition tool.
  * [Haven](https://github.com/GlassOnTin/Haven) - Free SSH, VNC, RDP & SFTP client for Android
@@ -76,7 +77,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [RedTrigger](https://github.com/zampierilucas/RedTrigger) - Android app that enables shoulder triggers on Red Magic phones system-wide, without Game Space
  * [Ruto-GLM](https://github.com/iamr0s/Ruto-GLM) - 手机端 AutoGLM：无需电脑，真·后台全自动。 支持熄屏、同时多个任务并行，主屏操作互不干扰。（一个基于 AI 的 Android 自动化与多任务框架，开启无限可能。）
  * [ShizukuPlus](https://github.com/thejaustin/ShizukuPlus) - Shizuku+ — Enhanced fork with UX improvements to the app management screen
- * [ShizukuRunner-PUV](https://github.com/September-meteor/ShizukuRunner-PUV)
  * [ShizukuShortcuts](https://github.com/yshalsager/ShizukuShortcuts) - Launcher shortcuts and custom shell actions via Shizuku.
  * [Shortcut.Circle.to.Search](https://github.com/SecretChilliZ/Shortcut.Circle.to.Search) - A high-performance, lightweight Android utility designed to trigger the Circle to Search (Long-press Home) action instantly via hardware button remapping or launcher shortcuts.   Built with a sleek Matrix-themed UI, this app uses Shizuku to execute secure system-level shell commands without requiring a full root of your device.
  * [ShutterMute](https://github.com/ajebulon/ShutterMute) - A lightweight Android app that silences the camera shutter sound using Shizuku, without requiring root access.
@@ -107,6 +107,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [botdrop-android](https://github.com/zhixianio/botdrop-android) - Run AI agents on your Android phone — no terminal, no CLI, just a guided setup.
  * [carrier-ims-for-pixel](https://github.com/ryfineZ/carrier-ims-for-pixel) - Carrier IMS for Pixel (TurboIMS): multilingual (中文/English) pixel ims / ims / carrierconfig / volte / vowifi / 5G+ toolkit for Google Pixel.
  * [carrierconfigeditor](https://github.com/bjorn-032/carrierconfigeditor)
+ * [castla](https://github.com/Suprhimp/castla)
  * [chimahon](https://github.com/sohilsayed/chimahon)
  * [com.malikhw.hosadvtexts](https://github.com/MalikHw/com.malikhw.hosadvtexts) - for redmi
  * [com.system.reschange](https://github.com/c0a22132/com.system.reschange)
@@ -265,6 +266,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [iflow-bot](https://github.com/xuanyuanluoxue/iflow-bot) - 一个可以调用安卓api的ai软件
  * [kikyo](https://github.com/achyutbadyal/kikyo) - Free and open source manga reader for Android
  * [kwshell](https://github.com/DuckyScript/kwshell) - A android terminal
+ * [libtermux-android](https://github.com/libtermux/libtermux-android) - The ultimate Android library to embed a full-featured Linux environment (Termux power) into any Android app. Zero-root, High-performance, and API 34+ compatible.
  * [mazda-control](https://github.com/afayvisovich/mazda-control)
  * [mcpshell](https://github.com/xnet-admin-1/mcpshell) - Android MCP server with sh, proot Ubuntu, and Shizuku rish shell tools
  * [mengo](https://github.com/tedydevmac/mengo) - mihon fork
@@ -304,7 +306,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [FMD-foss](https://github.com/haseebno1/FMD-foss) - FMD Android is a mobile application that enables users to locate and control their Android devices remotely. It serves as an open-source, privacy-focused alternative to Google's Find My Device service.
  * [ForcePhoneMic](https://github.com/Ling554/ForcePhoneMic)
  * [GLM-phone](https://github.com/pengqiyu123/GLM-phone)
- * [Grayscaler_FSMMI](https://github.com/CalvinDittkrist/Grayscaler_FSMMI) - Keep your phone mostly monochrome, but allow apps like camera to be in color.
  * [LocalDex](https://github.com/lukifer23/LocalDex)
  * [MiRearScreenSwitcherEnglish](https://github.com/aaronnat23/MiRearScreenSwitcherEnglish)
  * [ModularWhitelistApp](https://github.com/tam1012/ModularWhitelistApp) - MODULAR WHITELIST - Xiaomi PowerKeeper Whitelist Tool for Android

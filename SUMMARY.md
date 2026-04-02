@@ -41,6 +41,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Crossset](https://github.com/Alisuuu/Crossset)
  * [CustomAnimator](https://github.com/AhmetCanArslan/CustomAnimator)
  * [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新
+ * [DarkSwitch](https://github.com/mahmutaunal/DarkSwitch) - System-level dark mode attempts for Android apps without native dark theme. Rootless, open-source, Shizuku-powered.
  * [DeXKeyBoard](https://github.com/16rab/DeXKeyBoard)
  * [DiscoLauncher](https://github.com/cherryhoax/DiscoLauncher) - A groovy personalized home screen experience
  * [Dragon-Launcher](https://github.com/Elnix90/Dragon-Launcher) - Fast Gesture based android launcher
@@ -76,6 +77,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Recents](https://github.com/tymwitko/Recents) - Launcher-agnostic "Recents" menu for Android.
  * [RedTrigger](https://github.com/zampierilucas/RedTrigger) - Android app that enables shoulder triggers on Red Magic phones system-wide, without Game Space
  * [Ruto-GLM](https://github.com/iamr0s/Ruto-GLM) - 手机端 AutoGLM：无需电脑，真·后台全自动。 支持熄屏、同时多个任务并行，主屏操作互不干扰。（一个基于 AI 的 Android 自动化与多任务框架，开启无限可能。）
+ * [ShinKu](https://github.com/Harrys-HQ/ShinKu) - a modern, rebranded, and enhanced fork of TachiyomiSY/Mihon, designed for a immersive and intelligent manga-reading experience.
  * [ShizukuPlus](https://github.com/thejaustin/ShizukuPlus) - Shizuku+ — Enhanced fork with UX improvements to the app management screen
  * [ShizukuShortcuts](https://github.com/yshalsager/ShizukuShortcuts) - Launcher shortcuts and custom shell actions via Shizuku.
  * [Shortcut.Circle.to.Search](https://github.com/SecretChilliZ/Shortcut.Circle.to.Search) - A high-performance, lightweight Android utility designed to trigger the Circle to Search (Long-press Home) action instantly via hardware button remapping or launcher shortcuts.   Built with a sleek Matrix-themed UI, this app uses Shizuku to execute secure system-level shell commands without requiring a full root of your device.
@@ -107,7 +109,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [botdrop-android](https://github.com/zhixianio/botdrop-android) - Run AI agents on your Android phone — no terminal, no CLI, just a guided setup.
  * [carrier-ims-for-pixel](https://github.com/ryfineZ/carrier-ims-for-pixel) - Carrier IMS for Pixel (TurboIMS): multilingual (中文/English) pixel ims / ims / carrierconfig / volte / vowifi / 5G+ toolkit for Google Pixel.
  * [carrierconfigeditor](https://github.com/bjorn-032/carrierconfigeditor)
- * [castla](https://github.com/Suprhimp/castla)
+ * [castla](https://github.com/Suprhimp/castla) - Tesla Android Auto mirror app - Stream Android Auto to Tesla's browser
  * [chimahon](https://github.com/sohilsayed/chimahon)
  * [com.malikhw.hosadvtexts](https://github.com/MalikHw/com.malikhw.hosadvtexts) - for redmi
  * [com.system.reschange](https://github.com/c0a22132/com.system.reschange)
@@ -119,7 +121,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [hexodus](https://github.com/thejaustin/hexodus) - Next-generation Android theming engine for Samsung One UI 8 (Android 16+) as a spiritual successor to 'Hex Installer', leveraging Shizuku for system-level operations without requiring root access.
  * [input-leaf](https://github.com/anasvhora284/input-leaf) - Android client for Input Leap — share keyboard & mouse from your pc to your phone 
  * [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ / Linkura Localify / LoveLive Translation / llll
- * [mixer-1](https://github.com/farizanjum/mixer-1) - Per-app volume control for Android, designed with Nothing OS aesthetics.
  * [no_more_background](https://github.com/adil192/no_more_background) - A fire-and-forget program to stop Android apps from running in the background.
  * [orangects](https://github.com/azu0609/orangects)
  * [pearity](https://github.com/thejaustin/pearity) - iOS parity settings for Samsung One UI — three-state toggles, Shizuku-powered
@@ -153,12 +154,14 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ShizukuUesrService](https://github.com/Com-kt/ShizukuUesrService) - Shizuku UserService
  * [chrono-s_camera_android](https://github.com/newyusir/chrono-s_camera_android) - android port of chrono's camera
  * [kdeconnect-android-shizuku](https://github.com/Shoukaku39/kdeconnect-android-shizuku) - Forked from KDE Connect Android. Adds Shizuku support to bypass clipboard access restrictions on Android 10+ without using READ_LOGS or manual ADB shell. 基于 KDE Connect Android 的分支，添加对 Shizuku 的支持，在无需请求 READ_LOGS 或手动 ADB 授权的情况下，绕过 Android 10+ 剪贴板访问限制。
+ * [mixer-1](https://github.com/farizanjum/mixer-1) - Per-app volume control for Android, designed with Nothing OS aesthetics.
 
 ### Apps with no releases
 
 #### Updated in the last 3 months
 
  * [123](https://github.com/Lin-ZCZ/123)
+ * [A1.3.-Laboratorio-Auditor-a-M-vil](https://github.com/DylanTapiaVargas999/A1.3.-Laboratorio-Auditor-a-M-vil)
  * [APK-MultiUpdate](https://github.com/alltechdev/APK-MultiUpdate) - In-app update library for Android - check GitHub releases, download APKs, install via Native/Session/Root/Shizuku/Dhizuku
  * [AUAK_AGENTY](https://github.com/AuthourAkson/AUAK_AGENTY)
  * [AndroidFoldeerExplorer](https://github.com/SerZhyAle/AndroidFoldeerExplorer)
@@ -179,6 +182,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Custard](https://github.com/kymjs/Custard) - 一个Android AI Agent应用，完全独立运行，你可以理解为 OpenClaw 的 Android 版，拥有强大的工具调用能力。
  * [DALE3](https://github.com/Longbatman09/DALE3) - Dual App Lock Executor
  * [DeadHand-](https://github.com/xieerfan/DeadHand-) - 当我离开时,我的身后事,要自己处理,人走茶不凉
+ * [DexCoverPad](https://github.com/Gh0strab/DexCoverPad)
  * [Distra-Quit](https://github.com/Hackersaikiran/Distra-Quit) - Distra Quit – Doomscrolling Control App
  * [EasyUserSwitcher](https://github.com/sorryusernameisalreadytaken/EasyUserSwitcher) - EasyUserSwitcher is an Android app that connects to the device’s own Wireless ADB interface and allows quick switching between Android user profiles. It lists available users via pm list users and performs automated am switch-user commands, including optional auto-return to the main user when the device becomes idle.
  * [FFStretchhhhhhhhh](https://github.com/luanzzkribeirozzk-design/FFStretchhhhhhhhh) - LN Stretch — Esticador de tela Free Fire
@@ -191,7 +195,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [FrameX-Android](https://github.com/MaheshSharan/FrameX-Android) - Android FPS meter and performance overlay powered by Shizuku.
  * [FrostPlum](https://github.com/jickylive/FrostPlum)
  * [Geargrinder](https://github.com/Benjamin-Wiegand/Geargrinder) - A free and open source alternative to Android Auto
- * [Golden-IDE](https://github.com/scto/Golden-IDE)
  * [HandsOff](https://github.com/moqaddasQA/HandsOff) - Universal Android privacy guardian. Blocks DNS trackers, monitors mic/camera access, watches for new permissions. No root required.
  * [Has_Store](https://github.com/feth19/Has_Store)
  * [Hoshimager](https://github.com/xXYxxdMC-GH/Hoshimager) - Android App Ops Manager
@@ -306,6 +309,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [FMD-foss](https://github.com/haseebno1/FMD-foss) - FMD Android is a mobile application that enables users to locate and control their Android devices remotely. It serves as an open-source, privacy-focused alternative to Google's Find My Device service.
  * [ForcePhoneMic](https://github.com/Ling554/ForcePhoneMic)
  * [GLM-phone](https://github.com/pengqiyu123/GLM-phone)
+ * [Golden-IDE](https://github.com/scto/Golden-IDE)
  * [LocalDex](https://github.com/lukifer23/LocalDex)
  * [MiRearScreenSwitcherEnglish](https://github.com/aaronnat23/MiRearScreenSwitcherEnglish)
  * [ModularWhitelistApp](https://github.com/tam1012/ModularWhitelistApp) - MODULAR WHITELIST - Xiaomi PowerKeeper Whitelist Tool for Android

@@ -57,6 +57,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Haven](https://github.com/GlassOnTin/Haven) - Free SSH, VNC, RDP & SFTP client for Android
  * [HiddenAlarmRevealer](https://github.com/AhmetCanArslan/HiddenAlarmRevealer)
  * [HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！
+ * [Hyper-pick-up-code](https://github.com/badnng/Hyper-pick-up-code) - 如题
  * [Klux-Lock](https://github.com/nxurs1337/Klux-Lock) - KluxLock, Android cihazlarda seçtiğiniz uygulamaları biyometrik doğrulama veya PIN ile korumanızı sağlayan açık kaynaklı bir uygulama kilidi projesidir. Erişilebilirlik, kullanım istatistikleri ve Shizuku gibi farklı algılama yöntemlerini destekleyerek güvenlik ve esneklik sunar.
  * [Loki](https://github.com/trinadhthatakula/Loki) - Android App logger
  * [MAA-Meow](https://github.com/Aliothmoon/MAA-Meow) - 《明日方舟》小助手Android版，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
@@ -75,6 +76,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Raaz](https://github.com/oserv47-del/Raaz)
  * [Recents](https://github.com/tymwitko/Recents) - Launcher-agnostic "Recents" menu for Android.
  * [RedTrigger](https://github.com/zampierilucas/RedTrigger) - Android app that enables shoulder triggers on Red Magic phones system-wide, without Game Space
+ * [RootlessStore](https://github.com/Resilien-Mobile/RootlessStore) - An open-source, rootless plugin management and runtime platform for the Android ecosystem
  * [Ruto-GLM](https://github.com/iamr0s/Ruto-GLM) - 手机端 AutoGLM：无需电脑，真·后台全自动。 支持熄屏、同时多个任务并行，主屏操作互不干扰。（一个基于 AI 的 Android 自动化与多任务框架，开启无限可能。）
  * [ShinKu](https://github.com/Harrys-HQ/ShinKu) - a modern, rebranded, and enhanced fork of TachiyomiSY/Mihon, designed for a immersive and intelligent manga-reading experience.
  * [ShizukuPlus](https://github.com/thejaustin/ShizukuPlus) - Shizuku+ — Enhanced fork with UX improvements to the app management screen
@@ -84,6 +86,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Stellar](https://github.com/roro2239/Stellar) - Another Shizuku impl
  * [Stellar-API](https://github.com/roro2239/Stellar-API) - Stellar API SDK
  * [SwiftSense](https://github.com/itsmelissadev/SwiftSense) - SwiftSense is a versatile Android toolkit to boost gaming performance. It forces sensor rates to 200Hz+ and manages background apps via Shizuku to reduce CPU load. A privacy-focused, open-source project.
+ * [TwinMe](https://github.com/mim1012/TwinMe)
  * [UberAutoAccept](https://github.com/mim1012/UberAutoAccept) - Vortex 스타일의 상태 머신 기반 Uber 드라이버 자동 콜 수락 Android 애플리케이션
  * [VInstall](https://github.com/vinstall/VInstall) - Android package installer supporting APK, XAPK, APKS, APKM, and the custom APKV encrypted format — with built-in app manager, backup, and silent install via root or Shizuku.
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
@@ -96,13 +99,13 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [aa-logcat](https://github.com/mrmees/aa-logcat) - Android app for capturing Android Auto protocol debug logs during real-world sessions
  * [air-bridge](https://github.com/sleepysoong/air-bridge) - [vibe-coded] 안드로이드 폰 <-> Mac: 클립보드 동기화 | 추가로 폰의 알림도 맥으로 보내요!
  * [alian-android](https://github.com/xlb1130/alian-android) - 想拥有自己的豆包/豆包手机吗？看看Alian，语音通话、视频通话、手机自动化、MCP可配...
- * [amctl](https://github.com/memohai/amctl) - An AI Agent tool to automate Android devices reliably
  * [android](https://github.com/wgtunnel/android) - A FOSS WireGuard & AmneziaWG Android client with auto-tunneling, lockdown & proxying.
  * [android-openclaw-native](https://github.com/wayansuardyana-code/android-openclaw-native)
  * [android-wifi-pojie](https://github.com/bszapp/android-wifi-pojie) - Android使用密码本暴力破解wifi密码工具
  * [anti-tracker](https://github.com/HonzaV/anti-tracker) - GPS, Bluetooth, WiFi, Data and carrier cellphone signal all those can be used to track you. Get rid of tracking with this Android App. 
  * [aod-suite](https://github.com/OutrageousStorm/aod-suite) - 🌙 AOD Suite — Always On Display customization via Shizuku ADB. Control min brightness, blurred wallpaper, gestures & more.
  * [aurora-dhizuku](https://github.com/alltechdev/aurora-dhizuku) - Aurora Store Dhizuku installer implementation
+ * [bgmi-engine](https://github.com/surajheadsup/bgmi-engine)
  * [blueth-yokai](https://github.com/LaunchDay-Studio-Inc/blueth-yokai) - The manga reader that just works — no setup, no blocked sites, no overheating.
  * [botdrop-android](https://github.com/zhixianio/botdrop-android) - Run AI agents on your Android phone — no terminal, no CLI, just a guided setup.
  * [carrier-ims-for-pixel](https://github.com/ryfineZ/carrier-ims-for-pixel) - Carrier IMS for Pixel (TurboIMS): multilingual (中文/English) pixel ims / ims / carrierconfig / volte / vowifi / 5G+ toolkit for Google Pixel.
@@ -131,6 +134,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [rayniyomi](https://github.com/ryacub/rayniyomi) - Free and Open source  anime/manga/light novel reader. Based of aniyomi
  * [roubao](https://github.com/Turbo1123/roubao) - Android Automation Tool Based on Vision-Language Models
  * [scrollsnap](https://github.com/li-junlei/scrollsnap)
+ * [shellbox](https://github.com/xnet-admin-1/shellbox)
  * [silva-manager](https://github.com/SilvaTechB/silva-manager) - Silva Manager - Android APK patcher and patch manager
  * [sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
  * [skin-script-installer](https://github.com/IstarVin/skin-script-installer) - Android Skin Script Installer
@@ -203,6 +207,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [HuAHua](https://github.com/sidhu-master/HuAHua)
  * [InstallerX_](https://github.com/shuaige-911/InstallerX_)
  * [JavaPro](https://github.com/sorumstylXjava/JavaPro) - Powerful Android Tweak & Optimizer | Root & Non-Root Support | Shizuku 
+ * [Kartika-IDE](https://github.com/hasanelfalakiy/Kartika-IDE) - A next-gen IDE for JVM development on Android. Forked from Cosmic-IDE.
  * [Khant](https://github.com/saryargyitkn2-crypto/Khant)
  * [Know_You](https://github.com/ZJDqtjs/Know_You) - 基于flutter对uni_familyguard项目的重构
  * [Kuukiyomi2.0](https://github.com/Lenoxlkz/Kuukiyomi2.0) - Continuación personal del proyecto Kuukiyomi

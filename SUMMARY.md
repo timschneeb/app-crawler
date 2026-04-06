@@ -69,7 +69,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Mtzeditor](https://github.com/Alisuuu/Mtzeditor)
  * [OmniPrompt](https://github.com/mrndstvndv/OmniPrompt)
  * [Open-AutoGLM-Android](https://github.com/xinzezhu/Open-AutoGLM-Android) - 安卓版的AutoGLM，不需要部署直接安装就可以使用，欢迎共建~
- * [Orion-Store](https://github.com/RookieEnough/Orion-Store) - The ultimate home for modded apps. OrionStore offers instant access to YouTube ReVanced, Spot Revanced, and essential open-source tools without the clutter. No servers, no tracking, just a beautiful, modern gateway to the apps you love.
+ * [Orion-Store](https://github.com/RookieEnough/Orion-Store) - The ultimate home for modded apps. OrionStore offers instant access to YouTube Morphe, YT Music Morphe, and essential open-source tools without the clutter. No servers, no tracking, just a beautiful, modern gateway to the apps you love.
  * [OxygenToolbox](https://github.com/EraserCN/OxygenToolbox) - Toolbox for OxygenOS
  * [Pensum](https://github.com/troikoss/Pensum) - Advanced system monitor and process killer for Android, optimized for desktop mode.
  * [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Quick tool for utilizing CVE-2024-31317 on Android
@@ -89,6 +89,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [TwinMe](https://github.com/mim1012/TwinMe)
  * [UberAutoAccept](https://github.com/mim1012/UberAutoAccept) - Vortex 스타일의 상태 머신 기반 Uber 드라이버 자동 콜 수락 Android 애플리케이션
  * [VInstall](https://github.com/vinstall/VInstall) - Android package installer supporting APK, XAPK, APKS, APKM, and the custom APKV encrypted format — with built-in app manager, backup, and silent install via root or Shizuku.
+ * [Vyora](https://github.com/VG31OP/Vyora) - Advanced Device Control Interface for Android
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [Will-do](https://github.com/AIXINJUELUOAI/Will-do)
  * [WuWa-Tool-Android](https://github.com/k4wai1/WuWa-Tool-Android) - An app to organize and apply Wuthering Waves graphics configs safely using Shizuku.
@@ -114,7 +115,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [chimahon](https://github.com/sohilsayed/chimahon)
  * [com.malikhw.hosadvtexts](https://github.com/MalikHw/com.malikhw.hosadvtexts) - for redmi
  * [com.system.reschange](https://github.com/c0a22132/com.system.reschange)
- * [destination](https://github.com/creativeidiot123/destination) - Nuclear level app blocking, Nothing else comes close, no root required, no device reset required.
  * [flow](https://github.com/huajideshutiao/flow) - 用于将 URL 转换为 intent 或打开未导出的活动
  * [galaxy-shutter-mute-manager](https://github.com/ryuya0124/galaxy-shutter-mute-manager)
  * [gpstest](https://github.com/ZForest000/gpstest)
@@ -201,6 +201,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [FrameX-Android](https://github.com/MaheshSharan/FrameX-Android) - Android FPS meter and performance overlay powered by Shizuku.
  * [FrostPlum](https://github.com/jickylive/FrostPlum)
  * [Geargrinder](https://github.com/Benjamin-Wiegand/Geargrinder) - A free and open source alternative to Android Auto
+ * [GemCode](https://github.com/PharmabotEcosystem/GemCode) - GemCode
  * [HandsOff](https://github.com/moqaddasQA/HandsOff) - Universal Android privacy guardian. Blocks DNS trackers, monitors mic/camera access, watches for new permissions. No root required.
  * [Has_Store](https://github.com/feth19/Has_Store)
  * [Hoshimager](https://github.com/xXYxxdMC-GH/Hoshimager) - Android App Ops Manager
@@ -218,6 +219,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [MiAdKiller](https://github.com/m13629812143/MiAdKiller) - 小米手机广告管理工具 - 免Root一键关闭MIUI/HyperOS广告
  * [MiRearPlayback](https://github.com/Sevilze/MiRearPlayback)
  * [MobileAIDomestic](https://github.com/huy264128-netizen/MobileAIDomestic)
+ * [Multiisland](https://github.com/lokey0905/Multiisland)
  * [My-app](https://github.com/rjkyker383-gif/My-app)
  * [MyApplication](https://github.com/Ynkcc/MyApplication)
  * [NeoDeskPet](https://github.com/nishichengju/NeoDeskPet)
@@ -228,10 +230,10 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [OmniDev-Workspace](https://github.com/obieda-hussien/OmniDev-Workspace)
  * [Private-Space-Manager](https://github.com/Akshay-86/Private-Space-Manager)
  * [Protector](https://github.com/Shakti-coding/Protector)
- * [QABlackBox](https://github.com/mikepty/QABlackBox) - Black Box Testing Tool
  * [RTOSify](https://github.com/AILIFE-4798/RTOSify)
  * [Replay-passador-o-melhor-de-todos](https://github.com/luanzzkribeirozzk-design/Replay-passador-o-melhor-de-todos)
  * [Sabila](https://github.com/putrinisa124124-hub/Sabila)
+ * [ScreenshotFaker](https://github.com/Huai-Tian/ScreenshotFaker) - A software that supports user-defined screenshot content and has strong anti-detection capabilities
  * [Sesame-AG](https://github.com/aoguai/Sesame-AG) - Sesame-AG
  * [Setup1](https://github.com/panupongboonton-source/Setup1) - Setup
  * [Shizuku-](https://github.com/Asilkan5807/Shizuku-)
@@ -278,6 +280,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [hyperdroid](https://github.com/roshank8s/hyperdroid)
  * [iflow-bot](https://github.com/xuanyuanluoxue/iflow-bot) - 一个可以调用安卓api的ai软件
  * [iniespgwjir](https://github.com/elkegacoran/iniespgwjir) - epep
+ * [jourwigo-android](https://github.com/JakeDot/jourwigo-android) - Android wrapper for Jourwigo
  * [kikyo](https://github.com/achyutbadyal/kikyo) - Free and open source manga reader for Android
  * [kwshell](https://github.com/DuckyScript/kwshell) - A android terminal
  * [libtermux-android](https://github.com/libtermux/libtermux-android) - The ultimate Android library to embed a full-featured Linux environment (Termux power) into any Android app. Zero-root, High-performance, and API 34+ compatible.
@@ -325,6 +328,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [MiRearScreenSwitcherEnglish](https://github.com/aaronnat23/MiRearScreenSwitcherEnglish)
  * [ModularWhitelistApp](https://github.com/tam1012/ModularWhitelistApp) - MODULAR WHITELIST - Xiaomi PowerKeeper Whitelist Tool for Android
  * [PhonePointer](https://github.com/Usepot/PhonePointer)
+ * [QABlackBox](https://github.com/mikepty/QABlackBox) - Black Box Testing Tool
  * [Sunshine-android](https://github.com/ZyoungInc/Sunshine-android) - a sunshine server for android system
  * [SuperWindow](https://github.com/eiyooooo/SuperWindow) - 超级视窗 | Enhance multi-task experience for large-screen Android devices
  * [TaskOrb-Android-Assistant-Framework-Based-on-AutoGLM](https://github.com/wdsj2066/TaskOrb-Android-Assistant-Framework-Based-on-AutoGLM)

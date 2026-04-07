@@ -64,6 +64,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [MapXr](https://github.com/halfmonty/MapXr) - A TAP mapping tool for one or two TAP devices used simultaneously
  * [MetaAgent](https://github.com/Crossfield-Labs/MetaAgent) - PC端仓库 https://github.com/Crossfield-Labs/pc_orchestrator_core 和 https://github.com/Crossfield-Labs/MetaAgent-PC
  * [MiHealth_AmapFix](https://github.com/ljy6-6-6/MiHealth_AmapFix) - 禁止小米运动健康屏蔽高德地图的焦点通知，在HyperOS2.0下，当导航触发焦点通知后，可在穿戴式产品上显示实时导航信息。
+ * [MinecraftAntiCheat-Android](https://github.com/Sittirahmadia/MinecraftAntiCheat-Android)
  * [MoFont](https://github.com/kirenath/MoFont) - 在 One UI 8 上免 root 安装自定义字体
  * [Movinkpad-stylus-remapper](https://github.com/KawaNae/Movinkpad-stylus-remapper)
  * [Mtzeditor](https://github.com/Alisuuu/Mtzeditor)
@@ -101,6 +102,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [air-bridge](https://github.com/sleepysoong/air-bridge) - [vibe-coded] 안드로이드 폰 <-> Mac: 클립보드 동기화 | 추가로 폰의 알림도 맥으로 보내요!
  * [alian-android](https://github.com/xlb1130/alian-android) - 想拥有自己的豆包/豆包手机吗？看看Alian，语音通话、视频通话、手机自动化、MCP可配...
  * [android](https://github.com/wgtunnel/android) - A FOSS WireGuard & AmneziaWG Android client with auto-tunneling, lockdown & proxying.
+ * [android-display-extend](https://github.com/jqssun/android-display-extend)
  * [android-openclaw-native](https://github.com/wayansuardyana-code/android-openclaw-native)
  * [android-wifi-pojie](https://github.com/bszapp/android-wifi-pojie) - Android使用密码本暴力破解wifi密码工具
  * [anti-tracker](https://github.com/HonzaV/anti-tracker) - GPS, Bluetooth, WiFi, Data and carrier cellphone signal all those can be used to track you. Get rid of tracking with this Android App. 
@@ -144,6 +146,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [usbpdbs](https://github.com/ONDER1E/usbpdbs)
  * [vFlow](https://github.com/ChaoMixian/vFlow) - vFlow 是一款为 Android 平台设计的、强大且高度可扩展的自动化工具。它允许你通过图形化界面，将一系列“动作模块”自由组合成强大的“工作流”，从而自动完成各种日常的、重复性的屏幕操作任务。
  * [xreal-show-taps](https://github.com/shugi12345/xreal-show-taps) - an app that makes it so when connecting xreal glasses the developer option "show taps" enables automaticallyallowing you to see the location of your finger on screen
+ * [zivpn-xsocks-core](https://github.com/shizukudes/zivpn-xsocks-core)
 
 #### Updated more than 3 months ago
 
@@ -180,6 +183,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [BattleGrounds_GFX](https://github.com/Krish-malik/BattleGrounds_GFX) - BattleGrounds GFX Tool is a performance optimization app for games like PUBG Mobile, BGMI, and other battleground titles. It unlocks higher FPS options, optimizes graphics settings, reduces lag, and improves smoothness based on your device without changing core gameplay. Perfect for stable, competitive play.
  * [BluePair](https://github.com/rohittp0/BluePair)
  * [Boobgy](https://github.com/bdralbydy875-ux/Boobgy)
+ * [Bot-coc](https://github.com/Agus-style/Bot-coc)
  * [CaptureSecureScreen](https://github.com/jimmychanii/CaptureSecureScreen) - A android tools to capture screen, includes secure flag activity
  * [ClipBridge](https://github.com/RyanZhou416/ClipBridge)
  * [ClipboardSync-Android](https://github.com/rccce/ClipboardSync-Android)
@@ -295,6 +299,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [sd-maid-pro](https://github.com/toviralideasyt7/sd-maid-pro)
  * [shizuku-screen-off-on-phone-call](https://github.com/olegsvs/shizuku-screen-off-on-phone-call)
  * [shizuku-wear](https://github.com/emtee40/shizuku-wear)
+ * [sidebar](https://github.com/oldhoho/sidebar) - 这是完全由AI创作的侧边栏项目。主要特征为：空白启动器＋全局侧边栏，支持冻结应用（）
  * [sing-box-for-android](https://github.com/SagerNet/sing-box-for-android) - Experimental Android client for sing-box
  * [sonicLensFlutter](https://github.com/Satvik1769/sonicLensFlutter)
  * [switchuser](https://github.com/allisonbzk/switchuser) - Switch user APP for buggy MIUI which won't allow multi user to switch accounts

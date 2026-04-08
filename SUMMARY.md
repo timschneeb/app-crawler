@@ -24,7 +24,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [AppDualZuku](https://github.com/nathanatgit/AppDualZuku) - Manage app multiple instances in workspaces with Shizuku privilege.
  * [Appzuku](https://github.com/northmendo/Appzuku) - A simple app to boost performance by stopping background apps, relying on Root/Shizuku permissions.
  * [Audio-Refresher](https://github.com/SebastianZzzz/Audio-Refresher) - Automatic refreshing audio services via Shizuku to keep service alive. It's a way to optimize background video playing without having to manually refresh the player status via control centre. Now it's only designed for BiliBili.
- * [Auto-Fish](https://github.com/memohai/Auto-Fish) - An AI Agent tool to automate Android devices reliably
  * [AutoAccounting](https://github.com/AutoAccountingOrg/AutoAccounting) - 你的每一笔账单都值得记录！
  * [AutoGLM-For-Android](https://github.com/Luokavin/AutoGLM-For-Android) - 纯 Android 端 Open-AutoGLM 实现，无需电脑
  * [AutoSlide](https://github.com/tianxing-ovo/AutoSlide) - 一款安卓自动滑动APP，可以自动播放短视频、自动翻页阅读小说
@@ -90,6 +89,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [TwinMe](https://github.com/mim1012/TwinMe)
  * [UberAutoAccept](https://github.com/mim1012/UberAutoAccept) - Vortex 스타일의 상태 머신 기반 Uber 드라이버 자동 콜 수락 Android 애플리케이션
  * [VInstall](https://github.com/vinstall/VInstall) - Android package installer supporting APK, XAPK, APKS, APKM, and the custom APKV encrypted format — with built-in app manager, backup, and silent install via root or Shizuku.
+ * [VPNOnOff](https://github.com/pricky777/VPNOnOff)
  * [Vyora](https://github.com/VG31OP/Vyora) - Advanced Device Control Interface for Android
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [Will-do](https://github.com/AIXINJUELUOAI/Will-do)
@@ -227,13 +227,13 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [My-app](https://github.com/rjkyker383-gif/My-app)
  * [MyApplication](https://github.com/Ynkcc/MyApplication)
  * [NeoDeskPet](https://github.com/nishichengju/NeoDeskPet)
+ * [NeverlagM3](https://github.com/rahmatsobrian/NeverlagM3)
  * [Nexus-framework](https://github.com/1andrewprice6-jpg/Nexus-framework)
  * [NongMol-AI](https://github.com/sitthit2-rgb/NongMol-AI)
  * [NongMol-AI-Pro](https://github.com/sitthit2-rgb/NongMol-AI-Pro)
  * [ObsidianBackup](https://github.com/canuk40/ObsidianBackup) - A modern Spin on titanium backup with alot more support
  * [OmniDev-Workspace](https://github.com/obieda-hussien/OmniDev-Workspace)
  * [Private-Space-Manager](https://github.com/Akshay-86/Private-Space-Manager)
- * [Protector](https://github.com/Shakti-coding/Protector)
  * [RTOSify](https://github.com/AILIFE-4798/RTOSify)
  * [Replay-passador-o-melhor-de-todos](https://github.com/luanzzkribeirozzk-design/Replay-passador-o-melhor-de-todos)
  * [Sabila](https://github.com/putrinisa124124-hub/Sabila)
@@ -263,6 +263,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [adocker](https://github.com/LukeXeon/adocker) - 在Android上运行Docker容器，借助AI开发的项目
  * [androTOP](https://github.com/c0dev0id/androTOP) - CPU in the status bar
  * [android-desktop-touchpad](https://github.com/prespic/android-desktop-touchpad) - Virtual touchpad for Android Desktop Mode on external displays. Uses Shizuku to inject mouse events on the secondary screen. Built for Pixel 8+ with Android 15+.
+ * [android-doctor-app](https://github.com/knowamit/android-doctor-app) - Android Doctor companion app — diagnose why your phone is slow, directly on device. Kotlin + Jetpack Compose + MVVM + Clean Architecture.
  * [android-pillar-stabilizer](https://github.com/1andrewprice6-jpg/android-pillar-stabilizer)
  * [android-tiling-wm](https://github.com/Aypex/android-tiling-wm) - i3/Hyprland-style tiling window manager for Android 16+ phones. No root required.
  * [androlyze](https://github.com/c0dev0id/androlyze) - Android Analyze App
@@ -297,9 +298,10 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [samsung_ota](https://github.com/zainarbani/samsung_ota)
  * [sband_mobile_exploit_lab](https://github.com/usercopy-fault/sband_mobile_exploit_lab) - Advanced Android lab for exploit-path research and payload rehearsal.
  * [sd-maid-pro](https://github.com/toviralideasyt7/sd-maid-pro)
+ * [shear_plate_hook](https://github.com/LinsVert/shear_plate_hook)
  * [shizuku-screen-off-on-phone-call](https://github.com/olegsvs/shizuku-screen-off-on-phone-call)
  * [shizuku-wear](https://github.com/emtee40/shizuku-wear)
- * [sidebar](https://github.com/oldhoho/sidebar) - 这是完全由AI创作的侧边栏项目。主要特征为：空白启动器＋全局侧边栏，支持冻结应用（）
+ * [sidebar](https://github.com/oldhoho/sidebar) - 这是完全由AI创作的侧边栏项目。主要特征为：空白启动器＋全局侧边栏，支持冻结（停用）、快速解冻（启动）应用。
  * [sing-box-for-android](https://github.com/SagerNet/sing-box-for-android) - Experimental Android client for sing-box
  * [sonicLensFlutter](https://github.com/Satvik1769/sonicLensFlutter)
  * [switchuser](https://github.com/allisonbzk/switchuser) - Switch user APP for buggy MIUI which won't allow multi user to switch accounts

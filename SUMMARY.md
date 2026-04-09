@@ -18,6 +18,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [AirMouse](https://github.com/jinyinghua/AirMouse) - 一个能隔空操控你的安卓手机的APP。An app that can remotely control your Android phone.
  * [Ajiro](https://github.com/CrackTC/Ajiro) - 麻城建设
  * [AndroidAutoGLM](https://github.com/sidhu-master/AndroidAutoGLM) - 这是基于AutoGLM改造的纯血Android版🚀，不依赖电脑💻，无需安装其他任何程序📱，开包即用⚡️，支持语音输入命令🎤。
+ * [AndroidForClaw](https://github.com/SelectXn00b/AndroidForClaw)
  * [AoVSkins](https://github.com/binhmod/AoVSkins) - Import skins using Shizuku
  * [App Lock](https://github.com/aload0/AppLock) - Secure your sensitive apps with powerful biometric protection using AppLock!
  * [AppBooster](https://github.com/androidexpert35/AppBooster)
@@ -37,6 +38,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Capsulyric](https://github.com/FrancoGiudans/Capsulyric) - 提供基于Live Update和小米超级岛机制的状态栏歌词。
  * [CherryDiskInfo](https://github.com/CloverIris/CherryDiskInfo) - CrystalDiskInfo 的 Android 平台精神续作，为无法更换存储的移动设备提供寿命透明度
  * [Cinderbox-Companion](https://github.com/ObfuscatedVoid/Cinderbox-Companion) - Companion app for Stardew Valley on Android — sync saves with Steam Cloud, download game files, and manage SMAPI mods. Works with the official Android port and Cinderbox.
+ * [CityEdit](https://github.com/cataIystdev/CityEdit) - Кроссплатформенный редактор сохранений для игры Subway Surfers City написанный с помощью C# и Avalonia
  * [Crossset](https://github.com/Alisuuu/Crossset)
  * [CustomAnimator](https://github.com/AhmetCanArslan/CustomAnimator)
  * [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新
@@ -78,6 +80,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [RedTrigger](https://github.com/zampierilucas/RedTrigger) - Android app that enables shoulder triggers on Red Magic phones system-wide, without Game Space
  * [RootlessStore](https://github.com/Resilien-Mobile/RootlessStore) - An open-source, rootless plugin management and runtime platform for the Android ecosystem
  * [Ruto-GLM](https://github.com/iamr0s/Ruto-GLM) - 手机端 AutoGLM：无需电脑，真·后台全自动。 支持熄屏、同时多个任务并行，主屏操作互不干扰。（一个基于 AI 的 Android 自动化与多任务框架，开启无限可能。）
+ * [SCUNETlogin](https://github.com/LFWQSP2641/SCUNETlogin)
  * [ShinKu](https://github.com/Harrys-HQ/ShinKu) - a modern, rebranded, and enhanced fork of TachiyomiSY/Mihon, designed for a immersive and intelligent manga-reading experience.
  * [ShizukuPlus](https://github.com/thejaustin/ShizukuPlus) - Shizuku+ — Enhanced fork with UX improvements to the app management screen
  * [ShizukuShortcuts](https://github.com/yshalsager/ShizukuShortcuts) - Launcher shortcuts and custom shell actions via Shizuku.
@@ -121,6 +124,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [galaxy-shutter-mute-manager](https://github.com/ryuya0124/galaxy-shutter-mute-manager)
  * [gpstest](https://github.com/ZForest000/gpstest)
  * [hexodus](https://github.com/thejaustin/hexodus) - Next-generation Android theming engine for Samsung One UI 8 (Android 16+) as a spiritual successor to 'Hex Installer', leveraging Shizuku for system-level operations without requiring root access.
+ * [immich-cloud-media](https://github.com/Dreaming-Codes/immich-cloud-media)
  * [input-leaf](https://github.com/anasvhora284/input-leaf) - Android client for Input Leap — share keyboard & mouse from your pc to your phone 
  * [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ / Linkura Localify / LoveLive Translation / llll
  * [mcpshell](https://github.com/xnet-admin-1/mcpshell) - Android MCP server with sh, proot Ubuntu, and Shizuku rish shell tools
@@ -134,7 +138,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [pocket_waifu](https://github.com/yuriluv/pocket_waifu)
  * [quickeditapp](https://github.com/DaDevMikey/quickeditapp)
  * [rayniyomi](https://github.com/ryacub/rayniyomi) - Free and Open source  anime/manga/light novel reader. Based of aniyomi
- * [roubao](https://github.com/Turbo1123/roubao) - Android Automation Tool Based on Vision-Language Models
  * [scrollsnap](https://github.com/li-junlei/scrollsnap)
  * [shellbox](https://github.com/xnet-admin-1/shellbox)
  * [silva-manager](https://github.com/SilvaTechB/silva-manager) - Silva Manager - Android APK patcher and patch manager
@@ -163,6 +166,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [chrono-s_camera_android](https://github.com/newyusir/chrono-s_camera_android) - android port of chrono's camera
  * [kdeconnect-android-shizuku](https://github.com/Shoukaku39/kdeconnect-android-shizuku) - Forked from KDE Connect Android. Adds Shizuku support to bypass clipboard access restrictions on Android 10+ without using READ_LOGS or manual ADB shell. 基于 KDE Connect Android 的分支，添加对 Shizuku 的支持，在无需请求 READ_LOGS 或手动 ADB 授权的情况下，绕过 Android 10+ 剪贴板访问限制。
  * [mixer-1](https://github.com/farizanjum/mixer-1) - Per-app volume control for Android, designed with Nothing OS aesthetics.
+ * [roubao](https://github.com/Turbo1123/roubao) - Android Automation Tool Based on Vision-Language Models
 
 ### Apps with no releases
 
@@ -207,7 +211,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Geargrinder](https://github.com/Benjamin-Wiegand/Geargrinder) - A free and open source alternative to Android Auto
  * [GemCode](https://github.com/PharmabotEcosystem/GemCode) - GemCode
  * [HandsOff](https://github.com/moqaddasQA/HandsOff) - Universal Android privacy guardian. Blocks DNS trackers, monitors mic/camera access, watches for new permissions. No root required.
- * [Has_Store](https://github.com/feth19/Has_Store)
  * [Hoshimager](https://github.com/xXYxxdMC-GH/Hoshimager) - Android App Ops Manager
  * [HuAHua](https://github.com/sidhu-master/HuAHua)
  * [InstallerX_](https://github.com/shuaige-911/InstallerX_)
@@ -259,6 +262,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [VS-Mobile](https://github.com/ahksoft/VS-Mobile) - Run VSCode on Android
  * [VulnKit](https://github.com/sqxy090123/VulnKit)
  * [Xphone](https://github.com/wake0p/Xphone) - help you get away from phone
+ * [Yizutt](https://github.com/Yizutt/Yizutt) - Cloudbase AI Builder project.
  * [Zong-Hub-GFX](https://github.com/kaungkaung575556-beep/Zong-Hub-GFX)
  * [adocker](https://github.com/LukeXeon/adocker) - 在Android上运行Docker容器，借助AI开发的项目
  * [androTOP](https://github.com/c0dev0id/androTOP) - CPU in the status bar
@@ -277,6 +281,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [dual-manager](https://github.com/trunone/dual-manager)
  * [enforced-app-repo](https://github.com/defencedigital/enforced-app-repo) - ENFORCED App Repo Client - forked from Droid-fy
  * [ethernet-config](https://github.com/newppaer/ethernet-config) - Android APP - Configure static IP on ethernet via Shizuku (no root)
+ * [expo-shizuku](https://github.com/qweered/expo-shizuku) - Expo native module for silent APK installation via Shizuku on Android
  * [fenbihelper](https://github.com/Teri1111/fenbihelper) - 使用豆包查询粉笔考公选择题的自动化工具
  * [fileHunter](https://github.com/vertigo0628/fileHunter) - Minimalist Android File Manager specifically designed to uncover hidden media vaults and browse restricted application data without requiring root access.
  * [filetool](https://github.com/mauricelam/filetool) - https://mauricelam.github.io/filetool/
@@ -313,6 +318,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [usafiri](https://github.com/Dream-kid-342/usafiri) - First stable release of a Flutter + Supabase M-Pesa payment system.   Supports STK Push, real-time callbacks, subscription activation, and error logging.
  * [v-app-info](https://github.com/Shiho-Patch/v-app-info)
  * [victorcontrol](https://github.com/he18718143986-design/victorcontrol)
+ * [wireless-adb](https://github.com/xcpschen/wireless-adb)
  * [workflow](https://github.com/wunengweili/workflow)
  * [wscanplus-deprecrated-](https://github.com/dvntone/wscanplus-deprecrated-) - Test
  * [yolozimiao](https://github.com/joeykang789/yolozimiao)

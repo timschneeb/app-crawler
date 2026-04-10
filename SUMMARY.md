@@ -39,6 +39,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [CherryDiskInfo](https://github.com/CloverIris/CherryDiskInfo) - CrystalDiskInfo 的 Android 平台精神续作，为无法更换存储的移动设备提供寿命透明度
  * [Cinderbox-Companion](https://github.com/ObfuscatedVoid/Cinderbox-Companion) - Companion app for Stardew Valley on Android — sync saves with Steam Cloud, download game files, and manage SMAPI mods. Works with the official Android port and Cinderbox.
  * [CityEdit](https://github.com/cataIystdev/CityEdit) - Кроссплатформенный редактор сохранений для игры Subway Surfers City написанный с помощью C# и Avalonia
+ * [CloudPivot-MaterialDesign](https://github.com/Blduu/CloudPivot-MaterialDesign) - CloudPivot - 一个开源的 Material Design Android 文件管理器 ✨ 特性： - 轻量简洁且安全的开源文件管理器 - 遵循 Material Design 规范 - 面包屑导航栏快速访问 - Root 权限支持 - 压缩文件（查看/提取/创建） - NAS 支持（FTP/SFTP/SMB/WebDAV） - 可定制主题与纯黑夜间模式 - Linux 友好（符号链接/权限/SELinux） - 使用 Linux 系统调用和 Java NIO2 API 实现
  * [Crossset](https://github.com/Alisuuu/Crossset)
  * [CustomAnimator](https://github.com/AhmetCanArslan/CustomAnimator)
  * [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新
@@ -51,6 +52,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ExtensionBox](https://github.com/omersusin/ExtensionBox) - Extension box 
  * [FPSViewer](https://github.com/binhmod/FPSViewer) - fps counter realtime for Android
  * [Filex](https://github.com/Alisuuu/Filex)
+ * [FiveGCatRat](https://github.com/Tamako21/FiveGCatRat)
  * [GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
  * [Github Store](https://github.com/rainxchzed/Github-Store) - App store for GitHub releases - discover and install apps with one click
  * [GlyphHacker](https://github.com/Young-Lord/GlyphHacker) - LOVE Ingress Glyph Hack with Android power.
@@ -65,10 +67,12 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [MapXr](https://github.com/halfmonty/MapXr) - A TAP mapping tool for one or two TAP devices used simultaneously
  * [MetaAgent](https://github.com/Crossfield-Labs/MetaAgent) - PC端仓库 https://github.com/Crossfield-Labs/pc_orchestrator_core 和 https://github.com/Crossfield-Labs/MetaAgent-PC
  * [MiHealth_AmapFix](https://github.com/ljy6-6-6/MiHealth_AmapFix) - 禁止小米运动健康屏蔽高德地图的焦点通知，在HyperOS2.0下，当导航触发焦点通知后，可在穿戴式产品上显示实时导航信息。
+ * [MicUp](https://github.com/papergray/MicUp)
  * [MinecraftAntiCheat-Android](https://github.com/Sittirahmadia/MinecraftAntiCheat-Android)
  * [MoFont](https://github.com/kirenath/MoFont) - 在 One UI 8 上免 root 安装自定义字体
  * [Movinkpad-stylus-remapper](https://github.com/KawaNae/Movinkpad-stylus-remapper)
  * [Mtzeditor](https://github.com/Alisuuu/Mtzeditor)
+ * [NoMoreBackground](https://github.com/adil192/no_more_background) - Control your Android™ apps
  * [OmniPrompt](https://github.com/mrndstvndv/OmniPrompt)
  * [Open-AutoGLM-Android](https://github.com/xinzezhu/Open-AutoGLM-Android) - 安卓版的AutoGLM，不需要部署直接安装就可以使用，欢迎共建~
  * [Orion-Store](https://github.com/RookieEnough/Orion-Store) - The ultimate home for modded apps. OrionStore offers instant access to YouTube Morphe, YT Music Morphe, and essential open-source tools without the clutter. No servers, no tracking, just a beautiful, modern gateway to the apps you love.
@@ -102,6 +106,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ZenTasker](https://github.com/loongj-code/ZenTasker)
  * [ZionCh](https://github.com/king0929zion/ZionCh) - An AI Chat APP imitating the style of ChatGPT
  * [aa-logcat](https://github.com/mrmees/aa-logcat) - Android app for capturing Android Auto protocol debug logs during real-world sessions
+ * [adns](https://github.com/eyalm2000/adns) - A DNS-based ad blocker for Android
  * [air-bridge](https://github.com/sleepysoong/air-bridge) - [vibe-coded] 안드로이드 폰 <-> Mac: 클립보드 동기화 | 추가로 폰의 알림도 맥으로 보내요!
  * [alian-android](https://github.com/xlb1130/alian-android) - 想拥有自己的豆包/豆包手机吗？看看Alian，语音通话、视频通话、手机自动化、MCP可配...
  * [android](https://github.com/wgtunnel/android) - A FOSS WireGuard & AmneziaWG Android client with auto-tunneling, lockdown & proxying.
@@ -140,13 +145,14 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [rayniyomi](https://github.com/ryacub/rayniyomi) - Free and Open source  anime/manga/light novel reader. Based of aniyomi
  * [scrollsnap](https://github.com/li-junlei/scrollsnap)
  * [shellbox](https://github.com/xnet-admin-1/shellbox)
+ * [shizuku-ftp](https://github.com/rD227/shizuku-ftp) - FTP server app for android with using Shizuku
  * [silva-manager](https://github.com/SilvaTechB/silva-manager) - Silva Manager - Android APK patcher and patch manager
  * [sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
  * [skin-script-installer](https://github.com/IstarVin/skin-script-installer) - Android Skin Script Installer
  * [spotify-ad-skipper](https://github.com/sihooney/spotify-ad-skipper) - Skip ads on Spotify for Android
  * [startfrp](https://github.com/usertest001/startfrp) - Android FRP客户端，FRP Client， FRP Android
  * [uad-shizuku](https://github.com/nikescar/uad-shizuku) - android debloater, scanner, app installer using adb.
- * [usbpdbs](https://github.com/ONDER1E/usbpdbs)
+ * [usbpdbs](https://github.com/ONDER1E/usbpdbs) - Allows your phone to be connected to the charger, such that the phone is being powered by the charger but the battery is not being charged, allows operation at lower battery percentages such as 40% so you can have your phone plugged in 24/7 without putting high voltage strain on the battery.
  * [vFlow](https://github.com/ChaoMixian/vFlow) - vFlow 是一款为 Android 平台设计的、强大且高度可扩展的自动化工具。它允许你通过图形化界面，将一系列“动作模块”自由组合成强大的“工作流”，从而自动完成各种日常的、重复性的屏幕操作任务。
  * [xreal-show-taps](https://github.com/shugi12345/xreal-show-taps) - an app that makes it so when connecting xreal glasses the developer option "show taps" enables automaticallyallowing you to see the location of your finger on screen
  * [zivpn-xsocks-core](https://github.com/shizukudes/zivpn-xsocks-core)
@@ -180,6 +186,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [AndroidToolKit](https://github.com/Shiho-Patch/AndroidToolKit)
  * [AppBlocker](https://github.com/guvencan/AppBlocker)
  * [Audio-Toggle](https://github.com/Ruhdee/Audio-Toggle) - No-UI Android utility that toggles mono audio and audio balance
+ * [AuroraStore-WhitelistEdition](https://github.com/alltechdev/AuroraStore-WhitelistEdition)
  * [AutoAIDL](https://github.com/NguyenDuck/AutoAIDL) - Gradle plugin auto generate aidl files from an Interface with annotations
  * [AutoGLM4Android](https://github.com/sypw233/AutoGLM4Android)
  * [AutoJs6-master](https://github.com/h4912126/AutoJs6-master)
@@ -263,7 +270,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [VulnKit](https://github.com/sqxy090123/VulnKit)
  * [Xphone](https://github.com/wake0p/Xphone) - help you get away from phone
  * [Yizutt](https://github.com/Yizutt/Yizutt) - Cloudbase AI Builder project.
- * [Zong-Hub-GFX](https://github.com/kaungkaung575556-beep/Zong-Hub-GFX)
  * [adocker](https://github.com/LukeXeon/adocker) - 在Android上运行Docker容器，借助AI开发的项目
  * [androTOP](https://github.com/c0dev0id/androTOP) - CPU in the status bar
  * [android-desktop-touchpad](https://github.com/prespic/android-desktop-touchpad) - Virtual touchpad for Android Desktop Mode on external displays. Uses Shizuku to inject mouse events on the secondary screen. Built for Pixel 8+ with Android 15+.
@@ -275,6 +281,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [autoscroll](https://github.com/freude916/autoscroll) - Android Screen Scroller using Shizuku API
  * [az](https://github.com/extmod/az)
  * [cn.pylin.xycjd](https://github.com/PYLinTech/cn.pylin.xycjd) - Xiaoyu Super Island
+ * [demo](https://github.com/alexA81549300/demo)
  * [disk-mapper-android](https://github.com/kvitaliq-maker/disk-mapper-android)
  * [dji-in-vjoi](https://github.com/Axel9813/dji-in-vjoi)
  * [droidify_enterprise](https://github.com/Bliss-Bass/droidify_enterprise)
@@ -294,6 +301,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [kikyo](https://github.com/achyutbadyal/kikyo) - Free and open source manga reader for Android
  * [kwshell](https://github.com/DuckyScript/kwshell) - A android terminal
  * [libtermux-android](https://github.com/libtermux/libtermux-android) - The ultimate Android library to embed a full-featured Linux environment (Termux power) into any Android app. Zero-root, High-performance, and API 34+ compatible.
+ * [long-screenshot](https://github.com/wellorbetter/long-screenshot) - Android 滚动长截图，支持跨进程截图，三套方案：Shizuku / Root / MediaProjection
  * [mazda-control](https://github.com/afayvisovich/mazda-control)
  * [mengo](https://github.com/tedydevmac/mengo) - mihon fork
  * [mlbb-history-analyst](https://github.com/Amethyst666/mlbb-history-analyst)
@@ -318,6 +326,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [usafiri](https://github.com/Dream-kid-342/usafiri) - First stable release of a Flutter + Supabase M-Pesa payment system.   Supports STK Push, real-time callbacks, subscription activation, and error logging.
  * [v-app-info](https://github.com/Shiho-Patch/v-app-info)
  * [victorcontrol](https://github.com/he18718143986-design/victorcontrol)
+ * [vk-s-NeuroAmpDSP](https://github.com/drkvvk2015/vk-s-NeuroAmpDSP)
  * [wireless-adb](https://github.com/xcpschen/wireless-adb)
  * [workflow](https://github.com/wunengweili/workflow)
  * [wscanplus-deprecrated-](https://github.com/dvntone/wscanplus-deprecrated-) - Test
@@ -346,6 +355,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [SuperWindow](https://github.com/eiyooooo/SuperWindow) - 超级视窗 | Enhance multi-task experience for large-screen Android devices
  * [TaskOrb-Android-Assistant-Framework-Based-on-AutoGLM](https://github.com/wdsj2066/TaskOrb-Android-Assistant-Framework-Based-on-AutoGLM)
  * [WebSu-Plus](https://github.com/Betrix-ID/WebSu-Plus)
+ * [Zong-Hub-GFX](https://github.com/kaungkaung575556-beep/Zong-Hub-GFX)
  * [ZontesZoom](https://github.com/kerojohan/ZontesZoom)
  * [android-settings-scheduler](https://github.com/Turtlepaw/android-settings-scheduler) - Schedule any settings that are in the Android Settings app to be changed
  * [chengying](https://github.com/nowmore/chengying)

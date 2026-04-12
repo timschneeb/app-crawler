@@ -28,6 +28,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [AutoAccounting](https://github.com/AutoAccountingOrg/AutoAccounting) - 你的每一笔账单都值得记录！
  * [AutoGLM-For-Android](https://github.com/Luokavin/AutoGLM-For-Android) - 纯 Android 端 Open-AutoGLM 实现，无需电脑
  * [AutoSlide](https://github.com/tianxing-ovo/AutoSlide) - 一款安卓自动滑动APP，可以自动播放短视频、自动翻页阅读小说
+ * [AutoXiaoer](https://github.com/Joy-word/AutoXiaoer) - 一个生活在手机里的智能体伙伴
  * [Autofish](https://github.com/memohai/Autofish) - An AI Agent tool to automate Android devices reliably
  * [Ava](https://github.com/knoop7/Ava) - Turn any Android 7-16 device into a Bluetooth proxy all-in-one smart home control panel
  * [AvarionX-Android-Antivirus](https://github.com/phsycologicalFudge/AvarionX-Android-Antivirus) - A powerful antivirus for android
@@ -46,6 +47,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [DarkSwitch](https://github.com/mahmutaunal/DarkSwitch) - System-level dark mode attempts for Android apps without native dark theme. Rootless, open-source, Shizuku-powered.
  * [DeXKeyBoard](https://github.com/16rab/DeXKeyBoard)
  * [DiscoLauncher](https://github.com/cherryhoax/DiscoLauncher) - A groovy personalized home screen experience
+ * [Dragon Launcher](https://github.com/Elnix90/Dragon-Launcher) - Fast and efficient Android launcher based on gestures and minimalism
  * [Dragon-Launcher](https://github.com/Elnix90/Dragon-Launcher) - Fast Gesture based android launcher
  * [EasierSpot](https://github.com/AgentKosticka/EasierSpot)
  * [Elysium-Vanguard-One-Tap-Boost](https://github.com/jordelmir/Elysium-Vanguard-One-Tap-Boost) - ⚜️ Elite Performance Optimization Suite for Android. Shizuku-powered, one-tap system-wide hardware acceleration and debloating. Premium Cyberpunk UI. 🔱
@@ -67,7 +69,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [MapXr](https://github.com/halfmonty/MapXr) - A TAP mapping tool for one or two TAP devices used simultaneously
  * [MetaAgent](https://github.com/Crossfield-Labs/MetaAgent) - PC端仓库 https://github.com/Crossfield-Labs/pc_orchestrator_core 和 https://github.com/Crossfield-Labs/MetaAgent-PC
  * [MiHealth_AmapFix](https://github.com/ljy6-6-6/MiHealth_AmapFix) - 禁止小米运动健康屏蔽高德地图的焦点通知，在HyperOS2.0下，当导航触发焦点通知后，可在穿戴式产品上显示实时导航信息。
- * [MicUp](https://github.com/papergray/MicUp)
+ * [MicUp](https://github.com/papergray/MicUp) - Real-time microphone audio processing for Android
  * [MinecraftAntiCheat-Android](https://github.com/Sittirahmadia/MinecraftAntiCheat-Android)
  * [MoFont](https://github.com/kirenath/MoFont) - 在 One UI 8 上免 root 安装自定义字体
  * [Movinkpad-stylus-remapper](https://github.com/KawaNae/Movinkpad-stylus-remapper)
@@ -84,7 +86,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Recents](https://github.com/tymwitko/Recents) - Launcher-agnostic "Recents" menu for Android.
  * [RedTrigger](https://github.com/zampierilucas/RedTrigger) - Android app that enables shoulder triggers on Red Magic phones system-wide, without Game Space
  * [RootlessStore](https://github.com/Resilien-Mobile/RootlessStore) - An open-source, rootless plugin management and runtime platform for the Android ecosystem
- * [Ruto-GLM](https://github.com/iamr0s/Ruto-GLM) - 手机端 AutoGLM：无需电脑，真·后台全自动。 支持熄屏、同时多个任务并行，主屏操作互不干扰。（一个基于 AI 的 Android 自动化与多任务框架，开启无限可能。）
  * [SCUNETlogin](https://github.com/LFWQSP2641/SCUNETlogin)
  * [ShinKu](https://github.com/Harrys-HQ/ShinKu) - a modern, rebranded, and enhanced fork of TachiyomiSY/Mihon, designed for a immersive and intelligent manga-reading experience.
  * [ShizukuPlus](https://github.com/thejaustin/ShizukuPlus) - Shizuku+ — Enhanced fork with UX improvements to the app management screen
@@ -124,7 +125,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [botdrop-android](https://github.com/zhixianio/botdrop-android) - Run AI agents on your Android phone — no terminal, no CLI, just a guided setup.
  * [carrier-ims-for-pixel](https://github.com/ryfineZ/carrier-ims-for-pixel) - Carrier IMS for Pixel (TurboIMS): multilingual (中文/English) pixel ims / ims / carrierconfig / volte / vowifi / 5G+ toolkit for Google Pixel.
  * [carrierconfigeditor](https://github.com/bjorn-032/carrierconfigeditor)
- * [castla](https://github.com/Suprhimp/castla) - Tesla Android Auto mirror app - Stream Android Auto to Tesla's browser
  * [chimahon](https://github.com/sohilsayed/chimahon)
  * [com.malikhw.hosadvtexts](https://github.com/MalikHw/com.malikhw.hosadvtexts) - for redmi
  * [com.system.reschange](https://github.com/c0a22132/com.system.reschange)
@@ -171,6 +171,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [MiRearScreenSwitcher](https://github.com/GoldenglowSusie/MiRearScreenSwitcher) - 为小米17Pro及以上（也许及以后）机型的背屏一键切换器
  * [MndroLua](https://github.com/Crescent-of-Maya/MndroLua) - A modern fork of AndroLua+ / 更加现代的 AndroLua+ 魔改版
  * [Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
+ * [Ruto-GLM](https://github.com/iamr0s/Ruto-GLM) - 手机端 AutoGLM：无需电脑，真·后台全自动。 支持熄屏、同时多个任务并行，主屏操作互不干扰。（一个基于 AI 的 Android 自动化与多任务框架，开启无限可能。）
  * [ShizukuUesrService](https://github.com/Com-kt/ShizukuUesrService) - Shizuku UserService
  * [chrono-s_camera_android](https://github.com/newyusir/chrono-s_camera_android) - android port of chrono's camera
  * [kdeconnect-android-shizuku](https://github.com/Shoukaku39/kdeconnect-android-shizuku) - Forked from KDE Connect Android. Adds Shizuku support to bypass clipboard access restrictions on Android 10+ without using READ_LOGS or manual ADB shell. 基于 KDE Connect Android 的分支，添加对 Shizuku 的支持，在无需请求 READ_LOGS 或手动 ADB 授权的情况下，绕过 Android 10+ 剪贴板访问限制。
@@ -183,6 +184,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
 
  * [123](https://github.com/Lin-ZCZ/123)
  * [A1.3.-Laboratorio-Auditor-a-M-vil](https://github.com/DylanTapiaVargas999/A1.3.-Laboratorio-Auditor-a-M-vil)
+ * [ADB-Commander](https://github.com/god-s-only/ADB-Commander) - A lightweight Android tool that provides deep, accurate, developer-grade diagnostics. It collects hardware details, OS properties, network information, In built app manager for quick customization of both system apps and downloaded app, and executes safe shell commands through a clean, modular architecture.
  * [APK-MultiUpdate](https://github.com/alltechdev/APK-MultiUpdate) - In-app update library for Android - check GitHub releases, download APKs, install via Native/Session/Root/Shizuku/Dhizuku
  * [AUAK_AGENTY](https://github.com/AuthourAkson/AUAK_AGENTY)
  * [AndroidFoldeerExplorer](https://github.com/SerZhyAle/AndroidFoldeerExplorer)
@@ -251,6 +253,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Sabila](https://github.com/putrinisa124124-hub/Sabila)
  * [ScreenshotFaker](https://github.com/Huai-Tian/ScreenshotFaker) - A software that supports user-defined screenshot content and has strong anti-detection capabilities
  * [Sesame-AG](https://github.com/aoguai/Sesame-AG) - Sesame-AG
+ * [Sesame-TK](https://github.com/VictoireWood/Sesame-TK) - 芝你麻咸鱼的粒-TK
  * [Setup1](https://github.com/panupongboonton-source/Setup1) - Setup
  * [Shizuku-](https://github.com/Asilkan5807/Shizuku-)
  * [Shizuku-ADB-Terminal](https://github.com/hmode22222/Shizuku-ADB-Terminal) - ADB Terminal for Shizuku

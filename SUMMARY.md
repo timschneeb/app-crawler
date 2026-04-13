@@ -76,7 +76,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Mtzeditor](https://github.com/Alisuuu/Mtzeditor)
  * [NoMoreBackground](https://github.com/adil192/no_more_background) - Control your Android™ apps
  * [OmniPrompt](https://github.com/mrndstvndv/OmniPrompt)
- * [Open-AutoGLM-Android](https://github.com/xinzezhu/Open-AutoGLM-Android) - 安卓版的AutoGLM，不需要部署直接安装就可以使用，欢迎共建~
  * [Orion-Store](https://github.com/RookieEnough/Orion-Store) - The ultimate home for modded apps. OrionStore offers instant access to YouTube Morphe, YT Music Morphe, and essential open-source tools without the clutter. No servers, no tracking, just a beautiful, modern gateway to the apps you love.
  * [OxygenToolbox](https://github.com/EraserCN/OxygenToolbox) - Toolbox for OxygenOS
  * [Pensum](https://github.com/troikoss/Pensum) - Advanced system monitor and process killer for Android, optimized for desktop mode.
@@ -92,6 +91,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ShizukuShortcuts](https://github.com/yshalsager/ShizukuShortcuts) - Launcher shortcuts and custom shell actions via Shizuku.
  * [Shortcut.Circle.to.Search](https://github.com/SecretChilliZ/Shortcut.Circle.to.Search) - A high-performance, lightweight Android utility designed to trigger the Circle to Search (Long-press Home) action instantly via hardware button remapping or launcher shortcuts.   Built with a sleek Matrix-themed UI, this app uses Shizuku to execute secure system-level shell commands without requiring a full root of your device.
  * [ShutterMute](https://github.com/ajebulon/ShutterMute) - A lightweight Android app that silences the camera shutter sound using Shizuku, without requiring root access.
+ * [Smart-Edge](https://github.com/Imtiaz-Official/Smart-Edge)
  * [Stellar](https://github.com/roro2239/Stellar) - Another Shizuku impl
  * [Stellar-API](https://github.com/roro2239/Stellar-API) - Stellar API SDK
  * [SwiftSense](https://github.com/itsmelissadev/SwiftSense) - SwiftSense is a versatile Android toolkit to boost gaming performance. It forces sensor rates to 200Hz+ and manages background apps via Shizuku to reduce CPU load. A privacy-focused, open-source project.
@@ -117,6 +117,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [android-openclaw-native](https://github.com/wayansuardyana-code/android-openclaw-native)
  * [android-wifi-pojie](https://github.com/bszapp/android-wifi-pojie) - Android使用密码本暴力破解wifi密码工具
  * [anti-tracker](https://github.com/HonzaV/anti-tracker) - GPS, Bluetooth, WiFi, Data and carrier cellphone signal all those can be used to track you. Get rid of tracking with this Android App. 
+ * [anubis](https://github.com/sogonov/anubis) - Android app manager with VPN integration. Manages groups of apps by freezing/unfreezing them based on VPN connection state.
  * [aod-suite](https://github.com/OutrageousStorm/aod-suite) - 🌙 AOD Suite — Always On Display customization via Shizuku ADB. Control min brightness, blurred wallpaper, gestures & more.
  * [aot-optmizer-compilator](https://github.com/rafaelhschuh/aot-optmizer-compilator)
  * [aurora-dhizuku](https://github.com/alltechdev/aurora-dhizuku) - Aurora Store Dhizuku installer implementation
@@ -183,8 +184,10 @@ Entries are sorted by name and grouped into a separate category if the attached 
 #### Updated in the last 3 months
 
  * [123](https://github.com/Lin-ZCZ/123)
+ * [A.u.r.a.k.a.i_ReGenesis](https://github.com/AuraFrameFxDev/A.u.r.a.k.a.i_ReGenesis) - ReGenesis 
  * [A1.3.-Laboratorio-Auditor-a-M-vil](https://github.com/DylanTapiaVargas999/A1.3.-Laboratorio-Auditor-a-M-vil)
  * [ADB-Commander](https://github.com/god-s-only/ADB-Commander) - A lightweight Android tool that provides deep, accurate, developer-grade diagnostics. It collects hardware details, OS properties, network information, In built app manager for quick customization of both system apps and downloaded app, and executes safe shell commands through a clean, modular architecture.
+ * [ADB-Test](https://github.com/njdldkl666699/ADB-Test)
  * [APK-MultiUpdate](https://github.com/alltechdev/APK-MultiUpdate) - In-app update library for Android - check GitHub releases, download APKs, install via Native/Session/Root/Shizuku/Dhizuku
  * [AUAK_AGENTY](https://github.com/AuthourAkson/AUAK_AGENTY)
  * [AndroidFoldeerExplorer](https://github.com/SerZhyAle/AndroidFoldeerExplorer)
@@ -239,6 +242,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [MiRearPlayback](https://github.com/Sevilze/MiRearPlayback)
  * [MobileAIDomestic](https://github.com/huy264128-netizen/MobileAIDomestic)
  * [Multiisland](https://github.com/lokey0905/Multiisland)
+ * [My-Freeze-apps-android-app](https://github.com/mkmk749278/My-Freeze-apps-android-app)
  * [My-app](https://github.com/rjkyker383-gif/My-app)
  * [MyApplication](https://github.com/Ynkcc/MyApplication)
  * [NeoDeskPet](https://github.com/nishichengju/NeoDeskPet)
@@ -247,7 +251,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [NongMol-AI](https://github.com/sitthit2-rgb/NongMol-AI)
  * [NongMol-AI-Pro](https://github.com/sitthit2-rgb/NongMol-AI-Pro)
  * [ObsidianBackup](https://github.com/canuk40/ObsidianBackup) - A modern Spin on titanium backup with alot more support
- * [OmniDev-Workspace](https://github.com/obieda-hussien/OmniDev-Workspace)
  * [RTOSify](https://github.com/AILIFE-4798/RTOSify)
  * [Replay-passador-o-melhor-de-todos](https://github.com/luanzzkribeirozzk-design/Replay-passador-o-melhor-de-todos)
  * [Sabila](https://github.com/putrinisa124124-hub/Sabila)
@@ -261,6 +264,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Shizuku-Mod](https://github.com/haedrhaedr505/Shizuku-Mod)
  * [ShizukuPlus-API](https://github.com/thejaustin/ShizukuPlus-API)
  * [ShizukuRunner](https://github.com/delmsyap/ShizukuRunner)
+ * [ShizukuShell](https://github.com/2249807346/ShizukuShell) - fork from ShizukuRunner
  * [ShizukuTerminal](https://github.com/hmode22222/ShizukuTerminal)
  * [SignalFix](https://github.com/zhaochunqi/SignalFix) - 修复类原生的信号问题
  * [SpeccyOS-Showcase](https://github.com/lorpagc-art/SpeccyOS-Showcase) - Speccy OS Imperial Edition (v0.3.0) 🚩: Meta-Sistema Operativo y Frontend IA para consolas Android. Con Ambient DNA (interfaz adaptativa), Hot-Edge Overlay (menú táctil in-game), Cloud Sync y Web-Auth para GammaOS. Optimización extrema de hardware y biblioteca neural dinámica. Redefiniendo el juego portátil con inteligencia real.
@@ -354,6 +358,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [LocalDex](https://github.com/lukifer23/LocalDex)
  * [MiRearScreenSwitcherEnglish](https://github.com/aaronnat23/MiRearScreenSwitcherEnglish)
  * [ModularWhitelistApp](https://github.com/tam1012/ModularWhitelistApp) - MODULAR WHITELIST - Xiaomi PowerKeeper Whitelist Tool for Android
+ * [Open-AutoGLM-Android](https://github.com/Repobor/Open-AutoGLM-Android) - 基于 https://github.com/zai-org/Open-AutoGLM 的Android实现
  * [PhonePointer](https://github.com/Usepot/PhonePointer)
  * [QABlackBox](https://github.com/mikepty/QABlackBox) - Black Box Testing Tool
  * [Sunshine-android](https://github.com/ZyoungInc/Sunshine-android) - a sunshine server for android system

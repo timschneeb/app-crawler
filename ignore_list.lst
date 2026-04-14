@@ -12,6 +12,7 @@ Tachiyomi
 tachiyomi
 tachiyomi-archived
 tachiyomi-backup
+Open-AutoGLM-Android
 https://github.com/sanwan1314/mfmh
 https://github.com/Prasads13/lspatch_android
 https://github.com/orgTestCodacy11KRepos110MB/repo-3344-Shizuku
@@ -204,6 +205,7 @@ https://github.com/haedrhaedr505/Shizuku-ADB-Terminal
 https://github.com/private-gojo/SagerNet-
 https://github.com/Repobor/Open-AutoGLM-Android
 https://github.com/YikeYes/AutoScript
+https://github.com/xinzezhu/Open-AutoGLM-Android
 
 # Already in list from other source
 https://gitlab.com/fmd-foss/fmd-android
@@ -469,6 +471,7 @@ https://github.com/VRPirates/VRPQuest
 https://github.com/defencedigital/enforced-app-repo
 https://github.com/dvntone/wscanplus-deprecrated-
 https://github.com/YasserNull/setbox
+https://github.com/1250422131/bilibilias
 
 # Not updated in a long time & requirements not met
 https://github.com/xjunz/AutoTask
@@ -532,6 +535,9 @@ https://github.com/Slinky-86/everyones-APPS
 https://github.com/AuraFrameFxDev/A.u.r.a.k.a.i_ReGenesis
 https://github.com/rohittp0/BluePair
 https://github.com/JakeDot/jourwigo-android
+
+# Potential security issues
+https://github.com/1LKY3/flowhook
 
 # Imports Shizuku, but does not make use of it or incomplete implementation (Recheck later)
 https://github.com/MercuryWorkshop/ziptie

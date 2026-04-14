@@ -71,7 +71,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Mtzeditor](https://github.com/Alisuuu/Mtzeditor)
  * [NoMoreBackground](https://github.com/adil192/no_more_background) - Control your Android™ apps
  * [OmniPrompt](https://github.com/mrndstvndv/OmniPrompt)
- * [Open-AutoGLM-Android](https://github.com/xinzezhu/Open-AutoGLM-Android) - 安卓版的AutoGLM，不需要部署直接安装就可以使用，欢迎共建~
  * [Orion-Store](https://github.com/RookieEnough/Orion-Store) - The ultimate home for modded apps. OrionStore offers instant access to YouTube Morphe, YT Music Morphe, and essential open-source tools without the clutter. No servers, no tracking, just a beautiful, modern gateway to the apps you love.
  * [OxygenToolbox](https://github.com/EraserCN/OxygenToolbox) - Toolbox for OxygenOS
  * [Pensum](https://github.com/troikoss/Pensum) - Advanced system monitor and process killer for Android, optimized for desktop mode.
@@ -262,6 +261,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [AdBlocking](https://github.com/xueyuleiT/AdBlocking)
  * [Android-FPS-Watcher](https://github.com/WuDi-ZhanShen/Android-FPS-Watcher) - Monitor RealTime FPS. Suppports Android 12+. Pure Java. Needs ADB or ROOT.
  * [AutoPilotAI](https://github.com/soumithganji/AutoPilotAI) - VLM-powered Android automation agent that "sees" your screen and executes complex tasks from simple voice commands
+ * [AutoScript](https://github.com/YikeYes/AutoScript) - 网易云音乐广告脚本
  * [BillAuto](https://github.com/Albresky/BillAuto)
  * [DroidLock](https://github.com/zhengzaihong/DroidLock) - Android 企业设备管理器-设备监管-非定制系统方案
  * [FMD-foss](https://github.com/haseebno1/FMD-foss) - FMD Android is a mobile application that enables users to locate and control their Android devices remotely. It serves as an open-source, privacy-focused alternative to Google's Find My Device service.
@@ -271,6 +271,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [LocalDex](https://github.com/lukifer23/LocalDex)
  * [MiRearScreenSwitcherEnglish](https://github.com/aaronnat23/MiRearScreenSwitcherEnglish)
  * [ModularWhitelistApp](https://github.com/tam1012/ModularWhitelistApp) - MODULAR WHITELIST - Xiaomi PowerKeeper Whitelist Tool for Android
+ * [Open-AutoGLM-Android](https://github.com/Repobor/Open-AutoGLM-Android) - 基于 https://github.com/zai-org/Open-AutoGLM 的Android实现
  * [PhonePointer](https://github.com/Usepot/PhonePointer)
  * [QABlackBox](https://github.com/mikepty/QABlackBox) - Black Box Testing Tool
  * [SagerNet-](https://github.com/private-gojo/SagerNet-) - The universal proxy toolchain for Android

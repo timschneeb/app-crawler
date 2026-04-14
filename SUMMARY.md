@@ -86,7 +86,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [aa-logcat](https://github.com/mrmees/aa-logcat) - Android app for capturing Android Auto protocol debug logs during real-world sessions
  * [air-bridge](https://github.com/sleepysoong/air-bridge) - [vibe-coded] 안드로이드 폰 <-> Mac: 클립보드 동기화 | 추가로 폰의 알림도 맥으로 보내요!
  * [alian-android](https://github.com/xlb1130/alian-android) - 想拥有自己的豆包/豆包手机吗？看看Alian，语音通话、视频通话、手机自动化、MCP可配...
- * [android](https://github.com/wgtunnel/android) - A FOSS WireGuard & AmneziaWG Android client with auto-tunneling, lockdown & proxying.
  * [android-display-extend](https://github.com/jqssun/android-display-extend)
  * [android-openclaw-native](https://github.com/wayansuardyana-code/android-openclaw-native)
  * [android-wifi-pojie](https://github.com/bszapp/android-wifi-pojie) - Android使用密码本暴力破解wifi密码工具
@@ -133,6 +132,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
 
 #### Updated more than 3 months ago
 
+ * [BILIBILIAS](https://github.com/1250422131/bilibilias) - An auxiliary tool for Bilibili video caching, providing one-click caching
  * [ESP](https://github.com/bhikandeshmukh/ESP)
  * [FakePowerOff](https://github.com/BinitDOX/FakePowerOff) - Simulate device shutdown, ideal for use with anti-theft apps.
  * [HesleyTools](https://github.com/ldh-star/HesleyTools) - 自用工具/模块
@@ -167,7 +167,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [EasyUserSwitcher](https://github.com/sorryusernameisalreadytaken/EasyUserSwitcher) - EasyUserSwitcher is an Android app that connects to the device’s own Wireless ADB interface and allows quick switching between Android user profiles. It lists available users via pm list users and performs automated am switch-user commands, including optional auto-return to the main user when the device becomes idle.
  * [FFStretchhhhhhhhh](https://github.com/luanzzkribeirozzk-design/FFStretchhhhhhhhh) - LN Stretch — Esticador de tela Free Fire
  * [FakeRoot](https://github.com/h465855hgg/FakeRoot) - 基于小米的服务漏洞制作的一个权限管理器
- * [FileVaultPro](https://github.com/neet-ctrl/FileVaultPro)
  * [FlexLauncher](https://github.com/Multitaskerplays/FlexLauncher) - Android app that allows multi-user
  * [Frame-generation-](https://github.com/proqaz2-design/Frame-generation-) - Without root 
  * [FrameX-Android](https://github.com/MaheshSharan/FrameX-Android) - Android FPS meter and performance overlay powered by Shizuku.
@@ -194,7 +193,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ScreenshotFaker](https://github.com/Huai-Tian/ScreenshotFaker) - A software that supports user-defined screenshot content and has strong anti-detection capabilities
  * [Sesame-AG](https://github.com/aoguai/Sesame-AG) - Sesame-AG
  * [Sesame-TK](https://github.com/VictoireWood/Sesame-TK) - 芝你麻咸鱼的粒-TK
- * [Shizuku-ADB-Terminal](https://github.com/haedrhaedr505/Shizuku-ADB-Terminal)
  * [SignalFix](https://github.com/zhaochunqi/SignalFix) - 修复类原生的信号问题
  * [StereoBalanceOverlay](https://github.com/du4n31/StereoBalanceOverlay)
  * [SystemBridgeFramework](https://github.com/olivia1246/SystemBridgeFramework) - Framework for Android to allow websites or other applications to request custom payload execution by utilising URL schemes.
@@ -244,7 +242,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [AdBlocking](https://github.com/xueyuleiT/AdBlocking)
  * [Android-FPS-Watcher](https://github.com/WuDi-ZhanShen/Android-FPS-Watcher) - Monitor RealTime FPS. Suppports Android 12+. Pure Java. Needs ADB or ROOT.
  * [AutoPilotAI](https://github.com/soumithganji/AutoPilotAI) - VLM-powered Android automation agent that "sees" your screen and executes complex tasks from simple voice commands
- * [AutoScript](https://github.com/YikeYes/AutoScript) - 网易云音乐广告脚本
  * [BillAuto](https://github.com/Albresky/BillAuto)
  * [DroidLock](https://github.com/zhengzaihong/DroidLock) - Android 企业设备管理器-设备监管-非定制系统方案
  * [FMD-foss](https://github.com/haseebno1/FMD-foss) - FMD Android is a mobile application that enables users to locate and control their Android devices remotely. It serves as an open-source, privacy-focused alternative to Google's Find My Device service.
@@ -256,7 +253,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ModularWhitelistApp](https://github.com/tam1012/ModularWhitelistApp) - MODULAR WHITELIST - Xiaomi PowerKeeper Whitelist Tool for Android
  * [PhonePointer](https://github.com/Usepot/PhonePointer)
  * [QABlackBox](https://github.com/mikepty/QABlackBox) - Black Box Testing Tool
- * [SagerNet-](https://github.com/private-gojo/SagerNet-) - The universal proxy toolchain for Android
  * [Sunshine-android](https://github.com/ZyoungInc/Sunshine-android) - a sunshine server for android system
  * [SuperWindow](https://github.com/eiyooooo/SuperWindow) - 超级视窗 | Enhance multi-task experience for large-screen Android devices
  * [TaskOrb-Android-Assistant-Framework-Based-on-AutoGLM](https://github.com/wdsj2066/TaskOrb-Android-Assistant-Framework-Based-on-AutoGLM)

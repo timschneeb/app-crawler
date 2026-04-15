@@ -50,7 +50,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Movinkpad-stylus-remapper](https://github.com/KawaNae/Movinkpad-stylus-remapper)
  * [Mtzeditor](https://github.com/Alisuuu/Mtzeditor)
  * [RootlessStore](https://github.com/Resilien-Mobile/RootlessStore) - An open-source, rootless plugin management and runtime platform for the Android ecosystem
- * [Ruto-GLM](https://github.com/bug-ssh/Ruto-GLM) - 手机端 AutoGLM：无需电脑，真·后台全自动。 支持熄屏、同时多个任务并行，主屏操作互不干扰。（一个基于 AI 的 Android 自动化与多任务框架，开启无限可能。）
  * [SCUNETlogin](https://github.com/LFWQSP2641/SCUNETlogin)
  * [Smart-Edge](https://github.com/Imtiaz-Official/Smart-Edge)
  * [Stellar](https://github.com/roro2239/Stellar) - Another Shizuku impl

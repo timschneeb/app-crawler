@@ -49,6 +49,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [MoFont](https://github.com/kirenath/MoFont) - 在 One UI 8 上免 root 安装自定义字体
  * [Movinkpad-stylus-remapper](https://github.com/KawaNae/Movinkpad-stylus-remapper)
  * [Mtzeditor](https://github.com/Alisuuu/Mtzeditor)
+ * [OpenLoader](https://github.com/thebytearray/OpenLoader) - OpenLoader is a open source android app that lets user install any apk they want.
  * [RootlessStore](https://github.com/Resilien-Mobile/RootlessStore) - An open-source, rootless plugin management and runtime platform for the Android ecosystem
  * [SCUNETlogin](https://github.com/LFWQSP2641/SCUNETlogin)
  * [Smart-Edge](https://github.com/Imtiaz-Official/Smart-Edge)
@@ -82,6 +83,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ / Linkura Localify / LoveLive Translation / llll
  * [mcpshell](https://github.com/xnet-admin-1/mcpshell) - Android MCP server with sh, proot Ubuntu, and Shizuku rish shell tools
  * [mobile-data-switcher](https://github.com/adhupraba/mobile-data-switcher)
+ * [noderr-micronodes](https://github.com/Noderrxyz/noderr-micronodes) - Production-grade micronode clients for the Noderr Protocol. Supports iOS (account creation), Android (AI agent execution), and Browser (automation) with complete anti-detection and operator privacy.
  * [pearity](https://github.com/thejaustin/pearity) - iOS parity settings for Samsung One UI — three-state toggles, Shizuku-powered
  * [phoneAgent](https://github.com/biezhaowo1123/phoneAgent) - 手机ai机器人
  * [pims](https://github.com/dmitry-goncharov/pims) - The app for enabling VoLTE and VoWiFi on Google Pixel smartphone
@@ -122,6 +124,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [123](https://github.com/Lin-ZCZ/123)
  * [ADB-Commander](https://github.com/god-s-only/ADB-Commander) - A lightweight Android tool that provides deep, accurate, developer-grade diagnostics. It collects hardware details, OS properties, network information, In built app manager for quick customization of both system apps and downloaded app, and executes safe shell commands through a clean, modular architecture.
  * [APK-MultiUpdate](https://github.com/alltechdev/APK-MultiUpdate) - In-app update library for Android - check GitHub releases, download APKs, install via Native/Session/Root/Shizuku/Dhizuku
+ * [AlinOs-for-android](https://github.com/heworkalin/AlinOs-for-android)
  * [AndroidToolKit](https://github.com/Shiho-Patch/AndroidToolKit)
  * [Audio-Toggle](https://github.com/Ruhdee/Audio-Toggle) - No-UI Android utility that toggles mono audio and audio balance
  * [AutoAIDL](https://github.com/NguyenDuck/AutoAIDL) - Gradle plugin auto generate aidl files from an Interface with annotations
@@ -138,8 +141,10 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Frame-generation-](https://github.com/proqaz2-design/Frame-generation-) - Without root 
  * [FrameX-Android](https://github.com/MaheshSharan/FrameX-Android) - Android FPS meter and performance overlay powered by Shizuku.
  * [FrostPlum](https://github.com/jickylive/FrostPlum)
+ * [GameModeAI](https://github.com/raikiripov21-debug/GameModeAI) - Android app for game optimization with Shizuku support
  * [Geargrinder](https://github.com/Benjamin-Wiegand/Geargrinder) - A free and open source alternative to Android Auto
  * [HandsOff](https://github.com/moqaddasQA/HandsOff) - Universal Android privacy guardian. Blocks DNS trackers, monitors mic/camera access, watches for new permissions. No root required.
+ * [Hdd](https://github.com/bahoj66-code/Hdd) - Habi
  * [HyperDeck](https://github.com/ytf211/HyperDeck)
  * [Kartika-IDE](https://github.com/hasanelfalakiy/Kartika-IDE) - A next-gen IDE for JVM development on Android. Forked from Cosmic-IDE.
  * [KeiOS](https://github.com/hosizoraru/KeiOS)
@@ -155,8 +160,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [NeverlagM3](https://github.com/rahmatsobrian/NeverlagM3)
  * [Nexus-framework](https://github.com/1andrewprice6-jpg/Nexus-framework)
  * [NongMol-AI-Pro](https://github.com/sitthit2-rgb/NongMol-AI-Pro)
- * [OmniDev-Workspace](https://github.com/obieda-hussien/OmniDev-Workspace)
- * [Operit-y](https://github.com/yang-yang9/Operit-y) - The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大的AI Agent
  * [QAAutoTool](https://github.com/Woogie-Gim/QAAutoTool) - Shizuku 활용 앱 자원 측정 안드로이드 앱
  * [RTOSify](https://github.com/AILIFE-4798/RTOSify)
  * [Replay-passador-o-melhor-de-todos](https://github.com/luanzzkribeirozzk-design/Replay-passador-o-melhor-de-todos)
@@ -199,6 +202,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [universal-installer](https://github.com/pass-with-high-score/universal-installer) - A modern Android app for installing and managing APK packages with split APK support, silent install via Shizuku, and VirusTotal malware scanning.
  * [usafiri](https://github.com/Dream-kid-342/usafiri) - First stable release of a Flutter + Supabase M-Pesa payment system.   Supports STK Push, real-time callbacks, subscription activation, and error logging.
  * [v-app-info](https://github.com/Shiho-Patch/v-app-info)
+ * [vip.lv1uxkp26-gmail.com](https://github.com/viplv1uxkp26-vip/vip.lv1uxkp26-gmail.com)
  * [vk-s-NeuroAmpDSP](https://github.com/drkvvk2015/vk-s-NeuroAmpDSP)
  * [yolozimiao](https://github.com/joeykang789/yolozimiao)
  * [yw-editor-for-android](https://github.com/atuy1219/yw-editor-for-android)

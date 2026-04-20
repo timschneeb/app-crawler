@@ -50,6 +50,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [MAA-Meow](https://github.com/Aliothmoon/MAA-Meow) - 《明日方舟》小助手Android版，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
  * [MCON2CODM](https://github.com/TripleU613/MCON2CODM) - Connects MCON controller with CODM - Or any controller. 
  * [MOD-STORE](https://github.com/Developer-For-Git/MOD-STORE) - An application to download open-source apps.
+ * [Mafza](https://github.com/yshalsager/Mafza) - Emergency actions runner with one configurable profile, external emergency triggers, and a safe Dry Run mode.
  * [MiHealth_AmapFix](https://github.com/ljy6-6-6/MiHealth_AmapFix) - 禁止小米运动健康屏蔽高德地图的焦点通知，在HyperOS2.0下，当导航触发焦点通知后，可在穿戴式产品上显示实时导航信息。
  * [MinecraftAntiCheat-Android](https://github.com/Sittirahmadia/MinecraftAntiCheat-Android)
  * [MoFont](https://github.com/kirenath/MoFont) - 在 One UI 8 上免 root 安装自定义字体
@@ -62,6 +63,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Smart-Edge](https://github.com/Imtiaz-Official/Smart-Edge)
  * [Stellar](https://github.com/roro2239/Stellar) - Another Shizuku impl
  * [UberAutoAccept](https://github.com/mim1012/UberAutoAccept) - Vortex 스타일의 상태 머신 기반 Uber 드라이버 자동 콜 수락 Android 애플리케이션
+ * [Universal Installer](https://github.com/pass-with-high-score/universal-installer) - APK/APKS/XAPK/APKM installer with OBB, URL downloads, Shizuku & VirusTotal scans
  * [VInstall](https://github.com/vinstall/VInstall) - Android package installer supporting APK, XAPK, APKS, APKM, and the custom APKV encrypted format — with built-in app manager, backup, and silent install via root or Shizuku.
  * [VPNOnOff](https://github.com/pricky777/VPNOnOff)
  * [Vortex](https://github.com/mim1012/Vortex)
@@ -89,6 +91,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [gpstest](https://github.com/ZForest000/gpstest)
  * [immich-cloud-media](https://github.com/Dreaming-Codes/immich-cloud-media)
  * [input-leaf](https://github.com/anasvhora284/input-leaf) - Android client for Input Leap — share keyboard & mouse from your pc to your phone 
+ * [keyviewer-android](https://github.com/leoleo0980627-web/keyviewer-android) - keyviewer for android
  * [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ / Linkura Localify / LoveLive Translation / llll
  * [mcpshell](https://github.com/xnet-admin-1/mcpshell) - Android MCP server with sh, proot Ubuntu, and Shizuku rish shell tools
  * [mobile-data-switcher](https://github.com/adhupraba/mobile-data-switcher)
@@ -98,6 +101,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [pims](https://github.com/dmitry-goncharov/pims) - The app for enabling VoLTE and VoWiFi on Google Pixel smartphone
  * [pocket-lobster-android](https://github.com/zhangzheyuanviolin-ship-it/pocket-lobster-android) - 口袋大龙虾 Pocket Lobster for Android: Codex + OpenClaw, dual terminals, Shizuku system shell, shared storage, and on-device AI task execution.
  * [pocket_waifu](https://github.com/yuriluv/pocket_waifu)
+ * [poco-x8-led](https://github.com/Pan-Tester/poco-x8-led) - tak.
  * [quickeditapp](https://github.com/DaDevMikey/quickeditapp)
  * [scrollsnap](https://github.com/li-junlei/scrollsnap)
  * [shellbox](https://github.com/xnet-admin-1/shellbox)
@@ -130,6 +134,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [MiRearScreenSwitcher](https://github.com/GoldenglowSusie/MiRearScreenSwitcher) - 为小米17Pro及以上（也许及以后）机型的背屏一键切换器
  * [MndroLua](https://github.com/Crescent-of-Maya/MndroLua) - A modern fork of AndroLua+ / 更加现代的 AndroLua+ 魔改版
  * [Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
+ * [Shizuku](https://github.com/lZiMUl/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
  * [WuWa-Tool-Android](https://github.com/k4wai1/WuWa-Tool-Android) - An app to organize and apply Wuthering Waves graphics configs safely using Shizuku.
  * [chrono-s_camera_android](https://github.com/newyusir/chrono-s_camera_android) - android port of chrono's camera
  * [fps_switcher](https://github.com/AlphaBoom/fps_switcher) - MIUI切换刷新率快捷开关
@@ -175,6 +180,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [LNStretch](https://github.com/luanzzkribeirozzk-design/LNStretch) - LN Stretch — Esticador de tela Free Fire
  * [LineTheme](https://github.com/JasonHongGG/LineTheme)
  * [MWV-Script-](https://github.com/17crown1901mituru/MWV-Script-)
+ * [Martin-Agent](https://github.com/KKMartin/Martin-Agent)
  * [Metricdrivers2.1](https://github.com/angeljs6819-hub/Metricdrivers2.1)
  * [MiAdKiller](https://github.com/m13629812143/MiAdKiller) - 小米手机广告管理工具 - 免Root一键关闭MIUI/HyperOS广告
  * [MiRearPlayback](https://github.com/Sevilze/MiRearPlayback)
@@ -193,7 +199,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [SignalFix](https://github.com/zhaochunqi/SignalFix) - 修复类原生的信号问题
  * [StereoBalanceOverlay](https://github.com/du4n31/StereoBalanceOverlay)
  * [SystemBridgeFramework](https://github.com/olivia1246/SystemBridgeFramework) - Framework for Android to allow websites or other applications to request custom payload execution by utilising URL schemes.
- * [ThemedManager](https://github.com/Osanosa/ThemedManager) - Themed Overlays Manager
  * [TouchTool](https://github.com/mr-bogey/TouchTool) - 使用Android无障碍功能来帮助用户点击。蓝图式任务编辑
  * [VS-Mobile](https://github.com/ahksoft/VS-Mobile) - Run VSCode on Android
  * [VulnKit](https://github.com/sqxy090123/VulnKit)
@@ -239,9 +244,9 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Golden-IDE](https://github.com/scto/Golden-IDE)
  * [MiRearScreenSwitcherEnglish](https://github.com/aaronnat23/MiRearScreenSwitcherEnglish)
  * [PhonePointer](https://github.com/Usepot/PhonePointer)
- * [Shizuku](https://github.com/Topher68chris/Shizuku)
  * [SimpleVirtualDisplay](https://github.com/kangrio/SimpleVirtualDisplay) - open any apps in virtual display require shizuku
  * [SuperWindow](https://github.com/eiyooooo/SuperWindow) - 超级视窗 | Enhance multi-task experience for large-screen Android devices
+ * [ThemedManager](https://github.com/Osanosa/ThemedManager) - Themed Overlays Manager
  * [ThirdpartyPhysicalChannelConfig](https://github.com/takusan23/ThirdpartyPhysicalChannelConfig)
  * [android-settings-scheduler](https://github.com/Turtlepaw/android-settings-scheduler) - Schedule any settings that are in the Android Settings app to be changed
  * [chengying](https://github.com/nowmore/chengying)

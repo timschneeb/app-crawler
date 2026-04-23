@@ -62,6 +62,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [MoFont](https://github.com/kirenath/MoFont) - 在 One UI 8 上免 root 安装自定义字体
  * [Movinkpad-stylus-remapper](https://github.com/KawaNae/Movinkpad-stylus-remapper)
  * [Mtzeditor](https://github.com/Alisuuu/Mtzeditor)
+ * [OpenBeam](https://github.com/laridzhang/OpenBeam) - OpenBeam 是一个 Android 工具，用来把手机上的应用启动到外接显示器，并把手机屏幕当作触控板、键盘和导航控制器使用。项目基于 Kotlin、Jetpack Compose、Gradle 和 Shizuku。
  * [OpenLoader](https://github.com/thebytearray/OpenLoader) - OpenLoader is a open source android app that lets user install any apk they want.
  * [RootlessStore](https://github.com/Resilien-Mobile/RootlessStore) - An open-source, rootless plugin management and runtime platform for the Android ecosystem
  * [SCUNETlogin](https://github.com/LFWQSP2641/SCUNETlogin)
@@ -85,6 +86,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [anti-tracker](https://github.com/HonzaV/anti-tracker) - GPS, Bluetooth, WiFi, Data and carrier cellphone signal all those can be used to track you. Get rid of tracking with this Android App. 
  * [anubis](https://github.com/sogonov/anubis) - Android app manager with VPN integration. Manages groups of apps by freezing/unfreezing them based on VPN connection state.
  * [aod-suite](https://github.com/OutrageousStorm/aod-suite) - 🌙 AOD Suite — Always On Display customization via Shizuku ADB. Control min brightness, blurred wallpaper, gestures & more.
+ * [aurora-app-updater](https://github.com/gwku/aurora-app-updater) - Aurora Store fork — updates only, no new installs
  * [bgmi-engine](https://github.com/surajheadsup/bgmi-engine)
  * [botdrop-android](https://github.com/zhixianio/botdrop-android) - Run AI agents on your Android phone — no terminal, no CLI, just a guided setup.
  * [carrier-ims-for-pixel](https://github.com/ryfineZ/carrier-ims-for-pixel) - Carrier IMS for Pixel (TurboIMS): multilingual (中文/English) pixel ims / ims / carrierconfig / volte / vowifi / 5G+ toolkit for Google Pixel.
@@ -212,6 +214,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [VS-Mobile](https://github.com/ahksoft/VS-Mobile) - Run VSCode on Android
  * [VulnKit](https://github.com/sqxy090123/VulnKit)
  * [adocker](https://github.com/LukeXeon/adocker) - 在Android上运行Docker容器，借助AI开发的项目
+ * [aiope](https://github.com/xnet-admin-1/aiope) - AIOPE Android app
  * [androTOP](https://github.com/c0dev0id/androTOP) - CPU in the status bar
  * [android-desktop-touchpad](https://github.com/prespic/android-desktop-touchpad) - Virtual touchpad for Android Desktop Mode on external displays. Uses Shizuku to inject mouse events on the secondary screen. Built for Pixel 8+ with Android 15+.
  * [android-doctor-app](https://github.com/knowamit/android-doctor-app) - Android Doctor companion app — diagnose why your phone is slow, directly on device. Kotlin + Jetpack Compose + MVVM + Clean Architecture.
@@ -232,6 +235,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [mlbb-history-analyst](https://github.com/Amethyst666/mlbb-history-analyst)
  * [ophoner](https://github.com/aaditagrawal/ophoner) - On-device Android AI agent — Jetpack Compose, tool-calling LLMs (Claude / OpenAI-compatible), sandboxed shell + file + web tools
  * [phone-assistant](https://github.com/z-ph/phone-assistant)
+ * [roubao1](https://github.com/qwerty70020/roubao1)
  * [samsung_ota](https://github.com/zainarbani/samsung_ota)
  * [sband_mobile_exploit_lab](https://github.com/usercopy-fault/sband_mobile_exploit_lab) - Advanced Android lab for exploit-path research and payload rehearsal.
  * [servastore-code](https://github.com/servalabs/servastore-code) - Get Android app updates straight from the source.
@@ -241,6 +245,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [switchuser](https://github.com/allisonbzk/switchuser) - Switch user APP for buggy MIUI which won't allow multi user to switch accounts
  * [tauri-plugin-shizuku](https://github.com/zhangnjsd/tauri-plugin-shizuku)
  * [termux-launcher](https://github.com/fvkd/termux-launcher)
+ * [turboX-booster](https://github.com/charlysaenzx2657-wq/turboX-booster)
  * [usafiri](https://github.com/Dream-kid-342/usafiri) - First stable release of a Flutter + Supabase M-Pesa payment system.   Supports STK Push, real-time callbacks, subscription activation, and error logging.
  * [v-app-info](https://github.com/Shiho-Patch/v-app-info)
  * [vip.lv1uxkp26-gmail.com](https://github.com/viplv1uxkp26-vip/vip.lv1uxkp26-gmail.com)
@@ -257,7 +262,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Golden-IDE](https://github.com/scto/Golden-IDE)
  * [MiRearScreenSwitcherEnglish](https://github.com/aaronnat23/MiRearScreenSwitcherEnglish)
  * [PhonePointer](https://github.com/Usepot/PhonePointer)
- * [Shizuku](https://github.com/Topher68chris/Shizuku)
+ * [Shizuku](https://github.com/skyskym30/Shizuku)
  * [SimpleVirtualDisplay](https://github.com/kangrio/SimpleVirtualDisplay) - open any apps in virtual display require shizuku
  * [SuperWindow](https://github.com/eiyooooo/SuperWindow) - 超级视窗 | Enhance multi-task experience for large-screen Android devices
  * [ThemedManager](https://github.com/Osanosa/ThemedManager) - Themed Overlays Manager

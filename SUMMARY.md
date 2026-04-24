@@ -54,6 +54,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [HermesApp](https://github.com/SelectXn00b/HermesApp)
  * [HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！
  * [HyperDeck](https://github.com/ytf211/HyperDeck)
+ * [KOMA](https://github.com/UDIN-K/KOMA) - Koma (コマ) Is A Free and open source manga reader for Android
  * [KeiOS](https://github.com/hosizoraru/KeiOS)
  * [LCLD](https://github.com/pawanwashudev-official/LCLD)
  * [MAA-Meow](https://github.com/Aliothmoon/MAA-Meow) - 《明日方舟》小助手Android版，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
@@ -170,7 +171,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Audio-Toggle](https://github.com/Ruhdee/Audio-Toggle) - No-UI Android utility that toggles mono audio and audio balance
  * [AutoAIDL](https://github.com/NguyenDuck/AutoAIDL) - Gradle plugin auto generate aidl files from an Interface with annotations
  * [BattleGrounds_GFX](https://github.com/Krish-malik/BattleGrounds_GFX) - BattleGrounds GFX Tool is a performance optimization app for games like PUBG Mobile, BGMI, and other battleground titles. It unlocks higher FPS options, optimizes graphics settings, reduces lag, and improves smoothness based on your device without changing core gameplay. Perfect for stable, competitive play.
- * [Bypass-dima](https://github.com/luanzzkribeirozzk-design/Bypass-dima)
  * [CaptureSecureScreen](https://github.com/jimmychanii/CaptureSecureScreen) - A android tools to capture screen, includes secure flag activity
  * [CosmoClicker](https://github.com/Kiyoscripts/CosmoClicker) - Modern Material Design 3 autoclicker for Android
  * [DexCoverPad](https://github.com/Gh0strab/DexCoverPad)
@@ -183,11 +183,9 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [FrameX-Android](https://github.com/MaheshSharan/FrameX-Android) - Android FPS meter and performance overlay powered by Shizuku.
  * [FrostPlum](https://github.com/jickylive/FrostPlum)
  * [GameModeAI-A26](https://github.com/raikiripov21-debug/GameModeAI-A26) - GameModeAI para Samsung Galaxy A26 5G — Exynos 1380, 90Hz AMOLED, Android 14
- * [Geargrinder](https://github.com/Benjamin-Wiegand/Geargrinder) - A free and open source alternative to Android Auto
  * [HandsOff](https://github.com/moqaddasQA/HandsOff) - Universal Android privacy guardian. Blocks DNS trackers, monitors mic/camera access, watches for new permissions. No root required.
  * [Hdd](https://github.com/bahoj66-code/Hdd) - Habi
  * [Inureappmanager](https://github.com/billyhunt79/Inureappmanager)
- * [KOMA](https://github.com/UDIN-K/KOMA)
  * [Kartika-IDE](https://github.com/hasanelfalakiy/Kartika-IDE) - A next-gen IDE for JVM development on Android. Forked from Cosmic-IDE.
  * [Kiri-Store](https://github.com/kriss2012/Kiri-Store)
  * [LNStretch](https://github.com/luanzzkribeirozzk-design/LNStretch) - LN Stretch — Esticador de tela Free Fire
@@ -266,7 +264,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Golden-IDE](https://github.com/scto/Golden-IDE)
  * [MiRearScreenSwitcherEnglish](https://github.com/aaronnat23/MiRearScreenSwitcherEnglish)
  * [PhonePointer](https://github.com/Usepot/PhonePointer)
- * [Shizuku](https://github.com/skyskym30/Shizuku)
+ * [Shizuku](https://github.com/Topher68chris/Shizuku)
  * [SimpleVirtualDisplay](https://github.com/kangrio/SimpleVirtualDisplay) - open any apps in virtual display require shizuku
  * [SuperWindow](https://github.com/eiyooooo/SuperWindow) - 超级视窗 | Enhance multi-task experience for large-screen Android devices
  * [ThemedManager](https://github.com/Osanosa/ThemedManager) - Themed Overlays Manager

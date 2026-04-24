@@ -24,6 +24,9 @@ def scan_apps(github_auth):
 
 def entry_to_string(app):
     line = f" * [{app.name}]({app.urls[0]})"
+
+    if app.scanner == "FDroidScanner":
+        line += f" `fdroid`"
     if app.desc is not None:
         line += f" - {app.desc}"
     line += "\n"

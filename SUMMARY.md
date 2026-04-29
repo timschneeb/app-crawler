@@ -45,12 +45,14 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [DeXKeyBoard](https://github.com/16rab/DeXKeyBoard)
  * [DiscoLauncher](https://github.com/cherryhoax/DiscoLauncher) - A groovy personalized home screen experience
  * [EasierSpot](https://github.com/AgentKosticka/EasierSpot)
+ * [Exorcist](https://github.com/Warhorse76/Exorcist)
  * [ExtensionBox](https://github.com/omersusin/ExtensionBox) - Extension box 
  * [FileLeader](https://github.com/evecus/FileLeader)
  * [FingerTheGame](https://github.com/FZ1010/FingerTheGame) - Android save-data editor — poke any app's NRBF/SQLite/text/binary file via Shizuku, no root needed.
  * [FiveGCatRat](https://github.com/Tamako21/FiveGCatRat)
  * [Flyme-FreeForm](https://github.com/Live-Block/Flyme-FreeForm) - A FlymeOS style freeform
  * [Flywheel](https://github.com/Benjamin-Wiegand/Flywheel) - A free and open source alternative to Android Auto
+ * [FrameX-Android](https://github.com/MaheshSharan/FrameX-Android) - Android FPS meter and performance overlay powered by Shizuku.
  * [GameModeAI](https://github.com/raikiripov21-debug/GameModeAI) - Android app for game optimization with Shizuku support
  * [GlyphHacker](https://github.com/Young-Lord/GlyphHacker) - LOVE Ingress Glyph Hack with Android power.
  * [GlyphRecorder](https://github.com/aaa1115910/GlyphRecorder) - A glyph recognition tool.
@@ -62,6 +64,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [MAA-Meow](https://github.com/Aliothmoon/MAA-Meow) - 《明日方舟》小助手Android版，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
  * [MCON2CODM](https://github.com/TripleU613/MCON2CODM) - Connects MCON controller with CODM - Or any controller. 
  * [MOD-STORE](https://github.com/Developer-For-Git/MOD-STORE) - An application to download open-source apps.
+ * [MSoris-Mapper](https://github.com/noteveno/MSoris-Mapper) - MSoris - Keyboard and mouse mapper for Android gaming
  * [Mafza](https://github.com/yshalsager/Mafza) - Emergency actions runner with one configurable profile, external emergency triggers, and a safe Dry Run mode.
  * [MiHealth_AmapFix](https://github.com/ljy6-6-6/MiHealth_AmapFix) - 禁止小米运动健康屏蔽高德地图的焦点通知，在HyperOS2.0下，当导航触发焦点通知后，可在穿戴式产品上显示实时导航信息。
  * [MinecraftAntiCheat-Android](https://github.com/Sittirahmadia/MinecraftAntiCheat-Android)
@@ -125,6 +128,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [poco-x8-led](https://github.com/Pan-Tester/poco-x8-led) - tak.
  * [quickeditapp](https://github.com/DaDevMikey/quickeditapp)
  * [scrollsnap](https://github.com/li-junlei/scrollsnap)
+ * [sharemove](https://github.com/thejaustin/sharemove) - Hide apps from Android's intent chooser sheet (APK installer, browser, and more) — Shizuku or root
  * [shellbox](https://github.com/xnet-admin-1/shellbox)
  * [shizuku-ftp](https://github.com/rD227/shizuku-ftp) - FTP server app for android with using Shizuku
  * [silva-manager](https://github.com/SilvaTechB/silva-manager) - Silva Manager - Android APK patcher and patch manager
@@ -171,6 +175,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
 #### Updated in the last 3 months
 
  * [123](https://github.com/Lin-ZCZ/123)
+ * [ACTScope](https://github.com/BIGGGJerry/ACTScope)
  * [ADB-Commander](https://github.com/god-s-only/ADB-Commander) - A lightweight Android tool that provides deep, accurate, developer-grade diagnostics. It collects hardware details, OS properties, network information, In built app manager for quick customization of both system apps and downloaded app, and executes safe shell commands through a clean, modular architecture.
  * [AIGC_Figma_Frontend](https://github.com/p05-HY/AIGC_Figma_Frontend) - AIGC安卓端
  * [APK-MultiUpdate](https://github.com/alltechdev/APK-MultiUpdate) - In-app update library for Android - check GitHub releases, download APKs, install via Native/Session/Root/Shizuku/Dhizuku
@@ -192,7 +197,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [FakeRoot](https://github.com/h465855hgg/FakeRoot) - 基于小米的服务漏洞制作的一个权限管理器
  * [FlexLauncher](https://github.com/Multitaskerplays/FlexLauncher) - Android app that allows multi-user
  * [Frame-generation-](https://github.com/proqaz2-design/Frame-generation-) - Without root 
- * [FrameX-Android](https://github.com/MaheshSharan/FrameX-Android) - Android FPS meter and performance overlay powered by Shizuku.
+ * [GlassFiles-1](https://github.com/lkolholk-ctrl/GlassFiles-1)
  * [HandsOff](https://github.com/moqaddasQA/HandsOff) - Universal Android privacy guardian. Blocks DNS trackers, monitors mic/camera access, watches for new permissions. No root required.
  * [Hdd](https://github.com/bahoj66-code/Hdd) - Habi
  * [Inureappmanager](https://github.com/billyhunt79/Inureappmanager)
@@ -203,7 +208,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [LineTheme](https://github.com/JasonHongGG/LineTheme)
  * [MD2.1](https://github.com/Angel782-hub/MD2.1)
  * [MWV-Script-](https://github.com/17crown1901mituru/MWV-Script-)
- * [MaidMic](https://github.com/suer781/MaidMic) - 🎤 Android 虚拟麦克风 · 自研 Echio 变声引擎 · 实时 DSP 处理 · Shizuku/Root/无障碍三方案
+ * [MaidMic](https://github.com/suer781/MaidMic) - 🎤 Android 虚拟麦克风 · 3引擎可切换（直通/Echio均衡/频响曲线）· 实时DSP（变调/失真/混响/回声/共振峰）· HXAudio风格UI · Magisk/Shizuku/无障碍三方案
  * [Martin-Agent](https://github.com/KKMartin/Martin-Agent)
  * [Metricdrivers2.1](https://github.com/angeljs6819-hub/Metricdrivers2.1)
  * [MiAdKiller](https://github.com/m13629812143/MiAdKiller) - 小米手机广告管理工具 - 免Root一键关闭MIUI/HyperOS广告
@@ -214,6 +219,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [NeverlagM3](https://github.com/rahmatsobrian/NeverlagM3)
  * [Nexus-framework](https://github.com/1andrewprice6-jpg/Nexus-framework)
  * [NongMol-AI-Pro](https://github.com/sitthit2-rgb/NongMol-AI-Pro)
+ * [PhantomFilesPro](https://github.com/gecew79810-bit/PhantomFilesPro)
  * [RTOSify](https://github.com/AILIFE-4798/RTOSify)
  * [RefreshRateManager](https://github.com/servant1228/RefreshRateManager) - Android 刷新率管理工具 | Root + Shizuku  | 全局生效
  * [Replay-passador-o-melhor-de-todos](https://github.com/luanzzkribeirozzk-design/Replay-passador-o-melhor-de-todos)
@@ -227,7 +233,9 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Untethered](https://github.com/god-s-only/Untethered) - LADB Alternative, literally
  * [VInstall](https://github.com/khanCorporation/VInstall) - Install APK, XAPK, APKS, APKM, APKV, and ZIP files on Android with app manager, backup, and uninstaller support
  * [VS-Mobile](https://github.com/ahksoft/VS-Mobile) - Run VSCode on Android
+ * [VirtualX](https://github.com/SpideryBook7/VirtualX)
  * [VulnKit](https://github.com/sqxy090123/VulnKit)
+ * [ZFluxFileManager](https://github.com/krishn03id/ZFluxFileManager)
  * [adocker](https://github.com/LukeXeon/adocker) - 在Android上运行Docker容器，借助AI开发的项目
  * [aiope](https://github.com/xnet-admin-1/aiope) - AIOPE Android app
  * [andriod-asr](https://github.com/123hi123/andriod-asr) - 说点啥 Dev (BiBi Keyboard Dev) — AI 智能语音输入法，基于 BiBi-Keyboard 的衍生版本
@@ -272,6 +280,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [vip.lv1uxkp26-gmail.com](https://github.com/viplv1uxkp26-vip/vip.lv1uxkp26-gmail.com)
  * [vk-s-NeuroAmpDSP](https://github.com/drkvvk2015/vk-s-NeuroAmpDSP)
  * [volume-flashlight](https://github.com/null-dev/volume-flashlight) - Toggle your flashlight on Android by holding the volume-down button - without root
+ * [vpn4tv-native](https://github.com/VPN4TV/vpn4tv-native) - VPN4TV Native — Kotlin Android TV VPN client based on sing-box
  * [xyroo_Sensix](https://github.com/auzia012/xyroo_Sensix)
  * [yolozimiao](https://github.com/joeykang789/yolozimiao)
  * [ytandroidauto](https://github.com/cma58/ytandroidauto) - typlayerauto

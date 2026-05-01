@@ -43,7 +43,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Crossset](https://github.com/Alisuuu/Crossset)
  * [DataSimTile](https://github.com/Mygod/DataSimTile) - Quick Settings tile to switch the default mobile data SIM via Shizuku
  * [DeXKeyBoard](https://github.com/16rab/DeXKeyBoard)
- * [DiscoLauncher](https://github.com/cherryhoax/DiscoLauncher) - A groovy personalized home screen experience
  * [EasierSpot](https://github.com/AgentKosticka/EasierSpot)
  * [Exorcist](https://github.com/Warhorse76/Exorcist)
  * [ExtensionBox](https://github.com/omersusin/ExtensionBox) - Extension box 
@@ -74,6 +73,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [MoFont](https://github.com/kirenath/MoFont) - 在 One UI 8 上免 root 安装自定义字体
  * [Movinkpad-stylus-remapper](https://github.com/KawaNae/Movinkpad-stylus-remapper)
  * [Mtzeditor](https://github.com/Alisuuu/Mtzeditor)
+ * [Nibnya](https://github.com/yinghuajimew/Nibnya) - An Android NBT editor for Minecraft Bedrock, powered by Shizuku for /data access. | 一款基于 Shizuku 的安卓 Minecraft 基岩版 NBT 数据编辑器，支持 Android 9~13
  * [OpenBeam](https://github.com/laridzhang/OpenBeam) - OpenBeam 是一个 Android 工具，用来把手机上的应用启动到外接显示器，并把手机屏幕当作触控板、键盘和导航控制器使用。项目基于 Kotlin、Jetpack Compose、Gradle 和 Shizuku。
  * [OpenLoader](https://github.com/thebytearray/OpenLoader) - OpenLoader is a open source android app that lets user install any apk they want.
  * [OpenOmniBot](https://github.com/omnimind-ai/OpenOmniBot) - 你的端侧 AI 助手，她可以操作终端，也可以完成 Android 世界的广泛任务 || Your on-device AI assistant, capable of operating terminals and performing a wide range of tasks in the Android world
@@ -96,6 +96,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ZenTasker](https://github.com/loongj-code/ZenTasker)
  * [ZeroLink](https://github.com/ly7753/ZeroLink)
  * [aa-logcat](https://github.com/mrmees/aa-logcat) - Android app for capturing Android Auto protocol debug logs during real-world sessions
+ * [ailife-rtosify](https://github.com/IamAdedo/ailife-rtosify)
  * [akihz](https://github.com/anlaki-py/akihz) - akihz
  * [alian-android](https://github.com/xlb1130/alian-android) - 想拥有自己的豆包/豆包手机吗？看看Alian，语音通话、视频通话、手机自动化、MCP可配...
  * [android-display-extend](https://github.com/jqssun/android-display-extend) - An all-purpose Android display manager for any connected physical or virtual display
@@ -151,7 +152,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [vFlow](https://github.com/ChaoMixian/vFlow) - vFlow 是一款为 Android 平台设计的、强大且高度可扩展的自动化工具。它允许你通过图形化界面，将一系列“动作模块”自由组合成强大的“工作流”，从而自动完成各种日常的、重复性的屏幕操作任务。
  * [wecho](https://github.com/qumolangmo/wecho) - An android application for global audio effects processing
  * [xreal-show-taps](https://github.com/shugi12345/xreal-show-taps) - an app that makes it so when connecting xreal glasses the developer option "show taps" enables automaticallyallowing you to see the location of your finger on screen
- * [zivpn-xsocks-core](https://github.com/shizukudes/zivpn-xsocks-core)
 
 #### Updated more than 3 months ago
 
@@ -159,6 +159,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Android-Screener](https://github.com/jiesou/Android-Screener) - A Shizuku/ROOT tool for easily adjusting screen resolution and frame rate
  * [Cfm_Joy_Manager](https://github.com/rlin1538/Cfm_Joy_Manager)
  * [Cytoid-Info-Querier-Android-Compose](https://github.com/Lyneon/Cytoid-Info-Querier-Android-Compose) - 一个安卓端的Cytoid查分器，也会提供查分以外的功能。兴趣驱动随便写的，随缘更新
+ * [DiscoLauncher](https://github.com/cherryhoax/DiscoLauncher) - A groovy personalized home screen experience
  * [ESP](https://github.com/bhikandeshmukh/ESP)
  * [FabricateOverlay](https://github.com/zacharee/FabricateOverlay)
  * [FakePowerOff](https://github.com/BinitDOX/FakePowerOff) - Simulate device shutdown, ideal for use with anti-theft apps.
@@ -179,15 +180,18 @@ Entries are sorted by name and grouped into a separate category if the attached 
 #### Updated in the last 3 months
 
  * [123](https://github.com/Lin-ZCZ/123)
+ * [5.1test](https://github.com/Lin-ZCZ/5.1test)
  * [ACTScope](https://github.com/BIGGGJerry/ACTScope)
  * [ADB-Commander](https://github.com/god-s-only/ADB-Commander) - A lightweight Android tool that provides deep, accurate, developer-grade diagnostics. It collects hardware details, OS properties, network information, In built app manager for quick customization of both system apps and downloaded app, and executes safe shell commands through a clean, modular architecture.
  * [AIGC_Figma_Frontend](https://github.com/p05-HY/AIGC_Figma_Frontend) - AIGC安卓端
  * [APK-MultiUpdate](https://github.com/alltechdev/APK-MultiUpdate) - In-app update library for Android - check GitHub releases, download APKs, install via Native/Session/Root/Shizuku/Dhizuku
+ * [AiApp](https://github.com/alexkingwew/AiApp)
  * [AimBuddy](https://github.com/1337Xcode/AimBuddy) - A fully on‑device Android‑native aim assistant that helps visually impaired players detect and track opponents in realtime
  * [AlinOs-for-android](https://github.com/heworkalin/AlinOs-for-android)
  * [AndroidFolderExplorer](https://github.com/SerZhyAle/AndroidFolderExplorer)
  * [AndroidToolKit](https://github.com/Shiho-Patch/AndroidToolKit)
  * [Androidapp](https://github.com/Kiyoscripts/Androidapp)
+ * [Attic](https://github.com/karanrajpal14/Attic) - Attic is an Android 14+ app that lets you sort your installed apps by how recently you used them, archive the ones collecting dust (removing their APKs while preserving your data), restrict their background data and activity, and set automatic re-archive rules so idle apps stay out of the way.
  * [Audio-Toggle](https://github.com/Ruhdee/Audio-Toggle) - No-UI Android utility that toggles mono audio and audio balance
  * [AutoAIDL](https://github.com/NguyenDuck/AutoAIDL) - Gradle plugin auto generate aidl files from an Interface with annotations
  * [BattleGrounds_GFX](https://github.com/Krish-malik/BattleGrounds_GFX) - BattleGrounds GFX Tool is a performance optimization app for games like PUBG Mobile, BGMI, and other battleground titles. It unlocks higher FPS options, optimizes graphics settings, reduces lag, and improves smoothness based on your device without changing core gameplay. Perfect for stable, competitive play.
@@ -221,6 +225,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Multiisland](https://github.com/lokey0905/Multiisland)
  * [MyApplication](https://github.com/Ynkcc/MyApplication)
  * [NeverlagM3](https://github.com/rahmatsobrian/NeverlagM3)
+ * [NewUI5.1](https://github.com/Lin-ZCZ/NewUI5.1)
  * [Nexus-framework](https://github.com/1andrewprice6-jpg/Nexus-framework)
  * [NongMol-AI-Pro](https://github.com/sitthit2-rgb/NongMol-AI-Pro)
  * [PhantomFilesPro](https://github.com/gecew79810-bit/PhantomFilesPro)
@@ -243,6 +248,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [aiope](https://github.com/xnet-admin-1/aiope) - AIOPE Android app
  * [andriod-asr](https://github.com/123hi123/andriod-asr) - 说点啥 Dev (BiBi Keyboard Dev) — AI 智能语音输入法，基于 BiBi-Keyboard 的衍生版本
  * [androTOP](https://github.com/c0dev0id/androTOP) - CPU in the status bar
+ * [android-bluetooth-bouncer](https://github.com/harvzor/android-bluetooth-bouncer)
  * [android-desktop-touchpad](https://github.com/prespic/android-desktop-touchpad) - Virtual touchpad for Android Desktop Mode on external displays. Uses Shizuku to inject mouse events on the secondary screen. Built for Pixel 8+ with Android 15+.
  * [android-doctor-app](https://github.com/knowamit/android-doctor-app) - Android Doctor companion app — diagnose why your phone is slow, directly on device. Kotlin + Jetpack Compose + MVVM + Clean Architecture.
  * [android-tiling-wm](https://github.com/Aypex/android-tiling-wm) - i3/Hyprland-style tiling window manager for Android 16+ phones. No root required.
@@ -252,6 +258,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [clip-sync](https://github.com/2cristo7/clip-sync) - Real-time clipboard sync between macOS and Android over LAN or Tailscale
  * [cn.pylin.xycjd](https://github.com/PYLinTech/cn.pylin.xycjd) - Xiaoyu Super Island
  * [com.miloooo.game.shizuku](https://github.com/ilinchunjie/com.miloooo.game.shizuku)
+ * [countryman](https://github.com/cloudinstone/countryman) - No Country for Old Men. 一个用于免 Root 调整 SIM 国家、运营商名称和号码显示的 Android 小工具。
  * [debloater](https://github.com/junior567cardozo-create/debloater) - bloatware do Android sem root
  * [dual-manager](https://github.com/trunone/dual-manager)
  * [emuflow](https://github.com/cpdekok/emuflow) - Automated emulator deployment, configuration & management for Android retro handhelds
@@ -272,7 +279,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [photopackages](https://github.com/oczt/photopackages) - Source code of Package Manager, an Application to Manage your Apps.
  * [samsung_ota](https://github.com/zainarbani/samsung_ota)
  * [sband_mobile_exploit_lab](https://github.com/usercopy-fault/sband_mobile_exploit_lab) - Advanced Android lab for exploit-path research and payload rehearsal.
- * [servastore-code](https://github.com/servalabs/servastore-code) - Get Android app updates straight from the source.
+ * [scaling-octo-fiesta](https://github.com/FadedSatori/scaling-octo-fiesta)
  * [shear_plate_hook](https://github.com/LinsVert/shear_plate_hook)
  * [sing-box-for-android](https://github.com/SagerNet/sing-box-for-android) - Experimental Android client for sing-box
  * [sonicLensFlutter](https://github.com/Satvik1769/sonicLensFlutter)

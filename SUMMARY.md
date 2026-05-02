@@ -96,7 +96,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ZenTasker](https://github.com/loongj-code/ZenTasker)
  * [ZeroLink](https://github.com/ly7753/ZeroLink)
  * [aa-logcat](https://github.com/mrmees/aa-logcat) - Android app for capturing Android Auto protocol debug logs during real-world sessions
- * [ailife-rtosify](https://github.com/IamAdedo/ailife-rtosify)
+ * [ailife-rtosify](https://github.com/IamAdedo/ailife-rtosify) - Mirror your phone's world to your wrist. Notifications, files, health, media, calls, and more—all in sync, over any connection.
  * [akihz](https://github.com/anlaki-py/akihz) - akihz
  * [alian-android](https://github.com/xlb1130/alian-android) - 想拥有自己的豆包/豆包手机吗？看看Alian，语音通话、视频通话、手机自动化、MCP可配...
  * [android-display-extend](https://github.com/jqssun/android-display-extend) - An all-purpose Android display manager for any connected physical or virtual display
@@ -152,6 +152,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [vFlow](https://github.com/ChaoMixian/vFlow) - vFlow 是一款为 Android 平台设计的、强大且高度可扩展的自动化工具。它允许你通过图形化界面，将一系列“动作模块”自由组合成强大的“工作流”，从而自动完成各种日常的、重复性的屏幕操作任务。
  * [wecho](https://github.com/qumolangmo/wecho) - An android application for global audio effects processing
  * [xreal-show-taps](https://github.com/shugi12345/xreal-show-taps) - an app that makes it so when connecting xreal glasses the developer option "show taps" enables automaticallyallowing you to see the location of your finger on screen
+ * [ytandroidauto](https://github.com/cma58/ytandroidauto) - typlayerauto
 
 #### Updated more than 3 months ago
 
@@ -195,6 +196,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Audio-Toggle](https://github.com/Ruhdee/Audio-Toggle) - No-UI Android utility that toggles mono audio and audio balance
  * [AutoAIDL](https://github.com/NguyenDuck/AutoAIDL) - Gradle plugin auto generate aidl files from an Interface with annotations
  * [BattleGrounds_GFX](https://github.com/Krish-malik/BattleGrounds_GFX) - BattleGrounds GFX Tool is a performance optimization app for games like PUBG Mobile, BGMI, and other battleground titles. It unlocks higher FPS options, optimizes graphics settings, reduces lag, and improves smoothness based on your device without changing core gameplay. Perfect for stable, competitive play.
+ * [Boost-AND](https://github.com/dah215/Boost-AND)
  * [CaptureSecureScreen](https://github.com/jimmychanii/CaptureSecureScreen) - A android tools to capture screen, includes secure flag activity
  * [CosmoClicker](https://github.com/Kiyoscripts/CosmoClicker) - Modern Material Design 3 autoclicker for Android
  * [DexCoverPad](https://github.com/Gh0strab/DexCoverPad)
@@ -218,10 +220,10 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [MWV-Script-](https://github.com/17crown1901mituru/MWV-Script-)
  * [MaidMic](https://github.com/suer781/MaidMic) - 🎤 Android 虚拟麦克风 · 3引擎可切换（直通/Echio均衡/频响曲线）· 实时DSP（变调/失真/混响/回声/共振峰）· HXAudio风格UI · Magisk/Shizuku/无障碍三方案
  * [Martin-Agent](https://github.com/KKMartin/Martin-Agent)
- * [Metricdrivers2.1](https://github.com/angeljs6819-hub/Metricdrivers2.1)
  * [MiAdKiller](https://github.com/m13629812143/MiAdKiller) - 小米手机广告管理工具 - 免Root一键关闭MIUI/HyperOS广告
  * [MiRearPlayback](https://github.com/Sevilze/MiRearPlayback)
  * [MobileAIDomestic](https://github.com/huy264128-netizen/MobileAIDomestic)
+ * [Multidroid](https://github.com/R4XGAMEZ/Multidroid)
  * [Multiisland](https://github.com/lokey0905/Multiisland)
  * [MyApplication](https://github.com/Ynkcc/MyApplication)
  * [NeverlagM3](https://github.com/rahmatsobrian/NeverlagM3)
@@ -259,6 +261,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [cn.pylin.xycjd](https://github.com/PYLinTech/cn.pylin.xycjd) - Xiaoyu Super Island
  * [com.miloooo.game.shizuku](https://github.com/ilinchunjie/com.miloooo.game.shizuku)
  * [countryman](https://github.com/cloudinstone/countryman) - No Country for Old Men. 一个用于免 Root 调整 SIM 国家、运营商名称和号码显示的 Android 小工具。
+ * [crownremap](https://github.com/okhsunrog/crownremap) - Pixel Watch 4: replace Google Wallet with Yandex Pay on crown double-press
  * [debloater](https://github.com/junior567cardozo-create/debloater) - bloatware do Android sem root
  * [dual-manager](https://github.com/trunone/dual-manager)
  * [emuflow](https://github.com/cpdekok/emuflow) - Automated emulator deployment, configuration & management for Android retro handhelds
@@ -278,7 +281,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [phone-assistant](https://github.com/z-ph/phone-assistant)
  * [photopackages](https://github.com/oczt/photopackages) - Source code of Package Manager, an Application to Manage your Apps.
  * [samsung_ota](https://github.com/zainarbani/samsung_ota)
- * [sband_mobile_exploit_lab](https://github.com/usercopy-fault/sband_mobile_exploit_lab) - Advanced Android lab for exploit-path research and payload rehearsal.
  * [scaling-octo-fiesta](https://github.com/FadedSatori/scaling-octo-fiesta)
  * [shear_plate_hook](https://github.com/LinsVert/shear_plate_hook)
  * [sing-box-for-android](https://github.com/SagerNet/sing-box-for-android) - Experimental Android client for sing-box
@@ -295,7 +297,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [vpn4tv-native](https://github.com/VPN4TV/vpn4tv-native) - VPN4TV Native — Kotlin Android TV VPN client based on sing-box
  * [xyroo_Sensix](https://github.com/auzia012/xyroo_Sensix)
  * [yolozimiao](https://github.com/joeykang789/yolozimiao)
- * [ytandroidauto](https://github.com/cma58/ytandroidauto) - typlayerauto
  * [yw-editor-for-android](https://github.com/atuy1219/yw-editor-for-android)
 
 #### Updated more than 3 months ago

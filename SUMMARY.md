@@ -53,7 +53,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Flywheel](https://github.com/Benjamin-Wiegand/Flywheel) - A free and open source alternative to Android Auto
  * [FrameX-Android](https://github.com/MaheshSharan/FrameX-Android) - Android FPS meter and performance overlay powered by Shizuku.
  * [Freezer](https://github.com/Samantha-fd/Freezer) - An Android app freezer using Shizuku — disable apps at the OS level without uninstalling. Save battery, stop notifications, keep your data.
- * [Fuck_ets100](https://github.com/qiuqiqiuqid/Fuck_ets100)
+ * [Fuck_ets100](https://github.com/listen-answer/Fuck_ets100)
  * [GameModeAI](https://github.com/raikiripov21-debug/GameModeAI) - Android app for game optimization with Shizuku support
  * [GlyphHacker](https://github.com/Young-Lord/GlyphHacker) - LOVE Ingress Glyph Hack with Android power.
  * [GlyphRecorder](https://github.com/aaa1115910/GlyphRecorder) - A glyph recognition tool.
@@ -61,7 +61,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！
  * [HyperDeck](https://github.com/ytf211/HyperDeck)
  * [KeiOS](https://github.com/hosizoraru/KeiOS)
- * [LCLD](https://github.com/pawanwashudev-official/LCLD)
  * [MAA-Meow](https://github.com/Aliothmoon/MAA-Meow) - 《明日方舟》小助手Android版，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
  * [MCON2CODM](https://github.com/TripleU613/MCON2CODM) - Connects MCON controller with CODM - Or any controller. 
  * [MOD-STORE](https://github.com/Developer-For-Git/MOD-STORE) - An application to download open-source apps.
@@ -79,10 +78,11 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [OpenOmniBot](https://github.com/omnimind-ai/OpenOmniBot) - 你的端侧 AI 助手，她可以操作终端，也可以完成 Android 世界的广泛任务 || Your on-device AI assistant, capable of operating terminals and performing a wide range of tasks in the Android world
  * [RefreshRateManager](https://github.com/servant1228/RefreshRateManager)
  * [RootlessStore](https://github.com/Resilien-Mobile/RootlessStore) - An open-source, rootless plugin management and runtime platform for the Android ecosystem
- * [SCUNETlogin](https://github.com/LFWQSP2641/SCUNETlogin)
+ * [SCUNETlogin](https://github.com/LFWQSP2641/SCUNETlogin) - 四川大学校园网（锐捷）自动登录 - Android 版本！
  * [Smart Edge: Sidebar & Gestures](https://github.com/Imtiaz-Official/Smart-Edge) `fdroid` - A highly customizable Android side panel inspired by OriginOS.
  * [Stellar](https://github.com/roro2239/Stellar) - Another Shizuku impl
  * [Stun](https://github.com/NNdroid/Stun) - High-Performance SSH Tunneling & VPN Client
+ * [TapStrapApp](https://github.com/ScribbleJ/TapStrapApp) - An Android IME for interfacing with the Tap Strap 
  * [ToolBox](https://github.com/OSSKn4w7/ToolBox)
  * [TrollExplorer](https://github.com/codingtrolling/TrollExplorer)
  * [UberAutoAccept](https://github.com/mim1012/UberAutoAccept) - Vortex 스타일의 상태 머신 기반 Uber 드라이버 자동 콜 수락 Android 애플리케이션
@@ -123,6 +123,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [gpstest](https://github.com/ZForest000/gpstest)
  * [immich-cloud-media](https://github.com/Dreaming-Codes/immich-cloud-media)
  * [input-leaf](https://github.com/anasvhora284/input-leaf) - Android client for Input Leap — share keyboard & mouse from your pc to your phone 
+ * [joycon-merge](https://github.com/Faraw4y/joycon-merge) - merge joycon and remap
  * [keyviewer-android](https://github.com/leoleo0980627-web/keyviewer-android) - keyviewer for android
  * [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ / Linkura Localify / LoveLive Translation / llll
  * [lsfTB](https://github.com/lsfdc233/lsfTB) - 某神秘初中牲突发奇想搞了个个人数字中枢
@@ -207,6 +208,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [DexCoverPad](https://github.com/Gh0strab/DexCoverPad)
  * [Distra-Quit](https://github.com/Hackersaikiran/Distra-Quit) - Distra Quit – Doomscrolling Control App
  * [EasyUserSwitcher](https://github.com/sorryusernameisalreadytaken/EasyUserSwitcher) - EasyUserSwitcher is an Android app that connects to the device’s own Wireless ADB interface and allows quick switching between Android user profiles. It lists available users via pm list users and performs automated am switch-user commands, including optional auto-return to the main user when the device becomes idle.
+ * [Ever-Call-Recorder](https://github.com/hari161008/Ever-Call-Recorder) - Ever Call Recorder is the best Open - Source Call recorder which uses Shizuku to record both side calls and gives you them as separate audio files or just as a single voice files which merges both Calls together.
  * [Everzuku](https://github.com/hari161008/Everzuku) - The better version of Shizuku
  * [FFStretchhhhhhhhh](https://github.com/luanzzkribeirozzk-design/FFStretchhhhhhhhh) - LN Stretch — Esticador de tela Free Fire
  * [FakeRoot](https://github.com/h465855hgg/FakeRoot) - 基于小米的服务漏洞制作的一个权限管理器
@@ -234,14 +236,17 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [MyApplication](https://github.com/Ynkcc/MyApplication)
  * [NeverlagM3](https://github.com/rahmatsobrian/NeverlagM3)
  * [NewUI5.1](https://github.com/Lin-ZCZ/NewUI5.1)
+ * [Nexus](https://github.com/maazm7d/Nexus) - "Everything you could do with root, without root.
  * [Nexus-framework](https://github.com/1andrewprice6-jpg/Nexus-framework)
  * [NongMol-AI-Pro](https://github.com/sitthit2-rgb/NongMol-AI-Pro)
  * [PhantomFilesPro](https://github.com/gecew79810-bit/PhantomFilesPro)
  * [PixelIMS](https://github.com/VinujaHerath/PixelIMS) - Enable 5G, VoLTE, VoWiFi and VoNR on Google Pixel devices with unsupported carriers — without root. Built specifically for users in Sri Lanka (Dialog, Mobitel) and other regions where Google has not officially certified local carriers for 5G/IMS features. Works on any Pixel running Android 12+.
  * [RTOSify](https://github.com/AILIFE-4798/RTOSify)
  * [Replay-passador-o-melhor-de-todos](https://github.com/luanzzkribeirozzk-design/Replay-passador-o-melhor-de-todos)
+ * [SamsungOpenRing](https://github.com/TheVellichor/SamsungOpenRing) - Open-source SDK for Samsung Galaxy Ring gesture detection over BLE
  * [ScreenshotFaker](https://github.com/Huai-Tian/ScreenshotFaker) - A software that supports user-defined screenshot content and has strong anti-detection capabilities
  * [Sesame-AG](https://github.com/aoguai/Sesame-AG) - Sesame-AG
+ * [ShaForgeIDE](https://github.com/XioroLabs/ShaForgeIDE) - All in one tool for phone integrated with compatible IDE with rootless deep forge features.
  * [SignalFix](https://github.com/zhaochunqi/SignalFix) - 修复类原生的信号问题
  * [StereoBalanceOverlay](https://github.com/du4n31/StereoBalanceOverlay)
  * [SystemBridgeFramework](https://github.com/olivia1246/SystemBridgeFramework) - Framework for Android to allow websites or other applications to request custom payload execution by utilising URL schemes.

@@ -44,6 +44,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [DataSimTile](https://github.com/Mygod/DataSimTile) - Quick Settings tile to switch the default mobile data SIM via Shizuku
  * [DeXKeyBoard](https://github.com/16rab/DeXKeyBoard)
  * [EasierSpot](https://github.com/AgentKosticka/EasierSpot)
+ * [Ever-Call-Recorder](https://github.com/hari161008/Ever-Call-Recorder) - Ever Call Recorder is the best Open - Source Call recorder which uses Shizuku to record both side calls and gives you them as separate audio files or just as a single voice files which merges both Calls together.
  * [Exorcist](https://github.com/Warhorse76/Exorcist)
  * [ExtensionBox](https://github.com/omersusin/ExtensionBox) - Extension box 
  * [FileLeader](https://github.com/evecus/FileLeader)
@@ -60,7 +61,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [HermesApp](https://github.com/SelectXn00b/HermesApp)
  * [HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！
  * [HyperDeck](https://github.com/ytf211/HyperDeck)
- * [KeiOS](https://github.com/hosizoraru/KeiOS)
+ * [KeiOS](https://github.com/hosizoraru/KeiOS) - A Jetpack Compose Android app focused on system utilities, GitHub tracking, BA content pages, miuix UI and liquid glass-style UI.
  * [MAA-Meow](https://github.com/Aliothmoon/MAA-Meow) - 《明日方舟》小助手Android版，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
  * [MCON2CODM](https://github.com/TripleU613/MCON2CODM) - Connects MCON controller with CODM - Or any controller. 
  * [MOD-STORE](https://github.com/Developer-For-Git/MOD-STORE) - An application to download open-source apps.
@@ -73,6 +74,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Movinkpad-stylus-remapper](https://github.com/KawaNae/Movinkpad-stylus-remapper)
  * [Mtzeditor](https://github.com/Alisuuu/Mtzeditor)
  * [Nibnya](https://github.com/yinghuajimew/Nibnya) - An Android NBT editor for Minecraft Bedrock, powered by Shizuku for /data access. | 一款基于 Shizuku 的安卓 Minecraft 基岩版 NBT 数据编辑器，支持 Android 9~13
+ * [Nrfr-Community-Improved](https://github.com/liuxian513/Nrfr-Community-Improved) - Community improved build of Ackites/Nrfr with Android 16 CarrierConfig fallback
  * [OpenBeam](https://github.com/laridzhang/OpenBeam) - OpenBeam 是一个 Android 工具，用来把手机上的应用启动到外接显示器，并把手机屏幕当作触控板、键盘和导航控制器使用。项目基于 Kotlin、Jetpack Compose、Gradle 和 Shizuku。
  * [OpenLoader](https://github.com/thebytearray/OpenLoader) - OpenLoader is a open source android app that lets user install any apk they want.
  * [OpenOmniBot](https://github.com/omnimind-ai/OpenOmniBot) - 你的端侧 AI 助手，她可以操作终端，也可以完成 Android 世界的广泛任务 || Your on-device AI assistant, capable of operating terminals and performing a wide range of tasks in the Android world
@@ -190,7 +192,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [5.1test](https://github.com/Lin-ZCZ/5.1test)
  * [ACTScope](https://github.com/BIGGGJerry/ACTScope)
  * [ADB-Commander](https://github.com/god-s-only/ADB-Commander) - A lightweight Android tool that provides deep, accurate, developer-grade diagnostics. It collects hardware details, OS properties, network information, In built app manager for quick customization of both system apps and downloaded app, and executes safe shell commands through a clean, modular architecture.
- * [AIGC_Figma_Frontend](https://github.com/p05-HY/AIGC_Figma_Frontend) - AIGC安卓端
+ * [AIGC_Figma_Frontend](https://github.com/BlueControler/AIGC_Figma_Frontend) - 超级蓝心小V - Android AI 智能助手前端
  * [APK-MultiUpdate](https://github.com/alltechdev/APK-MultiUpdate) - In-app update library for Android - check GitHub releases, download APKs, install via Native/Session/Root/Shizuku/Dhizuku
  * [AiApp](https://github.com/alexkingwew/AiApp)
  * [AimBuddy](https://github.com/1337Xcode/AimBuddy) - A fully on‑device Android‑native aim assistant that helps visually impaired players detect and track opponents in realtime
@@ -208,7 +210,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [DexCoverPad](https://github.com/Gh0strab/DexCoverPad)
  * [Distra-Quit](https://github.com/Hackersaikiran/Distra-Quit) - Distra Quit – Doomscrolling Control App
  * [EasyUserSwitcher](https://github.com/sorryusernameisalreadytaken/EasyUserSwitcher) - EasyUserSwitcher is an Android app that connects to the device’s own Wireless ADB interface and allows quick switching between Android user profiles. It lists available users via pm list users and performs automated am switch-user commands, including optional auto-return to the main user when the device becomes idle.
- * [Ever-Call-Recorder](https://github.com/hari161008/Ever-Call-Recorder) - Ever Call Recorder is the best Open - Source Call recorder which uses Shizuku to record both side calls and gives you them as separate audio files or just as a single voice files which merges both Calls together.
  * [Everzuku](https://github.com/hari161008/Everzuku) - The better version of Shizuku
  * [FFStretchhhhhhhhh](https://github.com/luanzzkribeirozzk-design/FFStretchhhhhhhhh) - LN Stretch — Esticador de tela Free Fire
  * [FakeRoot](https://github.com/h465855hgg/FakeRoot) - 基于小米的服务漏洞制作的一个权限管理器
@@ -265,10 +266,12 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [android-desktop-touchpad](https://github.com/prespic/android-desktop-touchpad) - Virtual touchpad for Android Desktop Mode on external displays. Uses Shizuku to inject mouse events on the secondary screen. Built for Pixel 8+ with Android 15+.
  * [android-doctor-app](https://github.com/knowamit/android-doctor-app) - Android Doctor companion app — diagnose why your phone is slow, directly on device. Kotlin + Jetpack Compose + MVVM + Clean Architecture.
  * [android-tiling-wm](https://github.com/Aypex/android-tiling-wm) - i3/Hyprland-style tiling window manager for Android 16+ phones. No root required.
+ * [androidoptimizer](https://github.com/Sittirahmadia/androidoptimizer)
  * [androlyze](https://github.com/c0dev0id/androlyze) - Android Analyze App
  * [ayaneoPocketDsUtility](https://github.com/linyoujie/ayaneoPocketDsUtility)
  * [bobonne](https://github.com/qqtaykey/bobonne)
  * [cn.pylin.xycjd](https://github.com/PYLinTech/cn.pylin.xycjd) - Xiaoyu Super Island
+ * [codey](https://github.com/AI-Trash/codey)
  * [com.miloooo.game.shizuku](https://github.com/ilinchunjie/com.miloooo.game.shizuku)
  * [countryman](https://github.com/cloudinstone/countryman) - No Country for Old Men. 一个用于免 Root 调整 SIM 国家、运营商名称和号码显示的 Android 小工具。
  * [crownremap](https://github.com/okhsunrog/crownremap) - Pixel Watch 4: replace Google Wallet with Yandex Pay on crown double-press

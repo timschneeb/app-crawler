@@ -12,6 +12,7 @@ class App:
             scanner: str, 
             has_downloads: bool = True,
             last_updated: datetime = None,
+            first_seen: datetime = None,
         ):
         self.name = name
         self.desc = desc
@@ -19,6 +20,7 @@ class App:
         self.scanner = scanner
         self.has_downloads = has_downloads
         self.last_updated = last_updated
+        self.first_seen = first_seen
 
     def __hash__(self):
         return hash(self.name)

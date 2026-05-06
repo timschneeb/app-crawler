@@ -54,6 +54,16 @@ def section_to_string(title: str, apps: list) -> str:
         else:
             old.append(a)
 
+    # Sort both groups by first_seen descending (newest first). Treat missing first_seen as very old.
+    def _fs_key(a):
+        fs = _make_aware(getattr(a, 'first_seen', None))
+        if fs is None:
+            return datetime.fromtimestamp(0, tz=UTC)
+        return fs
+
+    new.sort(key=_fs_key, reverse=True)
+    old.sort(key=_fs_key, reverse=True)
+
     if len(new) > 0 or len(old) > 0:
         report += f"### {title}\n\n"
 
@@ -115,13 +125,46 @@ def main():
     def remove_ignored_entries(a):
         return not (a.name in util.ignore_list or any(url in util.ignore_list for url in a.urls))
 
+    # Run scanners and get current-run apps
     apps = util.filter_known_apps(scan_apps(github_auth))
     apps = list(filter(remove_ignored_entries, apps))
+
+    # Ensure each app discovered in this run has a first_seen timestamp set to now (UTC)
+    now = datetime.now(UTC)
+    for a in apps:
+        if getattr(a, 'first_seen', None) is None:
+            a.first_seen = now
+
+    # Save current run to cache
     cache.save_current_run(apps)
     print()
 
     apps.extend(cached_apps)
-    apps = sorted(set(apps), key=attrgetter('name'))
+    # Merge duplicates by name, preserving the earliest first_seen date
+    def _make_aware(dt):
+        if dt is None:
+            return None
+        if dt.tzinfo is None:
+            return dt.replace(tzinfo=UTC)
+        return dt.astimezone(UTC)
+
+    merged = {}
+    for a in apps:
+        name = a.name
+        if name in merged:
+            existing = merged[name]
+            e_fs = _make_aware(getattr(existing, 'first_seen', None))
+            a_fs = _make_aware(getattr(a, 'first_seen', None))
+            # Choose the App object with the earliest non-None first_seen; if existing has no first_seen, prefer a
+            if e_fs is None and a_fs is not None:
+                merged[name] = a
+            elif e_fs is not None and a_fs is not None and a_fs < e_fs:
+                merged[name] = a
+            # else keep existing
+        else:
+            merged[name] = a
+
+    apps = sorted(list(merged.values()), key=attrgetter('name'))
     apps = util.filter_known_apps(apps)
     apps = list(filter(remove_ignored_entries, apps))
 

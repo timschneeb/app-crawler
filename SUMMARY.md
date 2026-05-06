@@ -130,7 +130,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [vFlow](https://github.com/ChaoMixian/vFlow) - vFlow 是一款为 Android 平台设计的、强大且高度可扩展的自动化工具。它允许你通过图形化界面，将一系列“动作模块”自由组合成强大的“工作流”，从而自动完成各种日常的、重复性的屏幕操作任务。
  * [wifiportal](https://github.com/lovitus/wifiportal)
  * [xreal-show-taps](https://github.com/shugi12345/xreal-show-taps) - an app that makes it so when connecting xreal glasses the developer option "show taps" enables automaticallyallowing you to see the location of your finger on screen
- * [Flywheel](https://github.com/Benjamin-Wiegand/Flywheel) - A free and open source alternative to Android Auto
  * [HyperDeck](https://github.com/ytf211/HyperDeck)
  * [clip-sync](https://github.com/2cristo7/clip-sync) - Real-time clipboard sync between macOS and Android over LAN or Tailscale
  * [ytandroidauto](https://github.com/cma58/ytandroidauto) - typlayerauto
@@ -285,7 +284,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [yw-editor-for-android](https://github.com/atuy1219/yw-editor-for-android)
  * [ShaForgeIDE](https://github.com/XioroLabs/ShaForgeIDE) - All in one tool for phone integrated with compatible IDE with rootless deep forge features.
  * [ZFluxFileManager](https://github.com/krishn03id/ZFluxFileManager)
- * [ayaneoPocketDsUtility](https://github.com/linyoujie/ayaneoPocketDsUtility)
  * [uscfmexf](https://github.com/usercopy-fault/uscfmexf) - usercopyfaultfd-mobile-exploit-Framework (uscfmexf) — mobile exploit research framework
 
 #### Updated more than 3 months ago

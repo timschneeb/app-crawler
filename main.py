@@ -112,7 +112,7 @@ def main():
         summary_file = "SUMMARY.md"
 
     path = args.targetPath
-    util.readme_paths = glob.glob(path + '/*.md') + glob.glob(path + '/pages/UNLISTED.md')
+    util.readme_paths = glob.glob(path + '/*.md') + glob.glob(path + '/pages/UNLISTED.md') + glob.glob(path + '/pages/CLOSED_SOURCE.md')
     report_path = os.getcwd() + "/" + summary_file
     
     cache_dir = os.getcwd() + "/cache"

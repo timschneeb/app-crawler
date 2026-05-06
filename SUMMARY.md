@@ -13,7 +13,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
 #### Updated in the last 3 months
 
  * [BitInstaller-dev](https://github.com/S0methingSomething/BitInstaller-dev)
- * [mtbtool-android-app](https://github.com/h3nnes/mtbtool-android-app) - Perform bandlock and edit EFS NV items on qualcomm-based Xiaomi devices without root
  * [AccountSwitcher](https://github.com/Ynkcc/AccountSwitcher)
  * [BA4D](https://github.com/Lumi083/BA4D)
  * [OpenOmniBot](https://github.com/omnimind-ai/OpenOmniBot) - Your on-device AI assistant, capable of operating terminals and performing a wide range of tasks in the Android world || 你的端侧 AI 助手，她可以操作终端，也可以完成 Android 世界的广泛任务 
@@ -131,7 +130,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [vFlow](https://github.com/ChaoMixian/vFlow) - vFlow 是一款为 Android 平台设计的、强大且高度可扩展的自动化工具。它允许你通过图形化界面，将一系列“动作模块”自由组合成强大的“工作流”，从而自动完成各种日常的、重复性的屏幕操作任务。
  * [wifiportal](https://github.com/lovitus/wifiportal)
  * [xreal-show-taps](https://github.com/shugi12345/xreal-show-taps) - an app that makes it so when connecting xreal glasses the developer option "show taps" enables automaticallyallowing you to see the location of your finger on screen
- * [ytandroidauto](https://github.com/cma58/ytandroidauto) - typlayerauto
 
 #### Updated more than 3 months ago
 
@@ -281,8 +279,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [xyroo_Sensix](https://github.com/auzia012/xyroo_Sensix)
  * [yolozimiao](https://github.com/joeykang789/yolozimiao)
  * [yw-editor-for-android](https://github.com/atuy1219/yw-editor-for-android)
- * [ShaForgeIDE](https://github.com/XioroLabs/ShaForgeIDE) - All in one tool for phone integrated with compatible IDE with rootless deep forge features.
- * [ZFluxFileManager](https://github.com/krishn03id/ZFluxFileManager)
 
 #### Updated more than 3 months ago
 

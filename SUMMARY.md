@@ -12,6 +12,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
 
 #### Updated in the last 3 months
 
+ * [AAAD](https://github.com/shmykelsa/AAAD) - The original application for downloading and installing apps made specifically for Android Auto outside of Google Play Store. Active since 2021.
  * [BitInstaller-dev](https://github.com/S0methingSomething/BitInstaller-dev)
  * [AccountSwitcher](https://github.com/Ynkcc/AccountSwitcher)
  * [BA4D](https://github.com/Lumi083/BA4D)
@@ -136,6 +137,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
 
 #### Updated more than 3 months ago
 
+ * [Extinguish](https://github.com/Moderpach/Extinguish) `fdroid` - Extinguish turn your screen off but keep your device wake.
  * [Cfm_Joy_Manager](https://github.com/rlin1538/Cfm_Joy_Manager)
  * [Android-Gyroscope-MC](https://github.com/WuDi-ZhanShen/Android-Gyroscope-MC) - 用陀螺仪玩安卓MC！Play Android MC with your phone's Gyro !
  * [Android-Screener](https://github.com/jiesou/Android-Screener) - A Shizuku/ROOT tool for easily adjusting screen resolution and frame rate

@@ -153,20 +153,19 @@ def main():
         return not (a.name in util.ignore_list or any(url in util.ignore_list for url in a.urls))
 
     # Run scanners and get current-run apps
-    #apps = util.filter_known_apps(scan_apps(github_auth))
-    #apps = list(filter(remove_ignored_entries, apps))
+    apps = util.filter_known_apps(scan_apps(github_auth))
+    apps = list(filter(remove_ignored_entries, apps))
 
     # Ensure each app discovered in this run has a first_seen timestamp set to now (UTC)
-    #now = datetime.now(UTC)
-    #for a in apps:
-    #    if getattr(a, 'first_seen', None) is None:
-    #        a.first_seen = now
+    now = datetime.now(UTC)
+    for a in apps:
+        if getattr(a, 'first_seen', None) is None:
+            a.first_seen = now
 
     # Save current run to cache
-    #cache.save_current_run(apps)
+    cache.save_current_run(apps)
     print()
 
-    apps = []
     apps.extend(cached_apps)
     # Merge duplicates by name, preserving the earliest first_seen date
     def _make_aware(dt) -> None | datetime:

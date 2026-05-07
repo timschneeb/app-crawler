@@ -13,6 +13,7 @@ class App:
             has_downloads: bool = True,
             last_updated: datetime = None,
             first_seen: datetime = None,
+            is_original_content: bool = True,
         ):
         self.name = name
         self.desc = desc
@@ -21,6 +22,7 @@ class App:
         self.has_downloads = has_downloads
         self.last_updated = last_updated
         self.first_seen = first_seen
+        self.is_original_content = is_original_content
 
     def __hash__(self):
         return hash(self.name)

@@ -69,13 +69,33 @@ def section_to_string(title: str, apps: list) -> str:
 
     if len(new) > 0:
         report += f"#### Updated in the last 3 months\n\n"
-        for app in new:
+        # Separate original and non-original content
+        original_new = [a for a in new if getattr(a, 'is_original_content', True)]
+        non_original_new = [a for a in new if not getattr(a, 'is_original_content', True)]
+        
+        for app in original_new:
             report += entry_to_string(app)
+        
+        if len(non_original_new) > 0:
+            report += "\n<details>\n<summary>Non-original content</summary>\n\n"
+            for app in non_original_new:
+                report += entry_to_string(app)
+            report += "</details>\n"
 
     if len(old) > 0:
         report += f"\n#### Updated more than 3 months ago\n\n"
-        for app in old:
+        # Separate original and non-original content
+        original_old = [a for a in old if getattr(a, 'is_original_content', True)]
+        non_original_old = [a for a in old if not getattr(a, 'is_original_content', True)]
+        
+        for app in original_old:
             report += entry_to_string(app)
+        
+        if len(non_original_old) > 0:
+            report += "\n<details>\n<summary>Non-original content</summary>\n\n"
+            for app in non_original_old:
+                report += entry_to_string(app)
+            report += "</details>\n"
 
     return report
 

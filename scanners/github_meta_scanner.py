@@ -58,6 +58,28 @@ class GithubMetaScanner(Scanner):
                 raise e
         return path
 
+    def _check_original_content(self, url: str) -> bool:
+        """Check if repo owner is in the contributor list using GitHub API."""
+        try:
+            # Extract repo owner and name from URL (format: https://github.com/owner/repo)
+            parts = url.split('/')
+            repo_owner = parts[-2].lower()
+            
+            # Get the repository object from GitHub API
+            repo_full_name = f"{parts[-2]}/{parts[-1]}"
+            repo = self.auth.get_repo(repo_full_name, lazy=True)
+            
+            # Get contributors from the repository
+            contributors = repo.get_contributors()
+            contributor_logins = {c.login.lower() for c in contributors}
+            
+            # Check if repo owner is in the contributor list
+            return repo_owner in contributor_logins
+        except Exception as e:
+            print(f"github_meta: failed to check contributors: {e}")
+            # Default to True (assume original) if we can't determine
+            return True
+
     def check_repo(self, args: App):
         # Use cached clone if available to avoid full re-clone
         name = args.name
@@ -83,7 +105,8 @@ class GithubMetaScanner(Scanner):
         return_code = result.returncode
 
         if return_code == 0:
-            app.append(App(name, desc, [url], type(self).__name__, args.has_downloads, args.last_updated))
+            is_original = self._check_original_content(url)
+            app.append(App(name, desc, [url], type(self).__name__, args.has_downloads, args.last_updated, is_original_content=is_original))
 
         return app
 
@@ -119,7 +142,7 @@ class GithubMetaScanner(Scanner):
                 continue
     
             full_results.append(App(repo.name, repo.description, [repo.html_url], type(self).__name__,
-                                    len(repo.get_releases().get_page(0)) > 0, repo.pushed_at))
+                                    len(repo.get_releases().get_page(0)) > 0, repo.pushed_at, is_original_content=True))
             
         filtered_results = util.filter_known_apps(full_results, self.exclude)
 

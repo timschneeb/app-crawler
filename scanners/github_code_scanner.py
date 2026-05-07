@@ -11,6 +11,20 @@ class GithubCodeScanner(Scanner):
         self.exclude = exclude
         self.process_count = process_count
 
+    def _check_original_content(self, repo) -> bool:
+        """Check if repo owner is in the contributor list using GitHub API."""
+        try:
+            repo_owner = repo.owner.login.lower()
+            # Get contributors from the repository
+            contributors = repo.get_contributors()
+            contributor_logins = {c.login.lower() for c in contributors}
+            
+            # Check if repo owner is in the contributor list
+            return repo_owner in contributor_logins
+        except Exception as e:
+            print(f"github_code: failed to check contributors: {e}")
+            # Default to True (assume original) if we can't determine
+            return True
 
     def find_matching_apps(self):
         results = self.auth.search_code('rikka.shizuku.ShizukuProvider language:XML NOT is:fork')
@@ -43,8 +57,9 @@ class GithubCodeScanner(Scanner):
                 continue
 
             try:
+                is_original = self._check_original_content(file.repository)
                 full_results.append(App(file.repository.name, file.repository.description, [file.repository.html_url], type(self).__name__,
-                                        len(file.repository.get_releases().get_page(0)) > 0, file.repository.pushed_at))
+                                        len(file.repository.get_releases().get_page(0)) > 0, file.repository.pushed_at, is_original_content=is_original))
                 processed_urls.append(file.repository.html_url)
             except IndexError as e:
                 print(f'github_code: index error: {e}')

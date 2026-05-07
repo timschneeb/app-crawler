@@ -108,7 +108,16 @@ class GithubMetaScanner(Scanner):
 
         if return_code == 0:
             is_original = self._check_original_content(url)
-            app.append(App(name, desc, [url], type(self).__name__, args.has_downloads, args.last_updated, is_original_content=is_original))
+            app.append(App(
+                name,
+                desc,
+                [url],
+                type(self).__name__,
+                args.has_downloads,
+                args.last_updated,
+                is_original_content=is_original,
+                popularity=args.popularity,
+            ))
 
         return app
 
@@ -144,7 +153,8 @@ class GithubMetaScanner(Scanner):
                 continue
     
             full_results.append(App(repo.name, repo.description, [repo.html_url], type(self).__name__,
-                                    len(repo.get_releases().get_page(0)) > 0, repo.pushed_at, is_original_content=True))
+                                    len(repo.get_releases().get_page(0)) > 0, repo.pushed_at,
+                                    is_original_content=True, popularity=repo.stargazers_count))
             
         filtered_results = util.filter_known_apps(full_results, self.exclude)
 

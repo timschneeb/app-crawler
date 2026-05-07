@@ -40,6 +40,7 @@ class GithubCodeScanner(Scanner):
         # Manually iterate to safely catch GitHub API pagination errors
         iterator = iter(results)
         pbar = tqdm(total=results.totalCount)
+        file = None
 
         while True:
             try:
@@ -51,7 +52,11 @@ class GithubCodeScanner(Scanner):
                 # GitHub often returns 404 when you page past the *actual* results
                 print(f'\ngithub_code: API pagination stopped early (hit GitHub search limits): {e}')
                 #break
-
+                
+            if file is None:
+                print("github_code: warning: got None response, skipping")
+                continue
+                
             if (file.repository.html_url in util.flatten([x.urls for x in self.exclude]) or
                     file.repository.html_url in processed_urls or
                     util.is_known_app(file.repository.name, [file.repository.html_url]) or
@@ -60,8 +65,16 @@ class GithubCodeScanner(Scanner):
 
             try:
                 is_original = self._check_original_content(file.repository)
-                full_results.append(App(file.repository.name, file.repository.description, [file.repository.html_url], type(self).__name__,
-                                        len(file.repository.get_releases().get_page(0)) > 0, file.repository.pushed_at, is_original_content=is_original))
+                full_results.append(App(
+                    file.repository.name,
+                    file.repository.description,
+                    [file.repository.html_url],
+                    type(self).__name__,
+                    len(file.repository.get_releases().get_page(0)) > 0,
+                    file.repository.pushed_at,
+                    is_original_content=is_original,
+                    popularity=file.repository.stargazers_count,
+                ))
                 processed_urls.append(file.repository.html_url)
             except IndexError as e:
                 print(f'github_code: index error: {e}')

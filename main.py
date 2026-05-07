@@ -72,10 +72,10 @@ def section_to_string(title: str, apps: list) -> str:
         # Separate original and non-original content
         original_new = [a for a in new if getattr(a, 'is_original_content', True)]
         non_original_new = [a for a in new if not getattr(a, 'is_original_content', True)]
-        
+
         for app in original_new:
             report += entry_to_string(app)
-        
+
         if len(non_original_new) > 0:
             report += "\n<details>\n<summary>Non-original content</summary>\n\n"
             for app in non_original_new:
@@ -87,10 +87,10 @@ def section_to_string(title: str, apps: list) -> str:
         # Separate original and non-original content
         original_old = [a for a in old if getattr(a, 'is_original_content', True)]
         non_original_old = [a for a in old if not getattr(a, 'is_original_content', True)]
-        
+
         for app in original_old:
             report += entry_to_string(app)
-        
+
         if len(non_original_old) > 0:
             report += "\n<details>\n<summary>Non-original content</summary>\n\n"
             for app in non_original_old:
@@ -134,7 +134,7 @@ def main():
     path = args.targetPath
     util.readme_paths = glob.glob(path + '/*.md') + glob.glob(path + '/pages/UNLISTED.md') + glob.glob(path + '/pages/CLOSED_SOURCE.md')
     report_path = os.getcwd() + "/" + summary_file
-    
+
     cache_dir = os.getcwd() + "/cache"
     if not os.path.exists(cache_dir):
         os.mkdir(cache_dir)
@@ -161,7 +161,7 @@ def main():
 
     apps.extend(cached_apps)
     # Merge duplicates by name, preserving the earliest first_seen date
-    def _make_aware(dt):
+    def _make_aware(dt) -> None | datetime:
         if dt is None:
             return None
         if dt.tzinfo is None:
@@ -174,12 +174,16 @@ def main():
         if name in merged:
             existing = merged[name]
             e_fs = _make_aware(getattr(existing, 'first_seen', None))
+            if e_fs is None:
+                e_fs = datetime.fromtimestamp(0, tz=UTC)
             a_fs = _make_aware(getattr(a, 'first_seen', None))
-            # Choose the App object with the earliest non-None first_seen; if existing has no first_seen, prefer a
-            if e_fs is None and a_fs is not None:
+            if a_fs is None:
+                a_fs = datetime.fromtimestamp(0, tz=UTC)
+        
+            if a_fs > e_fs:
+                # Overwrite with newer app info, but retain old first_seen
                 merged[name] = a
-            elif e_fs is not None and a_fs is not None and a_fs < e_fs:
-                merged[name] = a
+                merged[name].first_seen = e_fs
             # else keep existing
         else:
             merged[name] = a

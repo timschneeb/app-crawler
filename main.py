@@ -66,36 +66,43 @@ def section_to_string(title: str, apps: list) -> str:
 
     if len(new) > 0 or len(old) > 0:
         report += f"### {title}\n\n"
+        
+    def _render_group(group_apps):
+        out = ""
+        # Separate original and non-original content
+        original = [a for a in group_apps if getattr(a, 'is_original_content', True)]
+        non_original = [a for a in group_apps if not getattr(a, 'is_original_content', True)]
+
+        # split by popularity > 0 vs == 0 for original items
+        original_nonzero = [a for a in original if (getattr(a, 'popularity', 0) or 0) > 0]
+        original_zero = [a for a in original if (getattr(a, 'popularity', 0) or 0) == 0]
+
+        # show original apps with known popularity inline
+        for app in original_nonzero:
+            out += entry_to_string(app)
+
+        # non-original (forks/mirrors) go into their own details block regardless of popularity
+        if len(non_original) > 0:
+            out += "\n<details>\n<summary>Non-original content</summary>\n\n"
+            for app in non_original:
+                out += entry_to_string(app)
+            out += "</details>\n"
+
+        # all remaining zero-popularity original links collected into a separate details block
+        if len(original_zero) > 0:
+            out += "\n<details>\n<summary>No GitHub stars</summary>\n\n"
+            for app in original_zero:
+                out += entry_to_string(app)
+            out += "</details>\n"
+        return out
 
     if len(new) > 0:
         report += f"#### Updated in the last 3 months\n\n"
-        # Separate original and non-original content
-        original_new = [a for a in new if getattr(a, 'is_original_content', True)]
-        non_original_new = [a for a in new if not getattr(a, 'is_original_content', True)]
-
-        for app in original_new:
-            report += entry_to_string(app)
-
-        if len(non_original_new) > 0:
-            report += "\n<details>\n<summary>Non-original content</summary>\n\n"
-            for app in non_original_new:
-                report += entry_to_string(app)
-            report += "</details>\n"
+        report += _render_group(new)
 
     if len(old) > 0:
         report += f"\n#### Updated more than 3 months ago\n\n"
-        # Separate original and non-original content
-        original_old = [a for a in old if getattr(a, 'is_original_content', True)]
-        non_original_old = [a for a in old if not getattr(a, 'is_original_content', True)]
-
-        for app in original_old:
-            report += entry_to_string(app)
-
-        if len(non_original_old) > 0:
-            report += "\n<details>\n<summary>Non-original content</summary>\n\n"
-            for app in non_original_old:
-                report += entry_to_string(app)
-            report += "</details>\n"
+        report += _render_group(old)
 
     return report
 
@@ -146,19 +153,20 @@ def main():
         return not (a.name in util.ignore_list or any(url in util.ignore_list for url in a.urls))
 
     # Run scanners and get current-run apps
-    apps = util.filter_known_apps(scan_apps(github_auth))
-    apps = list(filter(remove_ignored_entries, apps))
+    #apps = util.filter_known_apps(scan_apps(github_auth))
+    #apps = list(filter(remove_ignored_entries, apps))
 
     # Ensure each app discovered in this run has a first_seen timestamp set to now (UTC)
-    now = datetime.now(UTC)
-    for a in apps:
-        if getattr(a, 'first_seen', None) is None:
-            a.first_seen = now
+    #now = datetime.now(UTC)
+    #for a in apps:
+    #    if getattr(a, 'first_seen', None) is None:
+    #        a.first_seen = now
 
     # Save current run to cache
-    cache.save_current_run(apps)
+    #cache.save_current_run(apps)
     print()
 
+    apps = []
     apps.extend(cached_apps)
     # Merge duplicates by name, preserving the earliest first_seen date
     def _make_aware(dt) -> None | datetime:

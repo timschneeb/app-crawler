@@ -68,6 +68,8 @@ class GithubMetaScanner(Scanner):
             # Get the repository object from GitHub API
             repo_full_name = f"{parts[-2]}/{parts[-1]}"
             repo = self.auth.get_repo(repo_full_name, lazy=True)
+            if repo.owner.type == "Organization":
+                return True
             
             # Get contributors from the repository
             contributors = repo.get_contributors()

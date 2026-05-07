@@ -14,6 +14,8 @@ class GithubCodeScanner(Scanner):
     def _check_original_content(self, repo) -> bool:
         """Check if repo owner is in the contributor list using GitHub API."""
         try:
+            if repo.owner.type == "Organization":
+                return True
             repo_owner = repo.owner.login.lower()
             # Get contributors from the repository
             contributors = repo.get_contributors()

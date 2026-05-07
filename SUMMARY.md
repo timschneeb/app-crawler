@@ -12,7 +12,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
 
 #### Updated in the last 3 months
 
- * [AAAD](https://github.com/shmykelsa/AAAD) - The original application for downloading and installing apps made specifically for Android Auto outside of Google Play Store. Active since 2021.
  * [BitInstaller-dev](https://github.com/S0methingSomething/BitInstaller-dev)
  * [AccountSwitcher](https://github.com/Ynkcc/AccountSwitcher)
  * [BA4D](https://github.com/Lumi083/BA4D)
@@ -131,13 +130,9 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [vFlow](https://github.com/ChaoMixian/vFlow) - vFlow 是一款为 Android 平台设计的、强大且高度可扩展的自动化工具。它允许你通过图形化界面，将一系列“动作模块”自由组合成强大的“工作流”，从而自动完成各种日常的、重复性的屏幕操作任务。
  * [wifiportal](https://github.com/lovitus/wifiportal)
  * [xreal-show-taps](https://github.com/shugi12345/xreal-show-taps) - an app that makes it so when connecting xreal glasses the developer option "show taps" enables automaticallyallowing you to see the location of your finger on screen
- * [HyperDeck](https://github.com/ytf211/HyperDeck)
- * [clip-sync](https://github.com/2cristo7/clip-sync) - Real-time clipboard sync between macOS and Android over LAN or Tailscale
- * [ytandroidauto](https://github.com/cma58/ytandroidauto) - typlayerauto
 
 #### Updated more than 3 months ago
 
- * [Extinguish](https://github.com/Moderpach/Extinguish) `fdroid` - Extinguish turn your screen off but keep your device wake.
  * [Cfm_Joy_Manager](https://github.com/rlin1538/Cfm_Joy_Manager)
  * [Android-Gyroscope-MC](https://github.com/WuDi-ZhanShen/Android-Gyroscope-MC) - 用陀螺仪玩安卓MC！Play Android MC with your phone's Gyro !
  * [Android-Screener](https://github.com/jiesou/Android-Screener) - A Shizuku/ROOT tool for easily adjusting screen resolution and frame rate
@@ -162,7 +157,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
 
 #### Updated in the last 3 months
 
- * [mtbtool-android-app](https://github.com/h3nnes/mtbtool-android-app) - Perform bandlock and edit EFS NV items on qualcomm-based Xiaomi devices without root
+ * [Pro-GFX](https://github.com/abhimaniu041-sudo/Pro-GFX)
  * [ADB-Commander](https://github.com/god-s-only/ADB-Commander) - A lightweight Android tool that provides deep, accurate, developer-grade diagnostics. It collects hardware details, OS properties, network information, In built app manager for quick customization of both system apps and downloaded app, and executes safe shell commands through a clean, modular architecture.
  * [Distra-Quit](https://github.com/Hackersaikiran/Distra-Quit) - Distra Quit – Doomscrolling Control App
  * [MiRearPlayback](https://github.com/Sevilze/MiRearPlayback)
@@ -284,9 +279,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [xyroo_Sensix](https://github.com/auzia012/xyroo_Sensix)
  * [yolozimiao](https://github.com/joeykang789/yolozimiao)
  * [yw-editor-for-android](https://github.com/atuy1219/yw-editor-for-android)
- * [ShaForgeIDE](https://github.com/XioroLabs/ShaForgeIDE) - All in one tool for phone integrated with compatible IDE with rootless deep forge features.
- * [ZFluxFileManager](https://github.com/krishn03id/ZFluxFileManager)
- * [uscfmexf](https://github.com/usercopy-fault/uscfmexf) - usercopyfaultfd-mobile-exploit-Framework (uscfmexf) — mobile exploit research framework
 
 #### Updated more than 3 months ago
 

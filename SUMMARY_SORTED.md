@@ -49,6 +49,7 @@ The file contains the same app entries shown in different sorting orders. Expand
  * [FakePowerOff](https://github.com/BinitDOX/FakePowerOff) - Simulate device shutdown, ideal for use with anti-theft apps.
  * [cally](https://github.com/LyoSU/cally) - Pixel call recorder for stock Android via Shizuku — no root, no unlocked bootloader. Dual-track VOICE_UPLINK+DOWNLINK with 5-step fallback ladder. Material 3 Expressive UI. Privacy-first: zero telemetry, opt-in cloud transcription with self-hosted endpoint support.
  * [Cinderbox-Companion](https://github.com/ObfuscatedVoid/Cinderbox-Companion) - Companion app for Stardew Valley on Android — sync saves with Steam Cloud, download game files, and manage SMAPI mods. Works with the official Android port and Cinderbox.
+ * [VInstall](https://github.com/vinstall/VInstall) - Android package installer supporting APK, XAPK, APKS, APKM, and the custom APKV encrypted format — with built-in app manager, backup, and silent install via root or Shizuku.
  * [9Player](https://github.com/techza14/9Player)
  * [mixer-1](https://github.com/farizanjum/mixer-1) - Per-app volume control for Android, designed with Nothing OS aesthetics.
  * [AppDualZuku](https://github.com/nathanatgit/AppDualZuku) - Manage app multiple instances in workspaces with Shizuku privilege.
@@ -61,9 +62,9 @@ The file contains the same app entries shown in different sorting orders. Expand
  * [hayai](https://github.com/HayaiApp/hayai) - Free and open source manga & novel reader for Android — fork of Yōkai/TachiyomiJ2K/Mihon with first-class novel support.
  * [MoFont](https://github.com/kirenath/MoFont) - 在 One UI 8 上免 root 安装自定义字体
  * [dilink-auto-android](https://github.com/andersonlucasg3/dilink-auto-android)
+ * [Ever-Call-Recorder](https://github.com/hari161008/Ever-Call-Recorder) - Ever Call Recorder is the best Open - Source Call recorder which uses Shizuku to record both side calls and gives you them as separate audio files or just as a single voice files which merges both Calls together.
  * [MiHealth_AmapFix](https://github.com/ljy6-6-6/MiHealth_AmapFix) - 禁止小米运动健康屏蔽高德地图的焦点通知，在HyperOS2.0下，当导航触发焦点通知后，可在穿戴式产品上显示实时导航信息。
  * [shizuku-ftp](https://github.com/rD227/shizuku-ftp) - FTP server app for android with using Shizuku
- * [Ever-Call-Recorder](https://github.com/hari161008/Ever-Call-Recorder) - Ever Call Recorder is the best Open - Source Call recorder which uses Shizuku to record both side calls and gives you them as separate audio files or just as a single voice files which merges both Calls together.
  * [GlyphRecorder](https://github.com/aaa1115910/GlyphRecorder) - A glyph recognition tool.
  * [castla](https://github.com/Suprhimp/castla) - Tesla Android Auto mirror app - Stream Android Auto to Tesla's browser
  * [CityEdit](https://github.com/cataIystdev/CityEdit) - Кроссплатформенный редактор сохранений для игры Subway Surfers City написанный с помощью C# и Avalonia
@@ -96,6 +97,7 @@ The file contains the same app entries shown in different sorting orders. Expand
  * [ZenTasker](https://github.com/loongj-code/ZenTasker)
  * [AoVSkins](https://github.com/binhmod/AoVSkins) - Import skins using Shizuku
  * [B-SideLoader](https://github.com/re7gog/B-SideLoader) - Sideload APKs from the Internet
+ * [BitInstaller-dev](https://github.com/S0methingSomething/BitInstaller-dev)
  * [BTMicFix](https://github.com/Endda/BTMicFix) - BTMicFix uses Android's `setCommunicationDevice()` API (Android 12+) to force the system to route communication audio through your Bluetooth earbuds. This triggers the A2DP → SCO/HFP profile switch that AI apps fail to perform on their own.
  * [FileLeader](https://github.com/evecus/FileLeader)
  * [flow](https://github.com/huajideshutiao/flow) - 用于将 URL 转换为 intent 或打开未导出的活动
@@ -136,7 +138,6 @@ The file contains the same app entries shown in different sorting orders. Expand
  * [anti-tracker](https://github.com/HonzaV/anti-tracker) - GPS, Bluetooth, WiFi, Data and carrier cellphone signal all those can be used to track you. Get rid of tracking with this Android App. 
  * [Audio-Refresher](https://github.com/SebastianZzzz/Audio-Refresher) - Automatic refreshing audio services via Shizuku to keep service alive. It's a way to optimize background video playing without having to manually refresh the player status via control centre. Now it's only designed for BiliBili.
  * [bgmi-engine](https://github.com/surajheadsup/bgmi-engine)
- * [BitInstaller-dev](https://github.com/S0methingSomething/BitInstaller-dev)
  * [com.malikhw.hosadvtexts](https://github.com/MalikHw/com.malikhw.hosadvtexts) - for redmi
  * [EasierSpot](https://github.com/AgentKosticka/EasierSpot)
  * [FingerTheGame](https://github.com/FZ1010/FingerTheGame) - Android save-data editor — poke any app's NRBF/SQLite/text/binary file via Shizuku, no root needed.
@@ -156,7 +157,6 @@ The file contains the same app entries shown in different sorting orders. Expand
  * [sharemove](https://github.com/thejaustin/sharemove) - Hide apps from Android's intent chooser sheet (APK installer, browser, and more) — Shizuku or root
  * [shellbox](https://github.com/xnet-admin-1/shellbox)
  * [shizulu](https://github.com/Glitch98777/shizulu) - Rootless Android shizule manager powered by Shizuku. Install JSON modules, run ADB-privileged actions, use dry run mode, profiles, logs, and safety warnings without root.
- * [sing-box-for-android](https://github.com/nekolsd/sing-box-for-android)
  * [ToolBox](https://github.com/OSSKn4w7/ToolBox)
  * [TrollExplorer](https://github.com/codingtrolling/TrollExplorer)
  * [UberAutoAccept](https://github.com/mim1012/UberAutoAccept) - Vortex 스타일의 상태 머신 기반 Uber 드라이버 자동 콜 수락 Android 애플리케이션
@@ -170,8 +170,9 @@ The file contains the same app entries shown in different sorting orders. Expand
 ### Apps with no releases
 
  * [ClawGUI](https://github.com/ZJU-REAL/ClawGUI) - Build, Evaluate, and Deploy GUI Agents — online RL training, standardized benchmarks, and real-device deployment in one framework.
+ * [sing-box-for-android](https://github.com/SagerNet/sing-box-for-android) - Experimental Android client for sing-box
  * [AccessibilityManager](https://github.com/WuDi-ZhanShen/AccessibilityManager) - 本APP可以彻底取代系统设置里的无障碍设置页面。仅需要授权本APP写入安全设置即可使用。支持无障碍保活，不耗电不主动唤醒，且保活速度极快。Android Application To Fully Replace Accessibility Settings.
- * [Sesame-AG](https://github.com/Sesame-AG/Sesame-AG) - Sesame-AG
+ * [Sesame-AG](https://github.com/aoguai/Sesame-AG) - Sesame-AG
  * [TouchTool](https://github.com/mr-bogey/TouchTool) - 使用Android无障碍功能来帮助用户点击。蓝图式任务编辑
  * [hap-viewer-android](https://github.com/westinyang/hap-viewer-android) - 🔍 安卓版的hap查看器，支持解析 OpenHarmony/HarmonyOS API9+(Stage模型) 的应用安装包
  * [SimpleVirtualDisplay](https://github.com/kangrio/SimpleVirtualDisplay) - open any apps in virtual display require shizuku
@@ -188,11 +189,11 @@ The file contains the same app entries shown in different sorting orders. Expand
  * [PhonePointer](https://github.com/Usepot/PhonePointer)
  * [VulnKit](https://github.com/sqxy090123/VulnKit)
  * [APK-MultiUpdate](https://github.com/alltechdev/APK-MultiUpdate) - In-app update library for Android - check GitHub releases, download APKs, install via Native/Session/Root/Shizuku/Dhizuku
+ * [Everlasting-Android-Tweak-Source-Code-Repo](https://github.com/hari161008/Everlasting-Android-Tweak-Source-Code-Repo) - Source Code
  * [MaidMic](https://github.com/suer781/MaidMic) - 🎤 Android 虚拟麦克风 · 3引擎可切换（直通/Echio均衡/频响曲线）· 实时DSP（变调/失真/混响/回声/共振峰）· HXAudio风格UI · Magisk/Shizuku/无障碍三方案
  * [MobileAIDomestic](https://github.com/huy264128-netizen/MobileAIDomestic)
  * [ScreenshotFaker](https://github.com/Huai-Tian/ScreenshotFaker) - A software that supports user-defined screenshot content and has strong anti-detection capabilities
  * [SignalFix](https://github.com/zhaochunqi/SignalFix) - 修复类原生的信号问题
- * [ADB-Commander](https://github.com/god-s-only/ADB-Commander) - A lightweight Android tool that provides deep, accurate, developer-grade diagnostics. It collects hardware details, OS properties, network information, In built app manager for quick customization of both system apps and downloaded app, and executes safe shell commands through a clean, modular architecture.
  * [AlinOs-for-android](https://github.com/heworkalin/AlinOs-for-android)
  * [CaptureSecureScreen](https://github.com/jimmychanii/CaptureSecureScreen) - A android tools to capture screen, includes secure flag activity
  * [codey](https://github.com/AI-Trash/codey)
@@ -204,9 +205,9 @@ The file contains the same app entries shown in different sorting orders. Expand
  * [HabitatEngine](https://github.com/Allenwang0730/HabitatEngine)
  * [Nexus-framework](https://github.com/1andrewprice6-jpg/Nexus-framework)
  * [shizuku-ai](https://github.com/lcydtc15967073371/shizuku-ai) - Shizuku AI - 通过Shizuku权限执行ADB命令的悬浮窗AI助手，内置200+条命令库，支持AI理解需求自动执行
- * [VInstall](https://github.com/khanCorporation/VInstall) - Install APK, XAPK, APKS, APKM, APKV, and ZIP files on Android with app manager, backup, and uninstaller support
  * [vk-s-NeuroAmpDSP](https://github.com/drkvvk2015/vk-s-NeuroAmpDSP)
  * [vpn4tv-native](https://github.com/VPN4TV/vpn4tv-native) - VPN4TV Native — Kotlin Android TV VPN client based on sing-box
+ * [ADB-Commander](https://github.com/god-s-only/ADB-Commander) - A lightweight Android tool that provides deep, accurate, developer-grade diagnostics. It collects hardware details, OS properties, network information, In built app manager for quick customization of both system apps and downloaded app, and executes safe shell commands through a clean, modular architecture.
  * [andriod-asr](https://github.com/123hi123/andriod-asr) - 说点啥 Dev (BiBi Keyboard Dev) — AI 智能语音输入法，基于 BiBi-Keyboard 的衍生版本
  * [android-doctor-app](https://github.com/knowamit/android-doctor-app) - Android Doctor companion app — diagnose why your phone is slow, directly on device. Kotlin + Jetpack Compose + MVVM + Clean Architecture.
  * [AndroidFolderExplorer](https://github.com/SerZhyAle/AndroidFolderExplorer)
@@ -339,6 +340,7 @@ The file contains the same app entries shown in different sorting orders. Expand
  * [OpenOmniBot](https://github.com/omnimind-ai/OpenOmniBot) - Your on-device AI assistant, capable of operating terminals and performing a wide range of tasks in the Android world || 你的端侧 AI 助手，她可以操作终端，也可以完成 Android 世界的广泛任务 
  * [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ / Linkura Localify / LoveLive Translation / llll
  * [SmartFlight](https://github.com/gao-gao-zai/SmartFlight)
+ * [BitInstaller-dev](https://github.com/S0methingSomething/BitInstaller-dev)
  * [Fuck_ets100](https://github.com/laststudio/Fuck_ets100)
  * [B-SideLoader](https://github.com/re7gog/B-SideLoader) - Sideload APKs from the Internet
  * [KeiOS](https://github.com/hosizoraru/KeiOS) - A Jetpack Compose Android app focused on system utilities, GitHub tracking, BA content pages, miuix UI and liquid glass-style UI.
@@ -350,7 +352,6 @@ The file contains the same app entries shown in different sorting orders. Expand
  * [Ever-Call-Recorder](https://github.com/hari161008/Ever-Call-Recorder) - Ever Call Recorder is the best Open - Source Call recorder which uses Shizuku to record both side calls and gives you them as separate audio files or just as a single voice files which merges both Calls together.
  * [cally](https://github.com/LyoSU/cally) - Pixel call recorder for stock Android via Shizuku — no root, no unlocked bootloader. Dual-track VOICE_UPLINK+DOWNLINK with 5-step fallback ladder. Material 3 Expressive UI. Privacy-first: zero telemetry, opt-in cloud transcription with self-hosted endpoint support.
  * [anubis](https://github.com/sogonov/anubis) - Android app manager with VPN integration. Manages groups of apps by freezing/unfreezing them based on VPN connection state.
- * [smartdock](https://github.com/axel358/smartdock) - A user-friendly desktop mode launcher that offers a modern and customizable user interface
  * [lsfTB](https://github.com/lsfdc233/lsfTB) - 某神秘初中牲突发奇想搞了个个人数字中枢
  * [AutoAccounting](https://github.com/AutoAccountingOrg/AutoAccounting) - 你的每一笔账单都值得记录！
  * [dilink-auto-android](https://github.com/andersonlucasg3/dilink-auto-android)
@@ -368,6 +369,7 @@ The file contains the same app entries shown in different sorting orders. Expand
  * [CokoTools](https://github.com/Yorick-Ryu/CokoTools) - 一个支持vivo/iqoo的小工具箱
  * [XAutoDaily](https://github.com/LuckyPray/XAutoDaily) - 一个基于QQ的全自动签到模块
  * [XenonStoreCompose](https://github.com/Dinico414/XenonStoreCompose)
+ * [smartdock](https://github.com/axel358/smartdock) - A user-friendly desktop mode launcher that offers a modern and customizable user interface
  * [castla](https://github.com/Suprhimp/castla) - Tesla Android Auto mirror app - Stream Android Auto to Tesla's browser
  * [FileLeader](https://github.com/evecus/FileLeader)
  * [telesor](https://github.com/aitorpazos/telesor) - Share camera and NFC from your phone to another Android device
@@ -380,6 +382,7 @@ The file contains the same app entries shown in different sorting orders. Expand
  * [immich-cloud-media](https://github.com/Dreaming-Codes/immich-cloud-media)
  * [aod-suite](https://github.com/OutrageousStorm/aod-suite) - 🌙 AOD Suite — Always On Display customization via Shizuku ADB. Control min brightness, blurred wallpaper, gestures & more.
  * [Mafza](https://github.com/yshalsager/Mafza) - Emergency actions runner with one configurable profile, external emergency triggers, and a safe Dry Run mode.
+ * [VInstall](https://github.com/vinstall/VInstall) - Android package installer supporting APK, XAPK, APKS, APKM, and the custom APKV encrypted format — with built-in app manager, backup, and silent install via root or Shizuku.
  * [MCON2CODM](https://github.com/TripleU613/MCON2CODM) - Connects MCON controller with CODM - Or any controller. 
  * [alian-android](https://github.com/xlb1130/alian-android) - 想拥有自己的豆包/豆包手机吗？看看Alian，语音通话、视频通话、手机自动化、MCP可配...
  * [thor-wayfinder](https://github.com/Thor-Wayfinder/thor-wayfinder) - This app lets you swap which screen your apps are displayed on for your AYN Thor
@@ -464,7 +467,6 @@ The file contains the same app entries shown in different sorting orders. Expand
  * [android-bluetooth-bouncer](https://github.com/harvzor/android-bluetooth-bouncer) - Android app that prevents Bluetooth auto-connect unless you let the device in
  * [UberAutoAccept](https://github.com/mim1012/UberAutoAccept) - Vortex 스타일의 상태 머신 기반 Uber 드라이버 자동 콜 수락 Android 애플리케이션
  * [GlyphHacker](https://github.com/Young-Lord/GlyphHacker) - LOVE Ingress Glyph Hack with Android power.
- * [BitInstaller-dev](https://github.com/S0methingSomething/BitInstaller-dev)
  * [joycon-merge](https://github.com/Faraw4y/joycon-merge) - merge joycon and remap
  * [MSoris-Mapper](https://github.com/noteveno/MSoris-Mapper) - MSoris - Keyboard and mouse mapper for Android gaming
  * [keyviewer-android](https://github.com/leoleo0980627-web/keyviewer-android) - keyviewer for android
@@ -477,7 +479,6 @@ The file contains the same app entries shown in different sorting orders. Expand
  * [poco-x8-led](https://github.com/Pan-Tester/poco-x8-led) - tak.
  * [usbpdbs](https://github.com/ONDER1E/usbpdbs) - Allows your phone to be connected to the charger, such that the phone is being powered by the charger but the battery is not being charged, allows operation at lower battery percentages such as 40% so you can have your phone plugged in 24/7 without putting high voltage strain on the battery.
  * [MinecraftAntiCheat-Android](https://github.com/Sittirahmadia/MinecraftAntiCheat-Android)
- * [sing-box-for-android](https://github.com/nekolsd/sing-box-for-android)
  * [bgmi-engine](https://github.com/surajheadsup/bgmi-engine)
  * [shellbox](https://github.com/xnet-admin-1/shellbox)
  * [mobile-data-switcher](https://github.com/adhupraba/mobile-data-switcher)
@@ -494,35 +495,36 @@ The file contains the same app entries shown in different sorting orders. Expand
 
 ### Apps with no releases
 
- * [Sesame-AG](https://github.com/Sesame-AG/Sesame-AG) - Sesame-AG
- * [VInstall](https://github.com/khanCorporation/VInstall) - Install APK, XAPK, APKS, APKM, APKV, and ZIP files on Android with app manager, backup, and uninstaller support
- * [AlinOs-for-android](https://github.com/heworkalin/AlinOs-for-android)
- * [TouchTool](https://github.com/mr-bogey/TouchTool) - 使用Android无障碍功能来帮助用户点击。蓝图式任务编辑
- * [MobileAIDomestic](https://github.com/huy264128-netizen/MobileAIDomestic)
+ * [MWV-Script-](https://github.com/17crown1901mituru/MWV-Script-)
  * [ClawGUI](https://github.com/ZJU-REAL/ClawGUI) - Build, Evaluate, and Deploy GUI Agents — online RL training, standardized benchmarks, and real-device deployment in one framework.
+ * [sing-box-for-android](https://github.com/SagerNet/sing-box-for-android) - Experimental Android client for sing-box
+ * [MobileAIDomestic](https://github.com/huy264128-netizen/MobileAIDomestic)
  * [codey](https://github.com/AI-Trash/codey)
  * [JiuGUIClaw](https://github.com/lhppppp/JiuGUIClaw) - JiuGUIClaw
  * [Craft-Box](https://github.com/hsh114514/Craft-Box) - 一个MInecraft PE 0.14.3的开发工具箱
  * [GestorAppOps](https://github.com/trojas621/GestorAppOps) - GestorAppOps Descripción: Herramienta avanzada de gestión de privacidad para Android (Samsung One UI) que utiliza Shizuku y la API de AppOps para administrar permisos profundos (portapapeles, sensores, actividad en segundo plano) mediante depuración inalámbrica sin necesidad de Root.
  * [Kartika-IDE](https://github.com/hasanelfalakiy/Kartika-IDE) - A next-gen IDE for JVM development on Android. Forked from Cosmic-IDE.
- * [ADB-Commander](https://github.com/god-s-only/ADB-Commander) - A lightweight Android tool that provides deep, accurate, developer-grade diagnostics. It collects hardware details, OS properties, network information, In built app manager for quick customization of both system apps and downloaded app, and executes safe shell commands through a clean, modular architecture.
  * [LSFG-Android-Application](https://github.com/FrankBarretta/LSFG-Android-Application) - LSFG-Android Application
  * [HabitatEngine](https://github.com/Allenwang0730/HabitatEngine)
  * [shizuku-ai](https://github.com/lcydtc15967073371/shizuku-ai) - Shizuku AI - 通过Shizuku权限执行ADB命令的悬浮窗AI助手，内置200+条命令库，支持AI理解需求自动执行
- * [MWV-Script-](https://github.com/17crown1901mituru/MWV-Script-)
  * [Nexus](https://github.com/maazm7d/Nexus) - "Everything you could do with root, without root.
  * [MaidMic](https://github.com/suer781/MaidMic) - 🎤 Android 虚拟麦克风 · 3引擎可切换（直通/Echio均衡/频响曲线）· 实时DSP（变调/失真/混响/回声/共振峰）· HXAudio风格UI · Magisk/Shizuku/无障碍三方案
+ * [ADB-Commander](https://github.com/god-s-only/ADB-Commander) - A lightweight Android tool that provides deep, accurate, developer-grade diagnostics. It collects hardware details, OS properties, network information, In built app manager for quick customization of both system apps and downloaded app, and executes safe shell commands through a clean, modular architecture.
+ * [Sesame-AG](https://github.com/aoguai/Sesame-AG) - Sesame-AG
  * [Untethered](https://github.com/god-s-only/Untethered) - LADB Alternative, literally
  * [VirtualX](https://github.com/SpideryBook7/VirtualX)
  * [crownremap](https://github.com/okhsunrog/crownremap) - Pixel Watch 4: replace Google Wallet with Yandex Pay on crown double-press
  * [ethernet-config](https://github.com/newppaer/ethernet-config) - Android APP - Configure static IP on ethernet via Shizuku (no root)
+ * [TouchTool](https://github.com/mr-bogey/TouchTool) - 使用Android无障碍功能来帮助用户点击。蓝图式任务编辑
  * [AimBuddy](https://github.com/1337Xcode/AimBuddy) - A fully on‑device Android‑native aim assistant that helps visually impaired players detect and track opponents in realtime
  * [andriod-asr](https://github.com/123hi123/andriod-asr) - 说点啥 Dev (BiBi Keyboard Dev) — AI 智能语音输入法，基于 BiBi-Keyboard 的衍生版本
  * [Multiisland](https://github.com/lokey0905/Multiisland)
  * [android-doctor-app](https://github.com/knowamit/android-doctor-app) - Android Doctor companion app — diagnose why your phone is slow, directly on device. Kotlin + Jetpack Compose + MVVM + Clean Architecture.
+ * [Everlasting-Android-Tweak-Source-Code-Repo](https://github.com/hari161008/Everlasting-Android-Tweak-Source-Code-Repo) - Source Code
  * [VulnKit](https://github.com/sqxy090123/VulnKit)
  * [AndroidFolderExplorer](https://github.com/SerZhyAle/AndroidFolderExplorer)
  * [vpn4tv-native](https://github.com/VPN4TV/vpn4tv-native) - VPN4TV Native — Kotlin Android TV VPN client based on sing-box
+ * [AlinOs-for-android](https://github.com/heworkalin/AlinOs-for-android)
  * [ScreenshotFaker](https://github.com/Huai-Tian/ScreenshotFaker) - A software that supports user-defined screenshot content and has strong anti-detection capabilities
  * [vk-s-NeuroAmpDSP](https://github.com/drkvvk2015/vk-s-NeuroAmpDSP)
  * [optrace](https://github.com/jksalcedo/optrace) - Track and log hidden Android app permissions beyond the system's 7-day limit.
@@ -584,8 +586,8 @@ The file contains the same app entries shown in different sorting orders. Expand
 <details>
 <summary>No GitHub stars</summary>
 
- * [A.u.r.a.K.a.i_ReGensis](https://github.com/AuraFrameFxDev/A.u.r.a.K.a.i_ReGensis)
  * [opencode-mobile](https://github.com/linger-su/opencode-mobile)
+ * [A.u.r.a.K.a.i_ReGensis](https://github.com/AuraFrameFxDev/A.u.r.a.K.a.i_ReGensis)
  * [Robodroid](https://github.com/BezumnyiMarks/Robodroid)
  * [AIGC_Figma_Frontend](https://github.com/p05-HY/AIGC_Figma_Frontend) - AIGC安卓端
  * [A.U.R.A.K.A.I](https://github.com/auraframefx-jpg/A.U.R.A.K.A.I) - SSI Framework and Root mods
@@ -677,6 +679,7 @@ The file contains the same app entries shown in different sorting orders. Expand
  * [B-SideLoader](https://github.com/re7gog/B-SideLoader) - Sideload APKs from the Internet
  * [BA4D](https://github.com/Lumi083/BA4D)
  * [BTMicFix](https://github.com/Endda/BTMicFix) - BTMicFix uses Android's `setCommunicationDevice()` API (Android 12+) to force the system to route communication audio through your Bluetooth earbuds. This triggers the A2DP → SCO/HFP profile switch that AI apps fail to perform on their own.
+ * [BitInstaller-dev](https://github.com/S0methingSomething/BitInstaller-dev)
  * [Capsulyric](https://github.com/FrancoGiudans/Capsulyric) - 提供基于Live Update和小米超级岛机制的状态栏歌词。
  * [Cinderbox-Companion](https://github.com/ObfuscatedVoid/Cinderbox-Companion) - Companion app for Stardew Valley on Android — sync saves with Steam Cloud, download game files, and manage SMAPI mods. Works with the official Android port and Cinderbox.
  * [CityEdit](https://github.com/cataIystdev/CityEdit) - Кроссплатформенный редактор сохранений для игры Subway Surfers City написанный с помощью C# и Avalonia
@@ -707,6 +710,7 @@ The file contains the same app entries shown in different sorting orders. Expand
  * [Shizuku-modern](https://github.com/kerneldroid/Shizuku-modern) - Shizuku fork with Material 3 Expressive and Android SDK 37 updates
  * [Stellar](https://github.com/roro2239/Stellar) - Another Shizuku impl
  * [TapStrapApp](https://github.com/ScribbleJ/TapStrapApp) - An Android IME for interfacing with the Tap Strap 
+ * [VInstall](https://github.com/vinstall/VInstall) - Android package installer supporting APK, XAPK, APKS, APKM, and the custom APKV encrypted format — with built-in app manager, backup, and silent install via root or Shizuku.
  * [Vortex](https://github.com/mim1012/Vortex)
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [XAutoDaily](https://github.com/LuckyPray/XAutoDaily) - 一个基于QQ的全自动签到模块
@@ -786,7 +790,6 @@ The file contains the same app entries shown in different sorting orders. Expand
  * [haval-climate-control](https://github.com/rocamoras/haval-climate-control) - Controle do AC automatico do Haval
  * [XClean](https://github.com/utopiafar/XClean)
  * [Audio-Refresher](https://github.com/SebastianZzzz/Audio-Refresher) - Automatic refreshing audio services via Shizuku to keep service alive. It's a way to optimize background video playing without having to manually refresh the player status via control centre. Now it's only designed for BiliBili.
- * [BitInstaller-dev](https://github.com/S0methingSomething/BitInstaller-dev)
  * [EasierSpot](https://github.com/AgentKosticka/EasierSpot)
  * [FingerTheGame](https://github.com/FZ1010/FingerTheGame) - Android save-data editor — poke any app's NRBF/SQLite/text/binary file via Shizuku, no root needed.
  * [GlyphHacker](https://github.com/Young-Lord/GlyphHacker) - LOVE Ingress Glyph Hack with Android power.
@@ -810,7 +813,6 @@ The file contains the same app entries shown in different sorting orders. Expand
  * [poco-x8-led](https://github.com/Pan-Tester/poco-x8-led) - tak.
  * [sharemove](https://github.com/thejaustin/sharemove) - Hide apps from Android's intent chooser sheet (APK installer, browser, and more) — Shizuku or root
  * [shellbox](https://github.com/xnet-admin-1/shellbox)
- * [sing-box-for-android](https://github.com/nekolsd/sing-box-for-android)
  * [usbpdbs](https://github.com/ONDER1E/usbpdbs) - Allows your phone to be connected to the charger, such that the phone is being powered by the charger but the battery is not being charged, allows operation at lower battery percentages such as 40% so you can have your phone plugged in 24/7 without putting high voltage strain on the battery.
  * [v2rayNG-Next](https://github.com/Lemocuber/v2rayNG-Next) - v2rayNG extended with amazing features
  * [Ajiro](https://github.com/CrackTC/Ajiro) - 麻城建设
@@ -819,17 +821,17 @@ The file contains the same app entries shown in different sorting orders. Expand
 
 ### Apps with no releases
 
+ * [Everlasting-Android-Tweak-Source-Code-Repo](https://github.com/hari161008/Everlasting-Android-Tweak-Source-Code-Repo) - Source Code
  * [ClawGUI](https://github.com/ZJU-REAL/ClawGUI) - Build, Evaluate, and Deploy GUI Agents — online RL training, standardized benchmarks, and real-device deployment in one framework.
  * [GestorAppOps](https://github.com/trojas621/GestorAppOps) - GestorAppOps Descripción: Herramienta avanzada de gestión de privacidad para Android (Samsung One UI) que utiliza Shizuku y la API de AppOps para administrar permisos profundos (portapapeles, sensores, actividad en segundo plano) mediante depuración inalámbrica sin necesidad de Root.
  * [HabitatEngine](https://github.com/Allenwang0730/HabitatEngine)
- * [Craft-Box](https://github.com/hsh114514/Craft-Box) - 一个MInecraft PE 0.14.3的开发工具箱
- * [shizuku-ai](https://github.com/lcydtc15967073371/shizuku-ai) - Shizuku AI - 通过Shizuku权限执行ADB命令的悬浮窗AI助手，内置200+条命令库，支持AI理解需求自动执行
  * [ADB-Commander](https://github.com/god-s-only/ADB-Commander) - A lightweight Android tool that provides deep, accurate, developer-grade diagnostics. It collects hardware details, OS properties, network information, In built app manager for quick customization of both system apps and downloaded app, and executes safe shell commands through a clean, modular architecture.
  * [APK-MultiUpdate](https://github.com/alltechdev/APK-MultiUpdate) - In-app update library for Android - check GitHub releases, download APKs, install via Native/Session/Root/Shizuku/Dhizuku
  * [AimBuddy](https://github.com/1337Xcode/AimBuddy) - A fully on‑device Android‑native aim assistant that helps visually impaired players detect and track opponents in realtime
  * [AlinOs-for-android](https://github.com/heworkalin/AlinOs-for-android)
  * [AndroidFolderExplorer](https://github.com/SerZhyAle/AndroidFolderExplorer)
  * [CaptureSecureScreen](https://github.com/jimmychanii/CaptureSecureScreen) - A android tools to capture screen, includes secure flag activity
+ * [Craft-Box](https://github.com/hsh114514/Craft-Box) - 一个MInecraft PE 0.14.3的开发工具箱
  * [DexCoverPad](https://github.com/Gh0strab/DexCoverPad)
  * [JiuGUIClaw](https://github.com/lhppppp/JiuGUIClaw) - JiuGUIClaw
  * [Kartika-IDE](https://github.com/hasanelfalakiy/Kartika-IDE) - A next-gen IDE for JVM development on Android. Forked from Cosmic-IDE.
@@ -843,10 +845,9 @@ The file contains the same app entries shown in different sorting orders. Expand
  * [RTOSify](https://github.com/AILIFE-4798/RTOSify)
  * [SamsungOpenRing](https://github.com/TheVellichor/SamsungOpenRing) - Open-source SDK for Samsung Galaxy Ring gesture detection over BLE
  * [ScreenshotFaker](https://github.com/Huai-Tian/ScreenshotFaker) - A software that supports user-defined screenshot content and has strong anti-detection capabilities
- * [Sesame-AG](https://github.com/Sesame-AG/Sesame-AG) - Sesame-AG
+ * [Sesame-AG](https://github.com/aoguai/Sesame-AG) - Sesame-AG
  * [TouchTool](https://github.com/mr-bogey/TouchTool) - 使用Android无障碍功能来帮助用户点击。蓝图式任务编辑
  * [Untethered](https://github.com/god-s-only/Untethered) - LADB Alternative, literally
- * [VInstall](https://github.com/khanCorporation/VInstall) - Install APK, XAPK, APKS, APKM, APKV, and ZIP files on Android with app manager, backup, and uninstaller support
  * [VirtualX](https://github.com/SpideryBook7/VirtualX)
  * [VulnKit](https://github.com/sqxy090123/VulnKit)
  * [andriod-asr](https://github.com/123hi123/andriod-asr) - 说点啥 Dev (BiBi Keyboard Dev) — AI 智能语音输入法，基于 BiBi-Keyboard 的衍生版本
@@ -858,6 +859,8 @@ The file contains the same app entries shown in different sorting orders. Expand
  * [ethernet-config](https://github.com/newppaer/ethernet-config) - Android APP - Configure static IP on ethernet via Shizuku (no root)
  * [null-code-ide](https://github.com/YasserNull/null-code-ide) - بيئة برمجة الأندرويد ، قيد التطوير 
  * [optrace](https://github.com/jksalcedo/optrace) - Track and log hidden Android app permissions beyond the system's 7-day limit.
+ * [shizuku-ai](https://github.com/lcydtc15967073371/shizuku-ai) - Shizuku AI - 通过Shizuku权限执行ADB命令的悬浮窗AI助手，内置200+条命令库，支持AI理解需求自动执行
+ * [sing-box-for-android](https://github.com/SagerNet/sing-box-for-android) - Experimental Android client for sing-box
  * [tauri-plugin-shizuku](https://github.com/zhangnjsd/tauri-plugin-shizuku)
  * [vk-s-NeuroAmpDSP](https://github.com/drkvvk2015/vk-s-NeuroAmpDSP)
  * [vpn4tv-native](https://github.com/VPN4TV/vpn4tv-native) - VPN4TV Native — Kotlin Android TV VPN client based on sing-box
@@ -916,13 +919,12 @@ The file contains the same app entries shown in different sorting orders. Expand
  * [RnzeDebloatera](https://github.com/clever2755-deb/RnzeDebloatera)
  * [hyperos-updater-android](https://github.com/andersonlucasg3/hyperos-updater-android)
  * [ResolutionChange](https://github.com/dxthanh2002/ResolutionChange) - Mobile app change
- * [AppManager](https://github.com/EduardoC3677/AppManager) - A full-featured package manager and viewer for Android (this fork adds app archiving and improves wireless debugging setup)
- * [Sesame-AG-2026](https://github.com/witrer/Sesame-AG-2026) - 芝麻糊AG
  * [-](https://github.com/EternityQwQ/-)
  * [A.U.R.A.K.A.I](https://github.com/auraframefx-jpg/A.U.R.A.K.A.I) - SSI Framework and Root mods
  * [A.u.r.a.K.a.i_ReGensis](https://github.com/AuraFrameFxDev/A.u.r.a.K.a.i_ReGensis)
  * [ACTScope](https://github.com/BIGGGJerry/ACTScope)
  * [AIGC_Figma_Frontend](https://github.com/p05-HY/AIGC_Figma_Frontend) - AIGC安卓端
+ * [AppManager](https://github.com/EduardoC3677/AppManager) - A full-featured package manager and viewer for Android (this fork adds app archiving and improves wireless debugging setup)
  * [Attic](https://github.com/karanrajpal14/Attic) - Attic is an Android 14+ app that lets you sort your installed apps by how recently you used them, archive the ones collecting dust (removing their APKs while preserving your data), restrict their background data and activity, and set automatic re-archive rules so idle apps stay out of the way.
  * [Audio-Toggle](https://github.com/Ruhdee/Audio-Toggle) - No-UI Android utility that toggles mono audio and audio balance
  * [AutoAIDL](https://github.com/NguyenDuck/AutoAIDL) - Gradle plugin auto generate aidl files from an Interface with annotations
@@ -944,6 +946,7 @@ The file contains the same app entries shown in different sorting orders. Expand
  * [PhantomFilesPro](https://github.com/gecew79810-bit/PhantomFilesPro)
  * [PixelIMS](https://github.com/VinujaHerath/PixelIMS) - Enable 5G, VoLTE, VoWiFi and VoNR on Google Pixel devices with unsupported carriers — without root. Built specifically for users in Sri Lanka (Dialog, Mobitel) and other regions where Google has not officially certified local carriers for 5G/IMS features. Works on any Pixel running Android 12+.
  * [Replay-passador-o-melhor-de-todos](https://github.com/luanzzkribeirozzk-design/Replay-passador-o-melhor-de-todos)
+ * [Sesame-AG-2026](https://github.com/witrer/Sesame-AG-2026) - 芝麻糊AG
  * [StereoBalanceOverlay](https://github.com/du4n31/StereoBalanceOverlay)
  * [SystemBridgeFramework](https://github.com/olivia1246/SystemBridgeFramework) - Framework for Android to allow websites or other applications to request custom payload execution by utilising URL schemes.
  * [aigctest](https://github.com/Lin-ZCZ/aigctest)

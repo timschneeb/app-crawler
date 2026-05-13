@@ -31,6 +31,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [AvarionX-Manager](https://github.com/phsycologicalFudge/AvarionX-Manager) - Manager for ColourSwift apps
  * [B-SideLoader](https://github.com/re7gog/B-SideLoader) - Sideload APKs from the Internet
  * [BA4D](https://github.com/Lumi083/BA4D)
+ * [BitInstaller-dev](https://github.com/S0methingSomething/BitInstaller-dev)
  * [botdrop-android](https://github.com/zhixianio/botdrop-android) - Run AI agents on your Android phone — no terminal, no CLI, just a guided setup.
  * [BTMicFix](https://github.com/Endda/BTMicFix) - BTMicFix uses Android's `setCommunicationDevice()` API (Android 12+) to force the system to route communication audio through your Bluetooth earbuds. This triggers the A2DP → SCO/HFP profile switch that AI apps fail to perform on their own.
  * [cally](https://github.com/LyoSU/cally) - Pixel call recorder for stock Android via Shizuku — no root, no unlocked bootloader. Dual-track VOICE_UPLINK+DOWNLINK with 5-step fallback ladder. Material 3 Expressive UI. Privacy-first: zero telemetry, opt-in cloud transcription with self-hosted endpoint support.
@@ -88,6 +89,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [telesor](https://github.com/aitorpazos/telesor) - Share camera and NFC from your phone to another Android device
  * [thor-wayfinder](https://github.com/Thor-Wayfinder/thor-wayfinder) - This app lets you swap which screen your apps are displayed on for your AYN Thor
  * [vFlow](https://github.com/ChaoMixian/vFlow) - vFlow 是一款为 Android 平台设计的、强大且高度可扩展的自动化工具。它允许你通过图形化界面，将一系列“动作模块”自由组合成强大的“工作流”，从而自动完成各种日常的、重复性的屏幕操作任务。
+ * [VInstall](https://github.com/vinstall/VInstall) - Android package installer supporting APK, XAPK, APKS, APKM, and the custom APKV encrypted format — with built-in app manager, backup, and silent install via root or Shizuku.
  * [Vortex](https://github.com/mim1012/Vortex)
  * [White-Magic](https://github.com/KennyYang0726/White-Magic) - 白魔法開源專案
  * [XAutoDaily](https://github.com/LuckyPray/XAutoDaily) - 一个基于QQ的全自动签到模块
@@ -115,7 +117,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [anti-tracker](https://github.com/HonzaV/anti-tracker) - GPS, Bluetooth, WiFi, Data and carrier cellphone signal all those can be used to track you. Get rid of tracking with this Android App. 
  * [Audio-Refresher](https://github.com/SebastianZzzz/Audio-Refresher) - Automatic refreshing audio services via Shizuku to keep service alive. It's a way to optimize background video playing without having to manually refresh the player status via control centre. Now it's only designed for BiliBili.
  * [bgmi-engine](https://github.com/surajheadsup/bgmi-engine)
- * [BitInstaller-dev](https://github.com/S0methingSomething/BitInstaller-dev)
  * [com.malikhw.hosadvtexts](https://github.com/MalikHw/com.malikhw.hosadvtexts) - for redmi
  * [EasierSpot](https://github.com/AgentKosticka/EasierSpot)
  * [FingerTheGame](https://github.com/FZ1010/FingerTheGame) - Android save-data editor — poke any app's NRBF/SQLite/text/binary file via Shizuku, no root needed.
@@ -134,7 +135,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [sharemove](https://github.com/thejaustin/sharemove) - Hide apps from Android's intent chooser sheet (APK installer, browser, and more) — Shizuku or root
  * [shellbox](https://github.com/xnet-admin-1/shellbox)
  * [shizulu](https://github.com/Glitch98777/shizulu) - Rootless Android shizule manager powered by Shizuku. Install JSON modules, run ADB-privileged actions, use dry run mode, profiles, logs, and safety warnings without root.
- * [sing-box-for-android](https://github.com/nekolsd/sing-box-for-android)
  * [ToolBox](https://github.com/OSSKn4w7/ToolBox)
  * [TrollExplorer](https://github.com/codingtrolling/TrollExplorer)
  * [UberAutoAccept](https://github.com/mim1012/UberAutoAccept) - Vortex 스타일의 상태 머신 기반 Uber 드라이버 자동 콜 수락 Android 애플리케이션
@@ -202,6 +202,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [DexCoverPad](https://github.com/Gh0strab/DexCoverPad)
  * [dual-manager](https://github.com/trunone/dual-manager)
  * [ethernet-config](https://github.com/newppaer/ethernet-config) - Android APP - Configure static IP on ethernet via Shizuku (no root)
+ * [Everlasting-Android-Tweak-Source-Code-Repo](https://github.com/hari161008/Everlasting-Android-Tweak-Source-Code-Repo) - Source Code
  * [GestorAppOps](https://github.com/trojas621/GestorAppOps) - GestorAppOps Descripción: Herramienta avanzada de gestión de privacidad para Android (Samsung One UI) que utiliza Shizuku y la API de AppOps para administrar permisos profundos (portapapeles, sensores, actividad en segundo plano) mediante depuración inalámbrica sin necesidad de Root.
  * [HabitatEngine](https://github.com/Allenwang0730/HabitatEngine)
  * [JiuGUIClaw](https://github.com/lhppppp/JiuGUIClaw) - JiuGUIClaw
@@ -218,12 +219,12 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [RTOSify](https://github.com/AILIFE-4798/RTOSify)
  * [SamsungOpenRing](https://github.com/TheVellichor/SamsungOpenRing) - Open-source SDK for Samsung Galaxy Ring gesture detection over BLE
  * [ScreenshotFaker](https://github.com/Huai-Tian/ScreenshotFaker) - A software that supports user-defined screenshot content and has strong anti-detection capabilities
- * [Sesame-AG](https://github.com/Sesame-AG/Sesame-AG) - Sesame-AG
+ * [Sesame-AG](https://github.com/aoguai/Sesame-AG) - Sesame-AG
  * [shizuku-ai](https://github.com/lcydtc15967073371/shizuku-ai) - Shizuku AI - 通过Shizuku权限执行ADB命令的悬浮窗AI助手，内置200+条命令库，支持AI理解需求自动执行
+ * [sing-box-for-android](https://github.com/SagerNet/sing-box-for-android) - Experimental Android client for sing-box
  * [tauri-plugin-shizuku](https://github.com/zhangnjsd/tauri-plugin-shizuku)
  * [TouchTool](https://github.com/mr-bogey/TouchTool) - 使用Android无障碍功能来帮助用户点击。蓝图式任务编辑
  * [Untethered](https://github.com/god-s-only/Untethered) - LADB Alternative, literally
- * [VInstall](https://github.com/khanCorporation/VInstall) - Install APK, XAPK, APKS, APKM, APKV, and ZIP files on Android with app manager, backup, and uninstaller support
  * [VirtualX](https://github.com/SpideryBook7/VirtualX)
  * [vk-s-NeuroAmpDSP](https://github.com/drkvvk2015/vk-s-NeuroAmpDSP)
  * [vpn4tv-native](https://github.com/VPN4TV/vpn4tv-native) - VPN4TV Native — Kotlin Android TV VPN client based on sing-box

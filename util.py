@@ -1,4 +1,7 @@
+import datetime
 import os
+from typing import Optional
+
 
 def flatten(xss):
     return [x for xs in xss for x in xs]
@@ -34,6 +37,13 @@ def filter_known_apps(apps, additional_excludes=None):
 
 def is_ignored(item):
     return item in ignore_list
+
+def make_aware(dt: Optional[datetime]) -> Optional[datetime]:
+    if dt is None:
+        return None
+    if dt.tzinfo is None:
+        return dt.replace(tzinfo=datetime.timezone.utc)
+    return dt.astimezone(datetime.timezone.utc)
 
 readme_paths = [] # Set by main.py
 

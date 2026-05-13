@@ -23,11 +23,11 @@ jobs:
     steps:
     - uses: actions/checkout@v6
       with:
-        repository: thepbone/app-crawler
+        repository: timschneeb/app-crawler
 
     - uses: actions/checkout@v6
       with:
-        repository: thepbone/awesome-shizuku
+        repository: timschneeb/awesome-shizuku
         path: './list'
     
     - name: Set up Python 3.12

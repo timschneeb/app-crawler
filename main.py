@@ -7,7 +7,7 @@ from typing import List, Optional
 
 import util
 from cache import Cache
-from report import write_report
+from report import write_report, write_sorted_reports
 from scanners.scanner import App
 from scanners.fdroid_scanner import FDroidScanner
 from scanners.github_code_scanner import GithubCodeScanner
@@ -41,8 +41,6 @@ def main() -> None:
         print("warning: GITHUB_AUTH env variable not set; skipping GitHub scanners")
         github_auth = None
 
-    summary_file = os.getenv("SUMMARY_FILE") or "SUMMARY.md"
-
     path = args.targetPath
     util.readme_paths = (
         glob.glob(path + '/*.md')
@@ -50,7 +48,8 @@ def main() -> None:
         + glob.glob(path + '/pages/CLOSED_SOURCE.md')
     )
 
-    report_path = os.path.join(os.getcwd(), summary_file)
+    report_path = os.path.join(os.getcwd(), "SUMMARY.md")
+    sorted_report_path = os.path.join(os.getcwd(), "SUMMARY_SORTED.md")
 
     cache_dir = os.path.join(os.getcwd(), "cache")
     os.makedirs(cache_dir, exist_ok=True)
@@ -95,8 +94,6 @@ def main() -> None:
             e_fs = util.make_aware(existing.first_seen)
             a_fs = util.make_aware(a.first_seen)
 
-            # Decide which record to keep: prefer the more recent record when possible
-            # If existing has no first_seen, prefer the newly discovered `a` (it likely has more metadata).
             if e_fs is None and a_fs is not None:
                 keep_new = True
             elif a_fs is None:
@@ -117,6 +114,7 @@ def main() -> None:
     apps = list(filter(remove_ignored_entries, apps))
 
     write_report(report_path, apps)
+    write_sorted_reports(sorted_report_path, apps)
 
     # Print to console
     for app in apps:

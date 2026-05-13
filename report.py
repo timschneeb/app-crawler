@@ -25,13 +25,20 @@ def _get_sort_key_and_reverse(mode: str) -> Tuple[Callable[[App], Any], bool]:
     if mode == 'popularity':
         # sort by popularity descending, then name asc
         def key(a: App) -> Any:
-            return -(a.popularity or 0), (a.name or '').lower()
+            return (-(a.popularity or 0), (a.name or '').lower())
         return key, False
 
     if mode == 'updated':
         # sort by last_updated (most recent first)
         def key(a: App) -> Any:
             dt = util.make_aware(a.last_updated)
+            return dt or datetime.fromtimestamp(0, tz=timezone.utc)
+        return key, True
+
+    if mode == 'first_seen':
+        # sort by first_seen (most recent first)
+        def key(a: App) -> Any:
+            dt = util.make_aware(a.first_seen)
             return dt or datetime.fromtimestamp(0, tz=timezone.utc)
         return key, True
 
@@ -47,7 +54,7 @@ def section_to_string(title: str, apps: List[App], sort_mode: str = 'name') -> s
     - Apps updated within the last 90 days go into the "new" group.
     - The rest go into the "old" group.
     The `sort_mode` controls how items within each subgroup are sorted.
-    Supported modes: 'name' (default), 'popularity', 'updated'.
+    Supported modes: 'name' (default), 'popularity', 'updated', 'first_seen'.
     """
     report = "\n"
     now = datetime.now(timezone.utc)
@@ -143,6 +150,7 @@ def write_sorted_reports(sorted_report_path: str, apps: List[App]) -> None:
     modes = [
         ('popularity', 'Sorted by popularity (most → least)'),
         ('updated', 'Sorted by last updated (most recent first)'),
+        ('first_seen', 'Sorted by first seen (most recent first)'),
     ]
 
     out = header

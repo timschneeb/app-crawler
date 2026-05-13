@@ -71,9 +71,6 @@ def section_to_string(title: str, apps: List[App], sort_mode: str = 'name') -> s
 
     keyfunc, reverse = _get_sort_key_and_reverse(sort_mode)
 
-    new.sort(key=keyfunc, reverse=reverse)
-    old.sort(key=keyfunc, reverse=reverse)
-
     if new or old:
         report += f"### {title}\n\n"
 
@@ -104,14 +101,21 @@ def section_to_string(title: str, apps: List[App], sort_mode: str = 'name') -> s
 
         return out
 
-    if new:
-        report += "#### Updated in the last 3 months\n\n"
-        report += _render_group(new)
+    if sort_mode is 'name':
+        if new:
+            new.sort(key=keyfunc, reverse=reverse)
+            report += "#### Updated in the last 3 months\n\n"
+            report += _render_group(new)
 
-    if old:
-        report += "\n#### Updated more than 3 months ago\n\n"
-        report += _render_group(old)
-
+        if old:
+            old.sort(key=keyfunc, reverse=reverse)
+            report += "\n#### Updated more than 3 months ago\n\n"
+            report += _render_group(old)
+    else:
+        # For other sorting modes, just render one group without the date subheadings
+        all_apps = new + old
+        all_apps.sort(key=keyfunc, reverse=reverse)
+        report += _render_group(all_apps)
     return report
 
 

@@ -54,12 +54,12 @@ def section_to_string(title: str, apps: list) -> str:
         else:
             old.append(a)
 
-    # Sort both groups by first_seen descending (newest first). Treat missing first_seen as very old.
     def _fs_key(a):
-        fs = _make_aware(getattr(a, 'first_seen', None))
-        if fs is None:
-            return datetime.fromtimestamp(0, tz=UTC)
-        return fs
+        return getattr(a, 'name', None)
+        #fs = _make_aware(getattr(a, 'first_seen', None))
+        #if fs is None:
+        #    return datetime.fromtimestamp(0, tz=UTC)
+        #return fs
 
     new.sort(key=_fs_key, reverse=True)
     old.sort(key=_fs_key, reverse=True)

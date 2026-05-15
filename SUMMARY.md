@@ -55,6 +55,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Fuck_ets100](https://github.com/laststudio/Fuck_ets100)
  * [GlyphRecorder](https://github.com/aaa1115910/GlyphRecorder) - A glyph recognition tool.
  * [hayai](https://github.com/HayaiApp/hayai) - Free and open source manga & novel reader for Android — fork of Yōkai/TachiyomiJ2K/Mihon with first-class novel support.
+ * [Hermes Agent](https://github.com/adybag14-cyber/hermes-agent) `fdroid` - Local mobile AI agent with model downloads and native device tools
  * [HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！
  * [immich-cloud-media](https://github.com/Dreaming-Codes/immich-cloud-media)
  * [input-leaf](https://github.com/anasvhora284/input-leaf) - Android client for Input Leap — share keyboard & mouse from your pc to your phone 
@@ -105,6 +106,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [charge-pilot](https://github.com/ImL1s/charge-pilot) - Cross-brand Android charging-control utility — capability detection + explicit, reversible user-initiated control (WRITE_SETTINGS / Shizuku / root). AGPL-3.0.
  * [gpstest](https://github.com/ZForest000/gpstest)
  * [pims](https://github.com/dmitry-goncharov/pims) - The app for enabling VoLTE and VoWiFi on Google Pixel smartphone
+ * [tabby-app](https://github.com/coder-zkl1988/tabby-app) - Tabby - AI Agent Android App (CDN distribution)
  * [UriRoute](https://github.com/Jawiiki/UriRoute) - JS 引擎驱动的 Content 路由动态管理器
  * [UsbDiskManager](https://github.com/ferelking242/UsbDiskManager) - Application Android native pour gérer les clés USB et disques OTG — Kotlin · Jetpack Compose · Clean Architecture
  * [wifiportal](https://github.com/lovitus/wifiportal)
@@ -121,6 +123,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [bgmi-engine](https://github.com/surajheadsup/bgmi-engine)
  * [com.malikhw.hosadvtexts](https://github.com/MalikHw/com.malikhw.hosadvtexts) - for redmi
  * [EasierSpot](https://github.com/AgentKosticka/EasierSpot)
+ * [etsume](https://github.com/harshtries-code/etsume) - A free, open-source manga reader and anime player for Android. Browse, read, and watch from extension-based sources — all in one app.
  * [FingerTheGame](https://github.com/FZ1010/FingerTheGame) - Android save-data editor — poke any app's NRBF/SQLite/text/binary file via Shizuku, no root needed.
  * [galaxy-shutter-mute-manager](https://github.com/ryuya0124/galaxy-shutter-mute-manager)
  * [GlyphHacker](https://github.com/Young-Lord/GlyphHacker) - LOVE Ingress Glyph Hack with Android power.
@@ -137,13 +140,17 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [SCUNETlogin](https://github.com/LFWQSP2641/SCUNETlogin) - 四川大学校园网（锐捷）自动登录 - Android 版本！
  * [sharemove](https://github.com/thejaustin/sharemove) - Hide apps from Android's intent chooser sheet (APK installer, browser, and more) — Shizuku or root
  * [shellbox](https://github.com/xnet-admin-1/shellbox)
- * [shizulu](https://github.com/Glitch98777/shizulu) - Rootless Android shizule manager powered by Shizuku. Install JSON modules, run ADB-privileged actions, use dry run mode, profiles, logs, and safety warnings without root.
+ * [shizguru](https://github.com/Glitch98777/shizguru) - ShizGuru: Shizuku core plus Shizulu rootless modules and tools
+ * [shizuku-reforked](https://github.com/HmnDev-Tech/shizuku-reforked) - Shizuku Reforked - A modernized and enhanced fork of Shizuku with Dhizuku support, Watchdog service, and a premium Jetpack Compose UI.
+ * [shizulu](https://github.com/Glitch98777/shizulu) - Legacy Shizulu repo. Shizulu has evolved into ShizGuru: ShizGuru Core plus JSON shizules.
+ * [SPEC-CPU-Runner](https://github.com/Tyuwwe/SPEC-CPU-Runner) - Cross-platform GUI frontend for running SPEC CPU 2026 benchmark suites. Built with Flutter and Material Design 3.
  * [ToolBox](https://github.com/OSSKn4w7/ToolBox)
  * [TrollExplorer](https://github.com/codingtrolling/TrollExplorer)
  * [UberAutoAccept](https://github.com/mim1012/UberAutoAccept) - Vortex 스타일의 상태 머신 기반 Uber 드라이버 자동 콜 수락 Android 애플리케이션
  * [UnscopeMyData](https://github.com/kepatotorica/UnscopeMyData) - A simple app that hooks into Shizuku and allows you to have easy one click access move data around from android data folders to a location that doesn't have scoped data.
  * [usbpdbs](https://github.com/ONDER1E/usbpdbs) - Allows your phone to be connected to the charger, such that the phone is being powered by the charger but the battery is not being charged, allows operation at lower battery percentages such as 40% so you can have your phone plugged in 24/7 without putting high voltage strain on the battery.
  * [v2rayNG-Next](https://github.com/Lemocuber/v2rayNG-Next) - v2rayNG extended with amazing features
+ * [WUWA-VN-Android](https://github.com/Acceleratorer/WUWA-VN-Android) - WUWA - VietNam
  * [XClean](https://github.com/utopiafar/XClean)
  * [ZeroLink](https://github.com/ly7753/ZeroLink)
 </details>
@@ -216,7 +223,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [MobileAIDomestic](https://github.com/huy264128-netizen/MobileAIDomestic)
  * [Multiisland](https://github.com/lokey0905/Multiisland)
  * [MWV-Script-](https://github.com/17crown1901mituru/MWV-Script-)
- * [Nexus](https://github.com/maazm7d/Nexus) - "Everything you could do with root, without root.
  * [Nexus-framework](https://github.com/1andrewprice6-jpg/Nexus-framework)
  * [null-code-ide](https://github.com/YasserNull/null-code-ide) - بيئة برمجة الأندرويد ، قيد التطوير 
  * [opencode-mobile](https://github.com/linger-su/opencode-mobile)
@@ -225,6 +231,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [SamsungOpenRing](https://github.com/TheVellichor/SamsungOpenRing) - Open-source SDK for Samsung Galaxy Ring gesture detection over BLE
  * [ScreenshotFaker](https://github.com/Huai-Tian/ScreenshotFaker) - A software that supports user-defined screenshot content and has strong anti-detection capabilities
  * [Sesame-AG](https://github.com/Sesame-AG/Sesame-AG) - Sesame-AG
+ * [Sesame-AG-2026](https://github.com/witrer/Sesame-AG-2026) - 芝麻糊AG
  * [shizuku-ai](https://github.com/lcydtc15967073371/shizuku-ai) - Shizuku AI - 通过Shizuku权限执行ADB命令的悬浮窗AI助手，内置200+条命令库，支持AI理解需求自动执行
  * [sing-box-for-android](https://github.com/SagerNet/sing-box-for-android) - Experimental Android client for sing-box
  * [tauri-plugin-shizuku](https://github.com/zhangnjsd/tauri-plugin-shizuku)
@@ -267,6 +274,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [AIGC_Figma_Frontend](https://github.com/p05-HY/AIGC_Figma_Frontend) - AIGC安卓端
  * [aigctest](https://github.com/Lin-ZCZ/aigctest)
  * [aiope](https://github.com/xnet-admin-1/aiope) - AIOPE Android app
+ * [aizm](https://github.com/zsywan127421/aizm)
  * [android-desktop-touchpad](https://github.com/prespic/android-desktop-touchpad) - Virtual touchpad for Android Desktop Mode on external displays. Uses Shizuku to inject mouse events on the secondary screen. Built for Pixel 8+ with Android 15+.
  * [androidoptimizer](https://github.com/Sittirahmadia/androidoptimizer)
  * [androlyze](https://github.com/c0dev0id/androlyze) - Android Analyze App
@@ -315,14 +323,15 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [RnzeDebloatera](https://github.com/clever2755-deb/RnzeDebloatera)
  * [Robodroid](https://github.com/BezumnyiMarks/Robodroid)
  * [scaling-octo-fiesta](https://github.com/FadedSatori/scaling-octo-fiesta)
- * [Sesame-AG-2026](https://github.com/witrer/Sesame-AG-2026) - 芝麻糊AG
  * [shear_plate_hook](https://github.com/LinsVert/shear_plate_hook)
  * [Shisui](https://github.com/hiroshibr001-eng/Shisui) - Jdjd
+ * [shizguru-api](https://github.com/Glitch98777/shizguru-api) - ShizGuru API submodule fork
  * [splitscreen-input-bridge](https://github.com/AsafeTork/splitscreen-input-bridge)
  * [StereoBalanceOverlay](https://github.com/du4n31/StereoBalanceOverlay)
  * [switchuser](https://github.com/allisonbzk/switchuser) - Switch user APP for buggy MIUI which won't allow multi user to switch accounts
  * [SystemBridgeFramework](https://github.com/olivia1246/SystemBridgeFramework) - Framework for Android to allow websites or other applications to request custom payload execution by utilising URL schemes.
  * [tablet-EPT-Manager](https://github.com/rangel3l21/tablet-EPT-Manager)
+ * [taskbar_ontt](https://github.com/Crazy-pixel959/taskbar_ontt)
  * [tiktok_sticker_extracter](https://github.com/wilfredkimura/tiktok_sticker_extracter)
  * [volume-flashlight](https://github.com/null-dev/volume-flashlight) - Toggle your flashlight on Android by holding the volume-down button - without root
  * [xyroo_Sensix](https://github.com/auzia012/xyroo_Sensix)

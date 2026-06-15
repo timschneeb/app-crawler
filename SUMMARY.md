@@ -64,6 +64,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [curbox](https://github.com/nethical6/curbox) - Free App & Website Blocker for android
  * [dilink-auto-android](https://github.com/andersonlucasg3/dilink-auto-android)
  * [DrawixPRO](https://github.com/elhizazi1/DrawixPRO) - Drawix Pro is a powerful, floating screen drawing and annotation platform for Android. Designed for professionals, educators, and content creators.
+ * [DSU-Sideloader-Plus](https://github.com/yangFenTuoZi/DSU-Sideloader-Plus) - A simple app made to help users easily install GSIs via DSU's Android feature.
  * [DunUnlocker](https://github.com/naijun0403/DunUnlocker) - 삼성 갤럭시 기기를 비롯한 안드로이드 스마트폰에서 APN 타입에 dun을 정상적으로 추가하도록 도와주는 앱입니다.
  * [EmuTran](https://github.com/mayusi/EmuTran) - One-tap emulation setup for Android handhelds — installs emulators, stages GPU drivers, and scaffolds your Emulation folder in one guided flow.
  * [Ephyra](https://github.com/Gameaday/Ephyra) - Free and open source manga reader for Android
@@ -81,10 +82,10 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Fuck_ets100](https://github.com/laststudio/Fuck_ets100)
  * [GlyphBarty](https://github.com/Link2011-Act2/GlyphBarty) - A better Glyph Interface Music Visualizer
  * [GlyphRecorder](https://github.com/aaa1115910/GlyphRecorder) - A glyph recognition tool.
+ * [Hamon](https://github.com/Miafetta/Hamon) - An Android app for syncing phone status to a personal homepage via Shizuku.
  * [HanakoAI](https://github.com/zyf2007/HanakoAI) - 安卓悬浮窗搜题 AI 客户端，支持无弹窗一键复制答案，自定义模型提供方，自定义助手提示词。
  * [haval-climate-control](https://github.com/rocamoras/haval-climate-control) - Controle do AC automatico do Haval
  * [helix-debloater](https://github.com/ColonelloGET/helix-debloater) - Disable and remove pre-installed apps (bloatware) from your Android without root, via Shizuku. Tested on the LG K41S.
- * [Hermes Agent](https://github.com/adybag14-cyber/hermes-agent) `fdroid` - Run local AI models with chat, files, voice, and Android tools
  * [Hermes Agent Fork](https://github.com/adybag14-cyber/hermes-agent) `fdroid` - Run local AI models with chat, files, voice, and Android tools
  * [hikari](https://github.com/LeverTeam/hikari) - Manga Reader for Android
  * [HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！
@@ -96,7 +97,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Kernix](https://github.com/nikitazernyshkin/Kernix) - System tweaker for Android with Shizuku
  * [Kindle-of-Peiyang](https://github.com/ImCZFy/Kindle-of-Peiyang) - TJU 校园聚合服务 App.
  * [komi-store](https://github.com/kurikomi-labs/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
- * [libterm](https://github.com/niki914/libterm) - A coroutine-supported terminal session lib built on top of libsu and Shizuku.
+ * [libterm](https://github.com/niki914/libterm) - Kotlin-first Android terminal library spanning Su, Shizuku, and SSH sessions.
  * [linkura-localify](https://github.com/ChocoLZS/linkura-localify) - 林库拉本地化插件 / Link！Like！LoveLive！Localify plugin / リンクラ / Linkura Localify / LoveLive Translation / llll
  * [linuxdrop](https://github.com/burakgon/linuxdrop) - Self-hosted, end-to-end encrypted clipboard sync between Android and Linux — copy on one device, paste on the other, automatically.
  * [lsfTB](https://github.com/lsfdc233/lsfTB) - 某入闲的没事，瞎几把开发
@@ -189,6 +190,8 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [OneClickSkinCleaner](https://github.com/wenrou6/OneClickSkinCleaner) - Android Shizuku tool for removing Ball Battle skin shop config caches
  * [plugin-framework](https://github.com/3975380064-maker/plugin-framework) - 基于 Shizuku 的 Android 通用插件框架 v2.0
  * [praesis-access-releases](https://github.com/vokazakroge/praesis-access-releases)
+ * [ScanProfile](https://github.com/V-s-3/ScanProfile) - Android tool for inspecting cross-profile visibility, installed packages per user, and processes. Shizuku must be installed and running first for the full SHIZUKU mode (Work Profiles, Private Spaces, etc.). View packages and process stats across all users.
+ * [shiroikuma-jiyusagyoban](https://github.com/ShiroiKuma0/shiroikuma-jiyusagyoban) - 白い熊 作業盤 — downstream fork of OpenTasker (FOSS Tasker alternative), renamed to install side-by-side, with custom intent actions to drive the sister apps.
  * [TriggerFreeze](https://github.com/debug-deng/TriggerFreeze) - 阻止广告应用跳转至购物、微信等 App | Block ad‑loaded apps from launching other apps (e.g., shopping, WeChat).
  * [UriRoute](https://github.com/Jawiiki/UriRoute) - JS 引擎驱动的 Content 路由动态管理器
  * [UsbDiskManager](https://github.com/ferelking242/UsbDiskManager) - Application Android native pour gérer les clés USB et disques OTG — Kotlin · Jetpack Compose · Clean Architecture
@@ -207,6 +210,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [anti-tracker](https://github.com/HonzaV/anti-tracker) - GPS, Bluetooth, WiFi, Data and carrier cellphone signal all those can be used to track you. Get rid of tracking with this Android App. 
  * [Athena-Liberated](https://github.com/Victoria-Freeman/Athena-Liberated)
  * [bgmi-engine](https://github.com/surajheadsup/bgmi-engine)
+ * [Bilimerge](https://github.com/Rcaaal/Bilimerge) - Export offline videos from Bilibili mobile app
  * [BlackClaw](https://github.com/tuangel134/BlackClaw) - On-device AI agent that operates your Android phone — local or cloud LLM, ~85 tools, built-in ADB pairing, OCR, auto-replies. Beta.
  * [ChoujuXxt](https://github.com/liuwanwan1/ChoujuXxt) - 丑橘学习助手 - Android 悬浮窗 AI 客户端，支持一键截图识题、AI 解答、自动填写
  * [claude-routine-sched](https://github.com/DynamycSound/claude-routine-sched)
@@ -232,6 +236,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [mizuku](https://github.com/Leaf-lsgtky/mizuku)
  * [mobile-data-switcher](https://github.com/adhupraba/mobile-data-switcher)
  * [MSoris-Mapper](https://github.com/noteveno/MSoris-Mapper) - MSoris - Keyboard and mouse mapper for Android gaming
+ * [NasUX](https://github.com/nastech-ai/NasUX) - NasUX — a next-generation Android AI workspace integrating terminal computing, autonomous agents, local AI, cloud intelligence, development tools, and self-healing system automation, powered by NasTech AI.
  * [NoFapChecker](https://github.com/MinhKhanh79/NoFapChecker) - Ứng dụng tracking bỏ lọ - Tu tiên
  * [nosleep-tv](https://github.com/chassehiboux/nosleep-tv) - Android TV app that keeps selected apps awake
  * [nullvpn-android](https://github.com/nullvpnnet/nullvpn-android)
@@ -249,12 +254,12 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Shizuku-Shell](https://github.com/forjadaia/Shizuku-Shell) - Ferramenta leve para executar comandos shell via Shizuku em dispositivos Android.
  * [shizuku-system-autostart-fix](https://github.com/liuyichen671/shizuku-system-autostart-fix)
  * [Shizuku-Tools](https://github.com/Qutaiba-Khader/Shizuku-Tools)
+ * [SmartBrightness](https://github.com/OneDongua/SmartBrightness)
  * [SmartSwap](https://github.com/Horizon-25/SmartSwap) - Offline phone-to-phone data transfer via Wi‑Fi hotspot + QR code pairing. Send files, receive files, or perform full backups (media, contacts, SMS, call logs, optional apps/app data via Shizuku). All transfers are copy‑only — nothing is ever moved or deleted. Works Android 6.0+. No root, no internet, no cables."
  * [SolveX](https://github.com/xingtianiy/SolveX) - SolveX 是一款专为 Android 打造的开源学习辅助工具。它结合了屏幕捕捉、高精度 OCR 文字识别、以及大语言模型 (LLM) 的 SSE 流式响应技术，旨在为你提供丝滑、高效的题目解答和内容分析体验。
  * [Stellar-API-FullPackage](https://github.com/OFox213/Stellar-API-FullPackage)
  * [tacet-manager](https://github.com/Sakayorii/tacet-manager) - Tacet Manager — installer/manager app for Tacet, a Discord client modification. Fork of Revenge Manager (OSL-3.0).
  * [TimezoneAndLanguageSwitcher](https://github.com/wysfjy/TimezoneAndLanguageSwitcher)
- * [TrollExplorer](https://github.com/codingtrolling/TrollExplorer)
  * [UberAutoAccept](https://github.com/mim1012/UberAutoAccept) - Vortex 스타일의 상태 머신 기반 Uber 드라이버 자동 콜 수락 Android 애플리케이션
  * [unix](https://github.com/diegonmarcos/unix) - penguins does have wings, but those are divers and swimmers!
  * [Vivo-Updates](https://github.com/Sahil-958/Vivo-Updates) - Custom branded system utility
@@ -315,6 +320,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [com.malikhw.hosadvtexts](https://github.com/MalikHw/com.malikhw.hosadvtexts) - for redmi
  * [MiRearScreenGradienter](https://github.com/GoldenglowSusie/MiRearScreenGradienter)
  * [Movinkpad-stylus-remapper](https://github.com/KawaNae/Movinkpad-stylus-remapper)
+ * [TrollExplorer](https://github.com/codingtrolling/TrollExplorer)
 </details>
 
 ### Apps with no releases
@@ -400,6 +406,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [OB_full](https://github.com/dan1t0/OB_full)
  * [Operit](https://github.com/Mavaebrook/Operit) - Operit AI - Android AI Assistant with Ubuntu terminal, local LLMs, and 40+ tools (mirror/fork of AAswordman/Operit)
  * [pixel-volte-patch-public-api](https://github.com/Batestinha/pixel-volte-patch-public-api) - Pixel VoLTE Patch fork with public automation API
+ * [Pokomi](https://github.com/pokedo0/Pokomi)
  * [Project-Atlas-Fix](https://github.com/Klingaisjns/Project-Atlas-Fix)
  * [project_mythara](https://github.com/ankurCES/project_mythara) - M.Y.T.H.A.R.A — Mind Yoked Tonal Haptic Adaptive Resonant Assistant. Open-source agentic AI Android OS layer. Local-first, private-by-construction, BYO-model alternative to Android 17 / Aluminium OS Gemini-everywhere.
  * [S3AndroidMCP](https://github.com/Superl3/S3AndroidMCP)
@@ -420,7 +427,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
 <summary>No GitHub stars</summary>
 
  * [-](https://github.com/EternityQwQ/-)
- * [A.U.R.A.K.A.I](https://github.com/auraframefx-jpg/A.U.R.A.K.A.I) - SSI Framework and Root mods
  * [A54GhostFix](https://github.com/VastSea0/A54GhostFix)
  * [ACTScope](https://github.com/BIGGGJerry/ACTScope)
  * [AIGC_Figma_Frontend](https://github.com/p05-HY/AIGC_Figma_Frontend) - AIGC安卓端
@@ -447,7 +453,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [DEXULTRA-BOOSTER-PROGGYCGFF](https://github.com/harajyemen/DEXULTRA-BOOSTER-PROGGYCGFF) - DexUltra Booster Pro
  * [DexUltraBoosterPro](https://github.com/harajyemen/DexUltraBoosterPro) - مُحسّن ببجي موبايل الاحترافي - Native Android App with Shizuku integration, 120 FPS injection, ping optimizer
  * [dnstoggle](https://github.com/portal305/dnstoggle)
- * [DSU-Sideloader-Plus](https://github.com/yangFenTuoZi/DSU-Sideloader-Plus) - A simple app made to help users easily install GSIs via DSU's Android feature.
  * [e7-auto-platform](https://github.com/guinvisible-crypto/e7-auto-platform) - A modular Android automation platform for Epic Seven, supporting auto farming, image recognition, and task scheduling.
  * [emuflow](https://github.com/cpdekok/emuflow) - Automated emulator deployment, configuration & management for Android retro handhelds
  * [Everlasting-Android-Tweak](https://github.com/MdHasan097/Everlasting-Android-Tweak)
@@ -500,7 +505,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ShizuPaste](https://github.com/sheenazien8/ShizuPaste)
  * [splitscreen-input-bridge](https://github.com/AsafeTork/splitscreen-input-bridge)
  * [StedNet-Lock](https://github.com/OmerKurdi79/StedNet-Lock) - Nothing yet .
- * [StereoBalanceOverlay](https://github.com/du4n31/StereoBalanceOverlay)
  * [switchuser](https://github.com/allisonbzk/switchuser) - Switch user APP for buggy MIUI which won't allow multi user to switch accounts
  * [tablet-EPT-Manager](https://github.com/rangel3l21/tablet-EPT-Manager)
  * [TachiyomiSZ](https://github.com/gabProjectAPKs/TachiyomiSZ)
@@ -572,5 +576,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [LNStretch](https://github.com/luanzzkribeirozzk-design/LNStretch) - LN Stretch — Esticador de tela Free Fire
  * [mlbb-history-analyst](https://github.com/Amethyst666/mlbb-history-analyst)
  * [ResolutionChange](https://github.com/dxthanh2002/ResolutionChange) - Mobile app change
+ * [StereoBalanceOverlay](https://github.com/du4n31/StereoBalanceOverlay)
  * [SystemBridgeFramework](https://github.com/olivia1246/SystemBridgeFramework) - Framework for Android to allow websites or other applications to request custom payload execution by utilising URL schemes.
 </details>

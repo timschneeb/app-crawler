@@ -46,6 +46,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [better-nothing-music-visualizer](https://github.com/Aleks-Levet/better-nothing-music-visualizer) - An android app that provides better music visualization for the Glyph Interface of Nothing Phones, and that also lets you feel your music through the haptic vibration motor.
  * [Bilimerge](https://github.com/Rcaaal/Bilimerge) - Export offline videos from Bilibili mobile app
  * [BitInstaller-dev](https://github.com/S0methingSomething/BitInstaller-dev)
+ * [BlackClaw](https://github.com/tuangel134/BlackClaw) - On-device AI agent that operates your Android phone — local or cloud LLM, ~85 tools, built-in ADB pairing, OCR, auto-replies. Beta.
  * [Browser-Limit](https://github.com/MRAKS05/Browser-Limit) - Blocks you from installing other unsafe browsers that you might use to access sites and contents you already blocked elsewhere. 
  * [BTMicFix](https://github.com/Endda/BTMicFix) - BTMicFix uses Android's `setCommunicationDevice()` API (Android 12+) to force the system to route communication audio through your Bluetooth earbuds. This triggers the A2DP → SCO/HFP profile switch that AI apps fail to perform on their own.
  * [Calibrate-SoC](https://github.com/mayusi/Calibrate-SoC) - Universal performance tuner, monitor & benchmark suite for Android gaming handhelds (AYN Odin/Thor, Retroid Pocket, and more). Pre-alpha, open source.
@@ -160,6 +161,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Smart Dock](https://github.com/axel358/smartdock) `fdroid` - A user-friendly desktop mode launcher that offers a modern and customizable user
  * [SmartBrightness](https://github.com/OneDongua/SmartBrightness)
  * [SmartFlight](https://github.com/gao-gao-zai/SmartFlight)
+ * [SmartSwap](https://github.com/Horizon-25/SmartSwap) - Offline phone-to-phone data transfer via Wi‑Fi hotspot + QR code pairing. Send files, receive files, or perform full backups (media, contacts, SMS, call logs, optional apps/app data via Shizuku). All transfers are copy‑only — nothing is ever moved or deleted. Works Android 6.0+. No root, no internet, no cables."
  * [spotify-ad-skipper](https://github.com/sihooney/spotify-ad-skipper) - Skip ads on Spotify for Android
  * [startfrp](https://github.com/usertest001/startfrp) - Android FRP客户端，FRP Client， FRP Android
  * [status-sync-android](https://github.com/Miafetta/status-sync-android) - An Android app for syncing phone status to a personal homepage via Shizuku.
@@ -225,7 +227,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [anti-tracker](https://github.com/HonzaV/anti-tracker) - GPS, Bluetooth, WiFi, Data and carrier cellphone signal all those can be used to track you. Get rid of tracking with this Android App. 
  * [Athena-Liberated](https://github.com/Victoria-Freeman/Athena-Liberated)
  * [bgmi-engine](https://github.com/surajheadsup/bgmi-engine)
- * [BlackClaw](https://github.com/tuangel134/BlackClaw) - On-device AI agent that operates your Android phone — local or cloud LLM, ~85 tools, built-in ADB pairing, OCR, auto-replies. Beta.
  * [ChoujuXxt](https://github.com/liuwanwan1/ChoujuXxt) - 丑橘学习助手 - Android 悬浮窗 AI 客户端，支持一键截图识题、AI 解答、自动填写
  * [claude-routine-sched](https://github.com/DynamycSound/claude-routine-sched)
  * [EasierSpot](https://github.com/AgentKosticka/EasierSpot)
@@ -235,6 +236,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [FingerTheGame](https://github.com/FZ1010/FingerTheGame) - Android save-data editor — poke any app's NRBF/SQLite/text/binary file via Shizuku, no root needed.
  * [galaxy-shutter-mute-manager](https://github.com/ryuya0124/galaxy-shutter-mute-manager)
  * [Game-BoosterX-Plus](https://github.com/disa12311/Game-BoosterX-Plus)
+ * [GameMapperMind](https://github.com/NanoMindExplorer/GameMapperMind) - Android gamepad-to-touchscreen mapper with overlay, anti-ban, and macro support. Supports Xbox, Switch, and Vortex XP107 controllers. Topics: ketik android lalu Enter, gamepad-mapper lalu Enter, shizuku, vortex-xp107, capacitor, react
  * [GlyphHacker](https://github.com/Young-Lord/GlyphHacker) - LOVE Ingress Glyph Hack with Android power.
  * [haval-dock](https://github.com/leandrosavn/haval-dock) - Toolbar inferior (overlay) para a central Haval/GWM
  * [hyperosunfcker](https://github.com/Enki013/hyperosunfcker) - HyperOS Optimizer Android app (Shizuku-based HyperOS tuning and debloat)
@@ -266,7 +268,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [shizuku-bottom-bar](https://github.com/leonardovin/shizuku-bottom-bar) - Custom bottom navigation bar for Haval H6 GT Android head unit via Shizuku
  * [Shizuku-Shell](https://github.com/forjadaia/Shizuku-Shell) - Ferramenta leve para executar comandos shell via Shizuku em dispositivos Android.
  * [Shizuku-Tools](https://github.com/Qutaiba-Khader/Shizuku-Tools)
- * [SmartSwap](https://github.com/Horizon-25/SmartSwap) - Offline phone-to-phone data transfer via Wi‑Fi hotspot + QR code pairing. Send files, receive files, or perform full backups (media, contacts, SMS, call logs, optional apps/app data via Shizuku). All transfers are copy‑only — nothing is ever moved or deleted. Works Android 6.0+. No root, no internet, no cables."
  * [SolveX](https://github.com/xingtianiy/SolveX) - SolveX 是一款专为 Android 打造的开源学习辅助工具。它结合了屏幕捕捉、高精度 OCR 文字识别、以及大语言模型 (LLM) 的 SSE 流式响应技术，旨在为你提供丝滑、高效的题目解答和内容分析体验。
  * [Stellar-API-FullPackage](https://github.com/OFox213/Stellar-API-FullPackage)
  * [tacet-manager](https://github.com/Sakayorii/tacet-manager) - Tacet Manager — installer/manager app for Tacet, a Discord client modification. Fork of Revenge Manager (OSL-3.0).
@@ -365,6 +366,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [HM-V2](https://github.com/novzzmanager-create/HM-V2)
  * [JiuGUIClaw](https://github.com/lhppppp/JiuGUIClaw) - JiuGUIClaw
  * [Kartika-IDE](https://github.com/hasanelfalakiy/Kartika-IDE) - A next-gen IDE for JVM development on Android. Forked from Cosmic-IDE.
+ * [kc-tool](https://github.com/KC-Tool/kc-tool) - androd system tool
  * [long-screenshot](https://github.com/wellorbetter/long-screenshot) - Android 滚动长截图，支持跨进程截图，三套方案：Shizuku / Root / MediaProjection
  * [LSFG-Android-Application](https://github.com/FrankBarretta/LSFG-Android-Application) - LSFG-Android Application
  * [MaidMic](https://github.com/suer781/MaidMic) - 🎤 Android 虚拟麦克风 · 3引擎可切换（直通/Echio均衡/频响曲线）· 实时DSP（变调/失真/混响/回声/共振峰）· HXAudio风格UI · Magisk/Shizuku/无障碍三方案
@@ -453,11 +455,11 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Athena](https://github.com/Vexzure/Athena)
  * [Attic](https://github.com/karanrajpal14/Attic) - Attic is an Android 14+ app that lets you sort your installed apps by how recently you used them, archive the ones collecting dust (removing their APKs while preserving your data), restrict their background data and activity, and set automatic re-archive rules so idle apps stay out of the way.
  * [Audio-Toggle](https://github.com/Ruhdee/Audio-Toggle) - No-UI Android utility that toggles mono audio and audio balance
+ * [auto-screen-locker](https://github.com/KunoiSayami/auto-screen-locker)
  * [CachePurge](https://github.com/nasherkim/CachePurge) - Cache wipe on Android
  * [CameraAndMicOnly2](https://github.com/InlelIllum/CameraAndMicOnly2) - CameraAndMicOnly2
  * [ChibiClaw](https://github.com/lendral3n/ChibiClaw)
  * [chotu](https://github.com/P-yoganjaneyulu/chotu)
- * [clipguard](https://github.com/ddzzhen/clipguard) - Android 剪贴板隐私守护 & Shizuku 权限统一管理 | Clipboard Guard + Permission Controller
  * [com.miloooo.game.shizuku](https://github.com/ilinchunjie/com.miloooo.game.shizuku)
  * [CosmoClicker](https://github.com/Kiyoscripts/CosmoClicker) - Modern Material Design 3 autoclicker for Android
  * [countryman](https://github.com/cloudinstone/countryman) - No Country for Old Men. 一个用于免 Root 调整 SIM 国家、运营商名称和号码显示的 Android 小工具。
@@ -475,7 +477,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [fnf-mods](https://github.com/SharvaElangovan/fnf-mods) - mods installer for fnf only for andriod
  * [FrozenDroid](https://github.com/michaelsam94/FrozenDroid) - FrozenDroid
  * [Gamehub2](https://github.com/deathlanger66/Gamehub2)
- * [GameMapperMind](https://github.com/NanoMindExplorer/GameMapperMind) - Android gamepad-to-touchscreen mapper with overlay, anti-ban, and macro support. Supports Xbox, Switch, and Vortex XP107 controllers. Topics: ketik android lalu Enter, gamepad-mapper lalu Enter, shizuku, vortex-xp107, capacitor, react
  * [gEvE](https://github.com/chewtoo22-rgb/gEvE) - gCloud Evolutionary Virtual Expert - Self-learning Xbox Cloud Optimizer for Logitech G Cloud with Shizuku Power Mode
  * [Gima](https://github.com/zeyzexgood-creator/Gima)
  * [GlassFiles-1](https://github.com/lkolholk-ctrl/GlassFiles-1)

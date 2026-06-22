@@ -21,11 +21,11 @@ jobs:
       cache-key: crawler-cache-new
 
     steps:
-    - uses: actions/checkout@v6
+    - uses: actions/checkout@v7
       with:
         repository: timschneeb/app-crawler
 
-    - uses: actions/checkout@v6
+    - uses: actions/checkout@v7
       with:
         repository: timschneeb/awesome-shizuku
         path: './list'

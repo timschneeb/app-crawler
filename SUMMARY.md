@@ -88,10 +88,9 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [FreeformShell](https://github.com/bravoyush/FreeformShell) - An experimental Android window manager overlay helper.
  * [Fuck_ets100](https://github.com/laststudio/Fuck_ets100)
  * [GlyphBarty](https://github.com/Link2011-Act2/GlyphBarty) - A better Glyph Interface Music Visualizer
- * [Hamon](https://github.com/Miafetta/Hamon) - An Android app for syncing phone status to a personal homepage via Shizuku.
  * [HanakoAI](https://github.com/zyf2007/HanakoAI) - 安卓悬浮窗搜题 AI 客户端，支持无弹窗一键复制答案，自定义模型提供方，自定义助手提示词。
  * [haval-climate-control](https://github.com/rocamoras/haval-climate-control) - Controle do AC automatico do Haval
- * [helix-debloater](https://github.com/ColonelloGET/helix-debloater) - Disable and remove pre-installed apps (bloatware) from your Android without root, via Shizuku. Tested on the LG K41S.
+ * [helix-debloater](https://github.com/darlantls/helix-debloater) - Disable and remove pre-installed apps (bloatware) from your Android without root, via Shizuku. Tested on the LG K41S.
  * [Hermes Agent Fork](https://github.com/adybag14-cyber/hermes-agent) `fdroid` - Run local AI models with chat, files, voice, and Android tools
  * [hikari](https://github.com/LeverTeam/hikari) - Manga Reader for Android
  * [hikari-android](https://github.com/Miafetta/hikari-android) - An Android app for syncing phone status to a personal homepage via Shizuku.
@@ -222,7 +221,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [plugin-framework](https://github.com/3975380064-maker/plugin-framework) - 基于 Shizuku 的 Android 通用插件框架 v2.0
  * [Pokomi](https://github.com/pokedo0/Pokomi) - Free and open source manga reader for Android, featuring Author Following to easily subscribe and track your favorite authors' latest works.
  * [praesis-access-releases](https://github.com/vokazakroge/praesis-access-releases)
- * [ScanProfile](https://github.com/V-s-3/ScanProfile) - Android tool for inspecting cross-profile visibility, installed packages per user, and processes. Shizuku must be installed and running first for the full SHIZUKU mode (Work Profiles, Private Spaces, etc.). View packages and process stats across all users.
  * [shiroikuma-jiyusagyoban](https://github.com/ShiroiKuma0/shiroikuma-jiyusagyoban) - 白い熊 作業盤 — downstream fork of OpenTasker (FOSS Tasker alternative), renamed to install side-by-side, with custom intent actions to drive the sister apps.
  * [TriggerFreeze](https://github.com/debug-deng/TriggerFreeze) - 阻止广告应用跳转至购物、微信等 App | Block ad‑loaded apps from launching other apps (e.g., shopping, WeChat).
  * [UriRoute](https://github.com/Jawiiki/UriRoute) - JS 引擎驱动的 Content 路由动态管理器
@@ -235,6 +233,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
 
  * [-bug](https://github.com/yuanfen1986/-bug) - 网络控制工具
  * [3DPrintMonitor](https://github.com/CashewTeam/3DPrintMonitor) - 安卓 3D 打印远程监控 App
+ * [ActivityLauncherShizukuPlugin](https://github.com/butzist/ActivityLauncherShizukuPlugin) - Plugin for ActivityLauncher that uses Shizuku for launching private Activities
  * [ailife-rtosify](https://github.com/IamAdedo/ailife-rtosify) - Mirror your phone's world to your wrist. Notifications, files, health, media, calls, and more—all in sync, over any connection.
  * [android-bluetooth-bouncer](https://github.com/harvzor/android-bluetooth-bouncer) - Android app that prevents Bluetooth auto-connect unless you let the device in
  * [bgmi-engine](https://github.com/surajheadsup/bgmi-engine)
@@ -273,6 +272,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ophoner](https://github.com/aaditagrawal/ophoner) - On-device Android AI agent — Jetpack Compose, tool-calling LLMs (Claude / OpenAI-compatible), sandboxed shell + file + web tools
  * [optimizer-helio-g99-malig57](https://github.com/antinormies/optimizer-helio-g99-malig57) - Optimizer Helio G99 Ultimate Phone
  * [poco-x8-led](https://github.com/Pan-Tester/poco-x8-led) - tak.
+ * [PortalPad](https://github.com/Smart-Home-User/PortalPad) - Trackpad & Remote for External Displays
  * [Quest-Task-Manager](https://github.com/kabzon93region/Quest-Task-Manager)
  * [realme-10-call-recorder](https://github.com/4Furki4/realme-10-call-recorder)
  * [RecentsHider](https://github.com/czeyu31/RecentsHider) - Hide apps from recent tasks using Shizuku - Android
@@ -442,7 +442,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Operit](https://github.com/Mavaebrook/Operit) - Operit AI - Android AI Assistant with Ubuntu terminal, local LLMs, and 40+ tools (mirror/fork of AAswordman/Operit)
  * [pixel-volte-patch-public-api](https://github.com/Batestinha/pixel-volte-patch-public-api) - Pixel VoLTE Patch fork with public automation API
  * [Project-Atlas-Fix](https://github.com/Klingaisjns/Project-Atlas-Fix)
- * [S3AndroidMCP](https://github.com/Superl3/S3AndroidMCP)
  * [ScreenStream-Hotspot](https://github.com/929411354/ScreenStream-Hotspot) - Android screen mirroring with hotspot detection
  * [shizuku-thedjchi-daemonstatebroadcast](https://github.com/Batestinha/shizuku-thedjchi-daemonstatebroadcast) - Shizuku fork that broadcasts daemon state changes
  * [Sizuku](https://github.com/unarto/Sizuku)
@@ -460,7 +459,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [-](https://github.com/EternityQwQ/-)
  * [A54GhostFix](https://github.com/VastSea0/A54GhostFix)
  * [AAA](https://github.com/NSR-XINE/AAA)
- * [ActivityLauncherShizukuPlugin](https://github.com/butzist/ActivityLauncherShizukuPlugin) - Plugin for ActivityLauncher that uses Shizuku for launching private Activities
  * [ACTScope](https://github.com/BIGGGJerry/ACTScope)
  * [AIGC_Figma_Frontend](https://github.com/p05-HY/AIGC_Figma_Frontend) - AIGC安卓端
  * [aigctest](https://github.com/Lin-ZCZ/aigctest)

@@ -15,7 +15,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [80bee-app](https://github.com/Endda/80bee-app) - Bringing the Power of ADB Directly to Your Device
  * [9Player](https://github.com/techza14/9Player)
  * [ActivityLauncherShizukuPlugin](https://github.com/ActivityLauncher/ActivityLauncherShizukuPlugin) - Plugin for ActivityLauncher that uses Shizuku for launching private Activities
- * [Adaptive-Hz](https://github.com/mahmutaunal/Adaptive-Hz) - Adaptive Hz automatically switches the display refresh rate between 60 Hz and 120 Hz based on user interaction. It is designed for Samsung devices that do not provide true adaptive refresh rate control natively.
  * [ADB-Commander](https://github.com/god-s-only/ADB-Commander) - A full Android developer toolkit that runs entirely on-device — inspect apps, stream Logcat, capture screens, run ADB commands and manage packages, all via Shizuku shell access. No laptop required.
  * [ADOFAI-Key-Viewer-Mobile](https://github.com/QuyetGD-15/ADOFAI-Key-Viewer-Mobile) - ADOFAI Key Viewer for Mobile. Features real-time touch visualization, KPS tracker, and total click counter
  * [AimBuddy](https://github.com/1337Xcode/AimBuddy) - A fully on‑device Android‑native aim assistant that helps visually impaired players detect and track opponents in realtime
@@ -272,6 +271,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [HyperOS3ScrollSetter](https://github.com/BlizzardAn225/HyperOS3ScrollSetter) - 让你的澎湃OS3设备设置随屏滚动的壁纸！Set scrolling wallpaper on your HyperOS 3 device!
  * [Kitsu-X](https://github.com/richtunic/Kitsu-X) - KitsuX is a modern open-source anime and manga platform based on Aniyomi, featuring a Netflix-inspired UI, smart recommendations powered by Jikan, dynamic easter eggs, and full extension ecosystem compatibility. Ad-free, privacy-focused, and designed for a seamless user experience.
  * [M-Explorer](https://github.com/Mumin-190/M-Explorer)
+ * [mihomo-watch-proxy](https://github.com/hongquangphung7044-oss/mihomo-watch-proxy) - Galaxy Watch7 国行 Wear OS 代理 - mihomo + Shizuku,绕过三星 VpnService 限制
  * [OneClickSkinCleaner](https://github.com/wenrou6/OneClickSkinCleaner) - Android Shizuku tool for removing Ball Battle skin shop config caches
  * [plugin-framework](https://github.com/3975380064-maker/plugin-framework) - 基于 Shizuku 的 Android 通用插件框架 v2.0
  * [Pokomi](https://github.com/pokedo0/Pokomi) - Free and open source manga reader for Android, featuring Author Following to easily subscribe and track your favorite authors' latest works.
@@ -348,7 +348,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Tegaki](https://github.com/MyNameHand/Tegaki) - Tegaki — a personal fork of Komikku with a priority-based scanlator filter and a migration hide-behind option.
  * [test](https://github.com/LandonMoran/test)
  * [UberAutoAccept](https://github.com/mim1012/UberAutoAccept) - Vortex 스타일의 상태 머신 기반 Uber 드라이버 자동 콜 수락 Android 애플리케이션
- * [understory-aegis](https://github.com/Zheke32174/understory-aegis) - Rootless TOTP/HOTP authenticator: BiometricPrompt-gated vault, auto-refreshing codes, QR + otpauth:// import, IME code entry, tap-to-copy with EXTRA_IS_SENSITIVE. 
  * [understory-antivirus](https://github.com/Zheke32174/understory-antivirus) - Heuristic APK / install scanner: signature checks against known-bad lists, risk rules, Play Protect status surfacing. Userspace-honest: heuristic, not behavioral. 
  * [understory-backups](https://github.com/Zheke32174/understory-backups) - Local-first encrypted backup orchestrator for the suite: schedules encrypted exports of every suite app's data to user-chosen destinations (USB, Syncthing folder, self-hosted). 
  * [understory-browser](https://github.com/Zheke32174/understory-browser) - Hardened minimal browser with overlay-network proxy support (i2p / lokinet / yggdrasil). Highest-ACE-surface app of the suite; ships only with the hardened WebView config. 
@@ -516,7 +515,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [vpn4tv-native](https://github.com/VPN4TV/vpn4tv-native) - VPN4TV Native — Kotlin Android TV VPN client based on sing-box
  * [Wjy_self](https://github.com/Alexued/Wjy_self)
  * [XEGG_luajava_android](https://github.com/NoWint/XEGG_luajava_android) - 还没想好
- * [YueXi-Tools](https://github.com/boxiaolanya2008/YueXi-Tools) - 一个Android优化软件，主要是针对vivo/iqoo设备，部分功能其它Android皆可使用。搬运功能时记得备注来源、并且遵守开源协议。
 
 <details>
 <summary>Non-original content</summary>
@@ -539,7 +537,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [hyper-code](https://github.com/yixing233/hyper-code)
  * [Hyper_Schedule](https://github.com/Lucas04-nhr/Hyper_Schedule)
  * [kc-tool](https://github.com/androidok/kc-tool) - androd system tool
- * [mihomo-watch-proxy](https://github.com/hongquangphung7044-oss/mihomo-watch-proxy) - Galaxy Watch7 国行 Wear OS 代理 - mihomo + Shizuku,绕过三星 VpnService 限制
  * [my-app](https://github.com/reaganmbao5-wq/my-app)
  * [NexoDroid](https://github.com/Daniel-2323/NexoDroid) - DroidPilot es un centro de control para Android que utiliza Shizuku para administrar usuarios, aplicaciones, comandos shell, diagnósticos y automatizaciones desde una interfaz moderna, sin requerir root para la mayoría de sus funciones.
  * [OB_full](https://github.com/dan1t0/OB_full)
@@ -548,11 +545,11 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [operit-miuix](https://github.com/sche11/operit-miuix) - Operit with Miuix UI migration
  * [pixel-volte-patch-public-api](https://github.com/Batestinha/pixel-volte-patch-public-api) - Pixel VoLTE Patch fork with public automation API
  * [Project-Atlas-Fix](https://github.com/Klingaisjns/Project-Atlas-Fix)
- * [proxy-killua](https://github.com/fallentasty633-alt/proxy-killua)
  * [ScreenStream-Hotspot](https://github.com/929411354/ScreenStream-Hotspot) - Android screen mirroring with hotspot detection
  * [shizuku-thedjchi-daemonstatebroadcast](https://github.com/Batestinha/shizuku-thedjchi-daemonstatebroadcast) - Shizuku fork that broadcasts daemon state changes
  * [ShizukuPlus](https://github.com/iam-mahadi/ShizukuPlus)
  * [Sizuku](https://github.com/unarto/Sizuku)
+ * [understory-aegis](https://github.com/Zheke32174/understory-aegis) - Rootless TOTP/HOTP authenticator: BiometricPrompt-gated vault, auto-refreshing codes, QR + otpauth:// import, IME code entry, tap-to-copy with EXTRA_IS_SENSITIVE. 
  * [understory-manager](https://github.com/Zheke32174/understory-manager) - Understory Manager — optional control center for the Understory security suite
  * [VibeReplay](https://github.com/zhouhaoran-TJU/VibeReplay)
 </details>
@@ -594,7 +591,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [console_simple_settings_app](https://github.com/Cowlsly/console_simple_settings_app) - This is a simple settings UI and app, it can be applied to all of our apps and our website Cowlsly.com, these settings will give any user basic control over things like volume and colour tint over its own panels; it will also act as an identified for the cowlsly authenticator. console, but that is ab
  * [CosmoClicker](https://github.com/Kiyoscripts/CosmoClicker) - Modern Material Design 3 autoclicker for Android
  * [cowlsly-console-simple-settings-app](https://github.com/Cowlsly/cowlsly-console-simple-settings-app) - This is a simple settings UI and app, it can be applied to all of our apps and our website Cowlsly.com, these settings will give any user basic control over things like volume and colour tint over its own panels; it will also act as an identified for the cowlsly authenticator. console, but that is ab
- * [cowlsly_console_simple_settings_repo_03](https://github.com/Cowlsly/cowlsly_console_simple_settings_repo_03) - This is a simple settings UI and app, it can be applied to all of our apps and our website Cowlsly.com, these settings will give any user basic control over things like volume and colour tint over its own panels; it will also act as an identified for the cowlsly authenticator. console, but that is ab
  * [debloater](https://github.com/junior567cardozo-create/debloater) - bloatware do Android sem root
  * [definetly-very-legal-automation-app-for-android](https://github.com/Narek-versatile/definetly-very-legal-automation-app-for-android)
  * [DEXULTRA-BOOSTER-PROGGYCGFF](https://github.com/harajyemen/DEXULTRA-BOOSTER-PROGGYCGFF) - DexUltra Booster Pro
@@ -772,5 +768,4 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [shear_plate_hook](https://github.com/LinsVert/shear_plate_hook)
  * [StereoBalanceOverlay](https://github.com/du4n31/StereoBalanceOverlay)
  * [switchuser](https://github.com/allisonbzk/switchuser) - Switch user APP for buggy MIUI which won't allow multi user to switch accounts
- * [SystemBridgeFramework](https://github.com/olivia1246/SystemBridgeFramework) - Framework for Android to allow websites or other applications to request custom payload execution by utilising URL schemes.
 </details>

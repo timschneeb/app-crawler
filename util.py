@@ -1,6 +1,7 @@
 import datetime
+import glob
 import os
-from typing import Optional
+from typing import List, Optional
 
 
 def flatten(xss):
@@ -47,7 +48,27 @@ def make_aware(dt: Optional[datetime]) -> Optional[datetime]:
 
 readme_paths = [] # Set by main.py
 
-name_ignore_list_path = os.path.dirname(os.path.realpath(__file__)) + "/ignore_list.lst"
-ignore_list_file = open(name_ignore_list_path, 'r')
-ignore_list = ignore_list_file.read().splitlines(keepends=False)
-ignore_list_file.close()
+def _load_ignore_list() -> List[str]:
+    base_dir = os.path.dirname(os.path.realpath(__file__))
+    ignore_dir = os.path.join(base_dir, "ignore")
+    paths = sorted(glob.glob(os.path.join(ignore_dir, "*.lst")))
+
+    # Backward compatibility: also load the legacy single list file if present
+    legacy_path = os.path.join(base_dir, "ignore_list.lst")
+    if os.path.isfile(legacy_path) and legacy_path not in paths:
+        paths.append(legacy_path)
+
+    entries: List[str] = []
+    seen = set()
+    for path in paths:
+        with open(path, 'r') as f:
+            for line in f:
+                entry = line.strip()
+                if not entry or entry.startswith("#"):
+                    continue
+                if entry not in seen:
+                    seen.add(entry)
+                    entries.append(entry)
+    return entries
+
+ignore_list: List[str] = _load_ignore_list()

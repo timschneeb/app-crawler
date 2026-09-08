@@ -18,6 +18,7 @@ https://github.com/LuckyPray/XAutoDaily # Xposed module for QQ auto check-ins; S
 https://github.com/oxohang/FanFreeform # LSPosed module requiring root on HyperOS 3; Shizuku only transitive dependency with no releases.
 https://github.com/skysyaz/apextuner # Root-first CPU/GPU/thermal tuner where writes need root; Shizuku only an optional onboarding step.
 https://github.com/JoyElliot/MiHealth_AmapFix # LSPosed module for Mi Fitness; Shizuku support is explicitly disabled in v2.1.
+https://github.com/mingww64/lan-mouse-tv-cec # needs root
 
 # Other libraries
 https://github.com/lucid-lynxz/ShizukuWrapper

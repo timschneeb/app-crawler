@@ -34,7 +34,6 @@ https://github.com/codyps/CellScope # Battery-telemetry recorder where Shizuku i
 https://github.com/Assangejulian/Muse_Android # Another accessibility-plus-Shizuku phone-control agent with no Releases/license; OpenDroid/Muse/EterUee cover it.
 https://github.com/Sanuu7/AndroidHarness # Another on-device AI coding-agent harness (early alpha, no releases); many equivalent agents already listed.
 https://github.com/hari161008/Ever-Call-Recorder # Shizuku call-recorder duplicate of listed ShizuCallRecorder; instructs users to replace official Shizuku with a fork.
-https://github.com/hosizoraru/KeiOS # Grab-bag toolbox (system utils, GitHub tracking, BA content) with many equivalents; vague scope despite 2400+ files.
 https://github.com/lyracode-app/Lyra-Code # AI full-stack dev harness (PRoot/Termux/agent) duplicating many listed AI agents; no releases published.
 https://github.com/wkbin/taixu # Another AI agent harness / no-root Linux runtime; many equivalent agents and terminals already listed.
 https://github.com/niki914/zafiro # Mature BYOK AI phone-control agent, but one of many equivalent agent harnesses already listed.

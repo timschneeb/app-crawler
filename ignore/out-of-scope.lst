@@ -8,6 +8,16 @@ https://github.com/ZUANVFX01/ZKM
 https://github.com/Betrix-ID/WebSu-Plus
 https://github.com/EraserCN/OxygenToolbox
 https://github.com/trinadhthatakula/Loki
+https://github.com/hujiayucc/Fuck-AD # Primarily an Xposed ad-blocking module; Shizuku only feeds an auto-skip input path.
+https://github.com/TACPR/com.liuml.apptimelimiter # LSPosed module requiring root/Xposed; Shizuku is only an optional force-stop executor.
+https://github.com/limczhh/HyperLyric # libxposed/LSPosed module for HyperOS lyrics; Shizuku is only an optional standalone extra.
+https://github.com/QXF19/JWSK # Chinese-only root manager bundling Magisk/KernelSU; Shizuku API is vendored, not consumed as an app feature.
+https://github.com/LyraVoid/FolkPatch # KernelPatch-based root manager (APM/KPM/modules) requiring kernel-level flashing.
+https://github.com/littleWhiteDuck/SimpleHook # LSPosed/Xposed module requiring a hooking framework; author redirects to HookNext successor.
+https://github.com/LuckyPray/XAutoDaily # Xposed module for QQ auto check-ins; Shizuku is auxiliary.
+https://github.com/oxohang/FanFreeform # LSPosed module requiring root on HyperOS 3; Shizuku only transitive dependency with no releases.
+https://github.com/skysyaz/apextuner # Root-first CPU/GPU/thermal tuner where writes need root; Shizuku only an optional onboarding step.
+https://github.com/JoyElliot/MiHealth_AmapFix # LSPosed module for Mi Fitness; Shizuku support is explicitly disabled in v2.1.
 
 # Other libraries
 https://github.com/lucid-lynxz/ShizukuWrapper

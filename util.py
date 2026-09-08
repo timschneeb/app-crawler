@@ -66,6 +66,13 @@ def _load_ignore_list() -> List[str]:
                 entry = line.strip()
                 if not entry or entry.startswith("#"):
                     continue
+                # Strip trailing inline comment (`URL # reason`).
+                # Split on " #" (with space) so URL fragments (`...#anchor`)
+                # would survive if they ever occurred in an entry.
+                if " #" in entry:
+                    entry = entry.split(" #", 1)[0].rstrip()
+                    if not entry:
+                        continue
                 if entry not in seen:
                     seen.add(entry)
                     entries.append(entry)

@@ -240,6 +240,37 @@ https://github.com/alexkingwew/AiApp
 https://github.com/Krish-malik/BattleGrounds_GFX
 https://github.com/KKMartin/Martin-Agent
 https://github.com/nekolsd/sing-box-for-android
+https://github.com/shan-test-project/anikku_modified_version # Modified Anikku copy; Aniyomi/Mihon/Tachiyomi manga-reader duplicates are excluded.
+https://github.com/railgun0325/dsh-phone # DeepSeek Harness phone wrapper; DSH/AutoGLM/Operit derivatives are excluded.
+https://github.com/richtunic/Kitsu-X # Aniyomi/Mihon-based anime/manga reader in the non-original group.
+https://github.com/poruchik-bi/screen-translator-build # Unmodified resigned rebuild of upstream ciddwd/overlay-translator; list upstream instead.
+https://github.com/HugoFMiranda/yomu # TachiyomiJ2K/Mihon-family manga reader fork; manga-reader forks excluded per triage rules.
+https://github.com/BANKOZAKA1/manga-lens-suite # Thai/Chinese-only docs with no download; suite embeds a Mihon fork, and manga forks are excluded.
+https://github.com/codecodegogogo/hail_2 # Disguised Hail fork (fake calendar package name); upstream Hail already listed.
+https://github.com/yoyicue/BoomInstaller # Shizuku fork rebranded for XPad with same server and AIDL; not a Shizuku-using app.
+https://github.com/YOYOFeelings/DeepSeek-Harness-Android # Declared deep rework of kelai141 dsh-mobile-apk DeepSeek Harness shell.
+https://github.com/yangFenTuoZi/DSU-Sideloader-Plus # Same DSU GSI installer purpose as listed VegaBobo DSU-Sideloader.
+https://github.com/Kiyori-CN/Kiyori # Operit-based AGI fork with Chinese-primary docs and explicitly no public APK.
+https://github.com/Noirero/Miyorare # Mihon-compatible manga and novel reader with Indonesian-only docs.
+https://github.com/testplay-byte/ANI-KUTA # In-development anime reader rebuild; Shizuku hits only from bundled Mihon references with no releases.
+https://github.com/theordinaryguy23/TachiyomiDNP # TachiyomiJ2K-based manga reader; Mihon/Aniyomi already listed with fork note.
+https://github.com/ferelking242/watchtower # Manga/anime/series hub on the Tachiyomi JS-plugin pattern; Mihon/Aniyomi already listed, Shizuku only a grant helper.
+https://github.com/woaiys3/deepseek-harness-android-app # APK repackaging of the DeepSeek Harness (DSH) agent with a Chinese-only README; DSH-fork duplicate.
+https://github.com/HuzaifaKhalid1311/DropSauce # Mihon/LNReader-extension comic/novel reader; manga-reader duplicate with no Shizuku use documented in README.
+https://github.com/IPF-Sinon/DSH-Folk # Chinese-only DeepSeek Harness launcher; duplicate of other DSH mobile shells with only optional Shizuku use.
+https://github.com/tailolicon/kotori # Mihon fork for manga/anime/novels with Shizuku extension installer; duplicate of listed Mihon/Aniyomi.
+https://github.com/Ranennder/Mihon-AI # Mihon fork with AI-upscaled pages; duplicate of listed Mihon.
+https://github.com/Swimteam0/nrfr-android16-optimized # Fork of Ackites/Nrfr SIM country-code tool with only Android 16 compat fixes; Chinese-heavy docs.
+https://github.com/CarlDorix/sumi # Personal Mihon fork reorganised around reading; duplicate of listed Mihon.
+https://github.com/shan-test-project/anikku1 # Detached copy of Anikku/Aniyomi manga reader; upstream lineage already listed.
+https://github.com/thness/dsh-mobile # DeepSeek Harness APK repack with optional Shizuku; Chinese-only DSH fork in a crowded AI-agent category.
+https://github.com/Davinci198/fix-operit # Detached Operit AI fork with same tree as ro-operit; upstream Operit already listed.
+https://github.com/filpgame/JStore # README still says Aurora Store; apparent AuroraStore fork or rebrand with upstream already listed.
+https://github.com/hmascs/KSuRoot # Synced mod of Root-My-Galaxy v0.2.6 for CVE-2026-43499 KernelSU; upstream already listed.
+https://github.com/BeastBoyyy/mihon-nova # Unofficial Mihon build with recommendations polish; upstream Mihon already listed.
+https://github.com/Davinci198/ro-operit # Second identical Davinci198 copy of Operit AI fork; upstream Operit already listed.
+https://github.com/Hiirbaf/yokai # Personal fork of Yokai in the Mihon and Tachiyomi lineage; upstream lineage already covered.
+https://github.com/youyoudezhuzhu/rmg-f731u # Device-specific Root-My-Galaxy port and payload for Galaxy Z Flip5 (CVE-2026-43499); root-exploit rebrand.
 
 
 # Other forks that have useful changes, but are not important enough to be included
@@ -282,4 +313,13 @@ https://github.com/UDIN-K/KOMA
 https://github.com/gwku/aurora-app-updater
 https://github.com/bluolightning/anihon
 https://github.com/bowyn96/AutoJsPro-Advanced-Offline
+https://github.com/amyroseee/LSFG-Android-A6xx # A6xx compatibility fork of upstream LSFG-Android, which itself is unlisted.
+https://github.com/MyNameHand/Tegaki # Personal Komikku/Mihon fork with no releases; manga-reader forks are excluded.
+https://github.com/0NLyM/AppMixer # WIP Nothing-OS-styled fork of listed VolumeManager with no releases, only future CI artifacts.
+https://github.com/kernelx30/Mira # Operit-ecosystem AI companion fork; Operit/DSH forks are excluded per triage rules.
+https://github.com/ShiroiKuma0/shiroikuma-mise # Aurora Store fork with theming extras; upstream AuroraStore already listed.
+https://github.com/Sumon-Kayal/BAI # SAI-derived split-APK installer; upstream SAI already listed.
+https://github.com/superj0107/FrameScope # Declared derivative of listed FrameX-Android (FPS overlay); rename plus 8.1 FPS reader not list-worthy.
+https://github.com/unseensnick/Reikai # Manga and light-novel reader built on Mihon via Yokai; Mihon lineage already listed.
+https://github.com/LOSTSTR/Esharq-Mobile-Manager # Gated Arabic-only revenge-manager derivation for Esharq server members; upstream revenge-manager already listed.
 

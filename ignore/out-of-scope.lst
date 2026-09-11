@@ -21,6 +21,7 @@ https://github.com/JoyElliot/MiHealth_AmapFix # LSPosed module for Mi Fitness; S
 https://github.com/mingww64/lan-mouse-tv-cec # needs root
 https://github.com/Xposed-Modules-Repo/com.liuml.apptimelimiter # LSPosed-first app-time limiter; Shizuku is only an optional force-stop executor, same app as ignored TACPR/com.liuml.apptimelimiter.
 https://github.com/ldh-star/HesleyTools # Personal Magisk/KernelSU/LSPosed toolbox; Shizuku use unverifiable.
+https://github.com/XPRAMT/RedMagicX # Denied in maintainer review
 
 # Other libraries
 https://github.com/lucid-lynxz/ShizukuWrapper

@@ -274,6 +274,11 @@ https://github.com/youyoudezhuzhu/rmg-f731u # Device-specific Root-My-Galaxy por
 https://github.com/liuxian513/Nrfr-Community-Improved # Ackites/Nrfr fork with only Android 16 compat fixes; Chinese-heavy docs.
 https://github.com/LegendZ69/TachiyomiAT # Tachiyomi/Mihon-family manga reader fork (Shizuku only for extension installs); manga-reader forks excluded.
 https://github.com/fusiondrive/Root-My-Galaxy-SM-S928B-U-W-Offline # Device-specific offline repack of listed BuSung-dev/Root-My-Galaxy (same app package, S24 Ultra DZF2 payload).
+https://github.com/itsmechinmoy/Dantotsu # Denied in maintainer review
+https://github.com/skystream006/ss_HeadUnit # Denied in maintainer review
+https://github.com/alghiffaryfa19/dex-dp # Denied in maintainer review
+https://github.com/patrykjaki/editotsu # Denied in maintainer review
+https://github.com/erdemkulunk/emporion # Denied in maintainer review
 
 
 # Other forks that have useful changes, but are not important enough to be included
@@ -330,4 +335,6 @@ https://github.com/Cyanexani/metrostore # AuroraStore rebrand/fork; upstream Aur
 https://github.com/SykepticalS/Sykepticals_HyperBridge # Declared reliability fork of HyperBridge; upstream HyperBridge already listed.
 https://github.com/Shoukaku39/kdeconnect-android-shizuku # Personal single-feature fork of listed KDE Connect; author calls it experimental with no long-term maintenance
 https://github.com/Victoria-Freeman/Athena-Liberated # Paywall-stripped Athena firewall fork; Shizuku firewall use already covered by listed ShizuWall, FireWall Blocks and de1984.
+https://github.com/kerneldroid/Dsu-Extended # Denied in maintainer review
+https://github.com/hari161008/Everlasting-Android-Tweak-New-Repo # Denied in maintainer review
 

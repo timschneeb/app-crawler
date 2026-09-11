@@ -33,6 +33,30 @@ https://github.com/ook826092-cloud/naigen-app # Shizuku is passive keepalive/sta
 https://github.com/diegonmarcos/cloud-u-android # Sprawling infra monorepo where Shizuku is only a planned fallback with no Shizuku-app APK in releases
 https://github.com/deniscerri/ytdlnis # Famous yt-dlp downloader (10k stars, F-Droid) but Shizuku only powers optional self-update APK installs, not the core downloader.
 https://github.com/ImCZFy/Kindle-of-Peiyang # Shizuku only powers one optional MIUI super-island notification extra; campus core works without it.
+https://github.com/StrideB/clicks # Denied in maintainer review
+https://github.com/mayusi/EmuTran # Denied in maintainer review
+https://github.com/SysAdminDoc/LocalAndroidStore # Denied in maintainer review
+https://github.com/Kakathic/Tool-Tree # Denied in maintainer review
+https://github.com/willygailo/BETA-MANAGER # Denied in maintainer review
+https://github.com/meowarex/rl-mobile # Denied in maintainer review
+https://github.com/Dreamucxe/APKStudio # Denied in maintainer review
+https://github.com/FZ1010/FingerTheGame # Denied in maintainer review
+https://github.com/shugi12345/xreal-show-taps # Denied in maintainer review
+https://github.com/alamien060512-alt/MC-Bedrock-Launcher # Denied in maintainer review
+https://github.com/VilinkoStudio/Synap # Denied in maintainer review
+https://github.com/Endiq-jar/TurtleLauncher # Denied in maintainer review
+https://github.com/Endda/BTMicFix # Denied in maintainer review
+https://github.com/IstarVin/skin-script-installer # Denied in maintainer review
+https://github.com/212duo/GRIDLegendsGraphicsTool # Denied in maintainer review
+https://github.com/Q9550xRX570/MaiWoL # Denied in maintainer review
+https://github.com/Sakayorii/tacet-manager # Denied in maintainer review
+https://github.com/MRAKS05/Browser-Limit # Denied in maintainer review
+https://github.com/clinal/cordis-android # Denied in maintainer review
+https://github.com/Zheke32174/understory-browser # Denied in maintainer review
+https://github.com/Kifranei/Halcyon # Denied in maintainer review
+https://github.com/Im-Monee/RiiSync # Denied in maintainer review
+https://github.com/Amethyst666/mlbb-history-analyst # Denied in maintainer review
+https://github.com/DynamycSound/claude-routine-sched # Denied in maintainer review
 
 # Insufficient documentation
 https://github.com/frap129/Machina
@@ -145,6 +169,9 @@ https://github.com/newyusir/chrono-s_camera_android # One-line README with no En
 https://github.com/c0a22132/com.system.reschange # No README or documentation at all; Japanese-only UI strings for resolution tool.
 https://github.com/Build-with-Akshit/WizTree-for-Android # Image-only README with no English documentation; prototype-grade Flutter build.
 https://github.com/firerpa/app # One-line README, no license and no usable docs; not verifiable as a functional app.
+https://github.com/Smart-Home-User/XREAL-Beam-Pro-nebulaOS-Toolkit # Denied in maintainer review
+https://github.com/Ujwal223/Halter # Denied in maintainer review
+https://github.com/godmoon/AndroidResAdapter # Denied in maintainer review
 
 # Application without English translation and readme/documentation
 
@@ -259,3 +286,7 @@ https://github.com/trikiersteam/haval # Portuguese-only docs for a bootstrap-sta
 https://github.com/yiguihai11/SmartProxy # Chinese-only README and docs with no English version (proxy/VPN app with Shizuku tethering).
 https://github.com/aaa1115910/GlyphRecorder # Chinese-only README with no English version (Ingress Glyph recognizer with Shizuku screencap mode).
 https://github.com/gao-gao-zai/SmartFlight # Chinese-only README and docs with no English version (rule-driven connectivity automation).
+https://github.com/kirenath/MoFont # Denied in maintainer review
+https://github.com/Miafetta/hikari-android # Denied in maintainer review
+https://github.com/omeryol/AkisGesture # Denied in maintainer review
+https://github.com/scroodge/VoltFlow-Nav # Denied in maintainer review

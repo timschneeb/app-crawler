@@ -29,6 +29,10 @@ https://github.com/misantronic/RAOfflineProxy # Shizuku covers only optional emu
 https://github.com/saappleg/Relay-Home-Launcher # Shizuku covers a single assisted launcher-switch setting; the beta media launcher stands without it.
 https://github.com/crtrrnln/cGallery # No APK or releases and v0.86 in development; Shizuku only optional inbox enforcement.
 https://github.com/tonysmith1sme/BYD_DGLAB_Integration # WIP test integration with no releases APK license and Chinese-only docs; warns against main-driver use.
+https://github.com/ook826092-cloud/naigen-app # Shizuku is passive keepalive/status only (no shell exec by design); image-gen core never needs it.
+https://github.com/diegonmarcos/cloud-u-android # Sprawling infra monorepo where Shizuku is only a planned fallback with no Shizuku-app APK in releases
+https://github.com/deniscerri/ytdlnis # Famous yt-dlp downloader (10k stars, F-Droid) but Shizuku only powers optional self-update APK installs, not the core downloader.
+https://github.com/ImCZFy/Kindle-of-Peiyang # Shizuku only powers one optional MIUI super-island notification extra; campus core works without it.
 
 # Insufficient documentation
 https://github.com/frap129/Machina
@@ -136,6 +140,11 @@ https://github.com/CHAOSLAO/SYSU_CourseSelection # No README and no download; Sh
 https://github.com/The-boond/ClashNL # Root README is a 576-byte Chinese stub with no APK releases or English docs; Shizuku only for Play package query.
 https://github.com/wilson360-labs/CodeHub # Portfolio website repo in Spanish with no app download; Shizuku code lives in a subfolder only.
 https://github.com/adardev/whisper-parakeet-ahk # Empty README with no releases or downloads; cannot verify a usable Android app despite Shizuku code.
+https://github.com/MalikHw/com.malikhw.hosadvtexts # Genuine Shizuku use (requestPermission, pingBinder) in single MainActivity.kt; GPL-3.0 LICENSE; one release with APK but zero documentation.
+https://github.com/newyusir/chrono-s_camera_android # One-line README with no English documentation for game-camera helper.
+https://github.com/c0a22132/com.system.reschange # No README or documentation at all; Japanese-only UI strings for resolution tool.
+https://github.com/Build-with-Akshit/WizTree-for-Android # Image-only README with no English documentation; prototype-grade Flutter build.
+https://github.com/firerpa/app # One-line README, no license and no usable docs; not verifiable as a functional app.
 
 # Application without English translation and readme/documentation
 
@@ -205,3 +214,48 @@ https://github.com/WeiyePlayer/no-shakingAD # Chinese-only README (latin 0.25, c
 https://github.com/GeekTimy/RedTriggerFix # Chinese-only README (latin 0.41, cjk 0.31); English equivalent RedTrigger already listed.
 https://github.com/android-tool-suite/app # Chinese-heavy host shell with no releases; requires separate plugin build and Studio install, no usable standalone download.
 https://github.com/hatchbackkorea-cmyk/JangsuBatteryPilot_v0.6 # Korean-only README (latin 0.17), no license and no releases page.
+https://github.com/xswl369/AndroidCodex # Genuine Shizuku code (ShizukuAutoStart, screencap helper, bundled shizuku-api-12.2.0.aar) but fails English-docs requirement; latin 0.21/cjk 0.51; no LICENSE; 28 releases with APKs.
+https://github.com/leandrosavn/haval-dock # Genuine Shizuku code (requestPermission, pm disable-user via ShizukuShell, vehicle HVAC service) but fails English requirement; MIT LICENSE; no releases.
+https://github.com/maynut02/astral-party-auto-patcher # Genuine Shizuku UserService use (Unity catalog read, patch install); MIT LICENSE; APK releases exist; fails English requirement.
+https://github.com/Ynkcc/AccountSwitcher # Genuine Shizuku mode code (ModeManager/QQControlManager) but fails English-docs requirement; 3 releases with APK; no LICENSE.
+https://github.com/evecus/FileLeader # Genuine Shizuku use (PermissionManager pingBinder, pm clear ADB mode) but fails English requirement; no LICENSE; no releases page.
+https://github.com/journey-ad/GhostLaunch # Chinese-only README with no English docs.
+https://github.com/lsfdc233/lsfTB # Chinese-only README with no English docs; Shizuku use is connection-status display only.
+https://github.com/jizizr/signaldock # Chinese-only README with no English docs.
+https://github.com/jinyinghua/AirMouse # Chinese-only README with no English docs.
+https://github.com/Ackites/Nrfr # Chinese-only README with no English docs.
+https://github.com/usertest001/startfrp # Chinese-only README with no English docs.
+https://github.com/oopnv70-lab/ghostlock-aak-apk # Chinese-only docs with no English page; unverified kernel-exploit PoC.
+https://github.com/Yukin0a/KireiBox # Chinese-only README with no English docs; English requirement unmet.
+https://github.com/Tamako21/FiveGCatRat # Japanese-only README with no English docs; no download.
+https://github.com/ruizhishenri-commits/KamiGAL # Chinese-only README with no English docs; no download.
+https://github.com/loongj-code/ZenTasker # Chinese-only README with no English docs despite genuine Shizuku use.
+https://github.com/EnderAvaritia/AzurLaneRenderer # Chinese-primary README with no English version; single-commit repo with rolling debug-APK release
+https://github.com/HuangZhuoRui/CastPigeon # Chinese-only README and architecture docs with no English page
+https://github.com/xiaohj233/ghostlock-x200-app # Fully Chinese README and docs with no English page
+https://github.com/yyzx2016lht/TapTapAccounting # Chinese-only docs and no license; Shizuku only aids overlay keepalive in an accounting app
+https://github.com/binhmod/AoVSkins # Vietnamese-only README with no English docs
+https://github.com/16rab/DeXKeyBoard # Chinese-only README and docs; README license link points to a missing LICENSE file
+https://github.com/laridzhang/OpenBeam # Chinese-only README for a self-described early-stage project
+https://github.com/ly7753/ZeroLink # 439-byte Chinese-only README with no English docs or usable documentation
+https://github.com/Jawiiki/UriRoute # Chinese-only README; author notes the project was fully generated by Claude Code
+https://github.com/PianoEthan/Orbit # Wear OS Bilibili client with Chinese-only README and docs; no English page despite GPL-3.0 license and 16 releases with APKs.
+https://github.com/marchunfen/sky-auto # Sky-game Operit ToolPkg + YOLO icon detector with Chinese-only docs and a custom non-commercial license; no English page.
+https://github.com/qinzuoyong/floating-data # Battery-temperature float overlay with Chinese-only README (latin 0.22/cjk 0.36) and no license file; no English page.
+https://github.com/rlin1538/Cfm_Joy_Manager # CFM game key-code tool with Chinese-only README and no license file; no English page despite releases with APKs.
+https://github.com/naijun0403/DunUnlocker # Korean-only README for a DUN APN unlocker; no English docs and no releases page despite GPL-3.0 license.
+https://github.com/deku772/Rbot # AstrBot one-click deploy shell with Chinese-primary README/docs (latin 0.33/cjk 0.23) and only incidental Shizuku strings; no English page.
+https://github.com/ferelking242/UsbDiskManager # USB OTG disk manager with French-only README and no license file; no English page despite real Shizuku command runner.
+https://github.com/yansheng1014/mihomo-watch-proxy # Chinese-only README and docs for Galaxy Watch proxy tool, no English page.
+https://github.com/WuDi-ZhanShen/Android-Gyroscope-MC # Chinese-only README for gyroscope-to-gamepad tool, no English page.
+https://github.com/MartinKayJr/AutoCheckinPlugin # Chinese-only README for WeChat-Work auto-checkin tool, no English page.
+https://github.com/aDovbiy/Fold7_ONE_UI_8.5_DPI_FIX # Russian-only README for Fold 7 DPI fix, no English page.
+https://github.com/li-junlei/scrollsnap # Chinese-only README and docs for long-screenshot tool, no English page.
+https://github.com/luo139-cn/kalipassthrough # Chinese-only README with no English docs.
+https://github.com/NanoTurtle1145/root-my-s24 # Chinese-only README and docs with no English version.
+https://github.com/liuyi-6699/AutoTask # Chinese-only README with no English docs; release ships no APK.
+https://github.com/AlphaBoom/fps_switcher # Chinese-only 176-byte README with no license and no releases/download.
+https://github.com/trikiersteam/haval # Portuguese-only docs for a bootstrap-stage Haval/GWM head-unit overlay prototype (authors call it a study copy/skeleton).
+https://github.com/yiguihai11/SmartProxy # Chinese-only README and docs with no English version (proxy/VPN app with Shizuku tethering).
+https://github.com/aaa1115910/GlyphRecorder # Chinese-only README with no English version (Ingress Glyph recognizer with Shizuku screencap mode).
+https://github.com/gao-gao-zai/SmartFlight # Chinese-only README and docs with no English version (rule-driven connectivity automation).

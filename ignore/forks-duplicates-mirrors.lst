@@ -271,6 +271,9 @@ https://github.com/BeastBoyyy/mihon-nova # Unofficial Mihon build with recommend
 https://github.com/Davinci198/ro-operit # Second identical Davinci198 copy of Operit AI fork; upstream Operit already listed.
 https://github.com/Hiirbaf/yokai # Personal fork of Yokai in the Mihon and Tachiyomi lineage; upstream lineage already covered.
 https://github.com/youyoudezhuzhu/rmg-f731u # Device-specific Root-My-Galaxy port and payload for Galaxy Z Flip5 (CVE-2026-43499); root-exploit rebrand.
+https://github.com/liuxian513/Nrfr-Community-Improved # Ackites/Nrfr fork with only Android 16 compat fixes; Chinese-heavy docs.
+https://github.com/LegendZ69/TachiyomiAT # Tachiyomi/Mihon-family manga reader fork (Shizuku only for extension installs); manga-reader forks excluded.
+https://github.com/fusiondrive/Root-My-Galaxy-SM-S928B-U-W-Offline # Device-specific offline repack of listed BuSung-dev/Root-My-Galaxy (same app package, S24 Ultra DZF2 payload).
 
 
 # Other forks that have useful changes, but are not important enough to be included
@@ -322,4 +325,9 @@ https://github.com/Sumon-Kayal/BAI # SAI-derived split-APK installer; upstream S
 https://github.com/superj0107/FrameScope # Declared derivative of listed FrameX-Android (FPS overlay); rename plus 8.1 FPS reader not list-worthy.
 https://github.com/unseensnick/Reikai # Manga and light-novel reader built on Mihon via Yokai; Mihon lineage already listed.
 https://github.com/LOSTSTR/Esharq-Mobile-Manager # Gated Arabic-only revenge-manager derivation for Esharq server members; upstream revenge-manager already listed.
+https://github.com/vokazakroge/praesis-access-releases # Based on SagerNet/sing-box-for-android + first-run provisioning for one s-ui backend (invite-gated); ShizukuPackageManager/ShizukuInstaller inherited; no license.
+https://github.com/Cyanexani/metrostore # AuroraStore rebrand/fork; upstream AuroraStore already listed.
+https://github.com/SykepticalS/Sykepticals_HyperBridge # Declared reliability fork of HyperBridge; upstream HyperBridge already listed.
+https://github.com/Shoukaku39/kdeconnect-android-shizuku # Personal single-feature fork of listed KDE Connect; author calls it experimental with no long-term maintenance
+https://github.com/Victoria-Freeman/Athena-Liberated # Paywall-stripped Athena firewall fork; Shizuku firewall use already covered by listed ShizuWall, FireWall Blocks and de1984.
 

@@ -9,6 +9,7 @@ https://github.com/Inhaleoxygen/modtoon_module
 https://github.com/halfmonty/MapXr
 https://github.com/Fxizenta/RuleDroid # Academic LLM-to-Semgrep research framework; Shizuku strings occur only in benchmark APK samples.
 https://github.com/ChrisA95G/eden-cheats-manager # No Shizuku dep or source hits; Eden Switch cheat manager unrelated to Shizuku.
+https://github.com/Cosmic-Ide/Cosmic-IDE # No Shizuku dependency or source usage found; IDE unrelated to Shizuku.
 
 # Imports Shizuku, but does not make use of it
 https://github.com/MercuryWorkshop/ziptie
@@ -20,7 +21,13 @@ https://github.com/TensorHub-ORG/Storydex # Desktop-first AI novel workbench; An
 https://github.com/Zheke32174/understory-passgen # Hardened password manager whose Shizuku/Dhizuku elevation tier is stubbed/deferred; suite targets public APIs only.
 https://github.com/Crescent-of-Maya/MndroLua # No functional Shizuku calls; only manifest boilerplate and template, README never mentions Shizuku.
 https://github.com/kabzon93region/Quest-Task-Manager-Standalone # Standalone build explicitly removes Shizuku (v2.1.1+); uses Wireless ADB instead, Russian-only README.
+https://github.com/Horizon-25/SmartSwap # ShizukuHelper does ping/permission only (code comment: shell-exec removed); app-data-via-Shizuku unimplemented; offline transfer works without it.
+https://github.com/abdellatif-laghjaj/ClipSave # Shizuku integration is status display only; downloads need neither Shizuku nor root.
+https://github.com/gufei233/KJQ-TOKEN-ADB # LADB fork (draco package, LADB BSD license); Shizuku only probed for incompatibility warning, README says uninstall Shizuku to use LADB.
+https://github.com/Zheke32174/understory-backups # Understory suite targets public APIs only (no-Shizuku design constraint); Shizuku lives in an optional elevation broker, app is alpha with no license.
+https://github.com/xishanp/doroUbuntu # Shizuku limited to a permission-status page; proot-Ubuntu core uses no privileged operations.
 
 # Already in list from another source
 https://gitlab.com/fmd-foss/fmd-android
 https://github.com/komi-store/komi-store # Already listed as GitHub-Store (kurikomi-labs/komi-store); repo moved to komi-store org.
+https://github.com/xnet-admin-1/wg-android # Same WG Tunnel app already listed as wgtunnel/android; Shizuku Wi-Fi detection identical.

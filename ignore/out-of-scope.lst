@@ -19,6 +19,8 @@ https://github.com/oxohang/FanFreeform # LSPosed module requiring root on HyperO
 https://github.com/skysyaz/apextuner # Root-first CPU/GPU/thermal tuner where writes need root; Shizuku only an optional onboarding step.
 https://github.com/JoyElliot/MiHealth_AmapFix # LSPosed module for Mi Fitness; Shizuku support is explicitly disabled in v2.1.
 https://github.com/mingww64/lan-mouse-tv-cec # needs root
+https://github.com/Xposed-Modules-Repo/com.liuml.apptimelimiter # LSPosed-first app-time limiter; Shizuku is only an optional force-stop executor, same app as ignored TACPR/com.liuml.apptimelimiter.
+https://github.com/ldh-star/HesleyTools # Personal Magisk/KernelSU/LSPosed toolbox; Shizuku use unverifiable.
 
 # Other libraries
 https://github.com/lucid-lynxz/ShizukuWrapper

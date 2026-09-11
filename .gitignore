@@ -1,6 +1,10 @@
 .idea/
 __pycache__
 venv/
+.cache/
+.venv/
 /cache*.json
 /cache
 *.log
+# Persistent triage clones (never committed; reused across runs)
+/triage_tools/clones/

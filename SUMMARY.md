@@ -26,6 +26,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Argus](https://github.com/JackRushante/argus) `fdroid` - Natural-language automation compiled by an LLM, run by a deterministic engine.
  * [AvarionX-Android-Antivirus](https://github.com/phsycologicalFudge/AvarionX-Android-Antivirus) - A powerful antivirus for android
  * [Buge-Files](https://github.com/BugeStudioTeam/Buge-Files) - Buge Files is a modern Android file manager built with Material Design 3 Expressive.
+ * [catsmoker-app](https://github.com/catsmoker/catsmoker-app) - Catsmoker app - Game FPS Unlocker, Gaming Booster.
  * [cebian](https://github.com/qpst4/cebian) - The ultimate open-source Android gesture & one-hand navigation suite. An all-in-one OHO+ (One Hand Operation+), FooView & Quick Cursor alternative with offline OCR and Shizuku.
  * [charge-pilot](https://github.com/ImL1s/charge-pilot) - Cross-brand Android charging-control utility — capability detection + explicit, reversible user-initiated control (WRITE_SETTINGS / Shizuku / root). AGPL-3.0.
  * [Cinnazuku](https://github.com/DarkmoonOnDiscord/Cinnazuku) - A modern Shizuku fork rebuilt for Android 17 (API 37+), fixing package management.
@@ -127,9 +128,10 @@ Entries are sorted by name and grouped into a separate category if the attached 
 
  * [Aexon](https://github.com/fora2323/Aexon)
  * [flowpilot](https://github.com/emi-ran/flowpilot) - ⚡ Privacy-first, offline, and lightweight Android automation engine. Powered by Jetpack Compose & Shizuku.
- * [HyperOS-MTZ-Studio](https://github.com/GloriousTR/HyperOS-MTZ-Studio) - Modern, powerful MTZ theme composer, component mixer, and DRM protection studio for Xiaomi HyperOS & MIUI devices.
+ * [HyperOS-MTZ-Studio](https://github.com/GloriousApps/HyperOS-MTZ-Studio) - Modern, powerful MTZ theme composer, component mixer, and DRM protection studio for Xiaomi HyperOS & MIUI devices.
  * [inputflow-linux](https://github.com/daredoole/inputflow-linux) - Native C++17 Linux client for Microsoft PowerToys Mouse Without Borders — cursor/keyboard/clipboard sharing, self-healing reconnect, tray + dashboard, and an Android peer.
  * [MediaRescue](https://github.com/everythingfreee/MediaRescue) - MediaRescue — An open-source Android storage tool for finding, browsing, and managing forgotten files and media.
+ * [PhoneDiagnosticTool](https://github.com/ScoobyDouche/PhoneDiagnosticTool) - Comprehensive phone diagnostic tool for CPU, GPU, battery, storage, RAM, sensors, display, network and more. Android-focused with Jetpack Compose.
  * [Project-Lumen](https://github.com/Chloemlla/Project-Lumen) - Project Lumen is a native Android Kotlin app for eye-break reminders, pomodoro timing, local statistics, templates, notifications, and CSV sharing.
  * [sim-pilot](https://github.com/ryuya0124/sim-pilot) - Galaxy DSDV smart SIM failover with Shizuku and Material 3
  * [SimpleFCMFix](https://github.com/Kr328/SimpleFCMFix) - 本应用为中国大陆 HyperOS 修复 FCM 意外断开问题。
@@ -244,6 +246,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [TellyEcp](https://github.com/saappleg/TellyEcp) - Standalone Telly ECP server for Android TV with Shizuku app control and redirects
  * [tutti](https://github.com/LueApp/tutti) - This is an Android app that acts as a unified playlist manager for Chinese music platforms. It does NOT play music itself. Instead, it switches between different apps
  * [Vectaix-AI](https://github.com/Asher-S-Wu/Vectaix-AI)
+ * [VisualTasker-Studio-WSS](https://github.com/robertprit/VisualTasker-Studio-WSS)
  * [Whizuku](https://github.com/PianoEthan/Whizuku) - A Third-Party Shizuku Manager Optimized for WearOS
  * [Wjy_self](https://github.com/Alexued/Wjy_self)
  * [wuthering-visuals](https://github.com/Droprains-hub/wuthering-visuals) - 鸣潮画质助手（Wuthering Visuals）— Android 配置替换、备份与恢复工具
@@ -281,7 +284,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [app-killer](https://github.com/Eduar2TC/app-killer)
  * [archive-system-crawling-android](https://github.com/FLC-niko/archive-system-crawling-android)
  * [Atlas-](https://github.com/buyukdereosman34-blip/Atlas-)
- * [Audio-Toggle](https://github.com/Ruhdee/Audio-Toggle) - No-UI Android utility that toggles mono audio and audio balance
  * [AuroraDhizukuFork](https://github.com/a-319/AuroraDhizukuFork)
  * [auto_get_jobs_mobile](https://github.com/Ynkcc/auto_get_jobs_mobile) - 基于uiautomator2库的boss直聘 安卓端，自动投递实现
  * [Aws_OS](https://github.com/Aws12505/Aws_OS)
@@ -329,7 +331,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [phone-introspection](https://github.com/kimptoc/phone-introspection) - monitors phone for battery cpu and temp usage to help diagnose overheating issues
  * [phone-use](https://github.com/bolexyro/phone-use)
  * [Pient](https://github.com/Jay-Victor/Pient) - Pient is in development.
- * [qq-meow-assistant](https://github.com/qq790795623-sudo/qq-meow-assistant) - QQ喵喵助手：无障碍喵语替换（反编译重建的可构建 Gradle 工程）
  * [readES](https://github.com/mo7AmMeD64/readES)
  * [rikkagu](https://github.com/xiaosui-source/rikkagu)
  * [RLJamesDSP](https://github.com/Ero-gamer/RLJamesDSP) - An implementation of the system-wide JamesDSP audio processing engine for non-rooted Android devices
@@ -337,13 +338,11 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ShiggyCord-ARMv7a](https://github.com/sang765/ShiggyCord-ARMv7a) - ShiggyCord DiscordRN ARMv7a fork with ShiggyXposed and ShiggyManager support
  * [shizuku-custom](https://github.com/unarto/shizuku-custom)
  * [sidekey](https://github.com/quinnjr/sidekey) - Restore the side-key long-press power menu on Samsung One UI 8+ (Android takes the AI button back)
- * [SmoothVolume](https://github.com/vadimgumi/SmoothVolume)
  * [solid-guacamole](https://github.com/LandonMoran/solid-guacamole)
  * [Tieuchi](https://github.com/Thanhdlpb/Tieuchi) - trợ lý AI từ xiaozhi
  * [time-bank](https://github.com/Niko0518/time-bank) - 我个人管理时间的网页应用
  * [TISC-Proyect](https://github.com/JuanDCC03/TISC-Proyect)
  * [torvox](https://github.com/kyehn/torvox)
- * [unstop-android](https://github.com/dingwen07/unstop-android)
  * [VSCodeTermux](https://github.com/throwarray/VSCodeTermux)
  * [WebviewBench_mihon_src](https://github.com/Siestazzz/WebviewBench_mihon_src) - An Evaluation Benchmark of LLM-Powered Vulnerability Discovery Tools
  * [Wkwxploremanager1](https://github.com/unarto/Wkwxploremanager1) - Testing 
@@ -421,6 +420,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
 
  * [AndroidToolKit](https://github.com/Shiho-Patch/AndroidToolKit)
  * [AutoJs-Neo](https://github.com/QingKong996/AutoJs-Neo) - 安卓平台 JavaScript 自动化工具 (Auto.js 二次开发项目)
+ * [AutoStartManager](https://github.com/jyotidwi/AutoStartManager) - Android Shizuku app for managing autostart receivers and force-stopping apps
  * [FakeRoot](https://github.com/h465855hgg/FakeRoot) - 基于小米的服务漏洞制作的一个权限管理器
  * [hyper-code](https://github.com/yixing233/hyper-code)
  * [li](https://github.com/lousli/li) - 安卓去广告
@@ -459,7 +459,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [methun-toolbox](https://github.com/Tinlera/methun-toolbox)
  * [MiRearPlayback](https://github.com/Sevilze/MiRearPlayback)
  * [Nizeo-Client](https://github.com/ononoki0117/Nizeo-Client)
- * [pvzmdz_editor](https://github.com/mokurin000/pvzmdz_editor)
  * [ShizuPaste](https://github.com/sheenazien8/ShizuPaste)
  * [tablet-EPT-Manager](https://github.com/rangel3l21/tablet-EPT-Manager)
  * [TachiyomiAT](https://github.com/Bintangilham10/TachiyomiAT) - Point, tap, read. translate overlays

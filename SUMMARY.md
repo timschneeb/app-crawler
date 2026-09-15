@@ -27,6 +27,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Argus](https://github.com/JackRushante/argus) `fdroid` - Natural-language automation compiled by an LLM, run by a deterministic engine.
  * [AvarionX-Android-Antivirus](https://github.com/phsycologicalFudge/AvarionX-Android-Antivirus) - A powerful antivirus for android
  * [Buge-Files](https://github.com/BugeStudioTeam/Buge-Files) - Buge Files is a modern Android file manager built with Material Design 3 Expressive.
+ * [Castix](https://github.com/elhizazi1/Castix) - Open-source Android utility for background playback and system control, supporting Accessibility, Shizuku, Dhizuku, Root, LSPosed, and LSPatch.
  * [catsmoker-app](https://github.com/catsmoker/catsmoker-app) - Catsmoker app - Game FPS Unlocker, Gaming Booster.
  * [cebian](https://github.com/qpst4/cebian) - The ultimate open-source Android gesture & one-hand navigation suite. An all-in-one OHO+ (One Hand Operation+), FooView & Quick Cursor alternative with offline OCR and Shizuku.
  * [charge-pilot](https://github.com/ImL1s/charge-pilot) - Cross-brand Android charging-control utility — capability detection + explicit, reversible user-initiated control (WRITE_SETTINGS / Shizuku / root). AGPL-3.0.
@@ -56,6 +57,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [GlassProjection](https://github.com/spideytznn/GlassProjection) - 玻璃投影：小米折叠屏实时玻璃开合动画，支持桌面与锁屏、可调模糊及切屏角度，基于 Shizuku，无需 root。
  * [ha-paneld](https://github.com/maxlyth/ha-paneld) - The universal Home Assistant dashboard app for Android wall panels.
  * [husi](https://github.com/xchacha20-poly1305/husi) - Husi is a non-professional proxy-set-based multiplatform proxy tool set.
+ * [HyperOS-MTZ-Studio](https://github.com/GloriousApps/HyperOS-MTZ-Studio) - Modern, powerful MTZ theme composer, component mixer, and DRM protection studio for Xiaomi HyperOS & MIUI devices.
  * [IrisShot](https://github.com/raging-flames/IrisShot) - An Android tool for automatic scrolling screenshots and image stitching.
  * [Iteration](https://github.com/LiferLighdow/Iteration) - Born for Performance, Built for Freedom.
  * [KarinApp](https://github.com/KarinJS/KarinApp)
@@ -92,6 +94,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [patchweaver](https://github.com/ispacecase/patchweaver) - Personal Morphe patches (F-Droid selectable install backend)
  * [physiboard](https://github.com/brobata/physiboard) - A keyboard and a device toolbox for the Unihertz Titan 2 Elite. Remove vendor bloat, change density, unbury hidden settings — one pairing, no root. GPLv3 fork of Pastiera.
  * [pixel-toolbox-root](https://github.com/abc1812645224-alt/pixel-toolbox-root) - Pixel Toolbox - Root版
+ * [plain-app](https://github.com/plainhub/plain-app) - 🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.
  * [porter](https://github.com/d4rken-org/porter) - ADB access for your apps. A minimal, maintained Shizuku fork.
  * [porter-api](https://github.com/d4rken-org/porter-api) - Android SDK for Porter, with compatible Shizuku APIs and direct Porter support.
  * [priv-kit](https://github.com/priv-kit/priv-kit) - Self-managed privileged runtime for Android apps with Root/ADB/Delegate startup, Binder handoff, and UserService support
@@ -117,6 +120,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ShizukuX](https://github.com/qianyumeng0228/ShizukuX) - ShizukuX 是 Shizuku 的增强分支：让普通应用借助 ADB / Root 特权进程直接调用系统级 API，并内置 Dhizuku、Extra API、Root 兼容桥等高级能力。继承自 ShizukuPlus（Apache 2.0）。
  * [silent-alarm](https://github.com/izumisagirii/silent-alarm) - SilentAlarm is an Android alarm app that only plays through earphones, never through speakers — so you never wake others. Built with Kotlin, Jetpack Compose, and aggressive process-keeping to survive OEM killers.
  * [SimpleFCMFix](https://github.com/Kr328/SimpleFCMFix) - 本应用为中国大陆 HyperOS 修复 FCM 意外断开问题。(需要 Shizuku)
+ * [Sketchware-DayGreen](https://github.com/fora2323/Sketchware-DayGreen)
  * [stayturgid](https://github.com/djbclark/stayturgid) - Keep wireless ADB (port 5555) and Shizuku alive on Android across reboots — without root
  * [Stellar](https://github.com/roro2239/Stellar) - Another Shizuku impl
  * [SuperShade](https://github.com/thejaustin/SuperShade) - Custom Android notification shade replacement — OneUI & Pixel themes, Shizuku-powered
@@ -148,7 +152,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
 
  * [Aexon](https://github.com/fora2323/Aexon)
  * [eva](https://github.com/colonelpanic8/eva) - EVA — Extensible Voice Assistant for Android
- * [HyperOS-MTZ-Studio](https://github.com/GloriousApps/HyperOS-MTZ-Studio) - Modern, powerful MTZ theme composer, component mixer, and DRM protection studio for Xiaomi HyperOS & MIUI devices.
+ * [GazeScroll](https://github.com/755489724-lgtm/GazeScroll) - 基于前置摄像头的眨眼/点头翻页工具（Android）— CameraX + ML Kit 检测眨眼与头部姿态，无障碍服务模拟上滑翻页
  * [inputflow-linux](https://github.com/daredoole/inputflow-linux) - Native C++17 Linux client for Microsoft PowerToys Mouse Without Borders — cursor/keyboard/clipboard sharing, self-healing reconnect, tray + dashboard, and an Android peer.
  * [MediaRescue](https://github.com/everythingfreee/MediaRescue) - MediaRescue — An open-source Android storage tool for finding, browsing, and managing forgotten files and media.
  * [PhoneDiagnosticTool](https://github.com/ScoobyDouche/PhoneDiagnosticTool) - Comprehensive phone diagnostic tool for CPU, GPU, battery, storage, RAM, sensors, display, network and more. Android-focused with Jetpack Compose.

@@ -21,6 +21,14 @@ https://github.com/rD227/shizuku-ftp # Author's first app with TODO-style README
 https://github.com/LandonMoran/test # Shizuku UserService bind and unbind stress tester named test with no README docs or download.
 https://github.com/FuzzsT/ENRROL_NEW # Denied in maintainer review
 https://github.com/RX-Network-Security-Labs/Warden-Android # Denied in maintainer review
+https://github.com/JasonHongGG/LineTheme # Self-described Flutter test tool; no download.
+https://github.com/NanoTurtle1145/samsung-root-research # Kernel-CVE exploit research archive, not a shippable app; no release.
+https://github.com/Siestazzz/WebviewBench_mihon_src # LLM vulnerability-discovery benchmark built on Mihon source; not a shippable app.
+https://github.com/unarto/Wkwxploremanager1 # Repo explicitly for testing with no README/license/download.
+https://github.com/BIGGGJerry/ACTScope # Academic testing framework, not a downloadable app.
+https://github.com/takusan23/ThirdpartyPhysicalChannelConfig # Research/learning sample to read a hidden API; Japanese-only docs and no download
+https://github.com/messycodes/otheme_test # Repo named *_test with no README or license; an experimental HyperOS theme-file tool.
+https://github.com/unarto/Wkwxploremodule # Repo description is literally 'Testing' with no README; it vendors a copy of the listed XFiles file manager.
 
 # Demos/examples
 https://github.com/Young-Lord/Multi-User-Applist-With-Shizuku
@@ -36,3 +44,4 @@ https://github.com/ahnyungje/playkiller
 https://github.com/expliyh/BluetoothTester
 https://github.com/huidoudour/Installer
 https://github.com/sigmabosshvh/android-testtap-egress # PoC with no APK or releases; not a usable app.
+https://github.com/huy264128-netizen/MobileAIDomestic # Self-described demo/learning project with a placeholder echo agent; no download.

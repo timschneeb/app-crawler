@@ -34,6 +34,7 @@ https://github.com/Morfyuum/AtlayaSwitch # cloned=false, no snippets/README; Gra
 https://github.com/Live-Block/Flyme-FreeForm # Repo deprecated by author (README: moved to relimus/Flyme-Freeform Xposed rewrite, no longer needs Shizuku); GitHub archived flag set.
 https://github.com/AntiOblivionis/MiRearScreenSwitcher # Developer halted the project indefinitely and the repo is archived.
 https://github.com/deleteFAILunknown/ShizukuUesrService # Repo is archived; minimal Chinese-primary UserService demo.
+https://github.com/oopnv70-lab/ghostlock-apk # Repository is archived (api.archived=true); also a device-specific kernel-exploit PoC.
 
 # Succeeded by a fork
 https://github.com/iamr0s/InstallerX

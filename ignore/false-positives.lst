@@ -11,6 +11,8 @@ https://github.com/Fxizenta/RuleDroid # Academic LLM-to-Semgrep research framewo
 https://github.com/ChrisA95G/eden-cheats-manager # No Shizuku dep or source hits; Eden Switch cheat manager unrelated to Shizuku.
 https://github.com/Cosmic-Ide/Cosmic-IDE # No Shizuku dependency or source usage found; IDE unrelated to Shizuku.
 https://github.com/MaaXYZ/MFAAvalonia # Not directly a false-positive, though this is mostly a PC app that seems to deploy an app agent to execute tasks
+https://github.com/BugeStudioTeam/BugeStudioTeam.github.io # GitHub Pages website repo, not an app; Shizuku code belongs to a separate vendored project
+https://github.com/rushiforai/morphe-archive # No Shizuku dependency or source usage; it is an auto-generated index of Morphe patch repositories, not an Android app.
 
 # Imports Shizuku, but does not make use of it
 https://github.com/MercuryWorkshop/ziptie
@@ -29,8 +31,14 @@ https://github.com/Zheke32174/understory-backups # Understory suite targets publ
 https://github.com/xishanp/doroUbuntu # Shizuku limited to a permission-status page; proot-Ubuntu core uses no privileged operations.
 https://github.com/Zheke32174/understory-firewall # Understory-suite app that is rootless/public-API by design, with Shizuku confined to an optional elevation broker; suite precedent already ignored understory-passgen and understory-backups.
 https://github.com/Zheke32174/understory-antivirus # Understory suite is designed no-root/no-Shizuku public-APIs-only; Shizuku lives in an optional elevation broker and the app is alpha with no license (same as ignored passgen/backups).
+https://github.com/karmaoriginal/private-agent # AndroidManifest declares ShizukuProvider but no rikka.shizuku API is called; automation is Accessibility-Services only.
+https://github.com/Iamvortex7/ArcaneFlow # Manifest declares rikka.shizuku.ShizukuProvider but no Kotlin/Java code calls Shizuku; automation is Accessibility-based.
+https://github.com/rushiforai/revanced-archive # Auto-generated index of ReVanced patch repos; Shizuku code exists only in vendored examplepatches, not in any app of its own.
+https://github.com/keepYaoung/android-also-could-fold # Current app uses a built-in local ADB client; the Shizuku implementation is archived and not used at runtime ('No Shizuku needed').
 
 # Already in list from another source
 https://gitlab.com/fmd-foss/fmd-android
 https://github.com/komi-store/komi-store # Already listed as GitHub-Store (kurikomi-labs/komi-store); repo moved to komi-store org.
 https://github.com/xnet-admin-1/wg-android # Same WG Tunnel app already listed as wgtunnel/android; Shizuku Wi-Fi detection identical.
+https://github.com/SagerNet/sing-box-for-android # Already listed as sing-box (F-Droid io.nekohasekai.sfa), the same SFA app
+https://github.com/Ombryal/Dantotsu # Detached GitHub mirror of Dantotsu, which is already listed from another source (itsmechinmoy/Dantotsu)

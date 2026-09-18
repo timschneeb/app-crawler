@@ -24,6 +24,9 @@ https://github.com/ldh-star/HesleyTools # Personal Magisk/KernelSU/LSPosed toolb
 https://github.com/XPRAMT/RedMagicX # Denied in maintainer review
 https://github.com/KanzakiK/libredex-public # Requires pre-existing root (Magisk/KernelSU) and LSPosed; README states 'The current product requires root', so Shizuku is not a standalone privilege path.
 https://github.com/nowa277/OpenConverter # Protected-key extraction relies on root/Xposed-class privileged access.
+https://github.com/sqxy090123/VulnKit # Local privilege-escalation / CVE root-exploit framework where Shizuku is only a root-shell backend.
+https://github.com/Huai-Tian/ScreenshotFaker # LSPosed/Xposed module in early development with no regular download.
+https://github.com/Sesame-AG/Sesame-AG # Xposed/LSPosed module requiring the Xposed framework; Shizuku is only a secondary shell path
 
 # Other libraries
 https://github.com/lucid-lynxz/ShizukuWrapper
@@ -31,6 +34,11 @@ https://github.com/nonameShijian/noname-shijian-android
 https://github.com/aa2013/ClipboardListener
 https://github.com/woaiyuzi/SilentInstaller
 https://github.com/libtermux/libtermux-android
+https://github.com/Allenwang0730/HabitatEngine # Embeddable automation runtime/library ('drop the :lib into any app'), not an end-user app; no download.
+https://github.com/zhangnjsd/tauri-plugin-shizuku # It is a Tauri plugin/library, not an Android app, and has no download.
+https://github.com/ilinchunjie/com.miloooo.game.shizuku # It is a Unity Android library/AAR, not an app, and has no download.
+https://github.com/alltechdev/APK-MultiUpdate # It is an in-app update library (no UI/app), not a standalone application
 
 # Explicitly does not provide downloads currently
 https://github.com/deminearchiver/materium
+https://github.com/heworkalin/AlinOs-for-android # README explicitly states no compiled builds/distribution and there are no download links, releases or assets.

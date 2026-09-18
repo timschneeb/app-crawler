@@ -158,7 +158,7 @@ def main():
         by_cat.setdefault(clean(r["category"]), []).append(r)
 
     out_c = ["# Candidates for awesome-shizuku (review)\n",
-             f"Source: SUMMARY.md recent-releases triage. {len(cands)} candidate(s).\n"]
+             f"Source: SUMMARY.md triage. {len(cands)} candidate(s).\n"]
     for cat, rs in by_cat.items():
         out_c.append(f"\n## {cat}\n")
         for r in rs:

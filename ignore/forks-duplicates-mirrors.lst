@@ -282,6 +282,25 @@ https://github.com/erdemkulunk/emporion # Denied in maintainer review
 https://github.com/xliaoy/DeepSeekHarness # DeepSeek Harness (DSH) secondary fork; DSH shells are already excluded as crowded AI-agent duplicates and docs are Chinese-primary.
 https://github.com/fora2323/Sketchware-DayGreen # Themed mod of Sketchware Pro; no distinct capability over upstream and Shizuku support is inherited.
 https://github.com/Monica-Pass/Monica-Fdroid # F-Droid build-only repo duplicating the main Monica-for-Android project; the upstream app is the listing candidate.
+https://github.com/Ero-gamer/RLJamesDSP # Verbatim clone of RootlessJamesDSP, which is already listed in Audio
+https://github.com/unarto/Ditermuxdanshizuku # Detached copy of the Shizuku source tree (identical README/api); no own app changes or download.
+https://github.com/elephantcos-cloud/xes # Detached copy of the Shizuku source tree; no own app changes or download.
+https://github.com/HaveCake/Dolphy-App-Zh # Chinese re-upload/duplicate of the already-listed Dolphy-App; no own download or release.
+https://github.com/unarto/shizuku-custom # Detached fork/copy of the RikkaApps/Shizuku framework itself; not an app that uses Shizuku, and no download.
+https://github.com/firefoxforever/Nrfr # Detached fork/mirror of Ackites/Nrfr (already excluded as non-English); no own release.
+https://github.com/hasting323/AutoGLM-For-Android # Re-upload/mirror of Luokavin/AutoGLM-For-Android; README download points to the other owner's releases and this repo has 0 releases.
+https://github.com/H-DEV-243/H-SHELL # Re-upload of aShell: README, screenshots and all download links point to sunilpaulmathew/ashell, which is already listed.
+https://github.com/ozeroztas/Morphe-Manager # Copy of MorpheApp/morphe-manager; README and download point upstream, and that project is already listed as Morphe.
+https://github.com/QingKong996/AutoJs-Neo # Re-branded AutoJs6 clone: banner, badges and download all point to SuperMonster003/AutoJs6, which is already listed.
+https://github.com/ai-integr8tor/komi-store-komi-store # Detached fork of already-listed GitHub-Store/komi-store.
+https://github.com/cypherghost456/Agent # Copy of private-agent; download points to the other repo.
+https://github.com/Mavaebrook/Operit # Mirror/fork of already-listed Operit AI.
+https://github.com/egg-Li-dd/operit-build # Detached re-upload/build of the already-listed Operit AI with no meaningful changes
+https://github.com/mo7AmMeD64/readES # Copy of Komikku (Mihon/Aniyomi lineage) with no changes, no download and Arabic-only README
+https://github.com/unarto/Wkwxploremanagerbaru # Rebuild/fork of the already-listed XFiles with no meaningful changes and no docs/download
+https://github.com/tajleonbennis-maker/openwifi # Detached sing-box derivative already covered by the listed sing-box entry; Chinese-primary docs and no license file.
+https://github.com/lousli/li # Detached copy of the GKD app (same li.songe.gkd package and README) under a different owner with no meaningful changes.
+https://github.com/VictoireWood/Sesame-TK # Detached fork/mirror of Fansirsqi/Sesame-TK (Xposed Alipay Ant Forest module) with no distinct changes; Chinese-primary.
 
 
 # Other forks that have useful changes, but are not important enough to be included
@@ -346,4 +365,17 @@ https://github.com/brobata/physiboard # Device-specific fork of the already-list
 https://github.com/lasuria/XRDesk # Declared modern fork of the already-listed deskcontrol; adds Material 3 + XR glasses support but duplicates the listed upstream entry.
 https://github.com/Gameaday/Ephyra # Mihon/Tachiyomi-lineage manga/media reader; listed Mihon and Aniyomi already cover the category.
 https://github.com/maybeknott/MaybeScanner # Already covered by MaybeEdgeScanner from the same developer
+https://github.com/E-Neno/Neno-bot # Personal AI-companion monorepo whose only Shizuku-capable client is a fork of the already-listed Operit AI; Chinese-heavy, no own download.
+https://github.com/mmkkllpp/Nrfr-Android16-Fix # Fork of Ackites/Nrfr carrying an Android 16 overrideConfig fix; no own releases, upstream provides downloads.
+https://github.com/UtkarshPcs/applock-math # Fork/derivative of AppLock which is already listed; README and badges point to upstream aload0/AppLock
+https://github.com/nobianh78/TADaManagerApp # Derivative of Morphe Manager (Morphe already listed); no own download and README contains merge-conflict markers
+https://github.com/SysAdminDoc/PatchDock # Self-described derivative of Morphe Manager (Morphe already listed) with no own download
+https://github.com/sang765/ShiggyCord-ARMv7a # Vietnamese fork of ShiggyCord adding ARMv7a support; Discord/Xposed mod with only an inherited Shizuku installer.
+https://github.com/Bintangilham10/TachiyomiAT # Mihon/Tachiyomi manga-reader fork adding auto-translation; the manga-reader fork family is already excluded.
+https://github.com/a-319/AuroraDhizukuFork # Detached personal fork of Aurora Store adding Dhizuku support; no own release and not important enough as a separate entry.
+https://github.com/Moriefy/minis_advanced # Detached OpenMinis copy; upstream already listed.
+https://github.com/R0GUEEE/MultiMinis # OpenMinis fork; upstream already listed and changes not list-worthy.
+https://github.com/LandonMoran/solid-guacamole # Fork of Shizuku itself with no download; core tool already excluded.
+https://github.com/HectorZL/AniyomiDesktop # Experimental desktop port/fork of the already-listed Aniyomi; Shizuku use is inherited, not new
+https://github.com/123hi123/andriod-asr # Fork of the already-listed BiBi Keyboard with extra ASR engines; useful but not important enough to list separately.
 

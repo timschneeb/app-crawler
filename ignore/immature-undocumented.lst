@@ -60,6 +60,12 @@ https://github.com/DynamycSound/claude-routine-sched # Denied in maintainer revi
 https://github.com/xchacha20-poly1305/husi # only used for self-updating
 https://github.com/amamiyakokoro/KokoroBox-Android # only used for self-updating
 https://github.com/markvoronin354/WheelReels # Shizuku used only for input injection; insufficient Shizuku application.
+https://github.com/rossignol6712/ai-phone-bridge # Architecture-reference repo, not a runnable app; Shizuku exists only in a snippet file.
+https://github.com/bindassrkks-cell/Knight-server # Effectively no README (15 bytes) and no app description; Shizuku use cannot be established.
+https://github.com/rhuancheats/OtimizadorFF6 # No README and no app description; Shizuku use undocumented.
+https://github.com/Niko0518/time-bank # No README/docs at all; Shizuku use cannot be established.
+https://github.com/Mikelee8810/RelationshipRadar # Relationship-tracking prototype whose core works via public APIs; Shizuku only provides 'enhanced device access' and there is no license.
+https://github.com/drkvvk2015/vk-s-NeuroAmpDSP # Audio DSP app where Shizuku only gates an optional Pro mode; the core EQ/limiter works without it and there is no license.
 
 # Insufficient documentation
 https://github.com/frap129/Machina
@@ -176,6 +182,22 @@ https://github.com/Smart-Home-User/XREAL-Beam-Pro-nebulaOS-Toolkit # Denied in m
 https://github.com/Ujwal223/Halter # Denied in maintainer review
 https://github.com/godmoon/AndroidResAdapter # Denied in maintainer review
 https://github.com/leehe-byte/scpAndroid # No README or documentation file exists anywhere in the repo; only a one-line Chinese GitHub description and a release APK.
+https://github.com/othma433-ai/BOBO # No README, no LICENSE and no download; insufficient documentation.
+https://github.com/shawtung/MobileClicker # No README, no LICENSE and no download; insufficient documentation.
+https://github.com/dgomon/SystemInsight # No README and no download; insufficient documentation.
+https://github.com/PYLinTech/cn.pylin.xycjd # README contains only contact info; insufficient documentation and no download.
+https://github.com/wilfredkimura/tiktok_sticker_extracter # No README, no LICENSE and no download; insufficient documentation.
+https://github.com/Aws12505/Aws_OS # Default Flutter template README, no license and no download/release.
+https://github.com/Yowkylito/BubuProtect # No README, no license and no release/download; undocumented personal project.
+https://github.com/Jay-Victor/Pient # No README, no license and no download/release.
+https://github.com/dan1t0/OB_full # No README, no license and no release/download.
+https://github.com/dogpoopy/toolkit # No README, no license and no release/download.
+https://github.com/coslatte/balatromp-local-port # No README, license or download for a Balatro mod port.
+https://github.com/laststudio/eauxiliary # No README and no download link/release.
+https://github.com/Sevilze/MiRearPlayback # No README, license or download.
+https://github.com/abricoshka/GlassFiles # No README, no license and no download; only an internal roadmap doc
+https://github.com/c0dev0id/androlyze # 32-byte README, no license and no download
+https://github.com/liteaworks/mountain # Default Flutter-template README, no license and no download
 
 # Application without English translation and readme/documentation
 

@@ -118,6 +118,10 @@ https://github.com/Manitchahar/poco-5g-toggle # Equivalent to listed NetToggle/F
 https://github.com/catsmoker/catsmoker-app # Android gaming FPS/graphics toolkit; equivalent to listed gaming/device-tuning tools and previously ignored under its old com.catsmoker.app package.
 https://github.com/Bodo121/S22-Updater # Single-firmware KernelSU/root payload updater; equivalent tuning tools already listed.
 https://github.com/kavastore/nothing-dot # Device-specific Glyph/AOD toolkit; equivalent alternatives already listed.
+https://github.com/xiaosui-source/rikkagu # RikkaHub-based AI companion whose Shizuku use is limited to Gadgetbridge/shell data; Chinese-heavy, similar to already-ignored orangechat.
+https://github.com/chuppito/installer # Generic Shizuku APK installer; equivalent entries already listed (InstallerX-Revived, PI, Shizuku Package Installer).
+https://github.com/luiapi-sys/hermes-android # Detached copy of the NousResearch Hermes agent (README/CHANGELOG are upstream) with an Android client; the AI-agent harness space is already crowded.
+https://github.com/Thanhdlpb/Tieuchi # Generic XiaoZhi voice/vision assistant where Shizuku is a minor system-control add-on; many equivalent AI assistants are already listed.
 
 # Many IAP or Ad-Free alternatives available
 https://github.com/Kin69/Athena

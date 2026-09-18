@@ -6,4 +6,6 @@ venv/
 /cache*.json
 /cache
 *.log
-/report.html
+/review.html
+/NEW_IGNORES.md
+/CANDIDATES_REVIEW.md

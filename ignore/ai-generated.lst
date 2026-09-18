@@ -55,6 +55,10 @@ https://github.com/peakSee/Wanxiang # On-device AI agent/Linux sandbox overlappi
 https://github.com/Soodok/Deepseek-Harness-Local-Android # Another on-device DeepSeek harness; AI-agent space already crowded.
 https://github.com/Alisuuu/Crossset # System/secure/global settings editor of low quality; debug-only builds.
 https://github.com/colonelpanic8/eva # AI voice assistant overlapping existing agent/assistant apps.
+https://github.com/karanraj-ux/NetBot # Google AI Studio-generated project (com.aistudio.*, metadata.json), no LICENSE, and network alternatives already listed
+https://github.com/gecew79810-bit/PhantomFilesPro # Marketing-heavy vibecoded file manager; the only store link is Shizuku's Play page, no app download and no license.
+https://github.com/birew83538-oss/yumiao- # Self-described AI-generated clone of MT Manager; Chinese-only and overlaps existing Shizuku file managers.
+https://github.com/yixing233/hyper-code # README self-declares the project is entirely vibecoded; copy of an already-ignored Chinese app
 
 # Low-quality, vibecoded and not working or not useful
 https://github.com/evinjohnn/cafetone
@@ -85,3 +89,9 @@ https://github.com/Papa-Bear4216/pieces-android-shizuku-monitor # Denied in main
 https://github.com/pgratz1/AR-Touchpad # Denied in maintainer review
 https://github.com/zanderp/inner-desk # Denied in maintainer review
 https://github.com/meatcar/split-voice # Experimental and not working or useful enough to list.
+https://github.com/Jarvisforeveryone/Aira-OS # AI-generated workspace: template README with a literal github.com/USER/REPO release placeholder plus stray zips, .class and Python files; no real download.
+https://github.com/reaganmbao5-wq/my-app # AI scaffolding ('# Here are your Instructions'), no download/license; Shizuku UserService present but not a usable app.
+https://github.com/fvkd/termux-launcher # Self-declared 'vibe coded proof of concept' Termux fork; buggy and no release download.
+https://github.com/X-MUJAHI/xcel2byaistudio # AI-Studio-generated app with no README/license/download.
+https://github.com/anyonehub-dev-org/anyones-IDE-everyomes-IDE # StackBlitz/vibecoded IDE; same-named fork already in ai-generated.lst.
+https://github.com/mikhaal/phone-agent-xiaozhi # Generic AI-written README whose 'download' is a .zip inside res/layout rather than an installable APK; unrelated topic tags indicate low-quality slop.

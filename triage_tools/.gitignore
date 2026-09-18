@@ -1,4 +1,7 @@
 *.csv
 *.json
+*.jsonl
 clones/
 archive_*/
+verdict_slices*/
+review_slices*/

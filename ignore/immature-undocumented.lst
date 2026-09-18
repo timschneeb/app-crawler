@@ -57,6 +57,9 @@ https://github.com/Kifranei/Halcyon # Denied in maintainer review
 https://github.com/Im-Monee/RiiSync # Denied in maintainer review
 https://github.com/Amethyst666/mlbb-history-analyst # Denied in maintainer review
 https://github.com/DynamycSound/claude-routine-sched # Denied in maintainer review
+https://github.com/xchacha20-poly1305/husi # only used for self-updating
+https://github.com/amamiyakokoro/KokoroBox-Android # only used for self-updating
+https://github.com/markvoronin354/WheelReels # Shizuku used only for input injection; insufficient Shizuku application.
 
 # Insufficient documentation
 https://github.com/frap129/Machina
@@ -172,6 +175,7 @@ https://github.com/firerpa/app # One-line README, no license and no usable docs;
 https://github.com/Smart-Home-User/XREAL-Beam-Pro-nebulaOS-Toolkit # Denied in maintainer review
 https://github.com/Ujwal223/Halter # Denied in maintainer review
 https://github.com/godmoon/AndroidResAdapter # Denied in maintainer review
+https://github.com/leehe-byte/scpAndroid # No README or documentation file exists anywhere in the repo; only a one-line Chinese GitHub description and a release APK.
 
 # Application without English translation and readme/documentation
 
@@ -290,3 +294,13 @@ https://github.com/kirenath/MoFont # Denied in maintainer review
 https://github.com/Miafetta/hikari-android # Denied in maintainer review
 https://github.com/omeryol/AkisGesture # Denied in maintainer review
 https://github.com/scroodge/VoltFlow-Nav # Denied in maintainer review
+https://github.com/dukangalex/AngelaBox # README is Chinese-only with no English documentation, and it re-wraps the already-listed sing-box core.
+https://github.com/755489724-lgtm/GazeScroll # README is Chinese-only with no English documentation, despite an English app.
+https://github.com/TG-Twilight/Any.ADB # README and all documentation are Chinese-only with no English translation.
+https://github.com/ryuya0124/sim-pilot # Japanese-only README and no English documentation or translation; Shizuku UserService SIM switching is real but the project is non-English only.
+https://github.com/KarinJS/KarinApp # README and docs are Chinese-only (cjk 0.43); no English translation, failing the English-documentation requirement.
+https://github.com/MeFax/StretchX # README is Turkish-only with no English docs; device-locked S25 Ultra tool with no license file.
+https://github.com/houfukude/UpdateJunkie # Chinese-only README/documentation; no English docs despite an English-capable UI.
+https://github.com/spideytznn/GlassProjection # Chinese-only README and docs (latin 0.21 / cjk 0.51) with no English page; fails the English-documentation requirement.
+https://github.com/powercess/mbrain # Chinese-only README and DESIGN docs; no English landing page or documentation.
+https://github.com/guanhan01/Yutu-Toolbox # Chinese-only README and DESIGN docs; no English documentation.

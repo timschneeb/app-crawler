@@ -10,6 +10,7 @@ https://github.com/halfmonty/MapXr
 https://github.com/Fxizenta/RuleDroid # Academic LLM-to-Semgrep research framework; Shizuku strings occur only in benchmark APK samples.
 https://github.com/ChrisA95G/eden-cheats-manager # No Shizuku dep or source hits; Eden Switch cheat manager unrelated to Shizuku.
 https://github.com/Cosmic-Ide/Cosmic-IDE # No Shizuku dependency or source usage found; IDE unrelated to Shizuku.
+https://github.com/MaaXYZ/MFAAvalonia # Not directly a false-positive, though this is mostly a PC app that seems to deploy an app agent to execute tasks
 
 # Imports Shizuku, but does not make use of it
 https://github.com/MercuryWorkshop/ziptie
@@ -26,6 +27,8 @@ https://github.com/abdellatif-laghjaj/ClipSave # Shizuku integration is status d
 https://github.com/gufei233/KJQ-TOKEN-ADB # LADB fork (draco package, LADB BSD license); Shizuku only probed for incompatibility warning, README says uninstall Shizuku to use LADB.
 https://github.com/Zheke32174/understory-backups # Understory suite targets public APIs only (no-Shizuku design constraint); Shizuku lives in an optional elevation broker, app is alpha with no license.
 https://github.com/xishanp/doroUbuntu # Shizuku limited to a permission-status page; proot-Ubuntu core uses no privileged operations.
+https://github.com/Zheke32174/understory-firewall # Understory-suite app that is rootless/public-API by design, with Shizuku confined to an optional elevation broker; suite precedent already ignored understory-passgen and understory-backups.
+https://github.com/Zheke32174/understory-antivirus # Understory suite is designed no-root/no-Shizuku public-APIs-only; Shizuku lives in an optional elevation broker and the app is alpha with no license (same as ignored passgen/backups).
 
 # Already in list from another source
 https://gitlab.com/fmd-foss/fmd-android

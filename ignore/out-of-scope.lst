@@ -22,6 +22,8 @@ https://github.com/mingww64/lan-mouse-tv-cec # needs root
 https://github.com/Xposed-Modules-Repo/com.liuml.apptimelimiter # LSPosed-first app-time limiter; Shizuku is only an optional force-stop executor, same app as ignored TACPR/com.liuml.apptimelimiter.
 https://github.com/ldh-star/HesleyTools # Personal Magisk/KernelSU/LSPosed toolbox; Shizuku use unverifiable.
 https://github.com/XPRAMT/RedMagicX # Denied in maintainer review
+https://github.com/KanzakiK/libredex-public # Requires pre-existing root (Magisk/KernelSU) and LSPosed; README states 'The current product requires root', so Shizuku is not a standalone privilege path.
+https://github.com/nowa277/OpenConverter # Protected-key extraction relies on root/Xposed-class privileged access.
 
 # Other libraries
 https://github.com/lucid-lynxz/ShizukuWrapper

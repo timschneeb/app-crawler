@@ -49,6 +49,12 @@ https://github.com/shivarya/clear-mic-router # Denied in maintainer review
 https://github.com/Dreamucxe/GameCore # Denied in maintainer review
 https://github.com/jehan593/ownapps # Denied in maintainer review
 https://github.com/god-s-only/Untethered # Denied in maintainer review
+https://github.com/evokermc098-coder/MindTriggerAssist # AI-assisted ColorOS Circle-to-Search enabler (credits ChatGPT/Codex and Claude Code) whose Shizuku role is a one-shot setup only, overlapping existing CTS alternatives.
+https://github.com/bunkaich/Folduo # Self-declared 'vibe-coded with GPT-6 Astra'; author states no plans to develop or maintain it; experimental single-device toy.
+https://github.com/peakSee/Wanxiang # On-device AI agent/Linux sandbox overlapping existing AI-agent listings.
+https://github.com/Soodok/Deepseek-Harness-Local-Android # Another on-device DeepSeek harness; AI-agent space already crowded.
+https://github.com/Alisuuu/Crossset # System/secure/global settings editor of low quality; debug-only builds.
+https://github.com/colonelpanic8/eva # AI voice assistant overlapping existing agent/assistant apps.
 
 # Low-quality, vibecoded and not working or not useful
 https://github.com/evinjohnn/cafetone
@@ -78,3 +84,4 @@ https://github.com/VADITIM/VADOS-BUBBLE # Denied in maintainer review
 https://github.com/Papa-Bear4216/pieces-android-shizuku-monitor # Denied in maintainer review
 https://github.com/pgratz1/AR-Touchpad # Denied in maintainer review
 https://github.com/zanderp/inner-desk # Denied in maintainer review
+https://github.com/meatcar/split-voice # Experimental and not working or useful enough to list.

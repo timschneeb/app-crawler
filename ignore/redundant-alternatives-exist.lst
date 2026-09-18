@@ -112,6 +112,12 @@ https://github.com/burakgon/linuxdrop # Denied in maintainer review
 https://github.com/ravYOLO/phantom-call-android # Denied in maintainer review
 https://github.com/imoonkey/closepaw # Denied in maintainer review
 https://github.com/dmitry-goncharov/pims # Denied in maintainer review
+https://github.com/Kr328/SimpleFCMFix # Functional duplicate of the already-listed HyperOS FCM Fix (dingwen07/hyperos-fcm-fix) in the MIUI category; same MILLET_NO_RESTRICT_APP workaround.
+https://github.com/hirieo/valleysave-app # Stardew Valley save-sync app duplicating the already-listed CloudSync-Mobile (and Cinderbox-Companion) for the same purpose.
+https://github.com/Manitchahar/poco-5g-toggle # Equivalent to listed NetToggle/FiveGSwitcher/NetworkSwitch and to ignored switcher5G; another 5G network-mode QS toggle.
+https://github.com/catsmoker/catsmoker-app # Android gaming FPS/graphics toolkit; equivalent to listed gaming/device-tuning tools and previously ignored under its old com.catsmoker.app package.
+https://github.com/Bodo121/S22-Updater # Single-firmware KernelSU/root payload updater; equivalent tuning tools already listed.
+https://github.com/kavastore/nothing-dot # Device-specific Glyph/AOD toolkit; equivalent alternatives already listed.
 
 # Many IAP or Ad-Free alternatives available
 https://github.com/Kin69/Athena
@@ -131,7 +137,6 @@ https://github.com/lisproj/mountain
 https://github.com/projecteah/mountain
 https://github.com/yuan-shiguang/muxueanzhuangqi
 https://github.com/woliver99/open-automate
-https://github.com/catsmoker/com.catsmoker.app
 https://github.com/hashim47j/signal-switch
 https://github.com/wkbin/VeryDark
 https://github.com/paymenremora/PackageInstaller

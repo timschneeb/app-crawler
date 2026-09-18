@@ -279,6 +279,9 @@ https://github.com/skystream006/ss_HeadUnit # Denied in maintainer review
 https://github.com/alghiffaryfa19/dex-dp # Denied in maintainer review
 https://github.com/patrykjaki/editotsu # Denied in maintainer review
 https://github.com/erdemkulunk/emporion # Denied in maintainer review
+https://github.com/xliaoy/DeepSeekHarness # DeepSeek Harness (DSH) secondary fork; DSH shells are already excluded as crowded AI-agent duplicates and docs are Chinese-primary.
+https://github.com/fora2323/Sketchware-DayGreen # Themed mod of Sketchware Pro; no distinct capability over upstream and Shizuku support is inherited.
+https://github.com/Monica-Pass/Monica-Fdroid # F-Droid build-only repo duplicating the main Monica-for-Android project; the upstream app is the listing candidate.
 
 
 # Other forks that have useful changes, but are not important enough to be included
@@ -337,4 +340,10 @@ https://github.com/Shoukaku39/kdeconnect-android-shizuku # Personal single-featu
 https://github.com/Victoria-Freeman/Athena-Liberated # Paywall-stripped Athena firewall fork; Shizuku firewall use already covered by listed ShizuWall, FireWall Blocks and de1984.
 https://github.com/kerneldroid/Dsu-Extended # Denied in maintainer review
 https://github.com/hari161008/Everlasting-Android-Tweak-New-Repo # Denied in maintainer review
+https://github.com/MineACEx/DuoFold # Maintained fork of jcx396905-gif/DuoFold; own release v0.4.0 ships no APK (source archive only) and download links redirect to the upstream project.
+https://github.com/Filterrr/RikkaMinis # Detached personal fork of listed OpenMinis (com.openminis.app) with only a RikkaHub-style UI restyle; README states it is a personal-use fork.
+https://github.com/brobata/physiboard # Device-specific fork of the already-listed pastiera keyboard; upstream palsoftware/pastiera is the canonical entry.
+https://github.com/lasuria/XRDesk # Declared modern fork of the already-listed deskcontrol; adds Material 3 + XR glasses support but duplicates the listed upstream entry.
+https://github.com/Gameaday/Ephyra # Mihon/Tachiyomi-lineage manga/media reader; listed Mihon and Aniyomi already cover the category.
+https://github.com/maybeknott/MaybeScanner # Already covered by MaybeEdgeScanner from the same developer
 

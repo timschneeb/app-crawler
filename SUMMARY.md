@@ -19,6 +19,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ADOFAI-Key-Viewer-Mobile](https://github.com/QuyetGD-15/ADOFAI-Key-Viewer-Mobile) - ADOFAI Key Viewer for Mobile. Features real-time touch visualization, KPS tracker, and total click counter
  * [AiCode](https://github.com/jieapi/AiCode) - 在 Android 上运行的 AI 编程 Agent，内置 Linux 终端与代码编辑器，支持 MCP 协议扩展。
  * [allEQ](https://github.com/omixin/allEQ) - Rootless 10-band system equalizer for Android using Shizuku & Android AudioEffects
+ * [AMBRACE](https://github.com/Gi-Tuu/AMBRACE)
  * [android-tiling-wm](https://github.com/Aypex/android-tiling-wm) - WIP proof-of-concept: i3/Hyprland-style tiling window manager for Android phones, no root (Shizuku + AccessibilityService). Interface not stable yet.
  * [ANONYM](https://github.com/eVersor-HN/ANONYM) - Free, offline-first Android privacy scheduler that breaks the continuous trail your phone leaves behind: timed Wi-Fi/data/airplane/Bluetooth/location cycles, scheduled reboots and a duress panic-lock. No account, no telemetry, no network permission at all — and it shows you when "off" isn't really off.
  * [BD2ToolsBox](https://github.com/Haru762/BD2ToolsBox) - Brown Dust 2 手机端工具箱：mod 转换与装入、攻略阅读、兑换码一键兑换、游戏资源工具等。GPLv3
@@ -38,6 +39,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [flutter_agent_harness](https://github.com/IstiN/flutter_agent_harness) - Fa - Factory Agent. Cross-platform AI agent harness for Dart and Flutter — streaming providers, agent loop with tools, session persistence, compaction; backend agent mode: fa behind product Go backends
  * [HyperOSFCMFix](https://github.com/Kr328/HyperOSFCMFix) - 本应用为中国大陆 HyperOS 修复 FCM 意外断开问题。(需要 Shizuku)
  * [Iteration](https://github.com/LiferLighdow/Iteration) - Born for Performance, Built for Freedom.
+ * [KArchiver](https://github.com/sysrv64/KArchiver) - KArchiver - Android file manager and archiver built with Kotlin and Material 3 Expressive
  * [KeiOS](https://github.com/hosizoraru/KeiOS) - A Jetpack Compose Android app focused on system utilities, GitHub tracking, BA content pages, miuix UI and liquid glass-style UI.
  * [MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
  * [mizuku](https://github.com/Leaf-lsgtky/mizuku)
@@ -86,7 +88,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
 <details>
 <summary>Non-original content</summary>
 
- * [Android-Battery-Unrestricted-Checker](https://github.com/mrdarksidetm/Android-Battery-Unrestricted-Checker)
  * [originos-toolkit](https://github.com/cameleonnbss/originos-toolkit) - No-root tweak toolkit for Vivo/iQOO OriginOS: per-app refresh rate, 39 reversible tweaks, debloat, and a curated no-root index. Android app + CLI.
  * [shiroikuma-jiyusagyoban](https://github.com/ShiroiKuma0/shiroikuma-jiyusagyoban) - 白い熊 作業盤 — downstream fork of OpenTasker (FOSS Tasker alternative), renamed to install side-by-side, with custom intent actions to drive the sister apps.
  * [shizuku-next](https://github.com/yijiacloud/shizuku-next) - Shizuku Next - 增强版 Shizuku：悬浮窗配对 + Shell终端 + 模块系统
@@ -96,7 +97,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
 <details>
 <summary>No GitHub stars</summary>
 
- * [Aexon](https://github.com/fora2323/Aexon)
  * [Icy-Cheak](https://github.com/NotBlack777/Icy-Cheak)
  * [inputflow-linux](https://github.com/daredoole/inputflow-linux) - Native C++17 Linux client for Microsoft PowerToys Mouse Without Borders — cursor/keyboard/clipboard sharing, self-healing reconnect, tray + dashboard, and an Android peer.
  * [Jarvis](https://github.com/Abhishek-karma/Jarvis)
@@ -181,7 +181,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [StarryAgent](https://github.com/Starry2233/StarryAgent) - A cross-platform agent app.
  * [SteamlessLink](https://github.com/reo101/SteamlessLink) - SteamLink without the Steam (just passing (optionally raw) controller state over the wire)
  * [susu-phone-agent](https://github.com/2005selene2005-a11y/susu-phone-agent) - Android device bridge for Claude Code via MCP + Shizuku. No root, no model polling.
- * [Tapoff](https://github.com/ReckyQue/Tapoff) - 关机键损坏时用于关机/重启；支持 Root 或 Shizuku（ADB 级权限）
  * [TellyEcp](https://github.com/saappleg/TellyEcp) - Standalone Telly ECP server for Android TV with Shizuku app control and redirects
  * [tutti](https://github.com/LueApp/tutti) - This is an Android app that acts as a unified playlist manager for Chinese music platforms. It does NOT play music itself. Instead, it switches between different apps
  * [VirtualX](https://github.com/SpideryBook7/VirtualX)
@@ -213,7 +212,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [BCZ-Token-Login](https://github.com/shadlc/BCZ-Token-Login) - A utility that can login Baicizhan APP with access token.
  * [bedrock-launcher-mobile](https://github.com/sonahalf0-tech/bedrock-launcher-mobile)
  * [BurbujaGPT](https://github.com/tec123321/BurbujaGPT)
- * [Canvas](https://github.com/ParthG2209/Canvas)
  * [Clipboard-Manager](https://github.com/Rian-yes/Clipboard-Manager) - A Clipboard Manager that uses shizuku as it's backend
  * [clipsyncd](https://github.com/chakri192/clipsyncd) - Bidirectional clipboard sync between Mac and Android 
  * [console_simple_settings_app](https://github.com/Cowlsly/console_simple_settings_app) - This is a simple settings UI and app, it can be applied to all of our apps and our website Cowlsly.com, these settings will give any user basic control over things like volume and colour tint over its own panels; it will also act as an identified for the cowlsly authenticator. console, but that is ab
@@ -238,7 +236,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [MySecurityApp](https://github.com/ncjcjfvkkvkv-create/MySecurityApp)
  * [phone-introspection](https://github.com/kimptoc/phone-introspection) - monitors phone for battery cpu and temp usage to help diagnose overheating issues
  * [pixel-routines](https://github.com/Mutalib713/pixel-routines)
- * [sidekey](https://github.com/quinnjr/sidekey) - Restore the side-key long-press power menu on Samsung One UI 8+ (Android takes the AI button back)
  * [tessera](https://github.com/RisenID/tessera) - Phone link / KDE Connect alternative for Linux and Windows with Android devices
  * [The-manager](https://github.com/taldoshawn/The-manager)
  * [Tieuchi](https://github.com/khocvidau91/Tieuchi)

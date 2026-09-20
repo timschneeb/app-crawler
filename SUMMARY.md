@@ -34,12 +34,14 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [EdgeGesture](https://github.com/Evilgodxu/EdgeGesture) - Edge Gestures – Alternatives to Android System Gestures
  * [ExpressAssistant](https://github.com/Halo0sama/ExpressAssistant) - Local-first Android delivery aggregator with AI reports & tracking | 本地优先的快递聚合应用，支持 AI 日报与快递跟踪
  * [FileApex](https://github.com/byhowiecreations/FileApex) - Master File Transfer application for multiple Android devices, Mac and now Windows
- * [flutter_agent_harness](https://github.com/IstiN/flutter_agent_harness) - [WIP] Cross-platform AI agent harness for Dart and Flutter — streaming providers, agent loop with tools, session persistence, compaction; backend agent mode: fa behind product Go backends
+ * [flaunchermod](https://github.com/ctnkyaumt/flaunchermod)
+ * [flutter_agent_harness](https://github.com/IstiN/flutter_agent_harness) - Fa - Factory Agent. Cross-platform AI agent harness for Dart and Flutter — streaming providers, agent loop with tools, session persistence, compaction; backend agent mode: fa behind product Go backends
  * [HyperOSFCMFix](https://github.com/Kr328/HyperOSFCMFix) - 本应用为中国大陆 HyperOS 修复 FCM 意外断开问题。(需要 Shizuku)
  * [Iteration](https://github.com/LiferLighdow/Iteration) - Born for Performance, Built for Freedom.
  * [KeiOS](https://github.com/hosizoraru/KeiOS) - A Jetpack Compose Android app focused on system utilities, GitHub tracking, BA content pages, miuix UI and liquid glass-style UI.
  * [MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
  * [mizuku](https://github.com/Leaf-lsgtky/mizuku)
+ * [MP-Manager](https://github.com/AbdurazaaqMohammed/MP-Manager) - Dual pane Android file manager with focus on APKs
  * [MSLX_APP-Android](https://github.com/WLudy1012/MSLX_APP-Android) - MSLX 手机安卓控制台 (Kotlin + Jetpack Compose)
  * [mtbtool-android-app](https://github.com/h3nnes/mtbtool-android-app) - Perform bandlock and edit EFS NV items on qualcomm-based Xiaomi devices with root or root-backed Shizuku
  * [My-Word-ls-Meow](https://github.com/shuidi720/My-Word-ls-Meow) - 自动对文本框内的文字进行附加文字或替换文字内容，也可自定义附加文字和文字替换的内容
@@ -120,12 +122,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [TapStrapApp](https://github.com/ScribbleJ/TapStrapApp) - An Android IME for interfacing with the Tap Strap 
  * [ThruSpark](https://github.com/saneshiyer/ThruSpark)
  * [v2rayNG-Next](https://github.com/Lemocuber/v2rayNG-Next) - v2rayNG extended with amazing features
-
-<details>
-<summary>Non-original content</summary>
-
- * [Sesame-TK](https://github.com/time-wanderer/Sesame-TK) - 芝你麻咸鱼的粒-TK
-</details>
 
 <details>
 <summary>No GitHub stars</summary>

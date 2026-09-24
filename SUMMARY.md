@@ -87,12 +87,13 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Void-Auditor](https://github.com/M0NDsuChTiG/Void-Auditor) - Zero Trust mobile forensics toolkit for Android — Shizuku · AI Governance · Network Scan · Cache Cleaner
  * [Voidstrap](https://github.com/KloBraticc/Voidstrap) - Voidstrap is a simple yet advanced fork of Bloxstrap, advanced customization and improvements.
  * [WacomMapper](https://github.com/sebastianabanto/WacomMapper) - WacomMapper maps the Wacom One by Wacom CTL-472 (USB HID) to global Android stylus input—X/Y, pressure, hover and buttons—using Kotlin, Jetpack Compose and Shizuku; validated on Galaxy Tab S7.
- * [Wammy](https://github.com/kainotch/Wammy) - natively built Manga ,novels & Comic reader for Android.
+ * [Wammy](https://github.com/kainotch/Wammy) - A sleek, modern, and natively built Manga & Comic reader for Android.
  * [WNLZ-Injector](https://github.com/caofangkuai/WNLZ-Injector) - 无能乐子注入器
  * [wolfi-terminal](https://github.com/leloush-x/wolfi-terminal) - Wolfi + Alpine Android terminal (ReTerminal fork with rolling APK releases)
  * [WuWa-Config-Android](https://github.com/B3rr7/WuWa-Config-Android) - Android WuWa Config Toolkit for Wuthering Waves. Analyze Client.log and generate optimized Engine.ini, DeviceProfiles.ini, GameUserSettings.ini, Scalability.ini and Hardware.ini presets.
  * [xtsafe](https://github.com/xiaote-XT/xtsafe) - 星特安全，一个手机安全App，锁机反制、恶意管控拦截、银行软件守护、App安全检测、无障碍智能管理，一应俱全，开源免费，简洁好用，小体积多功能
  * [yuki](https://github.com/carlelieser/yuki) - Catalog of open-source Android applications that use the Shizuku permission framework.
+ * [YukiHub](https://github.com/xm486/YukiHub) - YukiHub is a Galgame management tool for Android that supports synchronization of local games, shortcuts, and play records. The project uses the GPL-3.0 open-source license.
  * [YumeBox](https://github.com/YumeYucca/YumeBox) - これはとあるア-ティフアクトを巡る、ひとつの誓いの物語
  * [yuyu](https://github.com/groovyrey/yuyu) - Yuyu - Mobile Legends skin injector (RyumotoVX)
  * [ZeroStudio](https://github.com/msmt2018/ZeroStudio) - Learning, programming, and quick development projects
@@ -113,13 +114,14 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [airplane-scheduler](https://github.com/probecat/airplane-scheduler)
  * [continuum-chat](https://github.com/yuyu1838309000-cmd/continuum-chat)
  * [DungeonWithinSaveScumTool](https://github.com/Notplying/DungeonWithinSaveScumTool)
+ * [Duos-Public](https://github.com/rmb707/Duos-Public) - Duos — an iPhone-style Home for the Galaxy Z Fold 8, with hinge-tracked fold animations
  * [FolderSpan](https://github.com/Qqv0V6ge/FolderSpan)
  * [garden-swarm](https://github.com/ankitdcx/garden-swarm) - Garden: public AGI governance and human-sovereignty architecture — AI safety, multi-agent systems, formal verification, privacy, justice and agent interoperability.
- * [Icy-Cheak](https://github.com/NotBlack777/Icy-Cheak)
  * [inputflow-linux](https://github.com/daredoole/inputflow-linux) - Native C++17 Linux client for Microsoft PowerToys Mouse Without Borders — cursor/keyboard/clipboard sharing, self-healing reconnect, tray + dashboard, and an Android peer.
  * [MaaXA](https://github.com/AkumaYUC/MaaXA) - 金蝶云自动化办公助手，由MAAFramework强力驱动！搭配最新最潮的MFAAvaloniaGUI框架，解放工作双手！
  * [monitune](https://github.com/goodeesh/monitune) - Tune your Android display and audio for external monitors (Shizuku/root, MIT)
  * [nyanime](https://github.com/noire342/nyanime) - An app for manga and anime
+ * [ParallelHarness](https://github.com/keepinitkrispy/ParallelHarness) - Parallel Processing Android agent UI
  * [QingYangAI-Agent](https://github.com/QingYang-520/QingYangAI-Agent)
  * [quotes](https://github.com/cernoh/quotes) - book quote widget
  * [tv-task-switcher](https://github.com/pyrometheous/tv-task-switcher)
@@ -217,6 +219,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [susu-phone-agent](https://github.com/2005selene2005-a11y/susu-phone-agent) - Android device bridge for Claude Code via MCP + Shizuku. No root, no model polling.
  * [TellyEcp](https://github.com/saappleg/TellyEcp) - Standalone Telly ECP server for Android TV with Shizuku app control and redirects
  * [tutti](https://github.com/LueApp/tutti) - This is an Android app that acts as a unified playlist manager for Chinese music platforms. It does NOT play music itself. Instead, it switches between different apps
+ * [Tweak-Alpha](https://github.com/lumkit/Tweak-Alpha) - Android玩机工具箱
  * [VirtualX](https://github.com/SpideryBook7/VirtualX)
  * [Whizuku](https://github.com/PianoEthan/Whizuku) - A Third-Party Shizuku Manager Optimized for WearOS
  * [Wjy_self](https://github.com/Alexued/Wjy_self)
@@ -270,9 +273,10 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [lgfx](https://github.com/xinitrcn1/lgfx)
  * [ly](https://github.com/ly11116/ly) - lygege
  * [mihon-source-archive](https://github.com/HyperionHXH/mihon-source-archive) - Mihon 主程序源码开发快照归档，用于以后研究或自行编译；不含本机配置和凭据。
+ * [NotiSync](https://github.com/dingwen07/NotiSync)
  * [phone-introspection](https://github.com/kimptoc/phone-introspection) - monitors phone for battery cpu and temp usage to help diagnose overheating issues
  * [pixel-routines](https://github.com/Mutalib713/pixel-routines)
- * [tessera](https://github.com/RisenID/tessera) - Phone link / KDE Connect alternative for Linux and Windows with Android devices
+ * [RivoPhoneApp-PreAvatar](https://github.com/stivy73/RivoPhoneApp-PreAvatar) - Independent Rivo Personal snapshot before social avatar integration
  * [The-manager](https://github.com/taldoshawn/The-manager)
  * [Tieuchi](https://github.com/khocvidau91/Tieuchi)
  * [TISC-Proyect](https://github.com/JuanDCC03/TISC-Proyect)

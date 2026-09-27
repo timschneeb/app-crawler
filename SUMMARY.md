@@ -15,8 +15,10 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [-AutoLedge-](https://github.com/doublefishes48/-AutoLedge-) - 一个纯ai做的记账工具,完全本地化,个人做着试用,以及玩
  * [-AutoLedger-](https://github.com/doublefishes48/-AutoLedger-) - 一个纯ai做的记账工具,完全本地化,个人做着试用,以及玩
  * [9Player](https://github.com/tza14/9Player)
+ * [AALC-Meow](https://github.com/qi-1021/AALC-Meow)
  * [AccessibilityManager](https://github.com/luqijun9/AccessibilityManager) - 在原项目基础上新增崩溃检测功能以及UI美化。本APP可以彻底取代系统设置里的无障碍设置页面。仅需要授权本APP写入安全设置即可使用。支持无障碍保活，不耗电不主动唤醒，且保活速度极快。This app replaces system Accessibility Settings with secure settings access, offering fast low-power persistent service & new crash detection.
  * [ADOFAI-Key-Viewer-Mobile](https://github.com/QuyetGD-15/ADOFAI-Key-Viewer-Mobile) - ADOFAI Key Viewer for Mobile. Features real-time touch visualization, KPS tracker, and total click counter
+ * [Aharou](https://github.com/520huxiangli/Aharou) - Aharou · 手机上的 AI 助手与 Coding Agent（内置 Linux 环境 · 影子屏）
  * [AiCode](https://github.com/jieapi/AiCode) - 在 Android 上运行的 AI 编程 Agent，内置 Linux 终端与代码编辑器，支持 MCP 协议扩展。
  * [ALAS-AOS](https://github.com/Shinarin/ALAS-AOS) - ALAS 一体化 Android APK：proot rootfs 运行时 + Shizuku 虚拟屏后台挂机（开发中，路线图见 docs/roadmap-v3.md）
  * [AMBRACE](https://github.com/Gi-Tuu/AMBRACE)
@@ -25,6 +27,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [AzurPilot-for-Android](https://github.com/wess09/AzurPilot-for-Android) - AzurPilot 安卓版本 基于ALAS-AOS
  * [BD2ToolsBox](https://github.com/Haru762/BD2ToolsBox) - Brown Dust 2 手机端工具箱：mod 转换与装入、攻略阅读、兑换码一键兑换、游戏资源工具等。GPLv3
  * [BetterNightLight](https://github.com/paulsnuff/BetterNightLight) - Take control of Android's native Night Light - advanced scheduling, boost phases, and precise color temperature.  
+ * [BooxUltimatum](https://github.com/huuunleashed/BooxUltimatum) - A home screen, sleep-screen designer, battery doctor and tweak hub for the BOOX Note Air6 C, in one app, without root.
  * [centuryplay](https://github.com/g8row/centuryplay) - stream android system audio to airplay speakers.
  * [Cinnazuku](https://github.com/DarkmoonOnDiscord/Cinnazuku) - A modern Shizuku fork rebuilt for Android 17 (API 37+), fixing package management.
  * [ClipStack](https://github.com/liliangxing/ClipStack)
@@ -49,13 +52,18 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [flaunchermod](https://github.com/ctnkyaumt/flaunchermod)
  * [flutter_agent_harness](https://github.com/IstiN/flutter_agent_harness) - Fa - Factory Agent. Cross-platform AI agent harness for Dart and Flutter — streaming providers, agent loop with tools, session persistence, compaction; backend agent mode: fa behind product Go backends
  * [fuck-mi-aicr-default-browser](https://github.com/XiaoLeXLDW/fuck-mi-aicr-default-browser) - 实验性小米 / HyperOS 链接重定向工具：通过 Shizuku 或 Stellar，将交给小米浏览器的网页链接转到所选浏览器，无需 Root。
+ * [gkd-](https://github.com/84593320z/gkd-) - GKD-X 融合版：界面全面适配 MIUIX 的 GKD-X与GKD-Plus的AI规则生成 App 开屏与弹窗广告（Android / Kotlin Compose）
  * [gossip](https://github.com/vmd1/gossip) - Mac ↔ Android continuity: notification mirroring, clipboard sync, DND sync, media remote control, screen mirroring, and multi-device mesh trust.
+ * [GSplit](https://github.com/Salat39/GSplit) - Freeform Split Screen
  * [hotspot_channel_setter](https://github.com/Lorax121/hotspot_channel_setter) - Android Root application to force Wi-Fi hotspot channels (2.4 GHz and 5 GHz) using ADB commands (cmd wifi force-softap-channel).
  * [HyperOSFCMFix](https://github.com/Kr328/HyperOSFCMFix) - 本应用为中国大陆 HyperOS 修复 FCM 推送和唤醒问题。(需要 Shizuku)
+ * [IntentX](https://github.com/wxxsfxyzm/IntentX) - Explore, craft, and launch Android intents.
  * [Iteration](https://github.com/LiferLighdow/Iteration) - Born for Performance, Built for Freedom.
  * [Lightspeed](https://github.com/SBFlabs/Lightspeed) - Advanced space-themed gesture, telemetry, and system deck for Android.
+ * [LinkGo](https://github.com/mting1117/LinkGo)
  * [Lucent](https://github.com/Yuan0-o/Lucent)
  * [M9A-Meow](https://github.com/qi-1021/M9A-Meow) - 《重返未来：1999》小助手 Android 版，全日常一键长草！| Assistant For Reverse: 1999 on Android
+ * [MediaRescue](https://github.com/everythingfreee/MediaRescue) - MediaRescue — An open-source Android storage tool for finding, browsing, and managing forgotten files and media.
  * [midscene-android](https://github.com/lhuanyu/midscene-android) - Android on-device agent for Midscene. Community project, not affiliated with the Midscene team.
  * [mizuku](https://github.com/Leaf-lsgtky/mizuku)
  * [monitune](https://github.com/goodeesh/monitune) - Tune your Android display for external monitors. Resolution, UI scale and force landscape via Shizuku/root. Display only, no audio.
@@ -72,6 +80,8 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [otweak](https://github.com/Astreas-Core/otweak)
  * [Overlay-Guard](https://github.com/MocLG/Overlay-Guard) - Overlay Guard is a high-performance system utility designed to bring the advanced privacy features of the 2026 Galaxy S26 Ultra to Android 13+ devices.  By leveraging real-time sensor fusion and the WindowManager API, this app simulates a "software-defined" hardware privacy screen.
  * [OverlayOps](https://github.com/xykalnotkel/OverlayOps) - AppOps / Display-over-other-apps manager untuk Android via Shizuku (App Ops style)
+ * [Palleria](https://github.com/yunfie-twitter/Palleria) - Palleria is a free and open-source Android application that provides a modern, fast and comfortable Pixiv browsing experience.
+ * [password-manager-switch](https://github.com/cr-zhichen/password-manager-switch) - 无需 root，通过 Shizuku 查看并切换 Android 默认密码管理器、通行密钥提供者与自动填充服务。
  * [patchweaver](https://github.com/ispacecase/patchweaver) - Personal Morphe patches (F-Droid selectable install backend)
  * [phonexr](https://github.com/samrat1games/phonexr) - PhoneXR: VR on a phone — Cardboard, hand tracking, Monado OpenXR
  * [pixel-toolbox-root](https://github.com/abc1812645224-alt/pixel-toolbox-root) - Pixel Toolbox - Root版
@@ -119,18 +129,19 @@ Entries are sorted by name and grouped into a separate category if the attached 
 <summary>Non-original content</summary>
 
  * [Di_Ting](https://github.com/shiyun-is-hub/Di_Ting) - “一款注重本地处理、隐私和用户控制的开源 Android 录屏工具。”Open-source Android screen recorder focused on local processing, privacy, and user control.
+ * [mkm](https://github.com/zenithblue-oss/mkm) - Minimal Android kernel management and system monitoring application
  * [originos-toolkit](https://github.com/cameleonnbss/originos-toolkit) - No-root tweak toolkit for Vivo/iQOO OriginOS: per-app refresh rate, 39 reversible tweaks, debloat, and a curated no-root index. Android app + CLI.
  * [private-agent](https://github.com/illldisposer/private-agent)
  * [shiroikuma-jiyusagyoban](https://github.com/ShiroiKuma0/shiroikuma-jiyusagyoban) - 白い熊 作業盤 — downstream fork of OpenTasker (FOSS Tasker alternative), renamed to install side-by-side, with custom intent actions to drive the sister apps.
  * [shizuku-next](https://github.com/yijiacloud/shizuku-next) - Shizuku Next - 增强版 Shizuku：悬浮窗配对 + Shell终端 + 模块系统
  * [sidekeys-hibreak](https://github.com/Yannick158/sidekeys-hibreak) - Button mapper for E-Ink phones — give your side keys and volume keys any function: launch apps, Assistant, Wallet, scrolling and more. Built for E-Ink, tested on the Bigme HiBreak Pro.
+ * [TachiyomiX](https://github.com/zhzipu/TachiyomiX) - 基于 TachiyomiSY 二次开发的 Android 漫画阅读器：新增网络图源（WebDAV/FTP）、本地 AI 超分、立体空间场景、内置 Clash、应用伪装等
 </details>
 
 <details>
 <summary>No GitHub stars</summary>
 
  * [777](https://github.com/sy220284/777)
- * [AALC-Meow](https://github.com/qi-1021/AALC-Meow)
  * [airplane-scheduler](https://github.com/probecat/airplane-scheduler)
  * [continuum-chat](https://github.com/yuyu1838309000-cmd/continuum-chat)
  * [DungeonWithinSaveScumTool](https://github.com/Notplying/DungeonWithinSaveScumTool)
@@ -142,6 +153,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ParallelHarness](https://github.com/keepinitkrispy/ParallelHarness) - Parallel Processing Android agent UI
  * [QingYangAI-Agent](https://github.com/QingYang-520/QingYangAI-Agent)
  * [quotes](https://github.com/cernoh/quotes) - book quote widget
+ * [Root-My-Galaxy-Ultra](https://github.com/xorpix/Root-My-Galaxy-Ultra) - This fork is based on Root My Galaxy Next by @rushiranpise and was created to add support for the Samsung Galaxy S26 Ultra (SM-S948B) running S948BXXS4AZHL firmware. During development, the M3Q exploit by @bklyn_syed was also incorporated.
  * [slop-remote-relay](https://github.com/sandoramix/slop-remote-relay)
  * [tv-task-switcher](https://github.com/pyrometheous/tv-task-switcher)
  * [ztrackpad](https://github.com/jan5o7o/ztrackpad) - Floating trackpad + pointer, an on-screen keys panel, and a virtual display you can see and drive — for Android, built on-device in Termux on a Galaxy Z Fold 4. Needs Shizuku.
@@ -185,8 +197,8 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [AndroidVirtualGamePad](https://github.com/WuDi-ZhanShen/AndroidVirtualGamePad) - 利用adb/shizuku/root权限，虚拟一个手柄。可通过悬浮窗操作这个手柄。
  * [apex-files-android](https://github.com/pass-with-high-score/apex-files-android) - Apex Files - A modern, blazingly fast power-user file manager for Android with Shizuku support, Data/OBB access, and local web transfer.
  * [appback](https://github.com/Rishu-s08/appback) - No-root Android app state backup and multi-device synchronization using Android's Backup Manager, Shizuku, Kotlin, and Binder/AIDL.
- * [aptx-max](https://github.com/nowwwki-dev/aptx-max) - Android Shizuku tool that selects the best available Bluetooth A2DP codec.
  * [Athena](https://github.com/Vexzure/Athena)
+ * [BangshXplorer](https://github.com/GettoDev/BangshXplorer) - BangshXplorer file manager for Android
  * [BloraLauncher](https://github.com/BloretCrew/BloraLauncher) - Bloret Launcher Flutter Edition
  * [CipherTun-VPN](https://github.com/CipherTun/CipherTun-VPN)
  * [Craft-Box](https://github.com/hsh114514/Craft-Box) - 一个MInecraft PE 0.14.3的开发工具箱
@@ -245,6 +257,8 @@ Entries are sorted by name and grouped into a separate category if the attached 
 
  * [AI-Limbs-Public-Build](https://github.com/AdrienFan/AI-Limbs-Public-Build) - Public build mirror for AI Limbs v0.5 Android CI
  * [Android-App-Language-Switcher](https://github.com/jiuyunjun/Android-App-Language-Switcher)
+ * [cve-2026-64560-a16](https://github.com/Become-ILLUSORY/cve-2026-64560-a16) - CVE-2026-64560 toolkit: Go single-binary toolchain + realme RMX5010 (A16, SM8750) target port
+ * [jarvis](https://github.com/tonygrischke-art/jarvis)
  * [Localmcp](https://github.com/liaoyh9422-creator/Localmcp)
  * [srt-kanxa](https://github.com/susantedit/srt-kanxa)
  * [VibeReplay](https://github.com/zhouhaoran-TJU/VibeReplay)
@@ -258,7 +272,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [archive-system-crawling-android](https://github.com/FLC-niko/archive-system-crawling-android)
  * [Atlas-](https://github.com/buyukdereosman34-blip/Atlas-)
  * [Bai-release-trst](https://github.com/Sumon-Kayal/Bai-release-trst) - Test
- * [BangshXplorer](https://github.com/GettoDev/BangshXplorer) - BangshXplorer file manager for Android
  * [Bb](https://github.com/othma433-ai/Bb)
  * [BCZ-Token-Login](https://github.com/shadlc/BCZ-Token-Login) - A utility that can login Baicizhan APP with access token.
  * [bedrock-launcher-mobile](https://github.com/sonahalf0-tech/bedrock-launcher-mobile)
@@ -281,6 +294,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [HermesAndroid](https://github.com/johnjg75dev/HermesAndroid) - Hermes Agent on Android
  * [IntelligentAppCalls](https://github.com/Ysn-Ir/IntelligentAppCalls)
  * [julius](https://github.com/ludoo0d0a/julius) - Julius is the next Jarvis generation
+ * [KITSUNEnime](https://github.com/muzape28-blip/KITSUNEnime) - Just some cute apk for anime streaming fully free, I HATE SUBS WHEN I BROKE aowkoakwoaoa
  * [lgfx](https://github.com/xinitrcn1/lgfx)
  * [ly](https://github.com/ly11116/ly) - lygege
  * [mihon-source-archive](https://github.com/HyperionHXH/mihon-source-archive) - Mihon 主程序源码开发快照归档，用于以后研究或自行编译；不含本机配置和凭据。
@@ -291,6 +305,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [RedmiBatteryDiag](https://github.com/byteknoneco/RedmiBatteryDiag) - Redmi12 BatteryDignostic
  * [RivoPhoneApp-PreAvatar](https://github.com/stivy73/RivoPhoneApp-PreAvatar) - Independent Rivo Personal snapshot before social avatar integration
  * [soniclab-fx](https://github.com/soe1hom-arch/soniclab-fx) - System-wide audio effects for Android — EQ, bass/treble, reverb, limiter for ALL audio (YouTube, Spotify, games)
+ * [TachiyomiATVibe](https://github.com/KimreneOuk/TachiyomiATVibe) - TachiyomiATVibe — unofficial fork of TachiyomiAT (Mihon lineage) with on-device manga translation
  * [The-manager](https://github.com/taldoshawn/The-manager)
  * [Tieuchi](https://github.com/khocvidau91/Tieuchi)
  * [TISC-Proyect](https://github.com/JuanDCC03/TISC-Proyect)
@@ -309,6 +324,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [AndroidFolderExplorer](https://github.com/SerZhyAle/AndroidFolderExplorer)
  * [androidoptimizer](https://github.com/Sittirahmadia/androidoptimizer)
  * [AOD_Charging](https://github.com/sthrnilshaaa/AOD_Charging) - System Aod controller with quick tile as well as devices charging conditions,this will automatic the aod on the system
+ * [aptx-max](https://github.com/nowwwki-dev/aptx-max) - Android Shizuku tool that selects the best available Bluetooth A2DP codec.
  * [BloatFree-Android](https://github.com/DuminAndrew/BloatFree-Android) - Debloat Android without root using Shizuku. Jetpack Compose, MVVM. Safely disable/remove bloatware (disable-user by default).
  * [CaptureSecureScreen](https://github.com/jimmychanii/CaptureSecureScreen) - A android tools to capture screen, includes secure flag activity
  * [countryman](https://github.com/cloudinstone/countryman) - No Country for Old Men. 一个用于免 Root 调整 SIM 国家、运营商名称和号码显示的 Android 小工具。

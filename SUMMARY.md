@@ -20,6 +20,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ADOFAI-Key-Viewer-Mobile](https://github.com/QuyetGD-15/ADOFAI-Key-Viewer-Mobile) - ADOFAI Key Viewer for Mobile. Features real-time touch visualization, KPS tracker, and total click counter
  * [Aharou](https://github.com/520huxiangli/Aharou) - Aharou · 手机上的 AI 助手与 Coding Agent（内置 Linux 环境 · 影子屏）
  * [AiCode](https://github.com/jieapi/AiCode) - 在 Android 上运行的 AI 编程 Agent，内置 Linux 终端与代码编辑器，支持 MCP 协议扩展。
+ * [AirSIM](https://github.com/kai-wu-cortex/AirSIM) - Source-available, noncommercial cross-device calling and messaging for Samsung Android, iPhone, Apple Watch, AVF Linux and Cloudflare Workers.
  * [ALAS-AOS](https://github.com/Shinarin/ALAS-AOS) - ALAS 一体化 Android APK：proot rootfs 运行时 + Shizuku 虚拟屏后台挂机（开发中，路线图见 docs/roadmap-v3.md）
  * [AMBRACE](https://github.com/Gi-Tuu/AMBRACE)
  * [android-tiling-wm](https://github.com/Aypex/android-tiling-wm) - WIP proof-of-concept: i3/Hyprland-style tiling window manager for Android phones, no root (Shizuku + AccessibilityService). Interface not stable yet.
@@ -46,6 +47,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [droidtop](https://github.com/Droidtop/droidtop) - Turns an Android handheld into a shared desktop — Windows via Wine/Box64, Linux via containers, one merged compositor, dom0-style architecture
  * [dsh-android](https://github.com/itiswdwa/dsh-android) - 基于Webview的DeepSeek Harness安卓发行版。采用Ubuntu Proot以增加兼容性。
  * [dsh-mobile-apk](https://github.com/kelai141/dsh-mobile-apk) - dsh 安卓壳 APK——WebView UI + 内嵌 Termux 运行时快照（解压即跑），为dsh本地运行设计的高性能方案
+ * [DSHBox](https://github.com/WSK-build/DSHBox) - DSHBox —  Run DeepSeek Harness locally on Android phones and tablets. It integrates and coordinates DSH, PRoot, WebView, Debian and Node.js, together with a terminal, a file manager and other tools, into a personal AI workbench. No root access, and no separate Termux installation.
  * [duo-fold-live](https://github.com/joeconsorti/duo-fold-live) - The first, live, hinge-driven opening animation for the Galaxy Z Fold8. Features smooth windowed glass, modular settings, and 120hz live preview (even iPhone doesn't have this) → 90% complete. Need to discover method of preventing display shut-off during changeover.
  * [duo-open](https://github.com/marcoazeem/duo-open) - iPhone-Duo frosted-glass fold effect for Android foldables, driven by the real hinge angle. No root.
  * [Duos-Public](https://github.com/rmb707/Duos-Public) - Duos — an iPhone-style Home for the Galaxy Z Fold 8, with hinge-tracked fold animations
@@ -58,6 +60,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [flaunchermod](https://github.com/ctnkyaumt/flaunchermod)
  * [flutter_agent_harness](https://github.com/IstiN/flutter_agent_harness) - Fa - Factory Agent. Cross-platform AI agent harness for Dart and Flutter — streaming providers, agent loop with tools, session persistence, compaction; backend agent mode: fa behind product Go backends
  * [fuck-mi-aicr-default-browser](https://github.com/XiaoLeXLDW/fuck-mi-aicr-default-browser) - 实验性小米 / HyperOS 链接重定向工具：通过 Shizuku 或 Stellar，将交给小米浏览器的网页链接转到所选浏览器，无需 Root。
+ * [Ghostide](https://github.com/HanzoDev30/Ghostide) - Fast ide for Android
  * [ghostlock-app](https://github.com/YuKongA/ghostlock-app) - GhostLock One-Tap Execution App (CVE-2026-43499)
  * [ghostroot](https://github.com/FUVL2021/ghostroot) - GhostRoot - Android privilege escalation research toolkit (Xiaomi 13 / fuxi / SM8550 / kernel 5.15.178)
  * [gkd-](https://github.com/84593320z/gkd-) - GKD-X 融合版：界面全面适配 MIUIX 的 GKD-X与GKD-Plus的AI规则生成 App 开屏与弹窗广告（Android / Kotlin Compose）
@@ -72,6 +75,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [katari](https://github.com/pa2x2/katari)
  * [Lightspeed](https://github.com/SBFlabs/Lightspeed) - Advanced space-themed gesture, telemetry, and system deck for Android.
  * [LinkGo](https://github.com/mting1117/LinkGo)
+ * [linux-link](https://github.com/ArvinKavaskov/linux-link) - Apple-like continuity between Linux and Android. Auto-connects at boot — notifications, shared clipboard, file transfer, media & volume control, folder sync, webcam and mic. Fully local, end-to-end encrypted, no cloud.
  * [Lucent](https://github.com/Yuan0-o/Lucent)
  * [M9A-Meow](https://github.com/qi-1021/M9A-Meow) - 《重返未来：1999》小助手 Android 版，全日常一键长草！| Assistant For Reverse: 1999 on Android
  * [MediaRescue](https://github.com/everythingfreee/MediaRescue) - MediaRescue — An open-source Android storage tool for finding, browsing, and managing forgotten files and media.
@@ -99,6 +103,8 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [prism](https://github.com/meetdheeran/prism) - A free, Siri-style assistant that gives you control of your phone and a new way to customise it: Liquid-Glass assistant, control center and Dynamic Island for Android 12. Bring your own Gemini, Groq or Claude key.
  * [PrismShell](https://github.com/RRiiiccckkk/PrismShell) - Make your Android feel like iOS — a local-first visual shell for islands, glass, volume and motion.
  * [Project-Lumen](https://github.com/Chloemlla/Project-Lumen) - Project Lumen is a native Android Kotlin app for eye-break reminders, pomodoro timing, local statistics, templates, notifications, and CSV sharing.
+ * [Quest-Terminal](https://github.com/Banban465-tech/Quest-Terminal) - Terminal For Q1-Q3 + other devices
+ * [radioguard](https://github.com/pushkarreddyy/radioguard) - Zero-Trust Cellular Defense Sub-Service for Android (IMSI-Catcher, 2G SMS Blaster, and 4G aLTEr Detection & Safe Routing)
  * [readerlb](https://github.com/aleksandreev2/readerlb) - Android-приложение для импорта EPUB и TXT в локальную библиотеку RanobeLib
  * [Renkin](https://github.com/renkindevbugs/Renkin) `fdroid` - Make your own icon pack, on your phone
  * [Root-My-Galaxy-Ultra](https://github.com/xorpix/Root-My-Galaxy-Ultra) - This fork is based on Root My Galaxy Next by @rushiranpise and was created to add support for the Samsung Galaxy S26 Ultra (SM-S948B) running S948BXXS4AZHL firmware. During development, the M3Q exploit by @bklyn_syed was also incorporated.
@@ -115,6 +121,8 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [StatusBar-Hider](https://github.com/YoannDev90/StatusBar-Hider) - Minimal Android app that hides the status bar system-wide
  * [stayturgid](https://github.com/djbclark/stayturgid) - Keep wireless ADB (port 5555) and Shizuku alive on Android across reboots — without root
  * [talon](https://github.com/thefalconry/talon) - 🦅 Multi-platform agentic AI harness — runs on Telegram, Discord, Teams & Terminal with a pluggable backend (Claude, Kilo, OpenCode, Codex, OpenAI Agents), full MCP tool access, and persistent background agents (Goals, Heartbeat, Dream).
+ * [TerminalAppPlus](https://github.com/KawaiiHachimi/TerminalAppPlus) - Standalone Android 17 AOSP Terminal Plus using rootless AVF with development permissions
+ * [tern](https://github.com/munzzyy/tern) - Installs and updates Android apps straight from their developers, and checks every file first. Phones, tablets and Android TV.
  * [thor-pathfinder](https://github.com/KaitonGxx/thor-pathfinder) - Swap apps between the AYN Thor's two screens and put shortcuts on its buttons. Free and open source (GPL-3.0).
  * [ThorBottomScreen](https://github.com/slushiimusic/ThorBottomScreen) - Turn the AYN Thor's bottom screen off per app. Event-driven, zero idle cost, works with or without Shizuku.
  * [thorpad](https://github.com/stagfoo/thorpad)
@@ -125,7 +133,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Void-Auditor](https://github.com/M0NDsuChTiG/Void-Auditor) - Zero Trust mobile forensics toolkit for Android — Shizuku · AI Governance · Network Scan · Cache Cleaner
  * [Voidstrap](https://github.com/KloBraticc/Voidstrap) - Voidstrap is a simple yet advanced fork of Bloxstrap, advanced customization and improvements.
  * [WacomMapper](https://github.com/sebastianabanto/WacomMapper) - WacomMapper maps the Wacom One by Wacom CTL-472 (USB HID) to global Android stylus input—X/Y, pressure, hover and buttons—using Kotlin, Jetpack Compose and Shizuku; validated on Galaxy Tab S7.
- * [Wammy](https://github.com/kainotch/Wammy) - natively built Manga ,novels & Comic reader for Android.
  * [WNLZ-Injector](https://github.com/caofangkuai/WNLZ-Injector) - 无能乐子注入器
  * [wolfi-terminal](https://github.com/leloush-x/wolfi-terminal) - Wolfi + Alpine + void arch + debian -  Android terminal (ReTerminal fork with rolling APK releases)
  * [WuWa-Config-Android](https://github.com/B3rr7/WuWa-Config-Android) - Android WuWa Config Toolkit for Wuthering Waves. Analyze Client.log and generate optimized Engine.ini, DeviceProfiles.ini, GameUserSettings.ini, Scalability.ini and Hardware.ini presets.
@@ -153,6 +160,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
 <details>
 <summary>No GitHub stars</summary>
 
+ * [AgnesSU](https://github.com/Yakayna/AgnesSU) - Kernel-based Android Root Solution,forked from resukisu
  * [airplane-scheduler](https://github.com/probecat/airplane-scheduler)
  * [Baton](https://github.com/TheTobiTiger02/Baton) - Continue what you're watching, listening to or reading between your Windows PC and Android phone, right to the second.
  * [cider-manual-token-patch](https://github.com/Dazaike/cider-manual-token-patch) - Smali patch adding manual Music-User-Token sign-in to Cider Android, plus a Cider Remote LAN-pairing desktop bug writeup
@@ -166,7 +174,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [nyanime](https://github.com/noire342/nyanime) - An app for manga and anime
  * [ParallelHarness](https://github.com/keepinitkrispy/ParallelHarness) - Parallel Processing Android agent UI
  * [quotes](https://github.com/cernoh/quotes) - book quote widget
- * [slop-remote-relay](https://github.com/sandoramix/slop-remote-relay)
+ * [slop-remote-relay](https://github.com/sandoramix/slop-remote-relay) - Turn your phone into a remote for any video playing on an Android phone or in a Chrome/Brave tab. Skip, scrub, pause and go fullscreen, over six redundant paths (Wi-Fi, WebRTC, WebSocket, HTTP, MQTT, Bluetooth).
  * [tv-task-switcher](https://github.com/pyrometheous/tv-task-switcher)
  * [vibe-projects](https://github.com/steveimm/vibe-projects) - Random vibe-coded projects
  * [victus-mobile-app](https://github.com/NotBlack777/victus-mobile-app)
@@ -189,6 +197,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Mi-FreeForm](https://github.com/DtHnAme/Mi-FreeForm) - Flyme edition
  * [ServiceManagerCompat](https://github.com/SanmerApps/ServiceManagerCompat) - ServiceManager (LibSu/Shizuku)
  * [Shizuku-Tools](https://github.com/Qutaiba-Khader/Shizuku-Tools)
+ * [ShizukuUesrService](https://github.com/allmyCyou/ShizukuUesrService) - Shizuku UserService
  * [TapStrapApp](https://github.com/ScribbleJ/TapStrapApp) - An Android IME for interfacing with the Tap Strap 
  * [telesor](https://github.com/aitorpazos/telesor) - Share camera and NFC from your phone to another Android device
  * [ThruSpark](https://github.com/saneshiyer/ThruSpark)
@@ -262,7 +271,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [StarryAgent](https://github.com/Starry2233/StarryAgent) - A cross-platform agent app.
  * [SteamlessLink](https://github.com/reo101/SteamlessLink) - SteamLink without the Steam (just passing (optionally raw) controller state over the wire)
  * [susu-phone-agent](https://github.com/2005selene2005-a11y/susu-phone-agent) - Android device bridge for Claude Code via MCP + Shizuku. No root, no model polling.
- * [TerminalAppPlus](https://github.com/KawaiiHachimi/TerminalAppPlus) - Standalone Android 17 AOSP Terminal Plus using rootless AVF with development permissions
+ * [The-manager](https://github.com/taldoshawn/The-manager)
  * [Tweak-Alpha](https://github.com/lumkit/Tweak-Alpha) - Android玩机工具箱
  * [VirtualX](https://github.com/SpideryBook7/VirtualX)
  * [Whizuku](https://github.com/PianoEthan/Whizuku) - A Third-Party Shizuku Manager Optimized for WearOS
@@ -276,7 +285,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [AI-Limbs-Public-Build](https://github.com/AdrienFan/AI-Limbs-Public-Build) - Public build mirror for AI Limbs v0.5 Android CI
  * [Android-App-Language-Switcher](https://github.com/jiuyunjun/Android-App-Language-Switcher)
  * [cve-2026-64560-a16](https://github.com/Become-ILLUSORY/cve-2026-64560-a16) - CVE-2026-64560 toolkit: Go single-binary toolchain + realme RMX5010 (A16, SM8750) target port
- * [jarvis](https://github.com/tonygrischke-art/jarvis)
  * [Localmcp](https://github.com/liaoyh9422-creator/Localmcp)
  * [srt-kanxa](https://github.com/susantedit/srt-kanxa)
  * [VibeReplay](https://github.com/zhouhaoran-TJU/VibeReplay)
@@ -314,6 +322,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [genshin-vulkan-tool](https://github.com/naxida-ima/genshin-vulkan-tool) - 🍃 原神渲染引擎一键切换工具 — OpenGL → Vulkan，支持 Shizuku + Root 双权限方案
  * [HermesAndroid](https://github.com/johnjg75dev/HermesAndroid) - Hermes Agent on Android
  * [IntelligentAppCalls](https://github.com/Ysn-Ir/IntelligentAppCalls)
+ * [jarvis](https://github.com/tonygrischke-art/jarvis)
  * [julius](https://github.com/ludoo0d0a/julius) - Julius is the next Jarvis generation
  * [KITSUNEnime](https://github.com/muzape28-blip/KITSUNEnime) - Just some cute apk for anime streaming fully free, I HATE SUBS WHEN I BROKE aowkoakwoaoa
  * [lgfx](https://github.com/xinitrcn1/lgfx)
@@ -327,7 +336,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [RivoPhoneApp-PreAvatar](https://github.com/stivy73/RivoPhoneApp-PreAvatar) - Independent Rivo Personal snapshot before social avatar integration
  * [soniclab-fx](https://github.com/soe1hom-arch/soniclab-fx) - System-wide audio effects for Android — EQ, bass/treble, reverb, limiter for ALL audio (YouTube, Spotify, games)
  * [TachiyomiATVibe](https://github.com/KimreneOuk/TachiyomiATVibe) - TachiyomiATVibe — unofficial fork of TachiyomiAT (Mihon lineage) with on-device manga translation
- * [The-manager](https://github.com/taldoshawn/The-manager)
  * [Tieuchi](https://github.com/khocvidau91/Tieuchi)
  * [TISC-Proyect](https://github.com/JuanDCC03/TISC-Proyect)
  * [video-call-Vplus](https://github.com/tbzmike/video-call-Vplus)

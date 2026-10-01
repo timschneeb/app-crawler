@@ -104,6 +104,8 @@ def main():
     ap.add_argument("--stars", default=None,
                     help="JSON {url: {stars: int|null}}; sorts ignores within each "
                          "file/subsection group by stars desc (unknown last)")
+    ap.add_argument("--source-label", default="SUMMARY.md triage",
+                    help="Text after 'Source:' in CANDIDATES_REVIEW.md")
     ap.add_argument("--check-only", action="store_true")
     args = ap.parse_args()
 
@@ -125,7 +127,8 @@ def main():
                 e = rec.get("enriched", {}) or {}
                 w.writerow({
                     "url": rec["url"], "name": rec.get("name", ""), "verdict": "",
-                    "ignore_file": "", "subsection": "", "category": "",
+                    "ignore_file": rec.get("file", ""),
+                    "subsection": rec.get("subsection", ""), "category": "",
                     "license": e.get("suggested_spdx", ""), "en_desc": "",
                     "reason": "", "findings": e.get("github_description", ""),
                     "download": ("APK in releases" if e.get("has_apk_asset") else ""),
@@ -158,7 +161,7 @@ def main():
         by_cat.setdefault(clean(r["category"]), []).append(r)
 
     out_c = ["# Candidates for awesome-shizuku (review)\n",
-             f"Source: SUMMARY.md triage. {len(cands)} candidate(s).\n"]
+             f"Source: {args.source_label}. {len(cands)} candidate(s).\n"]
     for cat, rs in by_cat.items():
         out_c.append(f"\n## {cat}\n")
         for r in rs:
@@ -180,7 +183,7 @@ def main():
         by_target.setdefault((clean(r["ignore_file"]), clean(r["subsection"])), []).append(r)
 
     out_i = ["# Proposed ignore additions (review)\n",
-             f"{len(igns)} entr(y/ies). Each was also appended to ignore/*.lst as `URL # reason`.\n"]
+             f"{len(igns)} entr(y/ies). Review-only proposal: ignore/*.lst was not modified.\n"]
     for (f_, s_), rs in by_target.items():
         out_i.append(f"\n## `{f_}` / `{s_}`\n")
         for r in rs:

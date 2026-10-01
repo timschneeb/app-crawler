@@ -8,6 +8,10 @@ Polite sequential fetching with resume cache. Unparseable pages -> stars null
 Usage:
   python3 fetch_stars.py [--verdicts verdicts.csv] [--verdict ignore]
                          [--out stars.json] [--sleep 1.0] [--timeout 25] [--limit N]
+  python3 fetch_stars.py --urls-file urls.txt [--out stars.json]
+
+--urls-file reads one URL per line (blank lines and '#' comments skipped)
+and overrides --verdicts/--verdict; non-GitHub URLs are ignored.
 """
 import argparse
 import json
@@ -51,6 +55,8 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--verdicts", default=str(HERE / "verdicts.csv"))
     ap.add_argument("--verdict", default="ignore", help="only fetch stars for this verdict")
+    ap.add_argument("--urls-file", default=None,
+                    help="Text file with one URL per line; overrides --verdicts/--verdict")
     ap.add_argument("--out", default=str(HERE / "stars.json"))
     ap.add_argument("--sleep", type=float, default=1.0)
     ap.add_argument("--timeout", type=int, default=25)
@@ -59,11 +65,21 @@ def main():
 
     import csv
     urls = []
-    for r in csv.DictReader(open(args.verdicts, encoding="utf-8")):
-        if (r.get("verdict") or "").strip() == args.verdict:
-            u = (r.get("url") or "").strip()
+    if args.urls_file:
+        seen = set()
+        for line in Path(args.urls_file).read_text(encoding="utf-8").splitlines():
+            u = line.strip()
+            if not u or u.startswith("#") or u in seen:
+                continue
+            seen.add(u)
             if parse_github_owner_repo(u):
                 urls.append(u)
+    else:
+        for r in csv.DictReader(open(args.verdicts, encoding="utf-8")):
+            if (r.get("verdict") or "").strip() == args.verdict:
+                u = (r.get("url") or "").strip()
+                if parse_github_owner_repo(u):
+                    urls.append(u)
     print(f"targets: {len(urls)}")
     if args.limit:
         urls = urls[:args.limit]

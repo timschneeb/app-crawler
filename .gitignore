@@ -8,4 +8,6 @@ venv/
 *.log
 /review.html
 /NEW_IGNORES.md
+/IGNORE_STARS.md
 /CANDIDATES_REVIEW.md
+ignore_stars_urls.txt

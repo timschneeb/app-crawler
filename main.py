@@ -12,6 +12,7 @@ from scanners.scanner import App
 from scanners.fdroid_scanner import FDroidScanner
 from scanners.github_code_scanner import GithubCodeScanner
 from scanners.github_meta_scanner import GithubMetaScanner
+from scanners.shizuku_modules_scanner import ShizukuModulesScanner
 
 
 def scan_apps(github_auth: Optional[str]) -> List[App]:
@@ -27,6 +28,7 @@ def scan_apps(github_auth: Optional[str]) -> List[App]:
     if github_auth:
         apps.extend(GithubCodeScanner(github_auth, exclude=apps, process_count=4).find_matching_apps())
         apps.extend(GithubMetaScanner(github_auth, exclude=apps, process_count=4).find_matching_apps())
+        apps.extend(ShizukuModulesScanner(github_auth, exclude=apps, process_count=4).find_matching_apps())
     return sorted(set(apps), key=attrgetter('name'))
 
 

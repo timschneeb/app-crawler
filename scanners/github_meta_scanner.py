@@ -14,6 +14,8 @@ from .scanner import Scanner, App
 
 
 class GithubMetaScanner(Scanner):
+    log_prefix = "github_meta"
+
     def __init__(self, auth_token, exclude: list[App], process_count=1):
         self.auth = Github(auth=Auth.Token(auth_token))
         self.exclude = exclude
@@ -78,7 +80,7 @@ class GithubMetaScanner(Scanner):
             # Check if repo owner is in the contributor list
             return repo_owner in contributor_logins
         except Exception as e:
-            print(f"github_meta: failed to check contributors: {e}")
+            print(f"{self.log_prefix}: failed to check contributors: {e}")
             # Default to True (assume original) if we can't determine
             return True
 
@@ -88,13 +90,13 @@ class GithubMetaScanner(Scanner):
         desc = args.desc
         url = args.urls[0]
 
-        print("github_meta: checking " + args.name + "...")
+        print(f"{self.log_prefix}: checking " + args.name + "...")
         app = []
 
         try:
             repo_path = self._ensure_clone(url)
         except Exception as e:
-            print(f"github_meta: failed to clone {name} ({url}): {e}")
+            print(f"{self.log_prefix}: failed to clone {name} ({url}): {e}")
             return app
 
         # search for the target import string inside the repository
@@ -131,10 +133,10 @@ class GithubMetaScanner(Scanner):
                     continue
                 if name not in desired_ids:
                     try:
-                        print(f"github_meta: removing stale cached clone {name}")
+                        print(f"{self.log_prefix}: removing stale cached clone {name}")
                         shutil.rmtree(path)
                     except Exception as e:
-                        print(f"github_meta: failed to remove {path}: {e}")
+                        print(f"{self.log_prefix}: failed to remove {path}: {e}")
         except FileNotFoundError:
             return
 
@@ -143,7 +145,7 @@ class GithubMetaScanner(Scanner):
                                                 'language:Kotlin language:Java', 'stars', 'desc')
 
         # print results
-        print(f'github_meta: found {results.totalCount} repos')
+        print(f'{self.log_prefix}: found {results.totalCount} repos')
 
         full_results = []
         for repo in tqdm(results, total=results.totalCount):

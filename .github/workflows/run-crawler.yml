@@ -75,10 +75,18 @@ jobs:
         path: cache/*.pkl
 
     - name: Publish summary changes
+      id: publish
       uses: stefanzweifel/git-auto-commit-action@v7
       with:
         commit_message: Update SUMMARY*.md
         file_pattern: ./SUMMARY*.md
         commit_author: "Tim Schneeberger <38386967+timschneeb@users.noreply.github.com>"
 
-        
+    - name: Cancel run if publish failed
+      if: ${{ failure() && steps.publish.outcome == 'failure' }}
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        gh api --method POST "repos/${{ github.repository }}/actions/runs/${{ github.run_id }}/cancel" || true
+        sleep 30
+

@@ -69,7 +69,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [finevolume](https://github.com/broknhrt2562/finevolume) - Fine-grained Android volume controller with customizable volume resolution, separate app volumes, per-stream controls, Shizuku support, and a Pixel-style volume panel.
  * [flaunchermod](https://github.com/ctnkyaumt/flaunchermod)
  * [flutter_agent_harness](https://github.com/IstiN/flutter_agent_harness) - Fa - Factory Agent. Cross-platform AI agent harness for Dart and Flutter — streaming providers, agent loop with tools, session persistence, compaction; backend agent mode: fa behind product Go backends
- * [fuck-mi-aicr-default-browser](https://github.com/XiaoLeXLDW/fuck-mi-aicr-default-browser) - 实验性小米 / HyperOS 链接重定向工具：通过 Shizuku 或 Stellar，将交给小米浏览器的网页链接转到所选浏览器，无需 Root。
  * [Ghostide](https://github.com/HanzoDev30/Ghostide) - Fast ide for Android
  * [ghostlock-app](https://github.com/YuKongA/ghostlock-app) - GhostLock One-Tap Execution App (CVE-2026-43499)
  * [ghostlock-s26](https://github.com/1ndevelopment/ghostlock-s26) - GhostLock (CVE-2026-43499) app for the Galaxy S26 series
@@ -389,6 +388,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [kc-tool](https://github.com/androidok/kc-tool) - androd system tool
  * [Localmcp](https://github.com/liaoyh9422-creator/Localmcp)
  * [Mi.appshizuku](https://github.com/sosakristian40-web/Mi.appshizuku)
+ * [openminis-custom](https://github.com/431veysel-coder/openminis-custom) - OpenMinis Custom Extended App - Modular Heavy Runtime, GeckoView & Desktop GUI
  * [PixelClone](https://github.com/abc1812645224-alt/PixelClone) - Android 17 Shizuku App Cloning Engine (Proof of Concept)
  * [ShellBox](https://github.com/Urie96/ShellBox)
  * [VibeReplay](https://github.com/zhouhaoran-TJU/VibeReplay)

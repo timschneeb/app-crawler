@@ -130,10 +130,9 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [SamsungLockD2-Public](https://github.com/SysopBP/SamsungLockD2-Public) - Samsung Lock D2 — experimental Android privacy screen with an independent PIN and optional root kiosk. All rights reserved.
  * [shizu_app](https://github.com/razbbx/shizu_app)
  * [shizuku](https://github.com/asrtroh-netizen/shizuku) - Shizuku fork (thedjchi-based) with boot Wi-Fi autostart fix. Separate from OneIms. Credits: RikkaApps & thedjchi. Apache-2.0.
- * [Shizuku-Next](https://github.com/rushiranpise/Shizuku-Next) - A feature-rich Shizuku fork with improved setup, reliability, UI, and additional start methods.
+ * [Shizuku-Next](https://github.com/MiToverG422/Shizuku-Next) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
  * [shizuku-thedjchi-daemonstatebroadcast](https://github.com/Batestinha/shizuku-thedjchi-daemonstatebroadcast) - Fork of thedjchi/Shizuku adding Tasker daemon-ready/stopped broadcasts and Android 17 wireless ADB pairing/startup without the device chooser, with Nearby devices permission handling and recovery notifications.
  * [ShizukuCrimson](https://github.com/Itsfitts/ShizukuCrimson) - Shizuku+ goes deeper than the OG Shizuku. Take a look inside, and see what you find. [Broken ATM]
- * [ShizukuX](https://github.com/qianyumeng0228/ShizukuX) - ShizukuX 是 Shizuku 的增强分支：让普通应用借助 ADB / Root 特权进程直接调用系统级 API，并内置 Dhizuku、Extra API、Root 兼容桥等高级能力。继承自 ShizukuPlus（Apache 2.0）。
  * [SpazPeek](https://github.com/fengkaobanli/SpazPeek) - Spatial audio chain forensics for Android — dual-render detection, head tracking, resampling
  * [StatusBar-Hider](https://github.com/YoannDev90/StatusBar-Hider) - Minimal Android app that hides the status bar system-wide
  * [stayturgid](https://github.com/djbclark/stayturgid) - Keep wireless ADB (port 5555) and Shizuku alive on Android across reboots — without root
@@ -365,6 +364,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [StarryAgent](https://github.com/Starry2233/StarryAgent) - A cross-platform agent app.
  * [SteamlessLink](https://github.com/reo101/SteamlessLink) - SteamLink without the Steam (just passing (optionally raw) controller state over the wire)
  * [susu-phone-agent](https://github.com/2005selene2005-a11y/susu-phone-agent) - Android device bridge for Claude Code via MCP + Shizuku. No root, no model polling.
+ * [TachiyomiATVibe](https://github.com/KimreneOuk/TachiyomiATVibe) - TachiyomiATVibe — unofficial fork of TachiyomiAT (Mihon lineage) with on-device manga translation
  * [Tapoff](https://github.com/ReckyQue/Tapoff) - 关机键损坏时用于关机/重启；支持 Root 或 Shizuku（ADB 级权限）
  * [The-manager](https://github.com/taldoshawn/The-manager)
  * [Tweak-Alpha](https://github.com/lumkit/Tweak-Alpha) - Android玩机工具箱
@@ -479,7 +479,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [sidekey](https://github.com/quinnjr/sidekey) - Restore the side-key long-press power menu on Samsung One UI 8+ (Android takes the AI button back)
  * [SmoothVolume](https://github.com/vadimgumi/SmoothVolume)
  * [soniclab-fx](https://github.com/soe1hom-arch/soniclab-fx) - System-wide audio effects for Android — EQ, bass/treble, reverb, limiter for ALL audio (YouTube, Spotify, games)
- * [TachiyomiATVibe](https://github.com/KimreneOuk/TachiyomiATVibe) - TachiyomiATVibe — unofficial fork of TachiyomiAT (Mihon lineage) with on-device manga translation
  * [tarsier_packagemanager](https://github.com/TarsierHub/tarsier_packagemanager) - A simple Flutter plugin for Android and Windows package management. Supports app listing, details, icon extraction, and privileged operations via Root or Shizuku.
  * [Tieuchi](https://github.com/khocvidau91/Tieuchi)
  * [TISC-Proyect](https://github.com/JuanDCC03/TISC-Proyect)

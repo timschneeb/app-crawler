@@ -97,6 +97,32 @@ def format_entry(name, url, desc, license_, source=None):
     return line
 
 
+def merge_block(block, new_lines):
+    entry_idx = [i for i, ln in enumerate(block) if ln.startswith("* [")]
+    if entry_idx:
+        first, last = entry_idx[0], entry_idx[-1]
+        leading = block[:first]
+        trailing = block[last + 1 :]
+        groups = []
+        current = None
+        for ln in block[first : last + 1]:
+            if ln.startswith("* ["):
+                if current is not None:
+                    groups.append(current)
+                current = [ln]
+            else:
+                current.append(ln)
+        if current is not None:
+            groups.append(current)
+    else:
+        leading = [ln for ln in block if ln.strip() == ""]
+        leading = leading[:1] or [""]
+        trailing = [""]
+        groups = []
+    merged = sorted(groups + [[ln] for ln in new_lines], key=lambda g: sort_key(g[0]))
+    return leading + [ln for g in merged for ln in g] + trailing
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--readme", default=str(AWESOME_README))
@@ -128,23 +154,9 @@ def main():
             format_entry(name, link, desc, r["license"], source)
         )
 
-    # apply per block: remove existing entries, reinsert merged sorted list
     for heading, new_lines in additions.items():
         start, end = find_block(lines, heading)
-        block = lines[start + 1 : end]
-        entry_idx = [i for i, ln in enumerate(block) if ln.startswith("* [")]
-        existing = [block[i] for i in entry_idx]
-        if entry_idx:
-            first, last = entry_idx[0], entry_idx[-1]
-            leading = block[:first]
-            trailing = block[last + 1 :]
-        else:
-            leading = [ln for ln in block if ln.strip() == ""]
-            leading = leading[:1] or [""]
-            trailing = [""]
-        merged = sorted(existing + new_lines, key=sort_key)
-        new_block = leading + merged + trailing
-        lines[start + 1 : end] = new_block
+        lines[start + 1 : end] = merge_block(lines[start + 1 : end], new_lines)
 
     out = "\n".join(lines)
     if not out.endswith("\n"):

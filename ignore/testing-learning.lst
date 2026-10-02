@@ -29,6 +29,7 @@ https://github.com/BIGGGJerry/ACTScope # Academic testing framework, not a downl
 https://github.com/takusan23/ThirdpartyPhysicalChannelConfig # Research/learning sample to read a hidden API; Japanese-only docs and no download
 https://github.com/messycodes/otheme_test # Repo named *_test with no README or license; an experimental HyperOS theme-file tool.
 https://github.com/unarto/Wkwxploremodule # Repo description is literally 'Testing' with no README; it vendors a copy of the listed XFiles file manager.
+https://github.com/Omico/CurrentActivity # Self-described architecture reference implementation for learning; tiny current-activity monitor whose latest published release dates to 2019.
 
 # Demos/examples
 https://github.com/Young-Lord/Multi-User-Applist-With-Shizuku
@@ -45,3 +46,4 @@ https://github.com/expliyh/BluetoothTester
 https://github.com/huidoudour/Installer
 https://github.com/sigmabosshvh/android-testtap-egress # PoC with no APK or releases; not a usable app.
 https://github.com/huy264128-netizen/MobileAIDomestic # Self-described demo/learning project with a placeholder echo agent; no download.
+https://github.com/allmyCyou/ShizukuUesrService # Minimal Chinese-only sample app demonstrating Shizuku UserService with no standalone purpose; signing key deliberately kept closed.

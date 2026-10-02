@@ -122,6 +122,33 @@ https://github.com/xiaosui-source/rikkagu # RikkaHub-based AI companion whose Sh
 https://github.com/chuppito/installer # Generic Shizuku APK installer; equivalent entries already listed (InstallerX-Revived, PI, Shizuku Package Installer).
 https://github.com/luiapi-sys/hermes-android # Detached copy of the NousResearch Hermes agent (README/CHANGELOG are upstream) with an Android client; the AI-agent harness space is already crowded.
 https://github.com/Thanhdlpb/Tieuchi # Generic XiaoZhi voice/vision assistant where Shizuku is a minor system-control add-on; many equivalent AI assistants are already listed.
+https://github.com/520huxiangli/Aharou # On-device AI coding assistant with a Linux environment and shadow screen; another AI-agent harness in an already crowded category.
+https://github.com/Gi-Tuu/AMBRACE # Self-hosted AI companion with optional phone sensing via Shizuku; Chinese-heavy docs and many equivalent AI-chat apps exist.
+https://github.com/fraternidaddeng/clipsync # Another Windows-to-Android clipboard sync tool; clipboard sync already covered by listed ClipShare, KDE Connect (Shizuku) and Sefirah.
+https://github.com/zxzc114514/CrossClip # Chinese-only Windows-to-Android clipboard sync tool; clipboard sync already covered by ClipShare, KDE Connect (Shizuku) and Sefirah.
+https://github.com/itiswdwa/dsh-android # DeepSeek Harness WebView wrapper with optional Shizuku shell; DSH shells are excluded as crowded AI-agent duplicates and docs are Chinese-primary.
+https://github.com/Tongyu3/DSH-Mobile-Android-NO-ROOT # DeepSeek Harness proot port for Android; DSH shells are excluded as crowded AI-agent duplicates, with Chinese-heavy docs and no clear license.
+https://github.com/WSK-build/DSHBox # On-device DeepSeek Harness workbench; DSH shells and AI-agent harnesses are already crowded and repeatedly excluded as duplicates.
+https://github.com/Dreamucxe/minimal-kernel-manager-pro # Generic kernel and system tuner duplicating the already-listed Minimal Kernel Manager; the same author's other tuners were denied in maintainer review.
+https://github.com/RRiiiccckkk/PrismShell # Alpha bundle of six upstream visual projects already covered individually (Volume++, Smart Island, DuoFold and others); host surface is Simplified-Chinese-primary.
+https://github.com/ImOstrovskiy/untether # BLE-remote hotspot trigger for macOS; the same Apple-Continuity style functionality is already provided by the listed EasySpot.
+https://github.com/ye2low/xreal-beam-pro-touchpad # Trackpad and input tool for external-display desktop mode, built on the denied AR-Touchpad; equivalent functionality is already listed with PortalPad and deskcontrol.
+https://github.com/BorgorNinja/Android-Guardian # Small dex2oat/AOT GUI via Shizuku; AppBooster and Dexor already cover AOT compilation and dexopt in the list.
+https://github.com/OmVK/AuraView # Zero-star floating AI assistant; many equivalent assistants are already listed.
+https://github.com/hkx521/deepseek-harness-android-updater # Chinese-only DeepSeek Harness packaging; one more on-device AI agent harness with many listed equivalents.
+https://github.com/shoaibshakil/gamebar-turbo-shizuku-optimizer # Another root/Shizuku game booster with joyose thermal bypass, crosshair overlay and tuners; many game-optimizer alternatives already listed.
+https://github.com/sergeron/MixFlipContinuityManager # MIX Flip outer-screen permission manager duplicating listed MixFlipTool, which covers the same use-any-app cover-screen setup.
+https://github.com/7Mohan/mohalaboptimazation # Another root/Shizuku gaming tweak suite; countless equivalent optimizers, including listed SwiftSense, already exist.
+https://github.com/keepinitkrispy/ParallelHarness # Another on-device coding-agent harness with Shizuku shell access; the AI agents section already lists many equivalents.
+https://github.com/mjryan253/PinDNS # Private DNS quick-settings toggle; equivalents already listed (DNS Toggle, Private DNS Quick Setting, PrivateDNSAndroid, Quick-Tile Settings).
+https://github.com/echu2237/sidebar-hyperos # HyperOS/MIUI edge sidebar with freeform launches overlaps listed cebian (edge panel plus freeform via Shizuku), Smart Edge and FreeformShell.
+https://github.com/Qutaiba-Khader/Shizuku-Tools # Minimal force-stop utility with 2 stars; functionality already covered by listed tools such as AppControlX.
+https://github.com/liliangxing/ClipStack # Denied in maintainer review
+https://github.com/Yuan0-o/Lucent # Denied in maintainer review
+https://github.com/zenyxx-xd/RootMyVivo # Denied in maintainer review
+https://github.com/hetsaraiya/wigly-woo # Denied in maintainer review
+https://github.com/CHD073/LiteClipSync # Denied in maintainer review
+https://github.com/Ysn-Ir/IntelligentAppCalls # Denied in maintainer review
 
 # Many IAP or Ad-Free alternatives available
 https://github.com/Kin69/Athena

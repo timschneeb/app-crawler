@@ -13,6 +13,7 @@ https://github.com/Cosmic-Ide/Cosmic-IDE # No Shizuku dependency or source usage
 https://github.com/MaaXYZ/MFAAvalonia # Not directly a false-positive, though this is mostly a PC app that seems to deploy an app agent to execute tasks
 https://github.com/BugeStudioTeam/BugeStudioTeam.github.io # GitHub Pages website repo, not an app; Shizuku code belongs to a separate vendored project
 https://github.com/rushiforai/morphe-archive # No Shizuku dependency or source usage; it is an auto-generated index of Morphe patch repositories, not an Android app.
+https://github.com/ankitdcx/garden-swarm # Not an Android app and has no Shizuku code or dependency at all; an AGI governance source-design repository.
 
 # Imports Shizuku, but does not make use of it
 https://github.com/MercuryWorkshop/ziptie
@@ -42,3 +43,7 @@ https://github.com/komi-store/komi-store # Already listed as GitHub-Store (kurik
 https://github.com/xnet-admin-1/wg-android # Same WG Tunnel app already listed as wgtunnel/android; Shizuku Wi-Fi detection identical.
 https://github.com/SagerNet/sing-box-for-android # Already listed as sing-box (F-Droid io.nekohasekai.sfa), the same SFA app
 https://github.com/Ombryal/Dantotsu # Detached GitHub mirror of Dantotsu, which is already listed from another source (itsmechinmoy/Dantotsu)
+https://github.com/niki914/agentic-nexus # Repository niki914/agentic-nexus is the renamed Zafiro, already listed in awesome-shizuku.
+https://github.com/Xposed-Modules-Repo/com.blizzard225.wallpapersetter # Xposed-Modules-Repo mirror of the already-listed BlizzardAn225/HyperOS3ScrollSetter (identical app and README).
+https://github.com/qpst4/XGesture # XGesture is the renamed continuation of qpst4/cebian, which is already listed under Customization; the cebian URL now redirects to XGesture.
+https://github.com/zenithblue-oss/mkm # Same repository as abhay-byte/mkm, already listed as Minimal Kernel Manager under Software management; the old URL now redirects to zenithblue-oss/mkm.

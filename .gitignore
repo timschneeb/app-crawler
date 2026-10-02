@@ -7,6 +7,7 @@ venv/
 /cache
 *.log
 /review.html
+/review_ignores.html
 /NEW_IGNORES.md
 /IGNORE_STARS.md
 /CANDIDATES_REVIEW.md

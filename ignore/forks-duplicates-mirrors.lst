@@ -301,6 +301,14 @@ https://github.com/unarto/Wkwxploremanagerbaru # Rebuild/fork of the already-lis
 https://github.com/tajleonbennis-maker/openwifi # Detached sing-box derivative already covered by the listed sing-box entry; Chinese-primary docs and no license file.
 https://github.com/lousli/li # Detached copy of the GKD app (same li.songe.gkd package and README) under a different owner with no meaningful changes.
 https://github.com/VictoireWood/Sesame-TK # Detached fork/mirror of Fansirsqi/Sesame-TK (Xposed Alipay Ant Forest module) with no distinct changes; Chinese-primary.
+https://github.com/Leaf-lsgtky/mizuku # Rebrand of the already-listed thedjchi Shizuku fork; release assets are still shizuku-v13.6.0-*-thedjchi with no distinct changes.
+https://github.com/xorpix/Root-My-Galaxy-Ultra # Device-specific S26 Ultra port of listed Root-My-Galaxy (only SM-S948B/AZHL) using the same CVE-2026-43499 exploit; other device ports already ignored.
+https://github.com/fengkaobanli/SpazPeek # SpazPeek now resolves to fengkaobanli/O-Pose; same README, binaries and releases as the O-Pose entry.
+https://github.com/illldisposer/private-agent # Copy of orailnoor/private-agent with identical README and code; its download link points to the upstream releases.
+https://github.com/cnwhcmc/AppUsageWatch-v1.5.1-v1.0.0 # Duplicate repository of the same app (com.usagewatch.app) as AppUsageWatch-v1.4.1-v1.0.0 with an identical README and releases.
+https://github.com/eVersor-HN/FindAnonymity # Same repository as eVersor-HN/ANONYM (URL redirects); duplicate queue entry.
+https://github.com/1ndevelopment/indev.ghostlock.s26 # Same repository as 1ndevelopment/ghostlock-s26 (URL redirects); duplicate queue entry.
+https://github.com/Vexzure/Athena # Denied in maintainer review
 
 
 # Other forks that have useful changes, but are not important enough to be included
@@ -379,4 +387,22 @@ https://github.com/R0GUEEE/MultiMinis # OpenMinis fork; upstream already listed 
 https://github.com/LandonMoran/solid-guacamole # Fork of Shizuku itself with no download; core tool already excluded.
 https://github.com/HectorZL/AniyomiDesktop # Experimental desktop port/fork of the already-listed Aniyomi; Shizuku use is inherited, not new
 https://github.com/123hi123/andriod-asr # Fork of the already-listed BiBi Keyboard with extra ASR engines; useful but not important enough to list separately.
+https://github.com/DarkmoonOnDiscord/Cinnazuku # Shizuku fork rebranded for Android 17 compatibility with a UI overhaul; Shizuku forks Porter, ShizukuPlus and Xhizuku are already listed.
+https://github.com/angamer234k/cwbridge-androidfork # Roblox/CatWeb companion derived from CWBridge; no license and no verifiable upstream changes.
+https://github.com/Jorgeprdz/ExpressiveCutout-OneUI-DynamicIsland # One UI-focused fork of the already-listed expressive-cutout adding live-activity and media tweaks; not list-worthy as a separate entry.
+https://github.com/ctnkyaumt/flaunchermod # FLauncher fork adding a Shizuku input bridge; the upstream launcher already covers the use case.
+https://github.com/1ndevelopment/ghostlock-s26 # Device-specific GhostLock wrapper for the Galaxy S26 series; upstream GhostLock already covers the exploit.
+https://github.com/pa2x2/katari # Independent Mihon fork adding profiles and mixed story types; Mihon/Tachiyomi lineage is already listed and its forks are excluded.
+https://github.com/JHR-deve/Nrfr-Android17 # Ackites/Nrfr fork fixing Android 17 config save; Chinese-heavy docs and English equivalent roamer already listed.
+https://github.com/bshea-1/RootlessBrennanDSP # Performance-tuned RootlessJamesDSP fork (low-latency buffers, direct-buffer DSP); useful but duplicates the already-listed upstream audio engine.
+https://github.com/alienware377/RootlessViPER4Android # RootlessJamesDSP fork adding ViPER4Android effects; the listed upstream app covers the use case.
+https://github.com/MiToverG422/Shizuku-Next # Shizuku fork with keep-alive and direct-boot fixes shipping only debug APKs; not important enough next to the Shizuku replacements already listed.
+https://github.com/Batestinha/shizuku-thedjchi-daemonstatebroadcast # Fork of listed thedjchi/Shizuku adding Tasker daemon-state broadcasts and Android 17 wireless pairing; useful but not list-worthy separately.
+https://github.com/yijiacloud/shizuku-next # Detached Shizuku manager fork keeping the same package name and adding floating pairing, terminal and a KernelSU-style module system; Chinese-only docs and already covered by maintained Shizuku forks.
+https://github.com/zhzipu/TachiyomiX # Detached TachiyomiSY fork adding WebDAV/FTP sources, AI upscaling and Clash; the Mihon/Aniyomi manga-reader family and its forks are already covered, and docs are Chinese-only.
+https://github.com/noire342/nyanime # Italian-only fork of already-listed AniYomi adding video extras; the parent already covers manga/anime with Shizuku plugin management.
+https://github.com/Lemocuber/v2rayNG-Next # v2rayNG fork adding a Proxied Only Apps feature; the upstream app already covers the use case.
+https://github.com/yoevuer/Luno # Modified SideGesture derivative adding a Shizuku freeze manager and action library; Chinese-primary docs with a missing English README and equivalent cebian already listed.
+https://github.com/HanzoDev30/Ghostide # Denied in maintainer review
+https://github.com/HayaiApp/hayai # Denied in maintainer review
 

@@ -35,6 +35,8 @@ https://github.com/Live-Block/Flyme-FreeForm # Repo deprecated by author (README
 https://github.com/AntiOblivionis/MiRearScreenSwitcher # Developer halted the project indefinitely and the repo is archived.
 https://github.com/deleteFAILunknown/ShizukuUesrService # Repo is archived; minimal Chinese-primary UserService demo.
 https://github.com/oopnv70-lab/ghostlock-apk # Repository is archived (api.archived=true); also a device-specific kernel-exploit PoC.
+https://github.com/Endiq-jar/Turtle-Launcher # Old Turtle Launcher repository; README declares the project moved to Endiq-jar/TurtleLauncher and this repo is superseded.
+https://github.com/caofangkuai/WNLZ-Injector # Archived DEX-injection exploit tool using CVE-2024-0044 and StartAnyWhere; repository archived and docs are Chinese-only.
 
 # Succeeded by a fork
 https://github.com/iamr0s/InstallerX
@@ -54,3 +56,4 @@ https://github.com/metalex201/shizuku4quest
 https://github.com/aaronkh/xperia-camera-button
 https://github.com/tam1012/ModularWhitelistApp
 https://github.com/SgLy/KeyboardSwitcher
+https://github.com/DtHnAme/Mi-FreeForm # Denied in maintainer review

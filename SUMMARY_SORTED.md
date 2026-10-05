@@ -61,15 +61,14 @@ The file contains the same app entries shown in different sorting orders. Expand
  * [Gimi](https://github.com/pony-huang/Gimi) - Android 本地 AI 助手，类似豆包、元宝、文小言等通用对话助手。  （A local AI assistant for Android, similar to Gemini, ChatGPT, and Claude.  ）
  * [m4g-controller](https://github.com/bamboox/m4g-controller)
  * [pixel-toolbox-root](https://github.com/abc1812645224-alt/pixel-toolbox-root) - Pixel Toolbox - Root版
- * [wolfi-terminal](https://github.com/leloush-x/wolfi-terminal) - Wolfi + Alpine + void arch + debian -  Android terminal (ReTerminal fork with rolling APK releases)
  * [aod-suite](https://github.com/OutrageousStorm/aod-suite) - 🌙 AOD Suite — Always On Display customization via Shizuku ADB. Control min brightness, blurred wallpaper, gestures & more.
  * [easy-clipboard](https://github.com/Qutaiba-Khader/easy-clipboard) - Modern open-source Android clipboard history manager (no root, no Xposed) — successor to the dead Xposed app Native Clipboard. IME + ACTION_PROCESS_TEXT + Shizuku, Jetpack Compose.
- * [WuWa-Config-Android](https://github.com/B3rr7/WuWa-Config-Android) - Android WuWa Config app  for Wuthering Waves. Analyze Client.log and generate optimized Engine.ini, DeviceProfiles.ini, GameUserSettings.ini, Scalability.ini and Hardware.ini presets.
  * [AutoDailyAndroid](https://github.com/ParadiseZ/AutoDailyAndroid)
  * [Cyber-app-manager](https://github.com/kreza6173-pixel/Cyber-app-manager) - Best Power Full App Manager 
  * [deepseek-harness-android](https://github.com/guzhou079-arch/deepseek-harness-android) - 把 DeepSeek Harness 打包成能直接装的安卓 APK：不用 Termux、不用 root、不用配环境。它还能在手机上自己编译、打包、签名、发布。
  * [Iteration](https://github.com/LiferLighdow/Iteration) - Born for Performance, Built for Freedom.
  * [otweak](https://github.com/Astreas-Core/otweak)
+ * [WuWa-Config-Android](https://github.com/B3rr7/WuWa-Config-Android) - Android WuWa Config app  for Wuthering Waves. Analyze Client.log and generate optimized Engine.ini, DeviceProfiles.ini, GameUserSettings.ini, Scalability.ini and Hardware.ini presets.
  * [yomotsu](https://github.com/kiritsuguxs/yomotsu) - Leitor de mangás, webtoons e light novels para Android com OCR, tradução por IA nos balões e backup na Nuvem Telegram em PT-BR.
  * [ZeppCheckNotification](https://github.com/gversluis/ZeppCheckNotification) - Simple application to monitor if Zepp still has the Notification read, reply, and control permission which is required to get notifications on your watch.
  * [BatteryDetector](https://github.com/BlackbackRua/BatteryDetector) - An Android application which watches a device's battery and warns you before it dies
@@ -77,6 +76,7 @@ The file contains the same app entries shown in different sorting orders. Expand
  * [droidtop](https://github.com/Xtratter/droidtop) - htop-like process & resource monitor for Android: CPU, GPU, memory, battery, process tree, root/Shizuku modes and a floating overlay
  * [phonexr](https://github.com/samrat1games/phonexr) - PhoneXR: VR on a phone — Cardboard, hand tracking, Monado OpenXR
  * [rootrealm](https://github.com/FaroqueTech0/rootrealm) - Advanced Android system tools for root, Shizuku, ADB, backup, debloating, and device management.
+ * [wolfi-terminal](https://github.com/leloush-x/wolfi-terminal) - Wolfi + Alpine + void arch + debian -  Android terminal (ReTerminal fork with rolling APK releases)
  * [AccessHub](https://github.com/Shimmerfly/AccessHub) - Android Accessible Manager
  * [ANONYM](https://github.com/eVersor-HN/ANONYM) - Free, offline-first Android privacy scheduler that breaks the continuous trail your phone leaves behind: timed Wi-Fi/data/airplane/Bluetooth/location cycles, scheduled reboots and a duress panic-lock. No account, no telemetry, no network permission at all — and it shows you when "off" isn't really off.
  * [fuck-mi-aicr-default-browser](https://github.com/XiaoLeXLDW/fuck-mi-aicr-default-browser) - 实验性小米 / HyperOS 链接重定向工具：通过 Shizuku 或 Stellar，将交给小米浏览器的网页链接转到所选浏览器，无需 Root。
@@ -216,12 +216,12 @@ The file contains the same app entries shown in different sorting orders. Expand
  * [SuperWindow](https://github.com/eiyooooo/SuperWindow) - 超级视窗 | Enhance multi-task experience for large-screen Android devices
  * [aidroid](https://github.com/ChenSX6666/aidroid) - Aidroid android assistant
  * [Android-FPS-Watcher](https://github.com/WuDi-ZhanShen/Android-FPS-Watcher) - Monitor RealTime FPS. Suppports Android 12+. Pure Java. Needs ADB or ROOT.
+ * [CaptureSecureScreen](https://github.com/jimmychanii/CaptureSecureScreen) - A android tools to capture screen, includes secure flag activity
  * [Ditto](https://github.com/Timothy-kira/Ditto) - 在 Android 手机上运行的 AI Agent 应用
  * [Frame-generation-](https://github.com/proqaz2-design/Frame-generation-) - Without root 
  * [LittleWhale](https://github.com/Miuzarte/LittleWhale) - DSH on Android
  * [PhonePointer](https://github.com/Ambassators/PhonePointer)
  * [AetherPak](https://github.com/Luciftias/AetherPak) - Full-portable Android app + data backup and migration — APK, OBB, private /data/data packed into streaming .ark archives. Root + Shizuku backends, Rust JNI compression (zstd/zip/7z). GPL v3.
- * [CaptureSecureScreen](https://github.com/jimmychanii/CaptureSecureScreen) - A android tools to capture screen, includes secure flag activity
  * [optrace](https://github.com/jksalcedo/optrace) - Track and log hidden Android app permissions beyond the system's 7-day limit.
  * [SideGesture](https://github.com/aaronzzx/SideGesture)
  * [TempOrigin](https://github.com/zenyxx-xd/TempOrigin)
@@ -336,6 +336,7 @@ The file contains the same app entries shown in different sorting orders. Expand
  * [Battery-Optimizations-Manager](https://github.com/vise950/Battery-Optimizations-Manager)
  * [cache-cleaner](https://github.com/minhthong2011/cache-cleaner) - Idk
  * [castla](https://github.com/nara9yo/castla) - Tesla Android Auto mirror app - Stream Android Auto to Tesla's browser
+ * [DeWatt](https://github.com/yoro1836/DeWatt)
  * [export_bilibili_download_video](https://github.com/sgamiza/export_bilibili_download_video) - apk for export bilibili download video to mp4
  * [https-github.com-RikkaApps-Shizuku-API](https://github.com/sadraquesilva244-crypto/https-github.com-RikkaApps-Shizuku-API)
  * [kc-tool](https://github.com/androidok/kc-tool) - androd system tool
@@ -495,10 +496,10 @@ The file contains the same app entries shown in different sorting orders. Expand
 
 ### Apps with releases
 
- * [Vela](https://github.com/parth5012/Vela) - A lightweight alternative for hermes which doesnt need a vps or virtual machine for hosting
- * [Voidstrap](https://github.com/KloBraticc/Voidstrap) - Voidstrap is a simple yet advanced fork of Bloxstrap, advanced customization and improvements.
- * [StatusBar-Hider](https://github.com/YoannDev90/StatusBar-Hider) - Minimal Android app that hides the status bar system-wide
  * [flutter_agent_harness](https://github.com/IstiN/flutter_agent_harness) - Fa - Factory Agent. Cross-platform AI agent harness for Dart and Flutter — streaming providers, agent loop with tools, session persistence, compaction; backend agent mode: fa behind product Go backends
+ * [Voidstrap](https://github.com/KloBraticc/Voidstrap) - Voidstrap is a simple yet advanced fork of Bloxstrap, advanced customization and improvements.
+ * [Vela](https://github.com/parth5012/Vela) - A lightweight alternative for hermes which doesnt need a vps or virtual machine for hosting
+ * [StatusBar-Hider](https://github.com/YoannDev90/StatusBar-Hider) - Minimal Android app that hides the status bar system-wide
  * [nanoMuse](https://github.com/nano-muse/nanoMuse) - nanoMuse: an open-source personal agent for every device you own — one agent with a name and a face that does things, keeps working while the app is closed, remembers you, and asks before anything you cannot undo. On Android, iPhone and iPad, Windows / macOS / Linux and in the browser; your phone's screen and your computer as its hands.
  * [mobile-agent](https://github.com/KYRIE66nb/mobile-agent) - Android 端 AI 聊天 + 本地工具 Agent
  * [AzurPilot-for-Android](https://github.com/wess09/AzurPilot-for-Android) - AzurPilot 安卓版本 基于ALAS-AOS
@@ -506,7 +507,6 @@ The file contains the same app entries shown in different sorting orders. Expand
  * [deepseek-harness-android](https://github.com/guzhou079-arch/deepseek-harness-android) - 把 DeepSeek Harness 打包成能直接装的安卓 APK：不用 Termux、不用 root、不用配环境。它还能在手机上自己编译、打包、签名、发布。
  * [YukiHub](https://github.com/xm486/YukiHub) - YukiHub is a Galgame management tool for Android that supports synchronization of local games, shortcuts, and play records. The project uses the GPL-3.0 open-source license.
  * [stayturgid](https://github.com/djbclark/stayturgid) - Keep wireless ADB (port 5555) and Shizuku alive on Android across reboots — without root
- * [WuWa-Config-Android](https://github.com/B3rr7/WuWa-Config-Android) - Android WuWa Config app  for Wuthering Waves. Analyze Client.log and generate optimized Engine.ini, DeviceProfiles.ini, GameUserSettings.ini, Scalability.ini and Hardware.ini presets.
  * [Nrfr](https://github.com/lmh-codes/Nrfr) - Nrfr：免 Root 的 SIM 运营商配置覆盖工具（Android 16+ 单 APK 版）
  * [NeriPlayer](https://github.com/cwuom/NeriPlayer) - A native Android audio player that combines multi-source streaming, local control, rich lyrics, and self-hosted sync. / ✨ 一个把多源在线播放、本地管理、歌词体验和自建同步做进原生 Android 的音频播放器 🎵
  * [MCPBox](https://github.com/xtt-xt/MCPBox) - Turn an Android phone into an MCP file server — AI clients (Claude / Cursor / Cline) read & write files and run commands, with per-call approval popups. 手机端 MCP 文件服务器：逐权限审批 / 文件网关 / 终端 / UI 自动化
@@ -537,18 +537,19 @@ The file contains the same app entries shown in different sorting orders. Expand
  * [DevSwitch](https://github.com/retransmit/DevSwitch) `fdroid` - Toggle developer options, USB and wireless debugging, with Quick Settings tiles
  * [Phone (cz.mts)](https://github.com/martintobola-cz/czmtsphone) `fdroid` - Phone app (calling, blocking, contacts) that you’ll love !
  * [BA4D](https://github.com/Lumi083/BA4D) - 基于web和Shizuku的安卓点击动效。
- * [yomotsu](https://github.com/kiritsuguxs/yomotsu) - Leitor de mangás, webtoons e light novels para Android com OCR, tradução por IA nos balões e backup na Nuvem Telegram em PT-BR.
  * [Void-Auditor](https://github.com/M0NDsuChTiG/Void-Auditor) - Zero Trust mobile forensics toolkit for Android — Shizuku · AI Governance · Network Scan · Cache Cleaner
  * [cliphistory-android](https://github.com/saroo98/cliphistory-android) - Private offline clipboard history for Android using an authorised Shizuku recorder. MIT licensed.
  * [AccessHub](https://github.com/Shimmerfly/AccessHub) - Android Accessible Manager
  * [IceGuard](https://github.com/ice-wocker/IceGuard) - An amazing application
  * [Duos-Public](https://github.com/rmb707/Duos-Public) - Duos — an iPhone-style Home for the Galaxy Z Fold 8, with hinge-tracked fold animations
+ * [yomotsu](https://github.com/kiritsuguxs/yomotsu) - Leitor de mangás, webtoons e light novels para Android com OCR, tradução por IA nos balões e backup na Nuvem Telegram em PT-BR.
  * [mi-back-screen](https://github.com/totallynotkasai/mi-back-screen) - Show your own image or GIF on the Xiaomi 17 Pro Max rear display
  * [Operit2](https://github.com/AAswordman/Operit2) - 全平台的AI Agent智能体，在各个平台都有极强的适配性，支持跨平台数据同步
  * [droidtop](https://github.com/Xtratter/droidtop) - htop-like process & resource monitor for Android: CPU, GPU, memory, battery, process tree, root/Shizuku modes and a floating overlay
  * [ZeroStudio](https://github.com/msmt2018/ZeroStudio) - Learning, programming, and quick development projects
  * [Quest-Terminal](https://github.com/Banban465-tech/Quest-Terminal) - Terminal For Q1-Q3 + other devices
  * [TerminalAppPlus](https://github.com/KawaiiHachimi/TerminalAppPlus) - Standalone Android 17 AOSP Terminal Plus using rootless AVF with development permissions
+ * [WuWa-Config-Android](https://github.com/B3rr7/WuWa-Config-Android) - Android WuWa Config app  for Wuthering Waves. Analyze Client.log and generate optimized Engine.ini, DeviceProfiles.ini, GameUserSettings.ini, Scalability.ini and Hardware.ini presets.
  * [WizeFiles-Pro](https://github.com/wizdom13/WizeFiles-Pro) - Wize Files source
  * [wolfi-terminal](https://github.com/leloush-x/wolfi-terminal) - Wolfi + Alpine + void arch + debian -  Android terminal (ReTerminal fork with rolling APK releases)
  * [duoStatusBar](https://github.com/kvmy666/duoStatusBar) - enhance your status bar 
@@ -627,11 +628,10 @@ The file contains the same app entries shown in different sorting orders. Expand
 <details>
 <summary>No GitHub stars</summary>
 
- * [A-Injector](https://github.com/PetaBYT3/A-Injector)
  * [nyanime](https://github.com/owouwuiwi/nyanime) - An app for manga and anime
+ * [A-Injector](https://github.com/PetaBYT3/A-Injector)
  * [S_MVtoER-M3vLk4TpRQP-n32Awxa18CTD_NeLCjN2kQ-1](https://github.com/jgfv-a11y/S_MVtoER-M3vLk4TpRQP-n32Awxa18CTD_NeLCjN2kQ-1) - Flutter project created by KLENCOD IDE
  * [Bocongcu_Limi](https://github.com/dun04/Bocongcu_Limi)
- * [inputflow-linux](https://github.com/daredoole/inputflow-linux) - Native C++17 Linux client for Microsoft PowerToys Mouse Without Borders — cursor/keyboard/clipboard sharing, self-healing reconnect, tray + dashboard, and an Android peer.
  * [autobridge](https://github.com/guitar-dev-io/autobridge) - AutoBridge
  * [assistkey](https://github.com/equwal/assistkey) - Hardware key remapper for the Viwoods AiPaper Reader: AI key, volume keys and power, with multi-tap, hold and chords
  * [ink-recents](https://github.com/equwal/ink-recents) - Ink Recents: a recent-apps switcher drawn for e-ink readers. No animation, swipe up to close, swipe down to close the others.
@@ -661,6 +661,7 @@ The file contains the same app entries shown in different sorting orders. Expand
  * [90-FPS](https://github.com/aurarifat/90-FPS) - Loading..
  * [duomix-fader](https://github.com/stevennodock/duomix-fader) - Play two Android apps at once and mix them with a crossfader; live harmonic analysis (Oliver Prehn's 33 Scales of Harmonies). No root: Shizuku.
  * [wish-export](https://github.com/KOW-tools/wish-export) - Genshin Impact Wish URL Export
+ * [inputflow-linux](https://github.com/daredoole/inputflow-linux) - Native C++17 Linux client for Microsoft PowerToys Mouse Without Borders — cursor/keyboard/clipboard sharing, self-healing reconnect, tray + dashboard, and an Android peer.
  * [FoldPatch](https://github.com/att083/FoldPatch) - Keep a foldable phone usable with a dead center display and one working touch side. App reflow, touchpad and one-sided keyboard. Requires Shizuku.
  * [audio-pipeline-monitor](https://github.com/Luxumwww/audio-pipeline-monitor) - 监视 Android 当前播放音频的完整链路：应用输出采样率/位深 → AudioFlinger 重采样 → USB / 蓝牙实际输出格式。基于 Shizuku，无需 root。
  * [void-v2](https://github.com/mh1435/void-v2)
@@ -801,6 +802,7 @@ The file contains the same app entries shown in different sorting orders. Expand
 <details>
 <summary>Non-original content</summary>
 
+ * [DeWatt](https://github.com/yoro1836/DeWatt)
  * [phone-agent](https://github.com/huanghao680/phone-agent) - Standalone Android port of Zcode (TUI) + DeepSeek Harness (web UI) with embedded Node runtime — no Termux dependency, optional root deep-integration
  * [AI-Limbs-Public-Build](https://github.com/AdrienFan/AI-Limbs-Public-Build) - Public build mirror for AI Limbs v0.5 Android CI
  * [tesla-car-mirror](https://github.com/andreconde21/tesla-car-mirror)
@@ -839,13 +841,13 @@ The file contains the same app entries shown in different sorting orders. Expand
 <details>
 <summary>No GitHub stars</summary>
 
- * [nexus_input](https://github.com/esooLsIeicuJehT/nexus_input) - NEXUS INPUT is an Android controller-to-touch / mouse / keyboard mapper with KernelSU-first injection, Shizuku/Sui fallback, persistent per-game profiles, live in-game overlay editing, controller calibration and a KernelSU companion WebUI.
  * [AHarness](https://github.com/mybeby08/AHarness) - Forked
  * [aurai-flutter](https://github.com/SeakyLuo/aurai-flutter)
  * [launcher_shizuku](https://github.com/miracles-portside/launcher_shizuku) - my project for my xiaomi phones launcher with shizuku support. Icons are remove only vertical scrolling support. showing only app names
  * [SenseiX](https://github.com/BakwanXD-21/SenseiX)
  * [Wobblepad-Adapter](https://github.com/Ceratops-Code/Wobblepad-Adapter) - An independent, open-source bridge that maps tilt from compatible Bluetooth LE balance boards to directional input on Android and Windows.
  * [NotiSync](https://github.com/dingwen07/NotiSync)
+ * [nexus_input](https://github.com/esooLsIeicuJehT/nexus_input) - NEXUS INPUT is an Android controller-to-touch / mouse / keyboard mapper with KernelSU-first injection, Shizuku/Sui fallback, persistent per-game profiles, live in-game overlay editing, controller calibration and a KernelSU companion WebUI.
  * [TaskBarStatsMobile](https://github.com/ericbruggema/TaskBarStatsMobile) - Live system stats for Android: dashboard, cockpit, widgets, status bar icons, data use, processes and cache. Companion of TaskbarStats (Windows).
  * [ClipGuard.apk](https://github.com/BanglarBagh1/ClipGuard.apk) - Shizoku Supported app to enable or, disable clipboard permission of all apps in the phone 
  * [operit-multiagent-build](https://github.com/ds666643431/operit-multiagent-build) - Operit with multi-agent collaboration feature (cloud build)
@@ -1286,6 +1288,7 @@ The file contains the same app entries shown in different sorting orders. Expand
 <details>
 <summary>Non-original content</summary>
 
+ * [DeWatt](https://github.com/yoro1836/DeWatt)
  * [tesla-car-mirror](https://github.com/andreconde21/tesla-car-mirror)
  * [phone-agent](https://github.com/huanghao680/phone-agent) - Standalone Android port of Zcode (TUI) + DeepSeek Harness (web UI) with embedded Node runtime — no Termux dependency, optional root deep-integration
  * [AI-Limbs-Public-Build](https://github.com/AdrienFan/AI-Limbs-Public-Build) - Public build mirror for AI Limbs v0.5 Android CI
@@ -1340,7 +1343,6 @@ The file contains the same app entries shown in different sorting orders. Expand
  * [AMONESPORTS-BOOSTER-PUBG-FPS](https://github.com/amonesports/AMONESPORTS-BOOSTER-PUBG-FPS) - it is now in testing
  * [Jarvis](https://github.com/Abhishek-karma/Jarvis)
  * [NekoPanel](https://github.com/TanakaLun/NekoPanel)
- * [xdel](https://github.com/X-MUJAHI/xdel) - xdel apk by ai studio 
  * [5g-tile](https://github.com/xjhjoe/5g-tile)
  * [AppLens](https://github.com/masonjenkins893-dot/AppLens) - Extract any Android app full UI structure - screens, components, navigation graph. Kotlin + Compose + Shizuku + Node.js backend
  * [Atlas-](https://github.com/buyukdereosman34-blip/Atlas-)
@@ -1419,6 +1421,7 @@ The file contains the same app entries shown in different sorting orders. Expand
  * [soniclab-fx](https://github.com/soe1hom-arch/soniclab-fx) - System-wide audio effects for Android — EQ, bass/treble, reverb, limiter for ALL audio (YouTube, Spotify, games)
  * [tarsier_packagemanager](https://github.com/TarsierHub/tarsier_packagemanager) - A simple Flutter plugin for Android and Windows package management. Supports app listing, details, icon extraction, and privileged operations via Root or Shizuku.
  * [video-call-Vplus](https://github.com/tbzmike/video-call-Vplus)
+ * [xdel](https://github.com/X-MUJAHI/xdel) - xdel apk by ai studio 
  * [xunipingmu-gongjuxiang](https://github.com/suifonouyang-sudo/xunipingmu-gongjuxiang) - 基于 Shizuku 的 Android 虚拟屏工具箱：虚拟屏创建与控制、无线调试端口固化、APK 批量安装、应用备份恢复
  * [yalevpn](https://github.com/yaleedhaque/yalevpn) - WireGuard VPN + Shizuku research lab for Android
  * [-](https://github.com/EternityQwQ/-)

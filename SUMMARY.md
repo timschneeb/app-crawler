@@ -279,6 +279,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Apk_for_Fake_GPS](https://github.com/sgamiza/Apk_for_Fake_GPS) - Apk for Fake GPS
  * [cache-cleaner](https://github.com/minhthong2011/cache-cleaner) - Idk
  * [cve-2026-64560-a16](https://github.com/Become-ILLUSORY/cve-2026-64560-a16) - CVE-2026-64560 toolkit: Go single-binary toolchain + realme RMX5010 (A16, SM8750) target port
+ * [DeWatt](https://github.com/yoro1836/DeWatt)
  * [export_bilibili_download_video](https://github.com/sgamiza/export_bilibili_download_video) - apk for export bilibili download video to mp4
  * [Localmcp](https://github.com/liaoyh9422-creator/Localmcp)
  * [Mi.appshizuku](https://github.com/sosakristian40-web/Mi.appshizuku)

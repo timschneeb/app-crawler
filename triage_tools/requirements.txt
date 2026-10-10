@@ -2,4 +2,4 @@
 # requests, tqdm; GitPython is available but not required by these scripts).
 # Install only if running outside the repo venv:
 requests>=2.31
-tqdm>=4.66
+tqdm>=4.70.1

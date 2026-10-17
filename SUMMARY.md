@@ -130,6 +130,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Operit2](https://github.com/AAswordman/Operit2) - 全平台的AI Agent智能体，在各个平台都有极强的适配性，支持跨平台数据同步
  * [oplus_toolkit](https://github.com/Windows-LPG/oplus_toolkit) - 一个专为 ColorOS 机型打造的轻量级硬件识别工具，基于 Material 3 设计 通过读取系统底层文件，告别复杂的终端命令与翻文件过程，一键了解手机的屏幕面板厂商、运行内存（RAM）颗粒以及闪存（ROM）物料详情
  * [OppoCustomSideButtonFunctions](https://github.com/SlimeNull/OppoCustomSideButtonFunctions) - 自定义 OPPO/一加 手机侧键功能
+ * [Orchestella-Studio](https://github.com/Nyzeep/Orchestella-Studio) - 无需 Root 的 Android 原生双引擎 Linux 运行环境与移动工作站
  * [orpheus](https://github.com/right-ward/orpheus) - Preserve your Android environment through destructive system changes.
  * [otweak](https://github.com/Astreas-Core/otweak)
  * [Overlay-Guard](https://github.com/MocLG/Overlay-Guard) - Overlay Guard is a high-performance system utility designed to bring the advanced privacy features of the 2026 Galaxy S26 Ultra to Android 13+ devices.  By leveraging real-time sensor fusion and the WindowManager API, this app simulates a "software-defined" hardware privacy screen.
@@ -178,7 +179,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Tdsh-DSH-Mobile-Android-NO-ROOT](https://github.com/Tongyu3/Tdsh-DSH-Mobile-Android-NO-ROOT) - 将dsh移植到了手机上，not Root，一键安装apk，可以读取文件并且编辑，在无障碍权限下还能做更多事情，欢迎来尝试。
  * [TerminalAppPlus](https://github.com/KawaiiHachimi/TerminalAppPlus) - Standalone Android 17 AOSP Terminal Plus using rootless AVF with development permissions
  * [Tetherbug](https://github.com/xav-ie/Tetherbug) - Make your Android hotspot behave like an iPhone's on macOS: auto-enable over Bluetooth LE, Personal Hotspot link icon, metered connection.
- * [ThorBottomScreen](https://github.com/slushiimusic/ThorBottomScreen) - Turn the AYN Thor's bottom screen off per app. Event-driven, zero idle cost, works with or without Shizuku.
  * [tiedun](https://github.com/lilining308-prog/tiedun) - Android 应急逃生工具：被锁机病毒/无障碍恶意锁屏控制时，物理按键触发全屏拦截，经 Shizuku/root 删除锁机组件。半成品开源项目，GPL-3.0
  * [TravelerNote](https://github.com/having5548/TravelerNote) - miyoushe login + Genshin daily check-in (game auto / forum manual) + realtime notes, Android
  * [TRML-TERX](https://github.com/yeaaeslysl/TRML-TERX) - 基于 Shizuku 的 Android 本地 MCP Server，让 AI Agent 安全操控终端、读写文件与执行命令。纯 Java 实现、零 Python 依赖，内置终端模拟器与自定义主题。STRX 为 TRML 与 TERX 的功能超集，为当前主线。
@@ -205,6 +205,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [AdaptiveHz](https://github.com/shepard639/AdaptiveHz) - Adaptive refresh rate, 120Hz in power saving mode & battery optimizer for Samsung Galaxy
  * [android-optimizer](https://github.com/geek4945-creator/android-optimizer) - Android Optimizer: root-aware device assess, monitor, optimize, processes, network beaconing, Play Store installer, Chinese-ROM fixes
  * [APK-Toolbox](https://github.com/bl3xand/APK-Toolbox) - Track, clone, install and merge Android apps right on the phone: updates straight from GitHub, F-Droid and other sources, second copies of apps, split APK installer, APKS export and split merging. No root.
+ * [BAAS-AIO](https://github.com/sk1lyn3/BAAS-AIO) - 将 BAAS 作为核心的蔚蓝档案安卓自动化脚本方案
  * [callrex](https://github.com/RYUK8853/callrex) - Callrex - on-device call recording with AI transcription and summary (nothing-style UI). Records both sides of phone AND VoIP calls, transcribes with whisper.cpp, summarizes with Gemma. 100% on-device.
  * [ChargeMode-QuickTile](https://github.com/bl3xand/ChargeMode-QuickTile) - One-tap Quick Settings tile to cycle Android charging modes (Adaptive / Limit 80% / Off)
  * [dougao](https://github.com/hulubo2014/dougao) - 豆糕 DouGao —— 安卓 AI 手机助手：VLM 看屏自动操作 + 文件直改；无障碍 / Shizuku / Root 三通道控屏，多任务房间可中途纠错
@@ -267,6 +268,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [input_leaf_synergy](https://github.com/joihn/input_leaf_synergy)
  * [JEXFYZ-App](https://github.com/TenzoNkz/JEXFYZ-App)
  * [liquidify](https://github.com/ninocss/liquidify) - Liquid Glass-inspired patches for TIDAL on Android, with a custom patch manager and optional Linn OpenHome playback.
+ * [mc-mod-migrator](https://github.com/kongbai9288/mc-mod-migrator) - Minecraft Java 模组/配置跨版本迁移与同步助手 (Android)
  * [MT6989-ghostlock](https://github.com/MaheshSharan/MT6989-ghostlock) - KernelSU late-load port for vivo T3 Ultra (Dimensity 9200+ / MT6985 / MT6989)
  * [MX3ButtonMapper](https://github.com/evilbunny2008/MX3ButtonMapper) - An Android accessibility service for remapping hardware buttons on MX3-style air-mouse remotes
  * [NotiGuard](https://github.com/Liuchijang/NotiGuard) - Fix delayed notifications on Xiaomi HyperOS China ROM. FCM Guard keeps GMS unrestricted, plus toggleable background tweaks via Shizuku.
@@ -340,8 +342,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [BangshXplorer](https://github.com/GettoDev/BangshXplorer) - BangshXplorer file manager for Android
  * [BloraLauncher](https://github.com/BloretCrew/BloraLauncher) - Bloret Launcher Flutter Edition
  * [CipherTun-VPN](https://github.com/CipherTun/CipherTun-VPN)
- * [Clipboard-Manager](https://github.com/Rian-yes/Clipboard-Manager) - A Clipboard Manager that uses shizuku as it's backend
- * [ClipVault](https://github.com/EntropyRoot/ClipVault) - Secure, local-first clipboard history for Android with biometric vault access and Shizuku integration.
  * [comax](https://github.com/maxtwin114514/comax) - Comax —— 基于 Coomi 魔改的 Android 本地优先 AI Agent 平台，官网 https://api.monai.ccwu.cc/coomi/
  * [Craft-Box](https://github.com/hsh114514/Craft-Box) - 一个MInecraft PE 0.14.3的开发工具箱
  * [cyberneurova-mobile-oss](https://github.com/CyberNeurova/cyberneurova-mobile-oss) - Open-source Flutter client (iOS + Android) for the CyberNeurova AI platform. Apache-2.0.
@@ -427,6 +427,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
 <summary>No GitHub stars</summary>
 
  * [5g-tile](https://github.com/xjhjoe/5g-tile)
+ * [android-dimore](https://github.com/LumaKernel/android-dimore)
  * [Android-IconAutoArrange](https://github.com/ReSerendipity/Android-IconAutoArrange) - 安卓桌面图标自动整理 PoC：走 Launcher3 官方布局通道，免 root 一键分类整理（可预览、可回滚）。面向 Android 用户与开发者，poc/build.sh 构建 APK。
  * [app-killer](https://github.com/Eduar2TC/app-killer)
  * [APPEVELOPS-Game-Booster](https://github.com/MOHIT-APPEVELOPS/APPEVELOPS-Game-Booster)
@@ -447,7 +448,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Cesaret](https://github.com/Valor-54/Cesaret)
  * [ChargeGuage](https://github.com/shakir2117/ChargeGuage)
  * [ClassCalender](https://github.com/jshhe/ClassCalender) - Flutter Android class schedule app with school .xls timetable import, live notifications, and rear-screen display.
- * [ClipGuard.apk](https://github.com/BanglarBagh1/ClipGuard.apk) - Shizoku Supported app to enable or, disable clipboard permission of all apps in the phone 
+ * [Clipboard-Manager](https://github.com/Rian-yes/Clipboard-Manager) - A Clipboard Manager that uses shizuku as it's backend
  * [clipsyncd](https://github.com/chakri192/clipsyncd) - Bidirectional clipboard sync between Mac and Android 
  * [console_simple_settings_app](https://github.com/Cowlsly/console_simple_settings_app) - This is a simple settings UI and app, it can be applied to all of our apps and our website Cowlsly.com, these settings will give any user basic control over things like volume and colour tint over its own panels; it will also act as an identified for the cowlsly authenticator. console, but that is ab
  * [CsocsOS](https://github.com/frostynumeral/CsocsOS) - A Jetpack Compose Android app focused on system utilities, GitHub tracking, BA content pages, miuix UI and liquid glass-style UI.
@@ -535,6 +536,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Attic](https://github.com/karanrajpal14/Attic) - Attic is an Android 14+ app that lets you sort your installed apps by how recently you used them, archive the ones collecting dust (removing their APKs while preserving your data), restrict their background data and activity, and set automatic re-archive rules so idle apps stay out of the way.
  * [BloatFree-Android](https://github.com/DuminAndrew/BloatFree-Android) - Debloat Android without root using Shizuku. Jetpack Compose, MVVM. Safely disable/remove bloatware (disable-user by default).
  * [CaptureSecureScreen](https://github.com/jimmychanii/CaptureSecureScreen) - A android tools to capture screen, includes secure flag activity
+ * [ClipVault](https://github.com/EntropyRoot/ClipVault) - Secure, local-first clipboard history for Android with biometric vault access and Shizuku integration.
  * [countryman](https://github.com/cloudinstone/countryman) - No Country for Old Men. 一个用于免 Root 调整 SIM 国家、运营商名称和号码显示的 Android 小工具。
  * [CustomCursor](https://github.com/playing4nik-crypto/CustomCursor) - Custom mouse cursor app for Android 15
  * [DexCoverPad](https://github.com/Gh0strab/DexCoverPad)

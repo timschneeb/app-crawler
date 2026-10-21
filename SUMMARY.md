@@ -154,6 +154,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [onepluscontrolcenter](https://github.com/tripolskiydigital/onepluscontrolcenter) - OxygenOS 16 notification shade and control center rebuilt for Google Pixel, no root (Jetpack Compose, accessibility overlay, optional Shizuku)
  * [OneTools](https://github.com/fun7772ei/OneTools) - Samsung Galaxy向け非公式Androidツール。Kotlin / Jetpack Compose製のソースコードと署名済みAPKを公開。
  * [open-doubao-phone](https://github.com/moonrailgun/open-doubao-phone)
+ * [open-headunit](https://github.com/andreknieriem/open-headunit) - Headunit App for displaying Android Auto
  * [opencode-pocket](https://github.com/evilqin/opencode-pocket) - 把官方 opencode 装进手机的 Android 应用：内置 proot + Ubuntu，免 root / 免 Termux，含原生对话页与设备 Shell 桥
  * [Operator](https://github.com/by-architect/Operator) `fdroid` - List and kill processes that consume a lot of resources
  * [Operit2](https://github.com/AAswordman/Operit2) - 全平台的AI Agent智能体，在各个平台都有极强的适配性，支持跨平台数据同步
@@ -201,7 +202,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [simus-updater](https://github.com/lingxi821/simus-updater) - 端上给 TikTok 打补丁并安装的小工具：LSPatch 集成模式 + 内嵌 Xposed 模块（美区 SIM 伪装），保留数据。由 灵曦以茗 制作
  * [Skytasker](https://github.com/KSACH114/Skytasker) - 解决游玩光遇时，每次查看任务要先等待蜡烛收完并消失的痛点，不修改游戏本体&免root
  * [slow-1e8](https://github.com/sqyCoder/slow-1e8) - 把自己画的路线变成一段真的跑过的 GPS 轨迹，喂给手机上任意跑步软件。纯 Android Java，无 Gradle。
- * [SnapKeyMap](https://github.com/heykay-47/SnapKeyMap) - Map the Oppo Snap Key to any app or action
+ * [SnapKeyMap](https://github.com/heykay-47/SnapKeyMap) - Map Oppo's Snap Key to any app or action
  * [SonderIcons](https://github.com/Verisonder/SonderIcons) - Every app on a HyperOS phone in one look. No root.
  * [Soul-Knight-Save-Editor](https://github.com/Show-o4210/Soul-Knight-Save-Editor) - 元气骑士 Android / Python 本地存档工具。测试日期26年10月16日。
  * [SplitBox](https://github.com/AnoY606-git/SplitBox) - Устанавливайте APK, APKS, XAPK и APKM на Android 14+. Удобный выбор частей, Root и Shizuku — без рекламы и аккаунтов.
@@ -233,6 +234,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [wolfi-terminal](https://github.com/leloush-x/wolfi-terminal) - Wolfi + Alpine + void arch + debian -  Android terminal (ReTerminal fork with rolling APK releases)
  * [wpaforge](https://github.com/wlmosv-png/wpaforge) - Android WPA 密码破解工具 —— 按 SSID 现场派生候选、智能排序、断点续跑、后台队列，附局域网设备侦察与判断依据追溯。纯 Root，Apache-2.0。
  * [WuWa-Config-Android](https://github.com/B3rr7/WuWa-Config-Android) - Android WuWa Config app  for Wuthering Waves. Analyze Client.log and generate optimized Engine.ini, DeviceProfiles.ini, GameUserSettings.ini, Scalability.ini and Hardware.ini presets.
+ * [Xingshu-hub](https://github.com/Breezecaresses/Xingshu-hub)
  * [xr-porting-hub](https://github.com/AngelDark92/xr-porting-hub) - A collection of Meta Quest and PICO APKs patched with Morphe for compatibility with Android XR devices, including Samsung Galaxy XR.
  * [yomiku](https://github.com/Badley08/yomiku)
  * [YukiHub](https://github.com/xm486/YukiHub) - YukiHub is a Galgame management tool for Android that supports synchronization of local games, shortcuts, and play records. The project uses the GPL-3.0 open-source license.
@@ -331,7 +333,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ink-recents](https://github.com/equwal/ink-recents) - Ink Recents: a recent-apps switcher drawn for e-ink readers. No animation, swipe up to close, swipe down to close the others.
  * [input_leaf_synergy](https://github.com/joihn/input_leaf_synergy)
  * [inputflow-linux](https://github.com/daredoole/inputflow-linux) - Native C++17 Linux client for Microsoft PowerToys Mouse Without Borders — cursor/keyboard/clipboard sharing, self-healing reconnect, tray + dashboard, and an Android peer.
- * [JEXFYZ-App](https://github.com/TenzoNkz/JEXFYZ-App)
  * [komiyomi-ext](https://github.com/wongpinter/komiyomi-ext) - Free and open source manga reader for Android
  * [liquidify](https://github.com/ninocss/liquidify) - Liquid Glass-inspired patches for TIDAL on Android, with a custom patch manager and optional Linn OpenHome playback.
  * [mc-mod-migrator](https://github.com/kongbai9288/mc-mod-migrator) - Minecraft Java 模组/配置跨版本迁移与同步助手 (Android)

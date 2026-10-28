@@ -14,7 +14,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
 
  * [8bercue](https://github.com/sidnvy/8bercue) - Independent Android eSIM manager — Beta, AGPL-3.0-only
  * [9Player](https://github.com/tza14/9Player)
- * [aaa-private-agent](https://github.com/aaa-ai-coder/aaa-private-agent) - AAA Private Agent - AI Agent for Android with Supabase & Passkey Auth
  * [AADisplay-DuoScreen](https://github.com/leolionart/AADisplay-DuoScreen) - Open-Source Multi-Display for Android Auto using Shizuku (Wireless ADB)
  * [AARE](https://github.com/prototux/AARE) - A proof-of-concept opensource implementation of Android Auto's client side (phone side)
  * [abCheck](https://github.com/abanana84/abCheck) - Open-source Android device and system diagnostics: hardware info, tests, live monitors and battery tools. No ads or analytics. Formerly ABattery.
@@ -31,7 +30,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Aicode-Glass](https://github.com/hwsyyds666/Aicode-Glass) - 一个运行在安卓上的AI程序，带有快照回退，GIT仓库，终端，skill等任何你可以想到的功能
  * [AirSIM](https://github.com/kai-wu-cortex/AirSIM) - Source-available, noncommercial cross-device calling and messaging for Samsung Android, iPhone, Apple Watch, AVF Linux and Cloudflare Workers.
  * [ALAS-AOS](https://github.com/Shinarin/ALAS-AOS) - ALAS 一体化 Android APK：proot rootfs 运行时 + Shizuku 虚拟屏后台挂机（开发中，路线图见 docs/roadmap-v3.md）
- * [Alife](https://github.com/BDFFZI/Alife) - 一款专注于桌宠方向的AIAgent。特点是一键安装、功能齐全、极低开销、完全暴露上下文、全功能插件化、AI自主插件开发、永久唯一会话、类游戏引擎交互策略。具有极高的扩展性和拟人程度上限，非常适合想长期培养和自定义需求高的用户。
+ * [Alife](https://github.com/BDFFZI/Alife) - 一款专为桌宠方向打造的独特AIAgent。功能超全，一键安装，跨平台；全功能插件化，AI自主热修改，异常隔离；动态分层上下文，永久唯一会话，稳定可成长的长期记忆；类游戏引擎交互策略，并行流式执行器，高效实时交互；人工手搓提示词，各种小巧思，大幅降低token开销；具有极高的可玩性和成长上限，非常适合真正想入坑养AI的用户。
  * [Amitia](https://github.com/Untrammelled-Wuju/Amitia)
  * [Android-Guru-Agent](https://github.com/Ultra-Guru/Android-Guru-Agent) - 🤖 An autonomous AI agent that lives entirely on your Android device — 109 tools · PRoot Ubuntu terminal · bionic memory (cs-mem) · BYO-LLM. No server. No PC.
  * [Android-Personal-Agent](https://github.com/lzh2034855417-beep/Android-Personal-Agent) - Local-first Android battery and hardware diagnostics. Import Bug Reports, view local explanations, and optionally use your own AI provider. No account required.
@@ -41,6 +40,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [AndroidMCP](https://github.com/SixOfFive/AndroidMCP) - MCP Server for android phones and tablets
  * [angel-android](https://github.com/CurrenlyDying/angel-android) - angel-android: Run AI agents on Android with Android shell access (Shizuku), a PRoot Linux terminal, and MCP tool support.
  * [ANONYM](https://github.com/eVersor-HN/ANONYM) - Free, offline-first Android privacy scheduler that breaks the continuous trail your phone leaves behind: timed Wi-Fi/data/airplane/Bluetooth/location cycles, scheduled reboots and a duress panic-lock. No account, no telemetry, no network permission at all — and it shows you when "off" isn't really off.
+ * [APK-Toolbox](https://github.com/bl3xand/APK-Toolbox) - Track, clone, install and merge Android apps right on the phone: updates straight from GitHub, F-Droid and other sources, second copies of apps, split APK installer, APKS export and split merging. No root.
  * [AppHarbor](https://github.com/BeiChen-CN/AppHarbor) - Fork of YXBwbWFya2V0/AppMarket - KMP cross-platform app store (Android/Desktop) with F-Droid source and signature-gated updates
  * [AppPerms](https://github.com/xykal/AppPerms) - AppOps / Display-over-other-apps manager untuk Android via Shizuku — 1.9MB, 0 internet permission, 19 hidden ops, terminal, safe tuning
  * [AppRotate](https://github.com/hahahaxu1/AppRotate) - 可控制应用旋转方向的App
@@ -65,6 +65,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [cebian](https://github.com/qpst4/cebian) - The ultimate open-source Android gesture & one-hand navigation suite. An all-in-one OHO+ (One Hand Operation+), FooView & Quick Cursor alternative with offline OCR and Shizuku.
  * [ChaosZeroNightmare-Toolkit-Android](https://github.com/yporoc/ChaosZeroNightmare-Toolkit-Android) - Android on-device Traditional-to-Simplified patcher for Chaos Zero Nightmare (Shizuku, GPLv3)
  * [clawdy](https://github.com/QiGai77/clawdy)
+ * [cloudy-u-android](https://github.com/diegonmarcos/cloudy-u-android) - Android Parallel Space / Virtual Engine — data-ownership workspace built on the cloud/ declarative framework
  * [ColorGoogle](https://github.com/joeyandu/ColorGoogle) - Open-source Gemini, Circle to Search and Google Search shortcuts for ColorOS, based on MindTrigger Assist.
  * [com.catsmoker.app](https://github.com/catsmoker/com.catsmoker.app) - Catsmoker app - Game FPS Unlocker, Gaming Booster.
  * [continuum-chat](https://github.com/Nereviay/continuum-chat)
@@ -81,9 +82,10 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [DF-NoctReed](https://github.com/JeanWenzelCN/DF-NoctReed) - 一个Android端的《三角洲行动》口琴吹奏工具
  * [DiAuto-MG4](https://github.com/merthankaraman/DiAuto-MG4) - DiAuto Android Auto receiver adapted for MG4 Comfort SWI69 / Android 9
  * [DiAuto-Pro](https://github.com/zutaozhong-hash/DiAuto-Pro) - 比亚迪汽车安卓投屏，可配置仪表盘投射画面（始终/巡航+导航/仅导航）。目标DiLink 4.0、5.0和5.1。不需要Root权限。
- * [Dollhouse](https://github.com/Farewell-coder/Dollhouse) - Android 桌宠应用：悬浮人偶、AI 聊天、长期记忆与记忆图谱。支持多套模型服务配置、外观自定义与可选设备操作。使用 Kotlin、Jetpack Compose 与悬浮窗开发。
+ * [Dollhouse](https://github.com/Farewell-coder/Dollhouse) - 一间小房子，让喜欢的角色住进 Android。开源桌宠，集悬浮人偶、AI 聊天与记忆管理于一体。房子是载体，角色才是主角。
  * [drainscope](https://github.com/santo1993/drainscope) - Find out which app and which hardware part drains your Android battery. Measured with Shizuku, works rootless with usage stats.
  * [DroidBridge](https://github.com/zephyr7030/DroidBridge) - On-device MCP server for Android. Connect ChatGPT through OpenAI's official secure tunnel, let AI agents operate your phone and run scheduled automations on it — App edition (Accessibility/Shizuku) or root edition (Magisk/KernelSU/APatch). No PC, no ADB. 卓爱桥
+ * [droidbubble](https://github.com/Velocity081/droidbubble)
  * [droidtop](https://github.com/Xtratter/droidtop) - htop-like process & resource monitor for Android: CPU, GPU, memory, battery, process tree, root/Shizuku modes and a floating overlay
  * [Droy](https://github.com/moonoops/Droy) - An Android AI Agent built on DeepSeek Harness, with Android Use tools, voice and a cat companion.
  * [Droynis](https://github.com/capitan0n/droynis) `fdroid` - Read-only security and privacy audit for your phone
@@ -108,11 +110,11 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [FluxLinux - Mobile Linux](https://github.com/zenithblue-oss/fluxlinux) `fdroid` - Run full Linux desktop environments on Android with GPU acceleration
  * [FlymeFreeform](https://github.com/m-secret/FlymeFreeform) - Flyme 小窗 · 免 root 版 —— 在 ColorOS 上还原 Flyme 小窗「呼之即来，挥之即去」的手感。无需 root、无需 Xposed，基于无障碍服务 + 系统悬浮窗 + Shizuku 注入。
  * [Freeze](https://github.com/codecodegogogo/Freeze) - 一个在hail的基础上继续开发的APP停用/隐藏项目，支持root等模式
- * [gemini-default-ai-phone](https://github.com/pdong15dth/gemini-default-ai-phone)
+ * [GazeKeep](https://github.com/IceTeacher/GazeKeep) - 为缺少系统级注视不熄屏的 Android 设备提供端侧离线注视保亮功能：临近熄屏前短时采样、零网络权限、看不清默认熄屏，支持 LSPosed / Shizuku / 无障碍三种后端与按白名单启用。
+ * [gemini-default-ai-phone](https://github.com/pdong15dth/gemini-default-ai-phone) - Đây là ứng dụng hỗ trợ thay đổi AI mặt định của các hãng điện thoại nội địa thành Gemini AI
  * [GestureEVO](https://github.com/LumiaGG/GestureEVO)
  * [ghost-display](https://github.com/gitWRLD999/ghost-display) - A second Android screen for agents: real apps, screenshot-driven input, and an independent Shizuku display. Android 16 preview.
  * [ghost-files](https://github.com/Ghostpanter/ghost-files) - Android dual-pane file manager (MT/MiXplorer style): root/Shizuku, SMB/FTP/SFTP/WebDAV with a stall-proof resumable transfer queue
- * [GhostLock-Raspite](https://github.com/seph3421/GhostLock-Raspite) - GhostLock Raspite Android app and Linux root helper for Fire HD 8 12th Gen (KFRAWI).
  * [Gimi](https://github.com/pony-huang/Gimi) - An AI assistant for Android with multi-model chat, tool calling, and customizable extensions.
  * [GKD-XA](https://github.com/84593320z/GKD-XA) - GKD-X 融合版：界面全面适配 MIUIX 的 GKD-X与GKD-Plus的AI规则生成 App 开屏与弹窗广告（Android / Kotlin Compose）
  * [GT-30-Pro-Custom-Backlight](https://github.com/alphingj/GT-30-Pro-Custom-Backlight)
@@ -126,7 +128,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [huawei-nfc-eink-android-app](https://github.com/ZhaoGY-N/huawei-nfc-eink-android-app)
  * [Hush](https://github.com/coldMEW/Hush) - Ad-free listening for Spotify on Android: skips ad breaks without root or a modified Spotify app.
  * [hyperboost-engine-pro](https://github.com/A-124/hyperboost-engine-pro) - Rootless Android performance booster for gamers: one-tap Master Turbo, live FPS HUD, crosshair overlay and per-game profiles via Shizuku.
- * [hypercar](https://github.com/fw867/hypercar) - 让Android手机上carlife可以直接推送到carplay车机
+ * [hypercar](https://github.com/fw867/hypercar) - Android 自绘车机 UI，通过无线 CarPlay / AirPlay 投送高德地图与音乐卡片（Kotlin + Rust）
  * [HyperOSFCMFix](https://github.com/Kr328/HyperOSFCMFix) - 本应用为中国大陆 HyperOS 修复 FCM 推送和唤醒问题。(需要 Shizuku)
  * [Icy-Cheak](https://github.com/NotBlack777/Icy-Cheak)
  * [inkpalm-plus](https://github.com/rn-os/inkpalm-plus) - A side panel of recent apps, plus e-ink tuning, for the Moaan InkPalm Plus.
@@ -154,6 +156,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [MCPBox](https://github.com/xtt-xt/MCPBox) - Turn an Android phone into an MCP file server — AI clients read & write files and run commands, with per-call approval popups. 手机端 MCP 文件服务器：逐权限审批 / 文件网关 / 终端 / UI 自动化/ssh工作区
  * [MD3-Agent](https://github.com/huecoder/MD3-Agent) - Open-source Android assistant that replaces Gemini. Summon it by gesture, bring your own API key, and it reads the screen, taps through apps and runs scripts. No backend, no telemetry.
  * [MediaRescue](https://github.com/everythingfreee/MediaRescue) - MediaRescue — An open-source Android storage tool for finding, browsing, and managing forgotten files and media. Deep File Finder | Find Files Your Phone Forgot
+ * [melisma](https://github.com/MelismaApp/melisma) - A standalone Android app that shows word-by-word synced lyrics for whatever your phone is playing — Spotify, YouTube Music, Apple Music, a local player, anything — with the look and motion of https://github.com/Spikerko/spicy-lyrics from Spicetify.  No Spotify login. No account of any kind.
  * [meowclaw](https://github.com/farzanshibu/meowclaw) - MeowClaw: an on-device Android agent that operates your phone with a virtual mouse and keyboard. Native Kotlin, Needle + Cactus on-device models, or any OpenAI-compatible API.
  * [mi-back-screen](https://github.com/totallynotkasai/mi-back-screen) - Your own images, a clock and notifications on the Xiaomi 17 Pro Max rear display, plus Quick Switch and Xiaomi Camera there. Uses Shizuku.
  * [miaomo](https://github.com/3dhaoxinren/miaomo) - 喵墨 Miaomo｜华为墨水屏 / 华为墨水瓶（常见误写）：3.98英寸四色 NFC 电子纸照片编辑与刷屏 App，手机内置 NFC + Shizuku，无需 root；支持裁剪、文字、相框、InkSight 四色预览。PolyForm 非商用许可。
@@ -184,7 +187,9 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Nrfr](https://github.com/lmh-codes/Nrfr) - Nrfr：免 Root 的 SIM 运营商配置覆盖工具（Android 16+ 单 APK 版）
  * [O-Pose](https://github.com/fengkaobanli/O-Pose) - OPPO / ColorOS + AirPods + Head Tracking：OPPO ColorOS 16 头部跟踪接管工具，附带空间音频链路取证。  让 AirPods Pro 2 的头动驱动系统空间音频，声场固定正前方。OPPO ColorOS16 Shizuku root head-tracking takeover for AirPods Pro 2, plus spatial audio chain forensics
  * [OhMyMeme-Android](https://github.com/OhMyMeme/OhMyMeme-Android) - 轻量化跨平台表情包管理系统-安卓端
+ * [OmniShizuku](https://github.com/krishna3163/OmniShizuku) - An open-source Android utility for Shizuku, ADB, and Dhizuku workflows, with tools for Android phones, Android TV, and Wear OS.
  * [one-tap-network-reset](https://github.com/R-Dilipkumar/one-tap-network-reset) - One tap to reset your Android mobile network without airplane mode, plus a 5G status notification per SIM. Kotlin, Shizuku/root.
+ * [OnePlus16-Jailbreak](https://github.com/Yunnijian/OnePlus16-Jailbreak) - OnePlus 16 (PYB110) jailbreak: CVE-2026-64560 + KernelSU / KernelSU Next / BakaSU / SukiSU Ultra LKM
  * [onepluscontrolcenter](https://github.com/tripolskiydigital/onepluscontrolcenter) - OxygenOS 16 notification shade and control center rebuilt for Google Pixel, no root (Jetpack Compose, accessibility overlay, optional Shizuku)
  * [OneTools](https://github.com/fun7772ei/OneTools) - Samsung Galaxy向け非公式Androidツール。Kotlin / Jetpack Compose製のソースコードと署名済みAPKを公開。
  * [OP-CarPlay](https://github.com/heavendoorx7/OP-CarPlay) - 老款小鹏 P7（骁龙 820A / Android 9）CarPlay 适配：分屏与全屏、自动热点、独立仪表导航。仪表导航仅测试高德。
@@ -231,7 +236,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [SandFly](https://github.com/aaron-gh/SandFly) - A screen reader for Android, forked from Backtalk
  * [ScamsungFonts](https://github.com/KhunHtetzNaing/ScamsungFonts) - Font manager for Samsung Galaxy (OneUI) via System shell or Root.
  * [ScanZ](https://github.com/CyBaiSecurity/ScanZ) - An advanced Android network reconnaissance tool leveraging Shizuku to bypass OS sandboxing for deep Layer-2/3 discovery without root.
- * [sesame-tk-mod](https://github.com/saeson001/sesame-tk-mod) - Sesame-AG（TK 修改版）基于 witrer/Sesame-AG-2026 移植增强，仅供学习研究
  * [SHAHEEN-OS](https://github.com/YS-S1994/SHAHEEN-OS) - "Fly High, Code Free."
  * [ShakeGuard](https://github.com/27painter/ShakeGuard) - 免 root 去除 ColorOS 摇一摇广告 / 开屏广告 / OAID 追踪 / 广告域名（无障碍 + 本地 DNS 拦截）｜No-root ad blocker for ColorOS
  * [shizu_app](https://github.com/razbbx/shizu_app)
@@ -240,6 +244,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Shizuku-Stable-Debugg-Fix](https://github.com/Zoefiro/Shizuku-Stable-Debugg-Fix) - This is a modified fork of the official Shizuku application designed specifically for devices where the operating system forcibly disables wireless debugging, hides the ADB status, or restricts access to developer settings.
  * [ShizukuX](https://github.com/qianyumeng0228/ShizukuX) - ShizukuX 是 Shizuku 的增强分支：让普通应用借助 ADB / Root 特权进程直接调用系统级 API，并内置 Dhizuku、Extra API、Root 兼容桥等高级能力。继承自 ShizukuPlus（Apache 2.0）。
  * [ShizuPosed](https://github.com/Sharif-bot-cmd/ShizuPosed) - Rootless Xposed Framework
+ * [Shortcuts](https://github.com/AVMLOVER/Shortcuts) - An Android Shortcut based on M3E design.
  * [ShutterSoundToggle](https://github.com/soralis0912/ShutterSoundToggle) - Toggle the enforced camera shutter sound through Shizuku
  * [sidebar](https://github.com/alkisstam/sidebar) - A simple sidebar panel for Android
  * [sim-pilot](https://github.com/OneUI-Mods/sim-pilot) - Galaxy DSDV smart SIM failover with Shizuku and Material 3
@@ -249,11 +254,13 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [SnapKeyMap](https://github.com/heykay-47/SnapKeyMap) - Map Oppo's Snap Key to any app or action
  * [SonderIcons](https://github.com/Verisonder/SonderIcons) - Every app on a HyperOS phone in one look. No root.
  * [SonicCore](https://github.com/shubhamronge78-lang/SonicCore)
- * [Soul-Knight-Save-Editor](https://github.com/Show-o4210/Soul-Knight-Save-Editor) - 元气骑士本地存档编辑工具。测试时间26年10月23日。适配8.7。有疑问欢迎加群，有空闲时间就会维护更新。
+ * [Soul-Knight-Save-Editor](https://github.com/Show-o4210/Soul-Knight-Save-Editor) - 元气骑士本地存档编辑工具。测试时间26年10月29日。适配8.7。有疑问欢迎加群，有空闲时间就会维护更新。
  * [SplitBox](https://github.com/AnoY606-git/SplitBox) - Устанавливайте APK, APKS, XAPK и APKM на Android 14+. Удобный выбор частей, Root и Shizuku — без рекламы и аккаунтов.
  * [StarMoe-box](https://github.com/StarMoe-org/StarMoe-box)
  * [StatusBar-Hider](https://github.com/YoannDev90/StatusBar-Hider) - Minimal Android app that hides the status bar system-wide
  * [stayturgid](https://github.com/djbclark/stayturgid) - Keep wireless ADB (port 5555) and Shizuku alive on Android across reboots — without root
+ * [Steam-Nova](https://github.com/GoodJoe-2049/Steam-Nova) - An Lsposed module that enhances Steam for Android with built-in chat, SteamDB integration, Steam Guard tools, and UI improvements.
+ * [stop](https://github.com/burakgon/stop) - Background app blocker for Android. The apps you pick run only while you use them: leave one and it's force-stopped, with no background sync, alarms or push wake-ups. No root, works through Shizuku. Asks about every new install, and Play Store updates keep working.
  * [Strata](https://github.com/CluvexStudio/Strata) - An open-source file manager for Android: two panes, archives, APK and DEX editing, a code editor, network storages and an encrypted vault. No ads, no accounts, no tracking.
  * [sunshine](https://github.com/nanaoniiiii/sunshine) - Sunshine for Android：Android 串流主机，支持硬件编码、音频内录、远程输入与兼容协议的开放接收端；远程输入经 Shizuku 实现。
  * [SwitchAI](https://github.com/WSTxda/SwitchAI) - Easily select, start, and manage your preferred AI digital assistants on Android.
@@ -273,6 +280,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Veyra](https://github.com/ctrl-mietze/Veyra) - Veyra
  * [Virtual-Xbox-Controller-Android](https://github.com/misakidebugged/Virtual-Xbox-Controller-Android) - An app that lets you turn your HID/Xinput generic controller as well as steam controllers into a system-wide Xbox 360 controller using Shizuku
  * [vivo-HighRefresh-NoRoot](https://github.com/AndroPlus-org/vivo-HighRefresh-NoRoot) - Rootless 144Hz+ refresh rate for vivo / iQOO phones over adb
+ * [vivo-nfc-switch](https://github.com/hiiamtrong/vivo-nfc-switch) - One-tap switch of the default NFC payment wallet on vivo phones (OriginOS): vivo Wallet, Google Pay and more, via app, Quick Settings tile, or Smart Button.
  * [Void-Auditor](https://github.com/M0NDsuChTiG/Void-Auditor) - Zero Trust mobile forensics toolkit for Android — Shizuku · AI Governance · Network Scan · Cache Cleaner
  * [Voidstrap](https://github.com/KloBraticc/Voidstrap) - Voidstrap is a simple yet advanced fork of Bloxstrap, advanced customization and improvements.
  * [VoLTEEnabler](https://github.com/HeshamNoaman/VoLTEEnabler) - Rootless Android app powered by Shizuku to enable VoLTE, IMS settings, and network tools on Samsung One UI & Android devices without PC or root.
@@ -283,9 +291,8 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [WizeFiles-Pro](https://github.com/wizdom13/WizeFiles-Pro) - Wize Files source
  * [wolfi-terminal](https://github.com/leloush-x/wolfi-terminal) - Wolfi + Alpine + void arch + debian -  Android terminal (ReTerminal fork with rolling APK releases)
  * [workbuddy-agent-apk](https://github.com/Hy-ou/workbuddy-agent-apk)
- * [wpaforge](https://github.com/wlmosv-png/wpaforge) - Android WPA 密码破解工具 —— 按 SSID 现场派生候选、智能排序、断点续跑、后台队列，附局域网设备侦察与判断依据追溯。纯 Root，Apache-2.0。
+ * [wpaforge](https://github.com/wlmosv-png/wpaforge) - 智能字典破解 WiFi：按 SSID 与线索现场生成候选、逐条真实关联验证；含 WPS PIN、局域网侦察、.cap/.hc22000 离线校验、信道诊断；收尾自动写回目标原网络配置并回读确认。需 Root。 | Smart-dictionary WiFi cracking: candidates from SSID and hints, each really associated; WPS PIN and half-handshake attacks, LAN recon, offline .cap/.hc22000 checks; original network config written back and read-back verified. Root required.
  * [WuWa-Config-Android](https://github.com/B3rr7/WuWa-Config-Android) - Android WuWa Config app  for Wuthering Waves. Analyze Client.log and generate optimized Engine.ini, DeviceProfiles.ini, GameUserSettings.ini, Scalability.ini and Hardware.ini presets.
- * [WWM-Font-Patch](https://github.com/thtuan612/WWM-Font-Patch) - Hỗ trợ Where Winds Meet Global - Where Winds Meet Funtap (VN) - 燕云十六声 (CN)
  * [Xingshu-hub](https://github.com/Breezecaresses/Xingshu-hub)
  * [xr-porting-hub](https://github.com/AngelDark92/xr-porting-hub) - A collection of Meta Quest and PICO APKs patched with Morphe for compatibility with Android XR devices, including Samsung Galaxy XR.
  * [xring-cve-2026-98260](https://github.com/Lw5959/xring-cve-2026-98260) - CVE-2026-98260（fs/exec.c POSIX CPU timer UAF）XRING O1 / Android 17 / 6.18.21 研究记录与 PC 一键流程（授权设备安全研究）
@@ -297,6 +304,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [zflip5screenhelper](https://github.com/xiaomaoju/zflip5screenhelper) - 这个项目是为三星 Galaxy Z Flip5 设计的外屏增强工具，初衷是在内屏损坏后，仍能依靠外屏完成更多日常操作，减少对展开手机的依赖。它提供快捷栏、控制中心、通知查看、媒体控制和应用启动入口，支持应用搜索、文件夹整理、常用应用固定，以及最近任务切换、锁定和清理，还能组合放置桌面小组件。界面针对外屏尺寸、摄像头缺口和旋转方向适配，支持布局自定义与备份。无需 Root，部分系统功能通过 Shizuku 授权实现。
  * [ztrackpad](https://github.com/jan5o7o/ztrackpad) - So7o Z Trackpad: Floating trackpad + pointer, floating windows picker, an on-screen keys panel, and a virtual display you can see and drive - for Android, built on-device in Termux on a Galaxy Z Fold 4. Designed for Foldables. Needs Shizuku.
  * [zuan-kernel-manager-next](https://github.com/zuanvfx02/zuan-kernel-manager-next) - Forked from the open-source ZKM, this free app brings a fresh Ul/UX, deeper theme customization, and tons of new features-plus official bug fixes for testing
+ * [ZYComic-Android](https://github.com/fuoins/ZYComic-Android) - 禁漫天堂,漫蛙,哔咔picacg三平台聚合漫画软件
 
 <details>
 <summary>Non-original content</summary>
@@ -304,14 +312,15 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [AdaptiveHz](https://github.com/shepard639/AdaptiveHz) - Adaptive refresh rate, 120Hz in power saving mode & battery optimizer for Samsung Galaxy
  * [adbSwitch](https://github.com/gaoyilun/adbSwitch) - 通过 Shizuku / root 真实改写系统调试状态的快捷开关工具，支持 USB 调试、无线调试与开发者选项的开关，可从桌面快捷方式或通知磁贴一键操作；关闭调试后会常驻一条通知，点一下即可恢复，支持「实时动态」状态栏胶囊。A shortcut tool that truly modifies the system debug status toggle via Shizuku/root, supporting USB debugging, wireless debugging, and Developer Options toggles.
  * [android-optimizer](https://github.com/geek4945-creator/android-optimizer) - Android Optimizer: root-aware device assess, monitor, optimize, processes, network beaconing, Play Store installer, Chinese-ROM fixes
- * [APK-Toolbox](https://github.com/bl3xand/APK-Toolbox) - Track, clone, install and merge Android apps right on the phone: updates straight from GitHub, F-Droid and other sources, second copies of apps, split APK installer, APKS export and split merging. No root.
  * [BAAS-AIO](https://github.com/sk1lyn3/BAAS-AIO) - 将 BAAS 作为核心的蔚蓝档案安卓自动化脚本方案
  * [ChargeMode-QuickTile](https://github.com/bl3xand/ChargeMode-QuickTile) - One-tap Quick Settings tile to cycle Android charging modes (Adaptive / Limit 80% / Off)
+ * [cmc-helper](https://github.com/haha5039/cmc-helper) - Galaxy CMC role helper with root-free ADB setup, test_flag controls, and verified APK releases
  * [CTS](https://github.com/ankitchanki/CTS) - Trigger Circle to Search on Android 9–16, using Shizuku instead of an LSPosed module. It also adds a Pixel-style diagonal corner swipe gesture
  * [dougao](https://github.com/hulubo2014/dougao) - 豆糕 DouGao —— 安卓 AI 手机助手：VLM 看屏自动操作 + 文件直改；无障碍 / Shizuku / Root 三通道控屏，多任务房间可中途纠错
  * [E7ShopAssistant](https://github.com/Delafroms/E7ShopAssistant)
  * [headless-android](https://github.com/HakaI963/headless-android) - Minimal Android virtual display engine: Shizuku-powered headless display, app launch on display, live preview, input injection, and a real self-test that verifies rendered pixels.
  * [huilai](https://github.com/waysideinn/huilai) - A local Android digital wellbeing app that limits continuous app sessions and enforces cooldowns.
+ * [kiraai-phone-assistant](https://github.com/fcll32/kiraai-phone-assistant) - KiraAI 手机助手：Android 无障碍控制、实时语音和截图，手机主动通过 WSS 连接 KiraAI 插件。
  * [launcher-switcher](https://github.com/hxy132465/launcher-switcher) - Android app that switches the system launcher via Device Owner / Dhizuku / Shizuku
  * [LED](https://github.com/ankitchanki/LED) - AMOLED notification LED for Android 10+. A glowing ring around your camera cutout, a black always-on screen with app icons, 9 animations, per-app colours, very low battery use. Works on any brand (HyperOS, One UI, ColorOS…), with optional Shizuku/root one-tap setup.
  * [Link-Fixer-for-ReVanced-YT](https://github.com/Vojtem5/Link-Fixer-for-ReVanced-YT)
@@ -341,6 +350,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
 <summary>No GitHub stars</summary>
 
  * [90-FPS](https://github.com/aurarifat/90-FPS) - Loading..
+ * [aaa-private-agent](https://github.com/aaa-ai-coder/aaa-private-agent) - AAA Private Agent - AI Agent for Android with Supabase & Passkey Auth
  * [ai-usage-companion](https://github.com/896kb/ai-usage-companion) - Claude Code usage limits on the Xiaomi 17 Pro's rear display. · Mirror of https://gitlab.com/896kb/ai-usage-companion — issues and merge requests there.
  * [android-call-recorder-app](https://github.com/SanjarbekSaminjonov/android-call-recorder-app)
  * [android-dimore](https://github.com/LumaKernel/android-dimore)
@@ -358,6 +368,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Beka](https://github.com/bnjyar/Beka)
  * [beyond](https://github.com/AbhinavXT/beyond)
  * [bgmi-fps-monitor](https://github.com/Unknown-mj/bgmi-fps-monitor) - FPS counter & stutter monitor for BGMI and PUBG Mobile on Android: accurate frame rate, phone heat, floating overlay (Rust + Shizuku)
+ * [bluecodec](https://github.com/nixolas1/bluecodec) - Bluetooth codec preferences and optional automatic reconnect blocking for Android, powered by Shizuku.
  * [Bocongcu_Limi](https://github.com/dun04/Bocongcu_Limi)
  * [bound-5g](https://github.com/amirmardnai/bound-5g) - MediaTek Dimensity 5G/4G Band Selector & Carrier Aggregation Controller for Android (Non-Rooted)
  * [BudsFirst](https://github.com/saikiran9185/BudsFirst) - Stop Android from moving your music and calls to every Bluetooth device that connects. Rank your devices; the rest stay connected on standby.
@@ -376,7 +387,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [esfera_v3](https://github.com/vicenzzopalma/esfera_v3)
  * [Farrow](https://github.com/chr243/Farrow) - On-device AI agent for Android: free OpenRouter/Kilo LLMs with tool calling that browse with real Firefox via Termux, run shell commands via Shizuku, control apps with Accessibility and use Git, all in a Kotlin + Jetpack Compose app with no backend.
  * [FCMGuard-Plus-For-HyperOS4](https://github.com/rsps1008/FCMGuard-Plus-For-HyperOS4)
- * [File-Manager](https://github.com/Victorious93/File-Manager)
  * [FoldPatch](https://github.com/att083/FoldPatch) - Keep a foldable phone usable with a dead center display and one working touch side. App reflow, touchpad and one-sided keyboard. Requires Shizuku.
  * [FuckEts](https://github.com/molaugh-angel/FuckEts)
  * [FuckETS-For-Android](https://github.com/molaugh-angel/FuckETS-For-Android)
@@ -385,7 +395,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [game-boost](https://github.com/bkrohit940-hub/game-boost)
  * [GameCore-BuiltIn](https://github.com/FaaRamadhann/GameCore-BuiltIn) - Non-root Android game booster built on Shizuku: reversible app freeze, crash-safe recovery, floating overlay. No root/Magisk required.
  * [He-ll-](https://github.com/raunakpower699-ui/He-ll-) - Vivo
- * [home-center](https://github.com/Valar05/home-center) - Home Center Android voice assistant pilot
  * [HyperLyrics](https://github.com/GeniusQA/HyperLyrics) - HyperOS 超级岛/锁屏/AOD息屏歌词 Xposed 模块
  * [HyperOS-a11y](https://github.com/Insouciant21/HyperOS-a11y)
  * [Hz120Switch](https://github.com/Kangmori/Hz120Switch) - ColorOS 120Hz switch via Shizuku: quick-settings tile + home-screen shortcut
@@ -394,6 +403,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ink-recents](https://github.com/equwal/ink-recents) - Ink Recents: a recent-apps switcher drawn for e-ink readers. No animation, swipe up to close, swipe down to close the others.
  * [input_leaf_synergy](https://github.com/joihn/input_leaf_synergy)
  * [inputflow-linux](https://github.com/daredoole/inputflow-linux) - Native C++17 Linux client for Microsoft PowerToys Mouse Without Borders — cursor/keyboard/clipboard sharing, self-healing reconnect, tray + dashboard, and an Android peer.
+ * [itsme-hp](https://github.com/OBKENTUNG01/itsme-hp) - It's Me HP: aplikasi Android untuk akses layar & berkas HP dari dashboard It's Me sendiri
  * [komiyomi-ext](https://github.com/wongpinter/komiyomi-ext) - Free and open source manga reader for Android
  * [ksu-root](https://github.com/wanwuzhishi/ksu-root) - 在 REDMI K90 Max（代号 prague / OS4.0.0.14）上，从手机端一键开一个临时 root。利用 CVE-2026-64560（posix-cpu-timers UAF）加载 KernelSU LKM，重启即失效。不需要电脑、不刷机、不解锁 Bootloader。
  * [liquidify](https://github.com/ninocss/liquidify) - Liquid Glass-inspired patches for TIDAL on Android, with a custom patch manager and optional Linn OpenHome playback.
@@ -404,8 +414,8 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [NotiGuard](https://github.com/Liuchijang/NotiGuard) - Fix delayed notifications on Xiaomi HyperOS China ROM. FCM Guard keeps GMS unrestricted, plus toggleable background tweaks via Shizuku.
  * [nyanime](https://github.com/owouwuiwi/nyanime) - An app for manga and anime
  * [Octifine](https://github.com/7gups/Octifine) - A fork of Voidstrap mobile to apply numerous fflags and mods to Octane.
+ * [OnStop2FinishAndRemoveTask-Timer](https://github.com/stephansantos250-spec/OnStop2FinishAndRemoveTask-Timer) - Versão não oficial com temporizador de 1–5 minutos e filtros de apps instalados/sistema. Requer Shizuku. Baseado no projeto de takusan23, Apache-2.0.
  * [open-cache-cleaner](https://github.com/marcjuhl/open-cache-cleaner)
- * [OpenCell](https://github.com/UdaySoni32/OpenCell)
  * [OPlusKeyControl](https://github.com/quyetbkhoa/OPlusKeyControl) - OnePlus 15 hardware-button remapping utility with a guarded Vector/libxposed runtime, Kotlin and Compose.
  * [pebble-screen-mirror](https://github.com/dmyn1993/pebble-screen-mirror) - Mirror an Android phone screen to Pebble Time 2 and control the phone from the watch.
  * [pocket-agent](https://github.com/ru-aish/pocket-agent) - Standalone Android Pi agent with direct phone tools and shared background subagents
@@ -450,7 +460,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [X-KeepAlive](https://github.com/layiix11/X-KeepAlive) - X-KeepAlive — Android utility designed to help keep games running in the background and reduce unnecessary reloads when switching between apps. Powered by Shizuku, with no root required. Automatically applies background management policies to selected games.
  * [Xpand-I-Pro-Apk](https://github.com/pilar-andy/Xpand-I-Pro-Apk)
  * [yoke-launcher](https://github.com/andreconde21/yoke-launcher)
- * [ZYComic-Android](https://github.com/fuoins/ZYComic-Android) - 禁漫天堂,漫蛙,哔咔picacg三平台聚合漫画软件基于komikku的外观系统
 </details>
 
 #### Updated more than 3 months ago
@@ -524,7 +533,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Galaxy-Filesystem-Steward](https://github.com/Zfkirke0109/Galaxy-Filesystem-Steward)
  * [Game-turbo-](https://github.com/espositahermosa2026-sudo/Game-turbo-)
  * [GameSpace](https://github.com/rahmatsobrian/GameSpace)
- * [GazeKeep](https://github.com/IceTeacher/GazeKeep) - 为缺少系统级注视不熄屏的 Android 设备提供端侧离线注视保亮功能：临近熄屏前短时采样、零网络权限、看不清默认熄屏，支持 LSPosed / Shizuku / 无障碍三种后端与按白名单启用。
+ * [gemini-origin-os](https://github.com/kaiser10669-svg/gemini-origin-os) - Google Gemini & Circle to Search on Vivo & iQOO (OriginOS China) without Root
  * [GhostLock-Galaxy](https://github.com/wxxsfxyzm/GhostLock-Galaxy) - Root your Galaxy using CVE-2026-43499
  * [GhostLock-MEP-AN00-App](https://github.com/tgjunyas/GhostLock-MEP-AN00-App)
  * [GitSentry](https://github.com/pufferfish-salad/GitSentry) - GitSentry — Silent, permission-aware updates for GitHub-distributed Android apps. Tracks repos you choose via the GitHub Releases API, installs updates silently using Shizuku's elevated access (no root), and warns you before installing if an update adds new dangerous permissions compared to the currently installed version.
@@ -544,6 +553,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [optrace](https://github.com/jksalcedo/optrace) - Track and log hidden Android app permissions beyond the system's 7-day limit.
  * [orangechat-public](https://github.com/gy2021210293-bit/orangechat-public) - OrangeChat source snapshot; see README and LICENSE for upstream terms
  * [power-warden](https://github.com/mrun1corn/power-warden) - Flutter + Native Android watchdog to detect and diagnose runaway CPU threads and silent battery drain without root or a PC.
+ * [prague-CVE-2026-98260-OS4.0](https://github.com/ChaYeWuu/prague-CVE-2026-98260-OS4.0) - REDMI K90 Max在OS4.0.5.0.XAACNXM利用CVE-2026-98260获取ROOT权限并加载KSU模块。
  * [procwatch](https://github.com/ekomh170/procwatch) - ProcWatch: monitor & manajer aplikasi background Android, sideload pribadi untuk Poco X6 (HyperOS/Android 14). Single-module, Kotlin 2.0 + Compose M3, minSdk 29 / target 35, tanpa permission INTERNET (sengaja dihilangkan dari manifest).
  * [project_mythara](https://github.com/ankurCES/project_mythara) - M.Y.T.H.A.R.A — Mind Yoked Tonal Haptic Adaptive Resonant Assistant. Open-source agentic AI Android OS layer. Local-first, private-by-construction, BYO-model alternative to Android 17 / Aluminium OS Gemini-everywhere.
  * [qingzhou](https://github.com/SrQingChen/qingzhou) - LAN/hotspot ultra-fast secure transfer for Android - Noise E2E encryption, chunked multi-stream, HyperOS island, USB wired parallel
@@ -551,7 +561,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [samsung_hz_ops](https://github.com/xtawa/samsung_hz_ops) - Edit your Samsung device's screen refresh rate.Powered by shizuku
  * [screen-off-camera](https://github.com/FATFATHAO/screen-off-camera) - Android 熄屏相机控制：音量键单击切前后摄、双键拍照；HyperOS/Android 16 + Shizuku，无需 root。Screen-off camera control via volume keys.
  * [shizuku-ai-action-broker](https://github.com/rjkyker383-gif/shizuku-ai-action-broker) - Permissioned AI-to-Shizuku action broker for Android, enabling chatbots to request elevated device actions through structured commands, explicit user confirmation, and a strict allow-list
- * [SideGesture](https://github.com/aaronzzx/SideGesture)
+ * [soniclab-fx](https://github.com/soe1hom-arch/soniclab-fx) - System-wide audio effects for Android — EQ, bass/treble, reverb, limiter for ALL audio (YouTube, Spotify, games)
  * [StarryAgent](https://github.com/Starry2233/StarryAgent) - A cross-platform agent app.
  * [susu-phone-agent](https://github.com/2005selene2005-a11y/susu-phone-agent) - Android device bridge for Claude Code via MCP + Shizuku. No root, no model polling.
  * [SysClean](https://github.com/Penz7/SysClean) - Android system analyzer and cleaner (Shizuku/root deep clean, performance & RAM optimizer, health widget). English & Vietnamese.
@@ -565,7 +575,9 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [wheelplay](https://github.com/fython/wheelplay) - Android-hosted CarPlay server for local networks
  * [Wjy_self](https://github.com/Alexued/Wjy_self)
  * [wuthering-visuals](https://github.com/Droprains-hub/wuthering-visuals) - 鸣潮画质助手（Wuthering Visuals）— Android 配置替换、备份与恢复工具
+ * [WWM-Font-Patch](https://github.com/thtuan612/WWM-Font-Patch) - Hỗ trợ Where Winds Meet Global - Where Winds Meet Funtap (VN) - 燕云十六声 (CN)
  * [xunipingmu-gongjuxiang](https://github.com/suifonouyang-sudo/xunipingmu-gongjuxiang) - 基于 Shizuku 的 Android 虚拟屏工具箱：虚拟屏创建与控制、无线调试端口固化、APK 批量安装、应用备份恢复
+ * [XYZ](https://github.com/Xiao-yu-ze/XYZ) - 安卓 PVZ2 自动化：Shizuku 虚拟屏 + 后台注入 + 自动精灵 .zjs 脚本引擎（无尽/心塔复刻）
  * [yalevpn](https://github.com/yaleedhaque/yalevpn) - WireGuard VPN + Shizuku research lab for Android
  * [yijianxiping](https://github.com/ReckyQue/yijianxiping) - 桌面一点即可息屏，基于 Shizuku，免 Root
  * [yuehong-privilege-assistant](https://github.com/qq2070006042-create/yuehong-privilege-assistant) - 月虹提权助手：内置 Stellar 与 GhostLock 的 Android 提权工作台
@@ -604,7 +616,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Android-IconAutoArrange](https://github.com/ReSerendipity/Android-IconAutoArrange) - 安卓桌面图标自动整理 PoC：走 Launcher3 官方布局通道，免 root 一键分类整理（可预览、可回滚）。面向 Android 用户与开发者，poc/build.sh 构建 APK。
  * [app-killer](https://github.com/Eduar2TC/app-killer)
  * [APPEVELOPS-Game-Booster](https://github.com/MOHIT-APPEVELOPS/APPEVELOPS-Game-Booster)
- * [AppLens](https://github.com/masonjenkins893-dot/AppLens) - Extract any Android app full UI structure - screens, components, navigation graph. Kotlin + Compose + Shizuku + Node.js backend
  * [archive-system-crawling-android](https://github.com/FLC-niko/archive-system-crawling-android)
  * [Atlas-](https://github.com/buyukdereosman34-blip/Atlas-)
  * [aweauto](https://github.com/hirossan4049/aweauto)
@@ -621,6 +632,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Cesaret](https://github.com/Valor-54/Cesaret)
  * [ChargeGuage](https://github.com/shakir2117/ChargeGuage)
  * [ClassCalender](https://github.com/jshhe/ClassCalender) - Flutter Android class schedule app with school .xls timetable import, live notifications, and rear-screen display.
+ * [ClipMaster](https://github.com/lwcla/ClipMaster) - 自动复制剪贴板
  * [clipsyncd](https://github.com/chakri192/clipsyncd) - Bidirectional clipboard sync between Mac and Android 
  * [Cluster-test-new](https://github.com/jollyboy95/Cluster-test-new)
  * [console_simple_settings_app](https://github.com/Cowlsly/console_simple_settings_app) - This is a simple settings UI and app, it can be applied to all of our apps and our website Cowlsly.com, these settings will give any user basic control over things like volume and colour tint over its own panels; it will also act as an identified for the cowlsly authenticator. console, but that is ab
@@ -636,6 +648,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [FelpzXit](https://github.com/felpz566/FelpzXit)
  * [ff-sensi-native](https://github.com/shiine6122-glitch/ff-sensi-native)
  * [FFModMenu](https://github.com/alexandermatheus993-cyber/FFModMenu) - mod menu ff
+ * [File-Manager](https://github.com/Victorious93/File-Manager)
  * [finance-manager](https://github.com/Y-Unfettered/finance-manager)
  * [Fityah](https://github.com/Refayatul/Fityah)
  * [fps-monitor](https://github.com/anlaki-py/fps-monitor) - Android Real-Time FPS Monitor
@@ -646,6 +659,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [GGMouseLearnSmali](https://github.com/shahnaveed07/GGMouseLearnSmali)
  * [Ghostlock-app-for-IQOO_Neo9](https://github.com/linux-tools/Ghostlock-app-for-IQOO_Neo9)
  * [guardian](https://github.com/StarkAg/guardian) - The Android anti-theft app a thief can't disable — re-enables GPS/data remotely and follows the SIM, all over SMS. No cloud, no account.
+ * [home-center](https://github.com/Valar05/home-center) - Home Center Android voice assistant pilot
  * [Hui-touch](https://github.com/serikmain49-rgb/Hui-touch)
  * [JARVIS](https://github.com/cardenaspiero255-lang/JARVIS)
  * [Jarvis](https://github.com/Abhishek-karma/Jarvis)
@@ -665,6 +679,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [my-apps](https://github.com/Tharun-48/my-apps) - just trying to make my ideas into own apps
  * [Nase](https://github.com/nastechresearch/Nase) - testing
  * [NekoPanel](https://github.com/TanakaLun/NekoPanel)
+ * [Neo-plus-ios-launcher](https://github.com/plusneo08/Neo-plus-ios-launcher)
  * [NetBlocker](https://github.com/HeWanglan-X/NetBlocker) - Android floating-window network blocker (Shizuku + Root dual backend, no VPN)
  * [NoBlooks](https://github.com/Elthon-dev/NoBlooks) - NoBlooks — a wallpaper-reactive, ultra-minimalist monochrome Android home launcher built around one morphing floating island.
  * [NodeScript](https://github.com/Ventus-Pluviam/NodeScript)
@@ -677,6 +692,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [pixel-routines](https://github.com/Mutalib713/pixel-routines)
  * [PocketRouter](https://github.com/fiozxr/PocketRouter) - an open-source Android networking toolkit for local-network diagnostics and hotspot experiments. It targets Android 16 (API 36), uses Kotlin + Jetpack Compose + Material 3, and has a minimum SDK of Android 8.0 (API 26).
  * [PowerUserHub](https://github.com/AkayamiShurui42/PowerUserHub)
+ * [Project-ia](https://github.com/mauricio-gamedev/Project-ia)
  * [QiNoteAPP](https://github.com/Fq77/QiNoteAPP) - 奇记 QiNote — AI 对话式记账 Android 应用（Kotlin + Jetpack Compose + Room + HyperOS 超级岛）
  * [Quieta](https://github.com/1290000/Quieta) - 息匣 Quieta · Android 通知渠道降噪（批量静音 / 拦截新建渠道）· Kotlin Compose · GPL-3.0
  * [RainLock](https://github.com/AldoCariaga/RainLock) - Android touch lock for riding a motorbike in the rain. Also blocks the system bars and Circle to Search.
@@ -695,16 +711,17 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Senx](https://github.com/vietdeptrai1122/Senx)
  * [Set-for-U](https://github.com/Napreth/Set-for-U) - A cross-platform Android settings manager with ADB, Shizuku, and root support.
  * [shizuku-aurora](https://github.com/goodrenlibai/shizuku-aurora) - Shizuku Aurora — 3A upgrade of Shizuku (system API bridge) with CI
+ * [shizuku-remote-shell](https://github.com/fanzhanxiang8-ops/shizuku-remote-shell) - Remote Android shell over Shizuku: Android app + Flask relay server + MCP/CLI clients
  * [ShizukuEasy](https://github.com/Harshshah6/ShizukuEasy) - ShizukuEasy removes the boilerplate of Shizuku setup — binder connections, permission handling, lifecycle management, and backend detection — so you can focus on using Shizuku's capabilities.
  * [shortcut](https://github.com/dynamicbeam/shortcut) - 安卓8 adb小工具   参考了https://github.com/thejaustin/ShizukuPlus
  * [SIConnect](https://github.com/lukifer23/SIConnect) - Native Android device-control and automation platform: lets authorized AI agents operate your own phone over MCP, with an on-device policy engine, approvals, Shizuku-backed shell execution, and deterministic skills.
  * [smootify](https://github.com/Brazzo978/smootify) - Open-source Android SIM switching and seamless multipath VPN based on MQVPN, with a Bash VPS manager and QR profiles
- * [soniclab-fx](https://github.com/soe1hom-arch/soniclab-fx) - System-wide audio effects for Android — EQ, bass/treble, reverb, limiter for ALL audio (YouTube, Spotify, games)
  * [StickerBridge](https://github.com/Just4Skii/StickerBridge)
  * [surface_speaker](https://github.com/ziyuw-Plank/surface_speaker)
  * [TC](https://github.com/Nhan-Moon-04/TC)
  * [Teleport](https://github.com/eldar2007mustafaev-ai/Teleport)
  * [tidy-android-project](https://github.com/567841vic-cmd/tidy-android-project) - 淨機 Tidy：適用 Android 14+ 的儲存與電池整理工具
+ * [TimerRoot](https://github.com/kpgc10kai/TimerRoot) - Android front end for CVE-2026-98260: root shell + KernelSU late-load through Shizuku
  * [touch_compositor](https://github.com/zjwqsd/touch_compositor)
  * [TurboKn](https://github.com/Souzzaaxzy/TurboKn) - App Android (Kotlin + Compose) que aplica perfis de desempenho em jogos via Shizuku, sem root. Visual samurai na neve.
  * [victorlaunch](https://github.com/Victorious93/victorlaunch) - VictorLaunch — fleet-native Android home launcher (Lawnchair-based, EXTERNAL_NODE for droidcommand-AI)
@@ -774,6 +791,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [shizuku-screen-off-on-phone-call](https://github.com/olegsvs/shizuku-screen-off-on-phone-call)
  * [shizuku_apk_installer](https://github.com/re7gog/shizuku_apk_installer) - Flutter plugin for installing Android APKs using Dhizuku/Shizuku API
  * [shizukugemini](https://github.com/AkayamiShurui42/shizukugemini)
+ * [SideGesture](https://github.com/aaronzzx/SideGesture)
  * [SignalFix](https://github.com/zhaochunqi/SignalFix) - 修复类原生的信号问题
  * [SimpleVirtualDisplay](https://github.com/kangrio/SimpleVirtualDisplay) - open any apps in virtual display require shizuku
  * [SteamlessLink](https://github.com/reo101/SteamlessLink) - SteamLink without the Steam (just passing (optionally raw) controller state over the wire)
@@ -806,6 +824,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
 <summary>No GitHub stars</summary>
 
  * [Apk-build](https://github.com/DcnhanZz/Apk-build)
+ * [AppLens](https://github.com/masonjenkins893-dot/AppLens) - Extract any Android app full UI structure - screens, components, navigation graph. Kotlin + Compose + Shizuku + Node.js backend
  * [auto_get_jobs_mobile](https://github.com/Ynkcc/auto_get_jobs_mobile) - 基于uiautomator2库的boss直聘 安卓端，自动投递实现
  * [BurbujaGPT](https://github.com/tec123321/BurbujaGPT)
  * [ChatHeadsShizuku](https://github.com/alexchiu100014/ChatHeadsShizuku) - Messenger-style floating bubble launcher that opens apps in Android freeform windowing mode via Shizuku API

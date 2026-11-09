@@ -49,7 +49,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [appman](https://github.com/karvanidx/appman) - Tiny no-root Android app manager, APK backuper, Shizuku power tools and usage analytics. Java, Termux, no Gradle.
  * [AppPerms](https://github.com/xykal/AppPerms) - AppOps / Display-over-other-apps manager untuk Android via Shizuku — 1.9MB, 0 internet permission, 19 hidden ops, terminal, safe tuning
  * [AppRotate](https://github.com/hahahaxu1/AppRotate) - 可控制应用旋转方向的App
- * [APX-Mouse](https://github.com/Tranhaonam21032010-commits/APX-Mouse)
  * [Arcade](https://github.com/fattdonki/Arcade/) `fdroid` -  A minimal game launcher with a twist
  * [Arkhive](https://github.com/FrancisGiann/Arkhive) - Arkhive - Manga & Novel Reader: verified Android APK releases and actual app screenshots.
  * [ArrowLoop](https://github.com/junkerderprovinz/arrowloop) `fdroid` - Two-way sync between your phone and your own storage. No account, no ads.
@@ -88,7 +87,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [clawdy](https://github.com/QiGai77/clawdy)
  * [ClearPhone](https://github.com/tokhirdzhon/ClearPhone) - Открытый Android-чистильщик: большие файлы, дубликаты, размер папок, приложения и кэш через Shizuku. Без рекламы и интернета.
  * [ClipCascade](https://github.com/Sathvik-Rao/ClipCascade) - ClipCascade is a lightweight utility that automatically syncs the clipboard across devices, no key press required.
- * [cliphistory-android](https://github.com/saroo98/cliphistory-android) - Private offline clipboard history for Android using an authorised Shizuku recorder. MIT licensed.
  * [cloudy-u-android](https://github.com/diegonmarcos/cloudy-u-android) - Android Parallel Space / Virtual Engine — data-ownership workspace built on the cloud/ declarative framework
  * [cmf-essential-remapper](https://github.com/taher-dev/cmf-essential-remapper) - A lightweight, open-source Android utility to remap the CMF Essential Key with Nothing OS capsule HUD overlay.
  * [Colemailer](https://github.com/Kleisym/Colemailer) - Telegram userbot: antispam pings, mute modes, folder broadcasts, inline buttons. Python/Telethon + Android APK.
@@ -359,7 +357,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [SplitBox](https://github.com/AnoY606-git/SplitBox) - Устанавливайте APK, APKS, XAPK и APKM на Android 14+. Удобный выбор частей, Root и Shizuku — без рекламы и аккаунтов.
  * [Stardust](https://github.com/SGJ-bb/Stardust) - 开源免费的 Android AI桌面宠物「星尘」。搭载 Live2D 模型渲染，支持角色扮演设定、世界观配置、AI 主动聊天、记忆管理、日记导出/导入、悬浮窗模式。此乃大学生心血来潮的vibecoding作品，姑且不太完善，欢迎纠错与贡献
  * [StarMoe-box](https://github.com/StarMoe-org/StarMoe-box)
- * [StatusBar-Hider](https://github.com/YoannDev90/StatusBar-Hider) - Minimal Android app that hides the status bar system-wide
  * [StayHiFi](https://github.com/chengzi2333/StayHiFi)
  * [stayturgid](https://github.com/djbclark/stayturgid) - Keep wireless ADB (port 5555) and Shizuku alive on Android across reboots — without root
  * [Steam-Nova](https://github.com/GoodJoe-2049/Steam-Nova) - An Lsposed module that enhances Steam for Android with built-in chat, SteamDB integration, Steam Guard tools, and UI improvements.
@@ -379,7 +376,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Tetherbug](https://github.com/xav-ie/Tetherbug) `fdroid` - Your Mac turns on your phone's hotspot when its Wi-Fi disconnects. No taps.
  * [tiedun](https://github.com/lilining308-prog/tiedun) - Android 应急逃生工具：被锁机病毒/无障碍恶意锁屏控制时，物理按键触发全屏拦截，经 Shizuku/root 删除锁机组件GPL-3.0
  * [tmall-miao-android](https://github.com/Greg-Street/tmall-miao-android) - 淘宝活动助手 Android / Shizuku 版：浏览、搜索、应用访问与悬浮控制。
- * [TMallKey](https://github.com/lmc2007/TMallKey) - TMKey — 天猫校园宿舍门禁的「一点即开」独立 App
  * [TravelerNote](https://github.com/having5548/TravelerNote) - miyoushe login + Genshin daily check-in (game auto / forum manual) + realtime notes, Android
  * [TRML-TERX](https://github.com/yeaaeslysl/TRML-TERX) - 基于 Shizuku 的 Android 本地 MCP Server，让 AI Agent 安全操控终端、读写文件与执行命令。纯 Java 实现、零 Python 依赖，内置终端模拟器与自定义主题。STRX 为 TRML 与 TERX 的功能超集，为当前主线。
  * [Tsuzuki](https://github.com/Manojx2005/Tsuzuki)
@@ -645,7 +641,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
 
  * [AeonRuntime](https://github.com/AeonCoreX-Lab/AeonRuntime) - AeonRuntime is a modular Linux environment framework for Android applications, providing independent Linux environments, multiple execution backends, Android system integrations, and a foundation for local AI computing.
  * [agent-next](https://github.com/Yixuan-Tao/agent-next) - Android 手机 Agent 原型：用户继续正常用手机时，Agent 在私有虚拟屏操作真实 App，不抢前台、焦点和输入法；无 Root，仅需 Shizuku。
- * [aidroid](https://github.com/ChenSX6666/aidroid) - Aidroid android assistant
  * [Android](https://github.com/KhatKit/Android)
  * [android-autostarts](https://github.com/miracle2k/android-autostarts) - Tool to manage autostarts (broadcast receivers) on an Android device.
  * [android-storage](https://github.com/sromku/android-storage) - A powerful file, app & system inspector for Android. Everything on the device - files, apps, databases, sockets, sensors, system internals - in one fast, modern app.
@@ -699,7 +694,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [OperitWeb](https://github.com/AAswordman/OperitWeb)
  * [optrace](https://github.com/jksalcedo/optrace) - Track and log hidden Android app permissions beyond the system's 7-day limit.
  * [orangechat-public](https://github.com/gy2021210293-bit/orangechat-public) - OrangeChat source snapshot; see README and LICENSE for upstream terms
- * [PerfTuner](https://github.com/omardhifoui-del/PerfTuner) - Make your phone amazing and powerful🚀👹
  * [PhoneAgent](https://github.com/QY-25123/PhoneAgent) - Android phone agent: Claude operates third-party apps on a virtual display via Shizuku
  * [PhoneBot-Android](https://github.com/brandlll-lee/PhoneBot-Android) - phonebot 是一名住在你手机里的 AI 伙伴，替你操作手机，处理日常事务。 
  * [pixel-ksu-root](https://github.com/JingMatrix/pixel-ksu-root) - CVE research and exploits to help gaining roots for Pixel devices
@@ -814,7 +808,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [hey-claude-android](https://github.com/serifdrms/hey-claude-android) - Say "Hey Claude" and Claude opens in voice mode. On-device wake word for Android, no internet permission.
  * [Hui-touch](https://github.com/serikmain49-rgb/Hui-touch)
  * [hyperGamebooster](https://github.com/sulemanrashid00-wq/hyperGamebooster)
- * [HyperSchedule](https://github.com/Jursin/HyperSchedule)
  * [JARVIS](https://github.com/cardenaspiero255-lang/JARVIS)
  * [Jarvis](https://github.com/Abhishek-karma/Jarvis)
  * [KIROHA_APP](https://github.com/cristiancutizaca/KIROHA_APP)
@@ -828,7 +821,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [LocalShare](https://github.com/The-gold-of-wind233/LocalShare)
  * [lorian-app-decompiled](https://github.com/gxxk-dev/lorian-app-decompiled) - 落雨（com.lorian.luoyu.act）Android 客户端可复现反编译快照库；每个版本一个提交 + 注解标签，跨版本用 git diff 比较
  * [LSFG-Android-Vibe-ED](https://github.com/RiRiRawrZ615/LSFG-Android-Vibe-ED) - ⚠️ WIP — Android port of the lsfg-vk frame-generation pipeline. Vibe-coded by Qwen with RiRi. Compiles to an APK but NOT finished / not ready for production.
- * [lucifer_mobile](https://github.com/jakesdev1991/lucifer_mobile) - Lucifer Mobile — autonomous agent launcher + cognitive framework for Pixel 8a (Four Horsemen, Omega ToE reasoning, NemotronClient LLM, 25-min heartbeat cycles)
  * [MaaKotlinUI](https://github.com/Craun718/MaaKotlinUI)
  * [managed-hotspot](https://github.com/lewiskingy/managed-hotspot) - Simple Android app for a more managed hotspot 
  * [mb5-repeat](https://github.com/rianarivin96-star/mb5-repeat) - mb5 macro
@@ -846,7 +838,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [NoBlooks](https://github.com/Elthon-dev/NoBlooks) - NoBlooks — a wallpaper-reactive, ultra-minimalist monochrome Android home launcher built around one morphing floating island.
  * [NodeScript](https://github.com/Ventus-Pluviam/NodeScript)
  * [NoJump](https://github.com/gyx114/NoJump) - 安卓应用，防止应用跳转到美团等第三方应用
- * [NotiCam](https://github.com/ZenithFr/NotiCam) - Standalone buildable Android application with zero-copy Vulkan 1.3 bokeh engine
  * [onnshell](https://github.com/wyrmbound/onnshell) - Device Owner home layer for the onn 4K Pro (Android 14, no root): gamepad UI, DualShock 4 touchpad input, zero-copy display for native GPU games
  * [op13-cve-2026-64560](https://github.com/000999888111/op13-cve-2026-64560)
  * [Phone](https://github.com/drvladcepeche-maker/Phone) - Phone

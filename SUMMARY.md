@@ -79,6 +79,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [BBZQ](https://github.com/HSSkyBoy/BBZQ) - 由 Kotlin 全量编写的哔哩哔哩增强 Xposed 模组
  * [bdsu-adb-dsu](https://github.com/ayzlol/bdsu-adb-dsu) - bDSU (adb-dsu)  An app/tool that allows you to use DSU via ADB
  * [better-dpad](https://github.com/dpad-warrior/better-dpad) - Aims to improve dpad navigation in apps that otherwise haven't supported it
+ * [BetterAuto](https://github.com/simoneluconi/BetterAuto) - Custom Android Auto launcher: the Android Auto protocol rewritten from scratch in Kotlin, with a Jetpack Compose car UI (music, phone, notifications, vehicle data, voice).
  * [BigBirdUI](https://github.com/zhang3c3c33c/BigBirdUI) - BigBirdUI · 大鸟手机助手：一句话让 AI 操作手机，App 不设限，安卓支持后台执行。支持 Android 本机使用及 Windows 连接 Android/iPhone。
  * [BiliView](https://github.com/JHR-deve/BiliView) - BiliView · 支持Android 手机上的 B 站视频 电影 番剧与合集批量下载、离线缓存转mp4 以及 MP4 弹幕烧录，一键查看下载收藏夹内容，通过UID查账号成分。配合shizuki权限支持自动扫描，借助aicu查历史记录
  * [bluecodec](https://github.com/nixolas1/bluecodec) - Bluetooth codec preferences and optional automatic reconnect blocking for Android, powered by Shizuku.
@@ -237,7 +238,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Island-app-Ryx](https://github.com/davidft1joel431/Island-app-Ryx)
  * [Iteration](https://github.com/LiferLighdow/Iteration) - Born for Performance, Built for Freedom.
  * [IzukiJS](https://github.com/BUGJI/IzukiJS) - Android 自动化脚本运行时 · 用 QuickJS 写脚本，无障碍 / Shizuku / Root / 蓝牙 HID 多后端驱动设备，内置找图找色、OCR 与 AI Agent 脱困
- * [Jarvis---Android-Version-](https://github.com/Rishu123-png/Jarvis---Android-Version-) - A native Android assistant that actually does things. Voice in, real actions out — calls, messages, camera, app control — on top of a hand-drawn HUD. No account, no JARVIS server, no telemetry. Every AI feature runs on a key you own, and every permission is requested at the moment it is needed.
  * [JingPing](https://github.com/NERRY3621/JingPing) - 净屏 · Android 开屏/摇一摇广告拦截（无障碍 + Root/Shizuku + LSPosed，RhineLab 视觉）
  * [Jiumi](https://github.com/ybblab/Jiumi) - 揪咪 Jiumi：开源安卓应用行为监测与管理，查看权限访问和网络活动。Android app activity & privacy monitor. No root required.
  * [Ka0SGFX](https://github.com/ulolol/Ka0SGFX) - Rootless and Root Android graphics driver orchestrator & runtime instrumentation platform for Qualcomm Adreno (Mesa Turnip, custom Adreno, ANGLE GLES) via Shizuku
@@ -362,6 +362,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [PixelComfort](https://github.com/WEITERFUNKEN-Thomas/pixelcomfort) `fdroid` - Comfort View off in the camera, private DNS by Wi‑Fi, AOD rules and more
  * [PixelVolte5G](https://github.com/K1tor/PixelVolte5G) - 无 Root 开启 Pixel VoLTE/VoNR/5G —— Shizuku 运营商配置覆写助手（适配 Android 17 QPR1 / CVE-2025-48617）
  * [plektra](https://github.com/pkb-rocks/plektra)
+ * [PlusKey](https://github.com/hiddemoens/PlusKey) - Customize OnePlus Plus Key: apps, actions, short and long press, and guided local setup.
  * [pocket-flight](https://github.com/arusaha/pocket-flight) - Pocket Flight: Auto Airplane. Automatic airplane mode for Android walks, runs and hikes: reduce cellular radio transmissions (RF EMF) while locked in your pocket; reconnect on unlock. Wi-Fi/Bluetooth exceptions. Shizuku, no root.
  * [pocket-xr](https://github.com/pocket-xr/pocket-xr) - Turn your Android phone and AR glasses into a spatial desktop. Built on XREAL Aura and One, community-tested on XREAL One Pro, 1S, Air 2 and VITURE Beast. Free and open source.
  * [PocketGate](https://github.com/Barryyue/PocketGate)
@@ -761,7 +762,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [appback](https://github.com/Rishu-s08/appback) - No-root Android app state backup and multi-device synchronization using Android's Backup Manager, Shizuku, Kotlin, and Binder/AIDL.
  * [AppMarket](https://github.com/YXBwbWFya2V0/AppMarket)
  * [Aura-Hotspot](https://github.com/JishnuPG-tech/Aura-Hotspot) - Ultra-fast, low-heat captive hotspot engine for Android with 5GHz line-rate forwarding, embedded ADB, and 3D web portal authentication.
- * [BetterAuto](https://github.com/simoneluconi/BetterAuto) - Custom Android Auto launcher: the Android Auto protocol rewritten from scratch in Kotlin, with a Jetpack Compose car UI (music, phone, notifications, vehicle data, voice).
  * [blockblox-revival](https://github.com/yrlmz14/blockblox-revival) - Open-source Roblox revival engine (Rust + wgpu + Rapier3D + Luau), server, web PWA, and Android arm64-v8a launcher
  * [CipherTun-VPN](https://github.com/CipherTun/CipherTun-VPN)
  * [CVE-2026-98260-iQOO12](https://github.com/VinSon326/CVE-2026-98260-iQOO12)
@@ -798,7 +798,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [MaidMic](https://github.com/suer781/MaidMic) - 🎤 Android 虚拟麦克风 · 但是不能用（因为我没做好）
  * [mobileclaw](https://github.com/mobileclaw-agent/mobileclaw)
  * [NeoDhizuku](https://github.com/LixfineMo/NeoDhizuku) - A device owner sharing software based on secondary development of the Dhizuku project
- * [NetBlocker](https://github.com/HeWanglan-X/NetBlocker) - Android floating-window network blocker (Shizuku + Root dual backend, no VPN)
  * [NetCordon](https://github.com/sachinmandawi/NetCordon) - Rootless Android firewall powered by Shizuku. Auto-cuts background traffic on app close, restores on open. Zero root, zero VPN.
  * [NEXUS-Desktop](https://github.com/Alonef4/NEXUS-Desktop)
  * [OpenSlate](https://github.com/Howardzhangdqs/OpenSlate)
@@ -840,7 +839,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [android-instrument](https://github.com/Almavj/android-instrument)
  * [android-rust-taskmanager](https://github.com/HusniHeartnet/android-rust-taskmanager) - Task manager for Android written in Rust: memory, CPU, temperatures, processes and startup apps
  * [Apk_for_Fake_GPS](https://github.com/sgamiza/Apk_for_Fake_GPS) - Apk for Fake GPS
- * [Claude-aurix-agent-](https://github.com/levinhocall/Claude-aurix-agent-)
  * [cve-2026-64560-a16](https://github.com/Become-ILLUSORY/cve-2026-64560-a16) - CVE-2026-64560 toolkit: Go single-binary toolchain + realme RMX5010 (A16, SM8750) target port
  * [CVE-2026-98260-GhostKey](https://github.com/Feiman55/CVE-2026-98260-GhostKey) - GhostKey - CVE-2026-98260 一键提权工具（Shizuku + NDK Native）
  * [export_bilibili_download_video](https://github.com/sgamiza/export_bilibili_download_video) - apk for export bilibili download video to mp4
@@ -904,7 +902,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [FFModMenu](https://github.com/alexandermatheus993-cyber/FFModMenu) - mod menu ff
  * [finance-manager](https://github.com/Y-Unfettered/finance-manager)
  * [Fityah](https://github.com/Refayatul/Fityah)
- * [fluidlauncher](https://github.com/Jeoalist/fluidlauncher)
  * [fr.husi](https://github.com/vomw/fr.husi)
  * [g2-ring-remote](https://github.com/Om-Alve/g2-ring-remote) - Use a cheap K02 Bluetooth ring as a remote for Even Realities G2 glasses via Faceclaw. No root.
  * [Game-booster-de-prueba-con-Shizuku-](https://github.com/lokiamxdgg/Game-booster-de-prueba-con-Shizuku-) - Es una prueba
@@ -1050,6 +1047,7 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [Nexus-framework](https://github.com/1andrewprice6-jpg/Nexus-framework)
  * [NexusChat](https://github.com/wanxinlei1/NexusChat)
  * [permopener](https://github.com/lcydtc15967073371/permopener) - 权限管理器 - 通过Shizuku/Root静默授予Android运行时权限
+ * [PhonePointer](https://github.com/Ambassators/PhonePointer)
  * [PixelIMS](https://github.com/VinujaHerath/PixelIMS) - Enable 5G, VoLTE, VoWiFi and VoNR on Google Pixel devices with unsupported carriers — without root. Built specifically for users in Sri Lanka (Dialog, Mobitel) and other regions where Google has not officially certified local carriers for 5G/IMS features. Works on any Pixel running Android 12+.
  * [procwatch](https://github.com/ekomh170/procwatch) - ProcWatch: monitor & manajer aplikasi background Android, sideload pribadi untuk Poco X6 (HyperOS/Android 14). Single-module, Kotlin 2.0 + Compose M3, minSdk 29 / target 35, tanpa permission INTERNET (sengaja dihilangkan dari manifest).
  * [samsung_hz_ops](https://github.com/xtawa/samsung_hz_ops) - Edit your Samsung device's screen refresh rate.Powered by shizuku
@@ -1085,7 +1083,6 @@ Entries are sorted by name and grouped into a separate category if the attached 
  * [ims-pixel-shizuku](https://github.com/emtee40/ims-pixel-shizuku)
  * [kc-tool](https://github.com/androidok/kc-tool) - androd system tool
  * [MiRearScreenSwitcherEnglish](https://github.com/aaronnat23/MiRearScreenSwitcherEnglish)
- * [PhonePointer](https://github.com/Usepot/PhonePointer)
  * [PixelClone](https://github.com/abc1812645224-alt/PixelClone) - Android 17 Shizuku App Cloning Engine (Proof of Concept)
  * [RTOSify](https://github.com/AILIFE-4798/RTOSify)
  * [Shizuku-ADB](https://github.com/qwe7002/Shizuku-ADB) - A simple switch for adb (Android Debug Bridge) over network.
